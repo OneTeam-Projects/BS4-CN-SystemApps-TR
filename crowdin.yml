@@ -3,4 +3,4 @@ files:
     ignore:
       - bools.xml
       - integers.xml
-    translation: /**/res/values-%two_letters_code%/%file_name%.%file_extension%.part
+    translation: /**/res/values-%android_code%/%file_name%.%file_extension%.part
