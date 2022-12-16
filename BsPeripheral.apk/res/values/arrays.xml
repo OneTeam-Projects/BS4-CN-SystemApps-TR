@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cooler_timing">
+        <item>@string/cooler_time_off</item>
+        <item>@string/cooler_time_30</item>
+        <item>@string/cooler_time_60</item>
+        <item>@string/cooler_time_120</item>
+        <item>@string/cooler_time_180</item>
+        <item>@string/cooler_time_custom</item>
+    </string-array>
+    <string-array name="cooler_timing_hour">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="cooler_timing_minute">
+        <item>0</item>
+        <item>30</item>
+    </string-array>
+    <integer-array name="gamepad_details_all_settings_code">
+        <item>8</item>
+        <item>7</item>
+        <item>5</item>
+        <item>9</item>
+        <item>13</item>
+        <item>14</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>36</item>
+        <item>37</item>
+        <item>19</item>
+        <item>40</item>
+        <item>41</item>
+        <item>11</item>
+        <item>16</item>
+        <item>35</item>
+        <item>18</item>
+        <item>44</item>
+        <item>39</item>
+    </integer-array>
+    <string-array name="gamepad_details_all_settings_name">
+        <item>移动</item>
+        <item>跳跃</item>
+        <item>下蹲</item>
+        <item>匍匐</item>
+        <item>疾跑</item>
+        <item>转向</item>
+        <item>开镜</item>
+        <item>开火</item>
+        <item>装填</item>
+        <item>切换单发/连发</item>
+        <item>开关地图</item>
+        <item>打开系统设置</item>
+        <item>拿/收主武器1</item>
+        <item>拿/收主武器2</item>
+        <item>切换高低抛</item>
+        <item>开门/关门</item>
+        <item>自动奔跑</item>
+        <item>切换当前投掷物</item>
+        <item>使用当前药品</item>
+        <item>游泳时上浮</item>
+        <item>游泳时下沉</item>
+        <item>车辆前进</item>
+        <item>刹车/倒车</item>
+        <item>左转</item>
+        <item>右转</item>
+        <item>摩托抬头</item>
+        <item>摩托压头</item>
+        <item>下车</item>
+        <item>换位</item>
+        <item>喷射加速</item>
+        <item>喇叭</item>
+        <item>伸头/缩头</item>
+        <item>跳伞</item>
+        <item>开伞</item>
+        <item>手枪</item>
+        <item>左探头</item>
+        <item>右探头</item>
+        <item>上下车</item>
+        <item>小眼睛</item>
+        <item>开关背包</item>
+        <item>@string/toggle_box</item>
+        <item>拾取第一件物品</item>
+        <item>开车</item>
+        <item>@string/toggle_pickup_list</item>
+    </string-array>
+    <string-array name="keyboard_macro_predefined_intervals">
+        <item>short(%dms)</item>
+        <item>middle(%dms)</item>
+        <item>long(%dms)</item>
+    </string-array>
+    <string-array name="lhdc_mode_list">
+        <item>@string/exlight_on</item>
+        <item>@string/exlight_off</item>
+    </string-array>
+    <string-array name="ota_hint_list">
+        <item>Please wait, updating</item>
+        <item>Do not turn off your phone during the update</item>
+        <item>Do not operate the device during the update</item>
+    </string-array>
+    <string-array name="play_mode_list">
+        <item>@string/headset_game_mode</item>
+        <item>@string/headset_normal_mode</item>
+    </string-array>
+</resources>

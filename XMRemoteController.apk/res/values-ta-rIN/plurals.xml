@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APK</item>
+        <item quantity="one">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s பதிவிறக்கங்கள்</item>
+        <item quantity="one">%1$s பதிவிறக்கம்</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s பயனர்</item>
+        <item quantity="one">%1$s பயனர்</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d நாளுக்கு முன்பு</item>
+        <item quantity="one">%1$d நாளுக்கு முன்பு</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d மணிநேரம் முன்பு</item>
+        <item quantity="one">%1$d மணிநேரம் முன்பு</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d பிராண்டுகள் கிடைக்கின்றன</item>
+        <item quantity="one">1 பிராண்டு கிடைக்கிறது</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d நிமிடம் முன்பு</item>
+        <item quantity="one">%1$d நிமிடம் முன்பு</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d அத்தியாயங்கள்</item>
+        <item quantity="one">%d அத்தியாயம்</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d வீடியோக்கள்</item>
+        <item quantity="one">%d வீடியோ</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">%d அத்தியாயத்தை இயக்கு</item>
+        <item quantity="one">%d அத்தியாயத்தை இயக்கு</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">%d வீடியோக்கள் கண்டறியப்பட்டன</item>
+        <item quantity="one">%d வீடியோ கண்டறியப்பட்டது</item>
+    </plurals>
+</resources>

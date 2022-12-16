@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_type">
+        <item>ཆེས་ཆུང་བ།</item>
+        <item>ཆུང་བ།</item>
+        <item>སོར་འཇོག་གི་ཆེ་ཆུང་།</item>
+        <item>ཆེ་བ།</item>
+        <item>ཆེས་ཆེ་བ།</item>
+        <item>ཆེ་ཤོས་ནང་གི་ཆེ་ཤོས།</item>
+    </string-array>
+    <string-array name="welcome_tips">
+        <item>སྐུ་ཁམས་བཟང་།</item>
+        <item>ང་ནི་ལས་རོགས་ཞའོ་ཨའེ་ཡིན། ཁ་པར་གཏོང་ཐེངས་འདི་ནི་ངས་བདག་པོའི་ཚབ་བྱས་ནས་ཉན་རྒྱུ་ཡིན།</item>
+    </string-array>
+</resources>

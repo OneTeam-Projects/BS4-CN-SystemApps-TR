@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>آپ پوری رات گیمز کھیلتے رہے جبکہ ہر کوئی سو رہا ہے</item>
+        <item>آپ کو صبح اپنے آپ کو تازہ دم کرنے کے لئے ایک گیم کھیلنی چاہیئے</item>
+        <item>کھانا کھانے کے لئے یا گیم کھیلنے کے لئے؛ یہ ایک سوال ہے</item>
+        <item>آپ کو سہ پہر میں خود کو تازہ دم کرنے کے لئے ایک گیم کھیلنی چاہیئے</item>
+        <item>دن کے سخت کام کا مطلب ہے کہ آپ گیمنگ کی رات کما چکے ہیں!</item>
+        <item>آپ ابھی بھی بہت شدت سے رات دیر تک گیم کھیلتے ہیں۔ اپنے آپ کو تفریح دیتے ہوئے اپنے جسم کا خیال رکھیں</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>4:00-7:00AM</item>
+        <item>7:00-11:00AM</item>
+        <item>11:00AM-14:00PM</item>
+        <item>14:00-18:00PM</item>
+        <item>18:00-22:00PM</item>
+        <item>22:00PM-4:00AM</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>اتوار</item>
+        <item>سوموار</item>
+        <item>منگل</item>
+        <item>بدھ</item>
+        <item>جمعرات</item>
+        <item>جمعہ</item>
+        <item>ہفتہ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oyuncu Kılavuzu</string>
+    <string name="blackshark_game_phone">Black Shark oyun telefonu:</string>
+    <string name="copied">Panoya kopyalandı</string>
+    <string name="copy_fail">Kopyalama başarısız</string>
+    <string name="coy_link">Bağlantı kopyala</string>
+    <string name="gamer_guide">Oyuncu Kılavuzu</string>
+    <string name="network_weak">Ağ çok zayıf</string>
+    <string name="network_weak_desc">Arayüzü yeniden yükle ve yeniden yükle</string>
+    <string name="no_network">Ağ bağlı değil</string>
+    <string name="no_network_desc">Ağ ayarını kontrol edin ve tekrar denemek için tıklayın</string>
+    <string name="permission_internet">Temel hizmetleri kullanmak için, oyuncu kılavuzunun bir ağa bağlanmasına izin veriyor musunuz?</string>
+    <string name="permission_no">İptal</string>
+    <string name="permission_yes">İzin Ver</string>
+    <string name="share_desc">Burada Black Shark oyun telefonlarının harika özelliklerini bulabilirsiniz. Oyuncu kılavuzunu okuyun!</string>
+    <string name="share_type">Paylaşıldı:</string>
+    <string name="to_refresh">Yenile</string>
+    <string name="try_again">Tekrar Dene</string>
+    <string name="web_load_error">Web sayfası yükleme hatası</string>
+</resources>

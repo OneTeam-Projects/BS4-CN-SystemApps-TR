@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="app_name">Hướng Dẫn Cho Người Chơi</string>
+    <string name="blackshark_game_phone">Điện Thoại Chơi Trò Chơi Black Shark:</string>
+    <string name="copied">Sao Chép vào Bảng Ghi Nhớ Tạm</string>
+    <string name="copy_fail">Sao chép không thành công</string>
+    <string name="coy_link">Sao chép liên kết</string>
+    <string name="gamer_guide">Hướng Dẫn Cho Người Chơi</string>
+    <string name="network_weak">Mạng rất yếu</string>
+    <string name="network_weak_desc">Làm Mới để Tải Lại Trang</string>
+    <string name="no_network">Không kết nối mạng</string>
+    <string name="no_network_desc">Kiểm tra cài đặt mạng và nhấp để thử lại</string>
+    <string name="permission_internet">Để sử dụng các dịch vụ cơ bản, bạn có cho phép hướng dẫn cho người chơi kết nối với mạng không?</string>
+    <string name="permission_no">Hủy</string>
+    <string name="permission_yes">Cho phép</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="share_desc">Bạn có thể tìm thấy các tính năng tuyệt vời của điện thoại chơi trò chơi Black Shark tại đây. Đọc hướng dẫn cho người chơi!</string>
+    <string name="share_type">Đã chia sẻ tới</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="to_refresh">Làm mới</string>
+    <string name="try_again">Thử Lại</string>
+    <string name="web_load_error">Lỗi tải trang web</string>
+</resources>

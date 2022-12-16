@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Jäähdytys</item>
+        <item>Lämmitys</item>
+        <item>Ilmankuivaus</item>
+        <item>Tuuletin</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Mies</item>
+        <item>Nainen</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Laitteesi voidaan parittaa vain Mi TV:n, Mi Box:n ja kourallisen muiden Android-laitteiden kanssa käyttäen Wi-Fiä.</item>
+        <item>Varmista, että olet valinnut oikean ilmastointilaitteen paritusvaiheessa. Seuraa ohjeita, kunnes paritus on valmis.</item>
+        <item>Et. Voit tällä hetkellä käyttää Mi 4:sta, Mi 4c:sta ja Redmi Note 2:sta infrapunakaukosäätiminä.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>su</item>
+        <item>ma</item>
+        <item>ti</item>
+        <item>ke</item>
+        <item>to</item>
+        <item>pe</item>
+        <item>la</item>
+    </string-array>
+    <string-array name="question">
+        <item>Miksi puhelimeni jatkaa langattomien laitteiden hakua?</item>
+        <item>Miksi voin vain käynnistää ilmastointilaitteeni, mutta en voi sammuttaa sitä?</item>
+        <item>Voinko käyttää Mi 3:a, Mi 2:a ja Redmiä infrapunakaukosäätimenä?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Käynnistä Haier-ilmastointi olohuoneessa</item>
+        <item>Aseta lämpötila 25 asteeseen</item>
+        <item>Määritä tuulensuunnaksi \"Ylös\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Käynnistä Gree-ilmastointi</item>
+        <item>Vaihda heiluritilaan</item>
+        <item>Aseta ilmasotinti puhaltamaan kovempaa</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Käynnistä sovitin</item>
+        <item>Haluan katsoa Hunan TV:tä</item>
+        <item>Palaa kanavalle 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Käynnistä ilmastointi</item>
+        <item>Haluan katsoa Shenzhen TV:tä</item>
+        <item>Palaa kanavalle 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Käynnistä makuuhuoneen TV</item>
+        <item>Sammuta TV</item>
+        <item>Lisää TV:n äänenvoimakkuutta</item>
+    </string-array>
+</resources>

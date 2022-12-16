@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="AUTO_CHECK_INTERVAL">86400000</integer>
+    <integer name="CHECKUPDATE_RETRY_INTERVAL">3600000</integer>
+    <integer name="CHECKUPDATE_RETRY_INTERVAL_SHORT">600000</integer>
+    <integer name="CHECKUPDATE_RETRY_TIMES">3</integer>
+    <integer name="DOWNLOADING_INTERVAL">86400000</integer>
+    <integer name="DOWNLOAD_LONG_RETRY_INTERVAL">3600000</integer>
+    <integer name="DOWNLOAD_SHORT_RETRY_INTERVAL">10000</integer>
+    <integer name="DOWNLOAD_SHORT_RETRY_TIMES">10</integer>
+    <integer name="UPDATE_RETRY_INTERVAL12">43200000</integer>
+    <integer name="UPDATE_RETRY_INTERVAL_HY">180000</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="bottom_sheet_slide_duration">150</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="design_snackbar_text_max_lines">2</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽主頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">顯示全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">使用「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="app_name">玩家手冊</string>
+    <string name="blackshark_game_phone">黑鯊遊戲手機：</string>
+    <string name="copied">已複製到剪切板</string>
+    <string name="copy_fail">複製失敗</string>
+    <string name="coy_link">複製鏈接</string>
+    <string name="gamer_guide">玩家手冊</string>
+    <string name="network_weak">網路弱爆了</string>
+    <string name="network_weak_desc">刷新介面重新載入</string>
+    <string name="no_network">網路未連接</string>
+    <string name="no_network_desc">檢查網路設置，再點擊重試</string>
+    <string name="permission_internet">為提供基本服務，玩家手冊在使用過程中需要聯網，是否允許？</string>
+    <string name="permission_no">取消</string>
+    <string name="permission_yes">允許</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="share_desc">這裡可能有你不知道黑鯊遊戲手機的超贊功能，快來讀一讀玩家手冊吧！</string>
+    <string name="share_type">分享至</string>
+    <string name="status_bar_notification_info_overflow">999 +</string>
+    <string name="to_refresh">刷新</string>
+    <string name="try_again">重試</string>
+    <string name="web_load_error">"網頁載入錯誤 "</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">ਆਮ ਵਾਕਾਂਸ਼ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="delete_frequent_phrases">ਆਮ ਵਾਕਾਂਸ਼ ਮਿਟਾਓ</string>
+    <string name="delete_frequent_phrases_confirm">ਕੀ ਚੁਣੇ ਗਏ ਆਮ ਵਾਕਾਂਸ਼ ਮਿਟਾਉਣੇ ਹਨ?</string>
+    <string name="edit_frequent_phrases">ਆਮ ਵਾਕਾਂਸ਼ਾਂ ਦਾ ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="frequent_phrases_des">ਲਿਖਤ ਦਾ ਸੰਪਾਦਨ ਕਰਨ ਵੇਲੇ ਸਿਰਫ਼ ਕੁਝ ਹੀ ਟੈਪਾਂ ਨਾਲ ਆਮ ਵਾਕਾਂਸ਼ ਦਰਜ ਕਰੋ</string>
+    <string name="frequent_phrases_size_exceeded">%1$dਤੱਕ ਆਮ ਵਾਕਾਂਸ਼ ਨੂੰ ਸ਼ਾਮਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਹੋਰ ਵਾਕਾਂਸ਼ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਬੇਲੋੜੇ ਵਾਕਾਂਸ਼ਾਂ ਨੂੰ ਮਿਟਾਓ।</string>
+    <string name="menu_add_frequent_phrases">ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="menu_delete">ਮਿਟਾਓ</string>
+    <string name="menu_edit">ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="sync_phrase_label">ਆਮ ਵਾਕ</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Sovutish</item>
+        <item>Isitish</item>
+        <item>Namlikni olish</item>
+        <item>Ventilyator</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Erkak</item>
+        <item>Ayol</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Qurilmangiz Wi-Fi orqali faqat Mi TV, Mi Box va boshqa Anrdoid asosidagi qurilmalar bilan ulana oladi.</item>
+        <item>To‘g‘ri kanditsioner modelini tanlanganligini tekshiring. Ulanish jarayonida ko‘rsatmalarga rioya qiling.</item>
+        <item>Yo‘q. Hozir, Mi 4, Mi 4c, va Redmi Note 2 telefonlarini pult sifatida ishlatsangiz bo‘ladi.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Yak</item>
+        <item>Du</item>
+        <item>Se</item>
+        <item>Chor</item>
+        <item>Pay</item>
+        <item>Juma</item>
+        <item>Shan</item>
+    </string-array>
+    <string-array name="question">
+        <item>Nimaga mening telefonim simsiz qurilmalarni izlashni davom etadi?</item>
+        <item>Nimaga men konditsionerni faqat yoqib o‘chira olmayman?</item>
+        <item>Mi 3, Mi 2, va Redmi telefonlarini pult sifatida ishlatsa bo‘ladimi?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Mehmonxonadagi Haier konditsionerini yoqish</item>
+        <item>Harorat darajasi 25</item>
+        <item>Shamol yo‘nalishi \"Tepaga\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree konditsionerni yoqish</item>
+        <item>Aylantirish rejimiga o‘tish</item>
+        <item>Konditsionerni kuchaytirish</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Eshittirish qurilmani yoqish</item>
+        <item>Hunan TV‘ni ko‘rmoqchiman</item>
+        <item>15 kanalga qaytish</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Konditsionerni yoqish</item>
+        <item>Shenzhen TV‘ni ko‘rmoqchiman</item>
+        <item>12 kanalga qaytish</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Yotoq xonadagi TV‘ni yoqish</item>
+        <item>TV‘ni o‘chirish</item>
+        <item>TV‘ning ovozini ko‘tarish</item>
+    </string-array>
+</resources>

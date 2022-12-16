@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dtsMusicStyle">
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Mode</item>
+        <item>Klassisk</item>
+        <item>Bruce</item>
+        <item>Elektronisk musik</item>
+        <item>Countrymusik</item>
+        <item>Dans</item>
+        <item>anpassad</item>
+    </string-array>
+    <string-array name="dts_sound_mode">
+        <item>Allmänt</item>
+        <item>Musik</item>
+        <item>Video</item>
+        <item>Röst</item>
+        <item>Stereo surroundljud</item>
+        <item>Spelmusik</item>
+        <item>Mänsklig förbättring</item>
+        <item>Förstärkning av fotsteg</item>
+    </string-array>
+</resources>

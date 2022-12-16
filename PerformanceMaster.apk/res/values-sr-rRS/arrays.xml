@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>Trenutno stanje mreže je izvrsno</item>
+        <item>Mobilni prenos podataka je loš, preporučuje se prelazak na WLAN</item>
+        <item>WLAN mreža je loša, preporučuje se prelazak na mobilni prenos podataka</item>
+        <item>Trenutni signal je nestabilan. Pokušajte pomaknuti ili prilagoditi položaj držanja mobilnog telefona.</item>
+        <item>Trenutni status mreže je normalan</item>
+        <item>Ništa</item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">กลับ</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จ</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ลบ</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
+    <string name="abc_searchview_description_query">คำค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งคำค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="app_name">สามารถถอนการติดตั้งแอปพลิเคชันแล้วนำกลับคืน</string>
+    <string name="application_installation_successful">การติดตั้งแอปพลิเคชันสำเร็จ</string>
+    <string name="bs_install">ติดตั้ง</string>
+    <string name="bs_install_cancel">ยกเลิก</string>
+    <string name="bs_install_preloaded_app_dialog_message">%1$s เป็นแอประบบ คุณต้องไม่ใช่อินเทอร์เน็ตเพื่อติดตั้ง</string>
+    <string name="bs_install_preloaded_app_dialog_title">ติดตั้ง %1$s</string>
+    <string name="bs_install_preloaded_app_failed_toast">ไม่สามารถรับข้อมูลการติดตั้งสำหรับ %1$s</string>
+    <string name="bs_install_preloaded_app_start_toast">เกี่ยวกับการติดตั้ง %1$s รอซักครู่</string>
+    <string name="btn_holding">รอชั่วคราว</string>
+    <string name="btn_install">ติดตั้ง</string>
+    <string name="btn_install_failure">ติดตั้งไม่สำเร็จ</string>
+    <string name="btn_installing">กำลังติดตั้ง</string>
+    <string name="desc_onloading_message">กำลังโหลด กรุณารอซักครู่...</string>
+    <string name="no_app_to_install">ไม่มีแอปพลิเคชันระบบที่ถอนการติดตั้งสำหรับการติดตั้ง</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

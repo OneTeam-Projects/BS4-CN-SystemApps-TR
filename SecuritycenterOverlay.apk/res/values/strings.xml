@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alarm_headsup_bottom">Your device grab red envelope is fast!</string>
+    <string name="app_behavior_about_content_no_link">"JOYUI can show when apps launched other apps, autostarted, used permissions, and performed sensitive actions. Due to Android version compatibility issues, some of these records might not be accurate. If you find an app behavior record that isn't accurate, report it to us using the \"Services &amp; feedback\" app."</string>
+    <string name="app_error_tip_for_launcher">"Your device's hardware components or Android system version may cause compatibility issues and make some apps misbehave, freeze, or be force stopped. If you encounter such issues, share your feedback with the app developers."</string>
+    <string name="app_error_tip_for_store">"Your device's hardware components or Android system version may cause compatibility issues which may result in failing to install some apps. If you encounter such issues or some apps misbehave, freeze, or are being force stopped, ​wait until the app developers fix bugs and try installing the app again."</string>
+    <string name="apps_item_sign_dialog_content">"%s's signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data."</string>
+    <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
+    <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that JOYUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings > Apps.</string>
+    <string name="float_window_tips">Your device is fast！</string>
+    <string name="hongbao_message_slogon">Your device is fast!</string>
+    <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to JOYUI, go to the Feedback app and send a log from your device."</string>
+    <string name="optimize_result_summary_system_default_settings">"Using default JOYUI apps increases the level of the system's stability and security."</string>
+    <string name="power_save_ps_close_setting_3">Turn off services and features with high power consumption (%1$s, %2$s, %3$s,Network connection during screen break)</string>
+    <string name="power_save_ps_close_setting_4">Turn off services and features with high power consumption (%1$s, %2$s, %3$s%4$s,Network connection during screen break)</string>
+    <string name="power_save_ps_close_setting_5">Turn off services and features with high power consumption (%1$s, %2$s, %3$s, %4$s, %5$s,Network connection during screen break)</string>
+    <string name="power_save_ps_close_setting_6">Turn off services and features with high power consumption (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s,Network connection during screen break)</string>
+    <string name="power_save_ps_close_setting_7">Turn off services and features with high power consumption (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s,Network connection during screen break)</string>
+    <string name="power_save_ps_close_setting_fingeraod" />
+    <string name="pref_summary_upload_data_usage">Report your data usage info to help us improve JOYUI services. The reporting process will be carried out in accordance with our Privacy Policy.</string>
+    <string name="privacy_dialog_camera_message">"Some apps may use your camera even when they're working in the background. JOYUI doesn't allow apps to use your camera at all times."</string>
+    <string name="privacy_dialog_danger_mission_message">Android has multiple high-risk permissions (e.g. the permission to send you push notifications). To protect your privacy, JOYUI will ask whether you allow such behavior, and provide restriction options.</string>
+    <string name="privacy_mask_summary">Instead of your unique identifier, JOYUI will provide a virtual ID (OAID) to installed apps. It prevents apps from tracking your behavior and preferences, and protects your privacy.</string>
+    <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to JOYUI, go to the Feedback app and send a log from your device.</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Result: Couldn't complete diagnostics&lt;br/>&lt;br/>Report this issue to help JOYUI improve diagnostic tools&lt;/font>"</string>
+    <string name="tc_diagnostic_success_notification_summary">Report this issue to help JOYUI improve diagnostic tools</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Result: Carrier network and brand set correctly&lt;br/>&lt;br/>Couldn't complete adjustment:&lt;br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/>2. Security app features weren't updated.&lt;br/>&lt;br/>Report this issue to help JOYUI improve diagnostic tools&lt;/font>"</string>
+    <string name="tc_sms_report_receive_content_null">"​Help us improve this feature!&lt;br/>Here's how:&lt;br/>1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/>2. Tap \"Get SMS template\"&lt;br/>3. Wait to receive SMS message from your carrier &lt;br/>4. Tap \"Upload to JOYUI\"​"</string>
+    <string name="third_desktop_dialog_content">As launcher apps from third parties may result in problems like data leak, abnormal battery drain and lagging, etc., only those verified by JOYUI can be set as your default launcher.</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">স্ক্রিনশট</string>
+    <string name="long_screenshot_guide_text">"স্ক্রোলিং স্ক্রিনশট
+ তৈরি করতে ট্যাপ করুন"</string>
+    <string name="long_screenshot_out_of_memory_error">ছবিটি খুব বড়</string>
+    <string name="long_screenshot_processing">প্রসেসিং করা হচ্ছে…</string>
+    <string name="long_screenshot_stop">হয়ে গিয়েছে</string>
+    <string name="long_screenshot_top_msg">স্ক্রিনশট তৈরি করা হচ্ছে…</string>
+    <string name="long_screenshot_top_msg_manual">স্ক্রিনশট ক্রপ করে বোতামটি ট্যাপ করুন</string>
+    <string name="partial_screenshot_edit">সম্পাদনা করুন</string>
+    <string name="partial_screenshot_repaint">আবার শুরু করা</string>
+    <string name="partial_screenshot_save">সেভ করুন</string>
+    <string name="partial_screenshot_save_successful">সফলভাবে শেয়ার করা হয়েছে</string>
+    <string name="partial_screenshot_share">শেয়ার করুন</string>
+    <string name="screenshot_edit">এডিট করুন</string>
+    <string name="screenshot_failed_in_landscape_mode">ল্যান্ডস্কেপ মোডে স্ক্রোলিং স্ক্রিনশট তৈরি করা যাবে না</string>
+    <string name="screenshot_failed_to_capture_title">এই অ্যাপ থেকে স্ক্রিনশট নিতে পারবেন না</string>
+    <string name="screenshot_failed_to_save_title">সেভ করা যায় নি।পর্যাপ্ত মেমরি নেই।</string>
+    <string name="screenshot_feedback_txt">মতামত</string>
+    <string name="screenshot_insert_failed">স্ক্রিনশট লোড করা যায় নি।নতুন একটা নিন বা গ্যালারিতে দেখুন।</string>
+    <string name="screenshot_long_screenshot">স্ক্রোল</string>
+    <string name="screenshot_send">পাঠান</string>
+</resources>

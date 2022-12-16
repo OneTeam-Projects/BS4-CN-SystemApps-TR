@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raccrochage</string>
+    <string name="dialog_checkbox_hint">"Pas plus d'invites"</string>
+    <string name="dialog_message">"Si le raccrochage est activé, lorsque le jeu s'exécute en arrière-plan ou que l'écran se met en veille, le jeu passe à l'état de raccrochage. Vous pouvez quitter le raccrochage à la fin du compte à rebours ou en cliquant sur le bouton « Arrêt de raccrochage » dans la barre de notification. En cas de fonctionnement en raccrochage prolongé, il est recommandé de brancher une alimentation électrique."</string>
+    <string name="event_back_to_game">Retour au jeu</string>
+    <string name="event_end_holdon">Raccrochage désactivé</string>
+    <string name="label_holdon_duration">Temps de raccrochage</string>
+    <string name="label_holdon_pattern">Politique du temps de raccrochage</string>
+    <string name="notify_content" formatted="false">%sTemps de raccrochage restant%s</string>
+    <string name="notify_hour_minute" formatted="false">"%d heures  %d minutes"</string>
+    <string name="notify_less_one_minute">"Moins d'une minute"</string>
+    <string name="notify_minute">%dminutes</string>
+    <string name="text_cancel_holdon">Arrêt de raccrochage</string>
+    <string name="text_duration_describe">"Sélectionnez le temps de raccrochage unique lorsque le raccrochage est activé. Un temps de raccrochage prolongé peut entraîner une consommation d'énergie inutile. La macro de jeu peut également déclencher le raccrochage et déterminer le temps total de raccrochage."</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">Heures</string>
+    <string name="text_minute">Minutes</string>
+    <string name="text_mute_description">"L'activation de cette fonction activera également la fonction [Assistant du son]. Pour quitter temporairement l'état silencieux, veuillez appuyer sur le bouton de volume pour régler le volume du média tout en cliquant sur l'icône Assistant du son pour normaliser le volume du jeu. Pour gérer Assistant du son, accédez à [Paramètres - Son et vibration - Assistant du son]."</string>
+    <string name="text_mute_holdon_description">Jeu silencieux lors du raccrochage</string>
+    <string name="text_pattern_describe">"Choisissez d'actualiser ou non le compte à rebours du temps de raccrochage lorsque vous revenez au jeu pendant le temps de raccrochage. La réponse positive est utile pour visualiser et exécuter une seule tâche répétitive en mode raccrochage, tandis que la réponse négative permet d'exécuter une tâche complète en mode raccrochage."</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sRaccrochage terminé</string>
+    <string name="toast_header_fix">Studio de joueur :</string>
+    <string name="toast_how_to_holdon">"Le jeu passe à l'état de raccrochage lorsque le jeu s'exécute en arrière-plan ou que l'écran se met en veille"</string>
+    <string name="toast_in_holdon_model">"%sLe jeu est passé à l'état de raccrochage"</string>
+    <string name="toast_not_support_holdon">"Puisque le niveau de la batterie est trop faible ou que le mode d'économie d'énergie a été activé, vous ne pouvez pas continuer à raccrocher le jeu"</string>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d programų</item>
+        <item quantity="one">%d programa</item>
+        <item quantity="few">%d programos</item>
+        <item quantity="many">%d programos</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s atsiuntimų</item>
+        <item quantity="one">%1$s atsiuntimas</item>
+        <item quantity="few">%1$s atsiuntimai</item>
+        <item quantity="many">%1$s atsiuntimo</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s vartotojų</item>
+        <item quantity="one">%1$s vartotojas</item>
+        <item quantity="few">%1$s vartotojai</item>
+        <item quantity="many">%1$s vartotojo</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Prieš %1$d dienų</item>
+        <item quantity="one">Prieš %1$d dieną</item>
+        <item quantity="few">Prieš %1$d dienas</item>
+        <item quantity="many">prieš %1$d dienos</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Prieš %1$d valandų</item>
+        <item quantity="one">Prieš %1$d valandą</item>
+        <item quantity="few">Prieš %1$d valandas</item>
+        <item quantity="many">Prieš %1$d valandos</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">pasiekama %d prekės ženklų</item>
+        <item quantity="one">pasiekamas 1 prekės ženklas</item>
+        <item quantity="few">pasiekami %d prekių ženklai</item>
+        <item quantity="many">pasiekama %d prekės ženklo</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Prieš %1$d minučių</item>
+        <item quantity="one">Prieš %1$d minutę</item>
+        <item quantity="few">Prieš %1$d minutes</item>
+        <item quantity="many">Prieš %1$d minutės</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d serijų</item>
+        <item quantity="one">%d serija</item>
+        <item quantity="few">%d serijos</item>
+        <item quantity="many">%d serijos</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d vaizdo įrašų</item>
+        <item quantity="one">%d vaizdo įrašas</item>
+        <item quantity="few">%d vaizdo įrašai</item>
+        <item quantity="many">%d vaizdo įrašo</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">Leisti %d seriją</item>
+        <item quantity="one">Leisti %d seriją</item>
+        <item quantity="few">Leisti %d seriją</item>
+        <item quantity="many">Leisti %d seriją</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">Rasta %d vaizdo įrašų</item>
+        <item quantity="one">Rastas %d vaizdo įrašas</item>
+        <item quantity="few">Rasti %d vaizdo įrašai</item>
+        <item quantity="many">Rasta %d vaizdo įrašo</item>
+    </plurals>
+</resources>

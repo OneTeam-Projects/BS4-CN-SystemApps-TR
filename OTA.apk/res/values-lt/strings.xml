@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">Atšaukti</string>
+    <string name="COTA_HISTORY_CANCEL_DOWNLOADING">Atsisiuntimo procesas atšauktas</string>
+    <string name="COTA_HISTORY_CANCLE_DOWNLOAD">Atšaukti</string>
+    <string name="COTA_HISTORY_CHECK_VERSION_BEGIN">Pradėti tikrinti versiją</string>
+    <string name="COTA_HISTORY_DOWNLOAD_COMPLETE">Atsisiuntimas baigtas</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED">Atsisiųsti nepavyko, nes nepakanka energijos</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED_NET_BREAK">Tinklo pertraukimas, atsisiuntimo pabaiga</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED_OTHER">Atsisiųsti nepavyko dėl kitų priežasčių</string>
+    <string name="COTA_HISTORY_DOWNLOAD_LATER">Atsisiųsti per valandą</string>
+    <string name="COTA_HISTORY_DOWNLOAD_LATER12">Atsisiųsti per 12 valandų</string>
+    <string name="COTA_HISTORY_DOWNLOAD_START">Pradėti atsisiuntimą</string>
+    <string name="COTA_HISTORY_INSTALL">Diegti naujovinimo paketą</string>
+    <string name="COTA_HISTORY_INSTALL_FAILED">Nepavyko įdiegti naujovinimo paketo</string>
+    <string name="COTA_HISTORY_INSTALL_PACKAGE_ABSENT">Įdiegus paketą, paketo nėra</string>
+    <string name="COTA_HISTORY_INSTALL_SD_ABSENT">Įdiegus paketą, SD kortelės nėra</string>
+    <string name="COTA_HISTORY_NEW_VERSION_EXIST">Patikrinkite naują versiją</string>
+    <string name="COTA_HISTORY_NO_NEW_VERSION">Nėra naujos versijos</string>
+    <string name="COTA_HISTORY_REGISTER_FAILED">prisijungti nepavyko</string>
+    <string name="COTA_HISTORY_REGISTER_START">Pradėti registraciją</string>
+    <string name="COTA_HISTORY_REGISTER_SUCCESS">prisijungti pavyko</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_LOW_BATTERY">Nepatikrintas versijos naujinimas ar kitos priežastys, naujinimas baigtas</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_PACHAGE_ERROR">Atsisiuntimo pabaiga, patikrinti nepavyko</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_SD_ABSENT">SD kortelės nėra, naujinimas baigtas</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_SD_LOW_SPACE">Nepakanka vietos SD kortelėje, naujinimas baigtas</string>
+    <string name="COTA_HISTORY_UPDATE_FAILED">Nepavyko patobulinti</string>
+    <string name="COTA_HISTORY_UPDATE_LATER">Tobulinimas per valandą</string>
+    <string name="COTA_HISTORY_UPDATE_SUCCESS">Patobulinti</string>
+    <string name="abc_action_bar_home_description">Eiti į pagrindinį puslapį</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Eiti į viršų</string>
+    <string name="abc_action_menu_overflow_description">Daugiau parinkčių</string>
+    <string name="abc_action_mode_done">Atlikta</string>
+    <string name="abc_activity_chooser_view_see_all">Peržiūrėti viską</string>
+    <string name="abc_activitychooserview_choose_application">Pasirinkti programą</string>
+    <string name="abc_capital_off">IŠJUNGTA</string>
+    <string name="abc_capital_on">ĮJUNGTI</string>
+    <string name="abc_search_hint">Ieškoti...</string>
+    <string name="abc_searchview_description_clear">Išvalyti užklausą</string>
+    <string name="abc_searchview_description_query">Paieškos užklausa</string>
+    <string name="abc_searchview_description_search">Paieška</string>
+    <string name="abc_searchview_description_submit">Pateikti užklausą</string>
+    <string name="abc_searchview_description_voice">Paieška balsu</string>
+    <string name="abc_shareactionprovider_share_with">Bendrinti naudojant</string>
+    <string name="abc_shareactionprovider_share_with_application">Bendrinti naudojant „%s“</string>
+    <string name="abc_toolbar_collapse_description">Sutraukti</string>
+    <string name="address_external">Oficialus serveris</string>
+    <string name="address_internal">Bandymo serveris</string>
+    <string name="address_pretest">Išankstinio bandymo serveris</string>
+    <string name="address_server">Serverio pateikta vertė</string>
+    <string name="allow_update_to_older_version">Suderinamas atgaline tvarka</string>
+    <string name="allow_update_to_older_version_hit">"Pažymėjus šį langelį, gali būti grįžta į ankstesnę versiją.
+        Ši parinktis galima bandymo serveriui ir yra skirta tik bandymams."</string>
+    <string name="app_name">Sistemos naujinimas</string>
+    <string name="auto_update_checked_off">Jei ši parinktis įjungta, sistema automatiškai kas 3 dienas tikrins, ar nėra naujinimų</string>
+    <string name="auto_update_checked_on">Jei ši parinktis įjungta, sistema automatiškai kas 3 dienas tikrins, ar nėra naujinimų</string>
+    <string name="check_doing">Slaptažodžio tikrinimas. Prašome palaukti.</string>
+    <string name="checking_is_update">Tikrinama, ar naujinimas baigtas. Prašome palaukti...</string>
+    <string name="delete_ota_userdata">Pašalinkite OTA naujinimo duomenis</string>
+    <string name="device_is_rooted">"Jūsų prietaisas prijungtas, o OTA atnaujinti neįmanoma.
+        Norėdami atkurti šią savo įrenginio funkciją, galite kreiptis į vietinį įgaliotąjį atstovą."</string>
+    <string name="device_is_rooted_title">Atnaujinti nepavyko</string>
+    <string name="dialog_power_not_enough_title">Prijunkite įkroviklį</string>
+    <string name="disable">Išjungti automatinį OTA naujinimą</string>
+    <string name="dlg_btn_confirm">Gerai</string>
+    <string name="dlg_btn_negative_download">Atšaukti</string>
+    <string name="dlg_hit_already_set_as">Nustatyti kaip:</string>
+    <string name="dlg_hit_already_set_test">Šis slaptažodis sutampa su išsaugotu serveryje.</string>
+    <string name="dlg_title_autoupdate">Automatiškai tikrinti, ar nėra naujinimų</string>
+    <string name="dlg_title_hint">Priminimas</string>
+    <string name="enable">Įjungti automatinį OTA naujinimą</string>
+    <string name="failed_download_update_file">"Nepavyko atsisiųsti naujinimo paketo.
+        Prisijunkite prie kito tinklo arba bandykite dar kartą vėliau"</string>
+    <string name="get_system_property_value">Dabartinės versijos atributas</string>
+    <string name="have_net_problem">"Atsisiųsti nepavyko dėl tinklo klaidos.
+        Prisijunkite prie kito tinklo, tada bandykite dar kartą"</string>
+    <string name="hold_on_while_downloading">Atsisiųskite naujausią sistemą</string>
+    <string name="install_success_to_reboot">Perkrauti dabar</string>
+    <string name="later_to_reboot">Galbūt vėliau</string>
+    <string name="local_update">Vietinis naujinimas</string>
+    <string name="login_doing">Patvirtinti slaptažodį</string>
+    <string name="login_password_hit">"Draugiškas priminimas: Belaidis bandymų serverio ir išankstinio bandymo serverio naujinimas yra skirtas tik vidinės versijos bandymui.
+        Kai bandymo serveris yra naudojamas naujinimui išbandyti, oficialus serveris negali būti toliau naudojamas tik naujinimui, nebent jis atnaujinamas kaip visas rinkinys.
+"</string>
+    <string name="md5_checkfailed">Klaida tikrinant naujinimo paketo MD5 maišą. Bandymas %s</string>
+    <string name="message7_note">"Pastaba: 
+1. Sistemos naujinimas neturės įtakos jūsų asmeniniams duomenims.
+2. Atsisiunčiant sistemos naujinimus, gali būti taikomi mokesčiai mobiliesiems duomenims."</string>
+    <string name="message_already_latest_version">Dabartinė sistema yra naujausia versija</string>
+    <string name="message_checking_version">Aptinkami serverio nustatymai...</string>
+    <string name="message_cur_version">Dabartinė versija</string>
+    <string name="message_current_detail">Naujinti informaciją</string>
+    <string name="message_download_tips">Raginimas atsisiųsti</string>
+    <string name="message_network_disconnect">Tinklo klaida. Patikrinkite tinklą</string>
+    <string name="message_new_version">Naujausia versija</string>
+    <string name="message_new_version_find">Galima nauja versija %s</string>
+    <string name="message_no_history">Nėra naujinimų istorijos</string>
+    <string name="mode_optional">Pasirenkamas režimas</string>
+    <string name="mode_selection">Parinktys galioja tik bandymo serveriui.</string>
+    <string name="mode_super">Ypatingas režimas</string>
+    <string name="net_close">Tinklas atjungtas. Atsisiuntimas sustabdytas</string>
+    <string name="network_error">Tinklo klaida. Prašome bandyti dar kartą</string>
+    <string name="no_confirm_next_time">Daugiau nerodyti šio pranešimo</string>
+    <string name="notify_download_complete_text">Sistema atnaujinta. Prašome paleisti iš naujo.</string>
+    <string name="notify_download_now_btn_title">Naujinti dabar</string>
+    <string name="notify_download_text">Galima nauja versija %s. Prisijunkite prie „Wi-Fi“ ir iš karto atsisiųskite</string>
+    <string name="notify_download_title">Galimi sistemos naujinimai</string>
+    <string name="notify_show_detail_btn_title">Žr. informaciją</string>
+    <string name="notify_update_dialog_msg">"Numatėte naujinimą naktį.
+        Sistema automatiškai užbaigs šį atnaujinimą, įvykdžius automatinio naujinimo sąlygas"</string>
+    <string name="notify_update_later_btn_title">Iš naujo paleisti naktį</string>
+    <string name="notify_update_now_btn_title">Perkrauti dabar</string>
+    <string name="ok_to_reboot">Perkrauti dabar</string>
+    <string name="ota_check_update">Tikrinti, ar yra atnaujinimų</string>
+    <string name="ota_history_record">OTA naujinimų istorija</string>
+    <string name="ota_history_record_start">OTA naujinimo pradžios istorija</string>
+    <string name="ota_property_test">OTA naujinimo atributų testas</string>
+    <string name="ota_runningmode_control">Paleisti OTA naujinimo režimo valdymą</string>
+    <string name="ota_settings">Sistemos naujinimo nustatymas</string>
+    <string name="ota_test_button">OTA naujinimo funkcinis testas</string>
+    <string name="password_error">Neteisingas slaptažodis. Prašome bandyti dar kartą</string>
+    <string name="password_is_null">Pagrindinė linija šiam projektui nėra įdiegta arba baigėsi prieigos laikas. Įveskite dar kartą</string>
+    <string name="phone_auto_check">Įjungti automatinį naujinimą?</string>
+    <string name="phone_hardware">Aparatinės įrangos versija</string>
+    <string name="phone_model">Telefono modelis</string>
+    <string name="phone_next_check_time">Kitą kartą patikrinkite atnaujinimo laiką</string>
+    <string name="phone_sn">Phone SN</string>
+    <string name="phone_software">Vidinė programinės įrangos versija</string>
+    <string name="pkg_mbs">MB</string>
+    <string name="pkg_note">"Aprašymas: 
+"</string>
+    <string name="pkg_size">Sistemos naujinimų paketo dydis:</string>
+    <string name="please_wait_while_checking">Ieškoma. Prašome palaukti...</string>
+    <string name="progress_text">%1$sM/%2$sM</string>
+    <string name="reboot_to_update_system">Raginimas iš naujo paleisti po naujinimo</string>
+    <string name="select_server">Pasirinkite serverį</string>
+    <string name="set_property">OTA naujinimo atributų testas</string>
+    <string name="show_dialog_when_reboot_to_update">Po naujinimo pasirodo patvirtinimo pranešimas, kuriame nurodoma paleisti sistemą iš naujo</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stress_update_test">Slėgio bandymo jungiklis</string>
+    <string name="system_property_value_cs">CS (nurodo beta versiją ir bandymo serverį, naudojamą OTA naujinimams pagal numatytuosius nustatymus)</string>
+    <string name="system_property_value_lc">LC (nurodo oficialią versiją ir oficialų serverį, naudojamą OTA naujinimams pagal numatytuosius nustatymus)</string>
+    <string name="system_property_value_null">Neapibrėžtas (OTA naujinimas nustato numatytąjį serverį pagal DM žymeklį)</string>
+    <string name="template_user_agent">%1$s/%2$s („Linux“; „Android“)</string>
+    <string name="text_continue">Tęsti</string>
+    <string name="title_putin_password">Įveskite savo slaptažodį</string>
+    <string name="toast_connect_not_available">Neprisijungę. Prisijunkite prie interneto ir bandykite dar kartą</string>
+    <string name="toast_download_package">Prašome palaukti. Sistemos naujinimai bus greitai atsisiųsti</string>
+    <string name="toast_network__judge_before_download">"Dabar naudojate mobiliojo ryšio duomenis.
+        Norint atsisiųsti reikės didelio kiekio mobiliųjų duomenų ir gali būti taikomi mokesčiai.
+        Prieš atsisiunčiant patartina prisijungti prie „Wi-Fi“"</string>
+    <string name="toast_network__judge_before_download_roaming">"Šiuo metu naudojate tarptinklinį ryšį.
+        Prieš atsisiunčiant rekomenduojama prisijungti prie „Wi-Fi“"</string>
+    <string name="toast_network_disconnect">Tinklas atjungtas. Tęskite, kai ryšys bus atnaujintas</string>
+    <string name="toast_no_available_update">Dabartinė sistema yra naujausia versija</string>
+    <string name="toast_power_not_enough_update">"Sistemos naujinimas neatliktas.
+        Prijunkite savo įrenginį prie įkroviklio ir įkraukite jį bent iki %1$d%2$s, tada bandykite dar kartą"</string>
+    <string name="toast_redownload">Ankstesnis naujinimo bandymas buvo nutrauktas. Prašome bandyti dar kartą</string>
+    <string name="toast_remind_change_to_other_network">"Atsisiuntimas WAP tinkle gali nepavykti.
+        Prieš atsisiunčiant rekomenduojama prisijungti prie kito tinklo"</string>
+    <string name="toast_result_cancel_download">Atsisiuntimas atšauktas</string>
+    <string name="toast_result_cancel_downloading">Atsisiuntimą atšaukė naudotojas, atsisiųsdamas paketą</string>
+    <string name="toast_result_cancel_update">Atsisiuntimą atšaukė naudotojas</string>
+    <string name="toast_result_disk_full">Nepakanka laisvos vietos, todėl negalima atsisiųsti sistemos naujinimų</string>
+    <string name="toast_result_download_fail">Atnaujinti nepavyko dėl klaidos atsisiunčiant paketą</string>
+    <string name="toast_result_update_failure">Neteisingas diegimas. Atnaujinti nepavyko</string>
+    <string name="toast_result_update_success">Atnaujinta</string>
+    <string name="toast_server_not_available">Jūsų telefono programinė įranga yra naujausios versijos</string>
+    <string name="toast_show_dialog_again">Vėliau sistemos naujinimus galite patikrinti pranešimų juostoje</string>
+    <string name="toast_update_file_not_found_on_server">"Šio naujinimo paketo nebėra serveryje.
+        Dar kartą patikrinkite, ar nėra naujinimų"</string>
+    <string name="update_file_delete_or_not_complete_down">"Naujinimo paketas buvo ištrintas arba nebuvo visiškai atsisiųstas.
+        Dar kartą atsisiųskite naujinimo paketą"</string>
+    <string name="update_file_list_not_exists">Naujinimo paketo nėra</string>
+    <string name="update_file_lists_not_exists">Naujinimo paketo sąrašo „update_package_list“ arba „update_package_list_next“ nėra</string>
+    <string name="update_ing_loading">Naujinama. Neišjunkite.</string>
+    <string name="update_need_to_reboot">Kad sistemos naujinimai įsigaliotų, paleiskite įrenginį iš naujo.</string>
+    <string name="update_package_size_text">Diegimo paketo dydis: %s MB</string>
+    <string name="user_confirm_message">"Atsisiunčiant sistemos naujinimus, gali būti naudojami mobilieji duomenys.
+        Kreipkitės į savo mobiliojo ryšio operatorių, kad sužinotumėte, kokie mokesčiai gali būti taikomi."</string>
+    <string name="userdata_stop_download">Dabar naudojate mobilųjį tinklą. Atsisiuntimas sustabdytas</string>
+    <string name="version_new">Galima nauja versija</string>
+    <string name="welcome_use_ota">Sveiki atvykę į sistemos naujinimą</string>
+    <string name="wifi_available_auto_download">Naujinti automatiškai prisijungus prie „Wi-Fi“</string>
+    <string name="wifi_available_auto_download_on">Atsisiųsti sistemos naujinius ir atnaujinti automatiškai prisijungus prie „Wi-Fi“</string>
+</resources>

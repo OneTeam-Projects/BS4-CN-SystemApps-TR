@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="mms_voice_half_screen_tips_count">4</integer>
+</resources>

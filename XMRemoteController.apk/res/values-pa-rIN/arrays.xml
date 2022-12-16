@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>ਕੂਲਿੰਗ</item>
+        <item>ਹੀਟਿੰਗ</item>
+        <item>Dehumidifying</item>
+        <item>ਫੈਨ</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>ਆਦਮੀ</item>
+        <item>ਔਰਤ</item>
+    </string-array>
+    <string-array name="answer">
+        <item>ਤੁਹਾਡਾ ਡੀਵਾਈਸ ਸਿਰਫ Mi TV, Mi Box ਅਤੇ ਹੋਰ ਕਈ ਐਂਡਰਾਇਡ ਡੀਵਾਈਸਾਂ ਨਾਲ Wi-Fi ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਪੇਅਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ.</item>
+        <item>"ਯਕੀਨੀ ਬਣਾਉ ਕਿ ਤੁਸੀਂ ਪੇਅਰਿੰਗ ਪ੍ਰਕਿਰਿਆ ਵਿੱਚ ਸਹੀ ਖਾਤਾ ਮਾਡਲ ਚੁਣਿਆ ਹੈ. ਪੇਅਰਿੰਗ ਪੂਰਾ ਹੋਣ ਤੱਕ ਆਪਣੇ ਡੀਵਾਈਸ 'ਤੇ ਆ ਰਹੇ ਸੰਕੇਤਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ."</item>
+        <item>"ਨਹੀਂ, ਮੌਜੂਦਾ ਤੁਸੀਂ Mi 4, Mi 4c, ਅਤੇ Redmi Note 2 ਦੀ ਵਰਤੋਂ IR ਰਿਮੋਟਾਂ ਦੇ ਤੌਰ 'ਤੇ ਕਰ ਸਕਦੇ ਹੋ."</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>ਐਤ</item>
+        <item>ਸੋਮ</item>
+        <item>ਮੰਗਲ</item>
+        <item>ਬੁੱਧ</item>
+        <item>ਵੀਰ</item>
+        <item>ਸ਼ੁੱਕਰ</item>
+        <item>ਸ਼ਨਿੱਚਰ</item>
+    </string-array>
+    <string-array name="question">
+        <item>ਮੇਰਾ ਫ਼ੋਨ ਵਾਇਰਲੈਸ ਡੀਵਾਈਸਾਂ ਲਈ ਕਿਉਂ ਖੋਜ ਰਿਹਾ ਹੈ?</item>
+        <item>ਅਜਿਹਾ ਕਿਉਂ ਹੈ ਕਿ ਮੈਂ ਆਪਣਾ ਖਾਤਾ ਸਿਰਫ ਚਾਲੂ ਕਰ ਪਾ ਰਿਹਾ/ਰਹੀ ਹਾਂ ਅਤੇ ਇਸ ਨੂੰ ਬੰਦ ਨਹੀਂ ਕਰ ਪਾ ਰਿਹਾ/ਰਹੀ ਹਾਂ?</item>
+        <item>ਕੀ ਮੈਂ Mi 3, Mi 2, ਅਤੇ Redmi ਨੂੰ IR ਰਿਮੋਟ ਵਜੋਂ ਵਰਤ ਸਕਦਾ ਹਾਂ?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>ਬੈਠਕ ਵਿੱਚ Haier ਏਸੀ ਚਾਲੂ ਕਰੋ</item>
+        <item>"ਤਾਪਮਾਨ 25 ਡਿਗਰੀ 'ਤੇ ਸੈੱਟ ਕਰੋ"</item>
+        <item>ਹਵਾ ਦੀ ਦਿਸ਼ਾ ਨੂੰ \"ਉੱਪਰ\" ਵੱਲ ਸੈੱਟ ਕਰੋ</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree ਏਸੀ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਝੁਲਣ ਮੋਡ ਵਿੱਚ ਬਦਲੋ</item>
+        <item>ਏਸੀ ਦੀ ਹਵਾ ਨੂੰ ਤੇਜ਼ ਕਰੋ</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>ਸੈੱਟ-ਟਾਪ ਬਾਕਸ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਮੈਂ Hunan ਟੀਵੀ ਦੇਖਣਾ ਚਾਹੁੰਦਾ ਹਾਂ</item>
+        <item>"ਚੈਨਲ 15 'ਤੇ ਵਾਪਸ ਜਾਓ"</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>ਏਸੀ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਮੈਂ Shenzhen ਟੀਵੀ ਦੇਖਣਾ ਚਾਹੁੰਦਾ ਹਾਂ</item>
+        <item>"ਚੈਨਲ 12 'ਤੇ ਵਾਪਸ ਜਾਓ"</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>ਬੈੱਡਰੂਮ ਵਿੱਚ ਟੀਵੀ ਚਾਲੂ ਕਰੋੋ</item>
+        <item>ਟੀਵੀ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਟੀਵੀ ਦੀ ਵੌਲਿਉਮ ਉੱਚੀ ਕਰੋ</item>
+    </string-array>
+</resources>

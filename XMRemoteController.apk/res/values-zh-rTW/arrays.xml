@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>冷氣</item>
+        <item>暖氣</item>
+        <item>除濕</item>
+        <item>送風</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="answer">
+        <item>您的手機不支援紅外發射，支援通過wifi控制小米盒子，小米電視及部分android標準智慧盒子/電視。</item>
+        <item>您匹配的這套資料不是這個空調的資料。 匹配按鍵第二個就是關空調，請注意手機上的提示，當匹配關空調時空調真正關閉時再選擇有回應，請重新匹配。</item>
+        <item>不支援！ 目前小米系列只有小米4，小米4c，紅米note2支援紅外線。</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar_v53">
+        <item>全部頻道</item>
+        <item>衛視頻道</item>
+        <item>央視頻道</item>
+        <item>高清頻道</item>
+        <item>經常觀看</item>
+    </string-array>
+    <string-array name="epg_channel_tab_v53">
+        <item>全部</item>
+        <item>衛視</item>
+        <item>央視</item>
+        <item>高清</item>
+        <item>常看</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>綜藝</item>
+        <item></item>
+        <item>體育</item>
+        <item>幼兒</item>
+        <item>新聞</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>熱門</item>
+        <item>電影</item>
+        <item>綜藝</item>
+        <item>電視劇</item>
+        <item>體育</item>
+        <item>幼兒</item>
+        <item>新聞</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>熱門節目</item>
+        <item>電影節目</item>
+        <item>綜藝節目</item>
+        <item>電視劇</item>
+        <item>體育節目</item>
+        <item>幼兒節目</item>
+        <item>新聞節目</item>
+        <item>生活節目</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>週日</item>
+        <item>週一</item>
+        <item>週二</item>
+        <item>週三</item>
+        <item>週四</item>
+        <item>週五</item>
+        <item>週六</item>
+    </string-array>
+    <string-array name="question">
+        <item>我的手機一直在搜索無線設備怎麼辦？</item>
+        <item>空調為什麼只能開不能關？</item>
+        <item>小米3，紅米，小米2支援紅外控制電視空調等設備嗎？</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>打開客廳的海爾空調</item>
+        <item>溫度調到25度</item>
+        <item>風向向上</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>打開格力風扇</item>
+        <item>風扇搖頭</item>
+        <item>風速增加</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>打開機上盒</item>
+        <item>我想看湖南衛視</item>
+        <item>換到15頻道</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>請把空調打開</item>
+        <item>我要看深圳衛視</item>
+        <item>換到十二頻道</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>打開臥室的電視</item>
+        <item>關閉電視</item>
+        <item>電視音量加大</item>
+    </string-array>
+</resources>

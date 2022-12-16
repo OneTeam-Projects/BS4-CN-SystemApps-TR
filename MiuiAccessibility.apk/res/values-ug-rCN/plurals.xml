@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="guide_title">
+        <item quantity="other">ئاۋازلىق كونترولنى ئىشلەتكىنىڭىزنى قارشى ئالىمىز، بۇ ئىقتىدارنى ئاچقاندىن كېيىن ئاۋاز ئارقىلىق يانفوننى كونترول قىلسىڭىز بولىدۇ. تۇنجى قېتىم ئاچقاندا كۆرسەتمە بويىچە ئۆگىتىشنى تاماملاڭ. %1$d سېكۇنتتىن كېيىن ئۆگۈتۈشكە كىرىدۇ.</item>
+    </plurals>
+    <plurals name="title_select_nums">
+        <item quantity="other">%1$s تۈر تاللاندى</item>
+    </plurals>
+</resources>

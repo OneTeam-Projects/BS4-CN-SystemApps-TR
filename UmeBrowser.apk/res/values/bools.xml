@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="config_fake_shadows">false</bool>
+    <bool name="config_use_hardware_layers">false</bool>
+    <bool name="isQQBrowserApp">true</bool>
+    <bool name="isTencentFileApp">false</bool>
+    <bool name="md_is_tablet">false</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="novel_hardware">false</bool>
+</resources>

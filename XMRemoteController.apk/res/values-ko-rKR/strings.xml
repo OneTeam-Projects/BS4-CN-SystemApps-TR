@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">취소</string>
+    <string name="close">끄기</string>
+    <string name="customize_minute">사용자 정의</string>
+    <string name="day">일</string>
+    <string name="five_minute">5분</string>
+    <string name="forty_minute">40분</string>
+    <string name="hour">시간</string>
+    <string name="later">후</string>
+    <string name="minute">분</string>
+    <string name="one_minute">1분</string>
+    <string name="open">켜기</string>
+    <string name="open_tips">켜기</string>
+    <string name="opening_bluetooth">블루투스 켜는 중...</string>
+    <string name="plug_count_down_timer">카운트다운</string>
+    <string name="plug_timer_after_tommorrow">모레</string>
+    <string name="plug_timer_month_day">%1$s월%2$s일</string>
+    <string name="plug_timer_yesterday">어제</string>
+    <string name="refreshing_no_point">잠시 기다려주십시오...</string>
+    <string name="sixty_minute">60분</string>
+    <string name="start">시작</string>
+    <string name="stop">정지</string>
+    <string name="ten_minute">10분</string>
+    <string name="three_minute">3분</string>
+    <string name="time_line_end">24:00</string>
+    <string name="time_line_start">00:00</string>
+    <string name="twenty_minute">20분</string>
+</resources>

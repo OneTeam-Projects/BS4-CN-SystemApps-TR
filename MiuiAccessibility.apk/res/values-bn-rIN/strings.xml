@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">রিফ্রেশ করার জন্য নিচে টানুন</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">সফলভাবে রিফ্রেশ করা হচ্ছে</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">রিফ্রেশ করা হচ্ছে…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">রিফ্রেশ করতে ছেড়ে দিন</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">এখনকার জন্য এতটাই।</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">এখনকার জন্য এতটাই।</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">এক মুহূর্ত অপেক্ষা করুন…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">আইটেম লোড করা যায় নি।</string>
+</resources>

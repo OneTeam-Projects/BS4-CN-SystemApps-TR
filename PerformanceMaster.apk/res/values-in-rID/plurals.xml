@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">Diperkirakan terisi penuh dalam %s</item>
+        <item quantity="one">Diperkirakan terisi penuh dalam %s</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">Diperkirakan terisi penuh dalam %s jam</item>
+        <item quantity="one">Diperkirakan terisi penuh dalam %s jam</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">Diperkirakan terisi penuh dalam %s menit</item>
+        <item quantity="one">Diperkirakan terisi penuh dalam %s menit</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Dapat digunakan selama %s jam</item>
+        <item quantity="one">Dapat digunakan selama %s jam</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Dapat digunakan selama %s menit</item>
+        <item quantity="one">Dapat digunakan selama %s menit</item>
+    </plurals>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alipay">Alipay</string>
+    <string name="alipay_car_code">Bus QR kod</string>
+    <string name="alipay_code">QR kod</string>
+    <string name="alipay_scan">Skeniraj</string>
+    <string name="app_list">Mobilna aplikacija</string>
+    <string name="app_list_keep_at_least_one">Barem jedna aplikacija mora biti zadržana.</string>
+    <string name="app_not_install">Instaliraj aplikaciju.</string>
+    <string name="cannot_minimize_in_sw">U virtualnom režimu GamePad, ne može se prebaciti na plutajući prozor.</string>
+    <string name="dualapp_dialog_duplicate">%s avatar</string>
+    <string name="dualapp_dialog_title">Odaberi otvoreni metod</string>
+    <string name="finish">Završeno</string>
+    <string name="freeform_ball_tip_confirm">U redu</string>
+    <string name="freeform_ball_tips">"Dodirnite i držite plutajuću kuglu za prikaz 
+dugmeta za zatvaranje."</string>
+    <string name="freeform_ball_tips2">"Otvaranje više plutajućih prozora može 
+uzrokovati zaglavljivanje i zagrijavanje sistema."</string>
+    <string name="freeform_window_more_than_five">Nije podržano do %d plutajućih prozora. Zatvorite plutajuće prozore i pokušajte ponovo.</string>
+    <string name="long_press_enter_edit">Dugi pritisak na ikonu za režim uređivanja</string>
+    <string name="minimize_window">Prilagodljivo</string>
+    <string name="more">Više</string>
+    <string name="no_place_remain">Nema pozicije za dodavanje</string>
+    <string name="packup">Sakrij</string>
+    <string name="shortcut_fuc">Funkcije prečica</string>
+    <string name="sw_not_support_handymode">Svestrani plutajući prozor Jednoručni način rada nije podržan.</string>
+    <string name="tencent_mm">WeChat</string>
+    <string name="tencent_mm_code">QR kod</string>
+    <string name="tencent_mm_moments">Momenti</string>
+    <string name="tencent_mm_scan">Skeniraj</string>
+</resources>

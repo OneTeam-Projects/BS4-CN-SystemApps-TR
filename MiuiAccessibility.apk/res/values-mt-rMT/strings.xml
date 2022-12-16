@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">"Iġbed 'l isfel biex tiffriska"</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Iffriska</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Qed jiffriska…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Itlaq biex tiffriska</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Dak kollox għalissa</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Dak kollox għalissa</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sekonda kollox…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ma setax itella' l-affarijiet"</string>
+</resources>

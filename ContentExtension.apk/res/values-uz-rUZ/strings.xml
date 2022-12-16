@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yangilash uchun pastga torting</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Muvaffaqiyatli yangilandi</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Yangilanmoqda…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yangilash uchun bo‘shating</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Hozircha hammasi shu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Hozircha hammasi shu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir soniya…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elementlarni yuklab bo‘lmadi</string>
+</resources>

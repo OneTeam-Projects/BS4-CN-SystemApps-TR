@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Ладење</item>
+        <item>Загревање</item>
+        <item>Одвлажнување</item>
+        <item>Вентилатор</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Машко</item>
+        <item>Женски</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Вашиот уред може да се поврзе само со Mi TV, Mi Box и други Android уреди кои користат Wi-Fi.</item>
+        <item>Осигурете се дека го избравте вистинскиот модел на клима уред при поврзувањето. Следете ги инструкциите на Вашиот уред сè додека не заврши процесот.</item>
+        <item>Не. Моментално може да ги користите Mi 4, Mi 4c, и Redmi Note 2 како IR далечински управувач.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Нeд</item>
+        <item>Пон</item>
+        <item>Вто</item>
+        <item>Сре</item>
+        <item>Чет</item>
+        <item>Пет</item>
+        <item>Саб</item>
+    </string-array>
+    <string-array name="question">
+        <item>Зошто мојот телефон продолжува да бара безжични уреди?</item>
+        <item>Зошто можам да го вклучам клима уредот но не и да го исклучам?</item>
+        <item>Дали може да ги користам Mi 3, Mi 2, и Redmi како IR далечински управувач?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Вклучи Haier клима уред во дневната соба</item>
+        <item>Постави ја температурата на 25 степени</item>
+        <item>Постави ја насоката на ветрот на „Нагоре“</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Вклучи Gree клима уред</item>
+        <item>Премин во режим на струење</item>
+        <item>Подеси го клима уредот да дува посилно</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Вклучи set-top box</item>
+        <item>Сакам да гледам Hunan TV</item>
+        <item>Оди назад на канал 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Вклучи клима</item>
+        <item>Сакам да гледам Shenzhen TV</item>
+        <item>Оди назад на канал 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Вклучи ТВ во спалната</item>
+        <item>Исклучи ТВ</item>
+        <item>Покачи ја јачината на звукот на телевизорот</item>
+    </string-array>
+</resources>

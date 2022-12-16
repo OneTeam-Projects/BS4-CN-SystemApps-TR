@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>កំពុង​ចុះត្រជាក់</item>
+        <item>កំពុង​ឡើងកម្ដៅ</item>
+        <item>កំពុង​ធ្វើសម្ងួតទឹក</item>
+        <item>កង្ហារ</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>ប្រុស</item>
+        <item>ស្រី</item>
+    </string-array>
+    <string-array name="answer">
+        <item>ឧបករណ៍​អ្នក​គ្រាន់​តែ​អាច​ផ្គូគ្នា​ជាមួយនឹង Mi TV, Mi Box, និង​ឧបករណ៍​ប្រព័ន្ធ​ប្រតិ.​អេនដ្រយ (Android) ផ្សេងៗ​ទៀត​ដែល​ប្រើ​ប្រព័ន្ធ Wi-Fi ប៉ុណ្ណោះ។</item>
+        <item>ធ្វើឲ្យប្រាកដ​ថា អ្នក​បាន​ជ្រើសរើស​ម៉ូដ A/C ត្រឹមត្រូវ​នៅក្នុង​ដំណើរការផ្គូ។ ធ្វើ​តាម​ការណែនាំ​ក្នុង​ឧបករណ៍​អ្នក​រហូតទាល់តែ​ការផ្គូ​បាន​ចប់​សព្វគ្រប់។</item>
+        <item>ទេ។ នៅខណៈនេះ អ្នក​អាច​ប្រើ Mi 4, Mi 4c, និង Redmi Note 2 ជាតេឡេបញ្ចា IRបាន។</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>អា</item>
+        <item>ច</item>
+        <item>អ</item>
+        <item>ព</item>
+        <item>ព្រ</item>
+        <item>សុ</item>
+        <item>ស</item>
+    </string-array>
+    <string-array name="question">
+        <item>ហេតុអ្វី​បាន​ជា​ទូរសព្ទ​ខ្ញុំ​នៅបន្ត​ការស្វែងរកមើល​បណ្ដា​ឧបករណ៍​ឥតខ្សែ​ទៀត?</item>
+        <item>ហេតុអ្វី​បាន​ជា​ខ្ញុំ​គ្រាន់​តែ​អាច​បើក A/C របស់ខ្ញុំ ហើយ​មិន​អាច​បិទ​វា​វិញ​បាន?</item>
+        <item>តើ​ខ្ញុំ​អាច​ប្រើ Mi 3, Mi 2, និង Redmi ជាតេឡេបញ្ចា IR ពីចម្ងាយ​បានឬទេ?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>បើក Haier AC នៅ​បន្ទប់ទទួលភ្ញៀវ</item>
+        <item>ដាក់​កំណត់​សីតុណ្ហភាព​ដល់ 25 ដឺក្រេ</item>
+        <item>ដាក់​កំណត់​ទិស​ខ្យល់ \"ទៅលើ\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>បើក Gree AC</item>
+        <item>ប្ដូរ​ទៅ​ម៉ូដ​យោល</item>
+        <item>ធ្វើឲ្យ​ចរន្ត AC កាន់តែខ្លាំង</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>បើក​ឈុត STB/STU</item>
+        <item>ខ្ញុំ​ចង់មើល​ទូរទស្សន៍​ហ៊ូណាន់ (Hunan)</item>
+        <item>ត្រឡប់​ទៅកាន់​ប៉ុស្ត៍លេខ 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>បើក AC</item>
+        <item>ខ្ញុំ​ចង់មើល​ទូរទស្សន៍ Shenzhen</item>
+        <item>ត្រឡប់​ទៅកាន់​ប៉ុស្ត៍លេខ 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>បើ​ទូរទស្សន៍​នៅ​បន្ទប់ដំណេក</item>
+        <item>បិទ​ទូរទស្សន៍</item>
+        <item>បើក​កម្រិត​សំឡេង​ទូរទស្សន៍</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">បន្ថែម​ឃ្លា​ដែល​ប្រើ​ញឹកញាប់</string>
+    <string name="delete_frequent_phrases">លុបចោល​ឃ្លា​ដែល​ប្រើ​ញឹកញាប់</string>
+    <string name="delete_frequent_phrases_confirm">លុបចោល​ឃ្លា​ប្រើ​ញឹកញាប់​ដែល​បាន​ជ្រើសរើសឬ?</string>
+    <string name="edit_frequent_phrases">កែសម្រួល​ឃ្លា​ដែល​ប្រើ​ញឹកញាប់</string>
+    <string name="frequent_phrases_des">វាយបញ្ចូល​​ឃ្លា​ដែល​ប្រើ​ញឹកញាប់​ដោយគ្រាន់តែ​ចុចពីរបីដងលើអេក្រង់ នៅពេល​សសេរអត្ថបទ</string>
+    <string name="frequent_phrases_size_exceeded">អាច​បន្ថែម​ឃ្លា​ដែល​ប្រើ​ញឹកញាប់​បាន​រហូតដល់ %1$d។ លុបចោល​ឃ្លា​ដែល​មិន​សំខាន់​ចាំបាច់​ដើម្បី​បន្ថែម​ច្រើនទៀត​បាន។</string>
+    <string name="menu_add_frequent_phrases">បន្ថែម</string>
+    <string name="menu_delete">លុប</string>
+    <string name="menu_edit">កែសម្រួល</string>
+    <string name="sync_phrase_label">ឃ្លាប្រើញឹកញាប់នានា</string>
+</resources>

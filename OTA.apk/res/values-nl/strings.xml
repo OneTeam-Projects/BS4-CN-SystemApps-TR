@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">Annuleren</string>
+    <string name="COTA_HISTORY_CANCEL_DOWNLOADING">Downloadproce geannuleerd</string>
+    <string name="COTA_HISTORY_CANCLE_DOWNLOAD">Annuleren</string>
+    <string name="COTA_HISTORY_CHECK_VERSION_BEGIN">Controleren versie beginnen</string>
+    <string name="COTA_HISTORY_DOWNLOAD_COMPLETE">Download voltooiien</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED">Onvoldoende stroom download mislukt</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED_NET_BREAK">Netwerkonderbreking; download wordt beëindigd</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED_OTHER">Download om andere redenen mislukt</string>
+    <string name="COTA_HISTORY_DOWNLOAD_LATER">In een uur downloaden</string>
+    <string name="COTA_HISTORY_DOWNLOAD_LATER12">In twaalf uur downloaden</string>
+    <string name="COTA_HISTORY_DOWNLOAD_START">Downloaden beginnen</string>
+    <string name="COTA_HISTORY_INSTALL">Een upgradepakket installeren</string>
+    <string name="COTA_HISTORY_INSTALL_FAILED">Installateren upgradepakket mislukt</string>
+    <string name="COTA_HISTORY_INSTALL_PACKAGE_ABSENT">Het pakket bestaat niet als het wordt geïnstalleerd</string>
+    <string name="COTA_HISTORY_INSTALL_SD_ABSENT">De SD-kaart bestaat niet als het pakket wordt geïnstalleerd</string>
+    <string name="COTA_HISTORY_NEW_VERSION_EXIST">Nieuwe versie controleren</string>
+    <string name="COTA_HISTORY_NO_NEW_VERSION">Geen nieuwe versie</string>
+    <string name="COTA_HISTORY_REGISTER_FAILED">aanmelden mislukt</string>
+    <string name="COTA_HISTORY_REGISTER_START">Registratie beginnen</string>
+    <string name="COTA_HISTORY_REGISTER_SUCCESS">aanmelden gelukt</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_LOW_BATTERY">"Niet-gecontroleerde versie-upgrade of andere redenen,
+        upgrade beëindigd"</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_PACHAGE_ERROR">Download beëindigd, controle mislukt</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_SD_ABSENT">SD-kaart bestaat niet; upgrade wordt beëindigd</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_SD_LOW_SPACE">"Ruimte op SD-kaart  is onvoldoende; upgrade wordt beëindigd"</string>
+    <string name="COTA_HISTORY_UPDATE_FAILED">Upgraden mislukt</string>
+    <string name="COTA_HISTORY_UPDATE_LATER">In een uur upgraden</string>
+    <string name="COTA_HISTORY_UPDATE_SUCCESS">Upgrade</string>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="address_external">Formele server</string>
+    <string name="address_internal">Testserver</string>
+    <string name="address_pretest">Pre-testserver</string>
+    <string name="address_server">De door de server verschafte waarde</string>
+    <string name="allow_update_to_older_version">Achterwaarts compatibel</string>
+    <string name="allow_update_to_older_version_hit">"Als dit vakje wordt aangevinkt,
+        kan dit leiden tot terugkeer naar een oudere versie.
+        Deze optie is beschikbaar voor de testserver en is alleen voor testen."</string>
+    <string name="app_name">Draadloze Update</string>
+    <string name="auto_update_checked_off">"Als deze optie is ingeschakeld,
+        controleert het systeem eens per 3 dagen automatisch op updates."</string>
+    <string name="auto_update_checked_on">"Als deze optie is ingeschakeld,
+        controleert het systeem eens per 3 dagen automatisch op updates."</string>
+    <string name="check_doing">Wachtwoord verifiëren. Even wachten.</string>
+    <string name="checking_is_update">Controleren of het bijwerken is voltooid. Even wachten...</string>
+    <string name="delete_ota_userdata">OTA-updategegevens verwijderen</string>
+    <string name="device_is_rooted">"Uw apparaat wordt als rootgebruiker gebruikt,
+        waardoor OTA-update onmogelijk is.
+        U kunt u geautoriseerde lokale vertegenwoordiger gaan om deze functionaliteit op uw apparaat te herstellen."</string>
+    <string name="device_is_rooted_title">Update mislukt </string>
+    <string name="dialog_power_not_enough_title">Oplader aansluiten</string>
+    <string name="disable">Automatische OTA-update uitschakelen</string>
+    <string name="dlg_btn_confirm">OK</string>
+    <string name="dlg_btn_negative_download">Annuleren</string>
+    <string name="dlg_hit_already_set_as">Ingesteld als:</string>
+    <string name="dlg_hit_already_set_test">Dit wachtwoord komt overeen met dat wat op de server is opgeslagen.</string>
+    <string name="dlg_title_autoupdate">Automatisch op updates controleren</string>
+    <string name="dlg_title_hint">Herinnering</string>
+    <string name="enable">Automatische OTA-update inschakelen</string>
+    <string name="failed_download_update_file">"Donwloaden updatepakket mislukt.
+        Verbind met een ander netwer of probeer het later opnieuw"</string>
+    <string name="get_system_property_value">Kenmerk van huidige versie</string>
+    <string name="have_net_problem">"Downloaden mislukt vanwege een netwerfout.
+        Verbind met een ander netwerk en probeer het opnieuw"</string>
+    <string name="hold_on_while_downloading">Bijgewerkte systeem downloaden</string>
+    <string name="install_success_to_reboot">Nu opnieuw starten</string>
+    <string name="later_to_reboot">Misschien later</string>
+    <string name="local_update">Lokale update</string>
+    <string name="login_doing">Wachtwoord verifiëren</string>
+    <string name="login_password_hit">"Warme herinnering: draadloos bijwerken van de test- en pre-testserver is
+        alleen voor testen van de interne versie.
+        Zodra de testserver wordt gebruikt om de update te testen,
+        wordt de formele server mogelijk niet verder gebruikt voor bijwerken,
+        tenzij deze als een complete set wordt bijgewerkt.
+"</string>
+    <string name="md5_checkfailed">Fout bij controleren updatepakket MD5 hekje. Probeer %s</string>
+    <string name="message7_note">"Opmerking: 
+1. Bijwerken ven het systeem heeft geen invloed op uw persoonlijke gegevens.
+2.Downloaden van systeemupdate kan kosten voor mobiele gegevens met zich meebrengen."</string>
+    <string name="message_already_latest_version">Het huidige systeem is de meest recente versie</string>
+    <string name="message_checking_version">Serverinstelingen detecteren...</string>
+    <string name="message_cur_version">Huidige versie</string>
+    <string name="message_current_detail">Bijzonderheden van de update</string>
+    <string name="message_download_tips">Vraag om te downloaden</string>
+    <string name="message_network_disconnect">Netwerkfout. Controleer het netwerk</string>
+    <string name="message_new_version">Meest recente versie</string>
+    <string name="message_new_version_find">Nieuwe versie beschikbaar: %s</string>
+    <string name="message_no_history">Geen updategeschiedenis</string>
+    <string name="mode_optional">Optionele modus</string>
+    <string name="mode_selection">Opties zijn alleen geldig voor de testserver.</string>
+    <string name="mode_super">Supermodus</string>
+    <string name="net_close">Verbinding met netwerk is verbroken. Het downloaden is opgeschort</string>
+    <string name="network_error">Netwerkfout. Probeer het later opnieuw</string>
+    <string name="no_confirm_next_time">Niet meer opnieuw tonen</string>
+    <string name="notify_download_complete_text">Het systeem is bijgewerkt. Opnieuw opstarten</string>
+    <string name="notify_download_now_btn_title">Nu bijwerken</string>
+    <string name="notify_download_text">Er is een nieuwe versie %s beschikbaar. Verbind met wifi en download hem snel</string>
+    <string name="notify_download_title">Systeemupdates beschikbaar</string>
+    <string name="notify_show_detail_btn_title">Details controleren</string>
+    <string name="notify_update_dialog_msg">"U hebt een nachtelijke upgrade gepland.
+        Het systeem voltooit deze update automatisch als aan de voorwaarden hiervoor wordt voldaan"</string>
+    <string name="notify_update_later_btn_title">" 's Nachts opnieuw opstarten"</string>
+    <string name="notify_update_now_btn_title">Nu opnieuw opstarten</string>
+    <string name="ok_to_reboot">Nu opnieuw opstarten</string>
+    <string name="ota_check_update">Op updates controleren</string>
+    <string name="ota_history_record">Geschiedenis OTA-update</string>
+    <string name="ota_history_record_start">Geschiedenis begin OTA-update</string>
+    <string name="ota_property_test">Test kenmerk OTA-update</string>
+    <string name="ota_runningmode_control">Bediening modus OTA-update starten</string>
+    <string name="ota_settings">Instellingen systeemupdate</string>
+    <string name="ota_test_button">Functionele test OTA-update</string>
+    <string name="password_error">Onjuist wachtwoord. Probeer het opnieuw</string>
+    <string name="password_is_null">"De basislijn wordt voor dit project niet ingezet of er deed zich
+        onderbreking van de toegang voer. Opnieuw invoeren"</string>
+    <string name="phone_auto_check">Automatische update inschaklen?</string>
+    <string name="phone_hardware">Hardwareversie</string>
+    <string name="phone_model">Model telefoon</string>
+    <string name="phone_next_check_time">Volgende keer op de update controleren</string>
+    <string name="phone_sn">SN telefoon</string>
+    <string name="phone_software">Interne softwareversie</string>
+    <string name="pkg_mbs">MB</string>
+    <string name="pkg_note">"Omschrijving: 
+"</string>
+    <string name="pkg_size">Omvang van het pakket voor systeemupdates</string>
+    <string name="please_wait_while_checking">Zoeken. Even wachten…</string>
+    <string name="progress_text">%1$sM/%2$sM</string>
+    <string name="reboot_to_update_system">Vraag om opnieuw opstarten na bijwerken</string>
+    <string name="select_server">Server selecteren</string>
+    <string name="set_property">Test kenmerk OTA-update</string>
+    <string name="show_dialog_when_reboot_to_update">"Na het bijwerken verschijnt er een bevestigingsbericht
+        dat aangeeft om het systeem opnieuw op te starten"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stress_update_test">Druktestschakelaar</string>
+    <string name="system_property_value_cs">"CS (geeft een bètaversie en testserver aan die
+        standaard voor OTA-updates worden gebruikt)"</string>
+    <string name="system_property_value_lc">"LC (geeft een officiële versie en formele server aan die
+        standaard voor OTA-updates worden gebruikt)"</string>
+    <string name="system_property_value_null">"Ongedefinieerd (OTA-update stelt de
+        standaardserver in op basis van de DM-markering)"</string>
+    <string name="template_user_agent">%1$s/%2$s (Linux; Android)</string>
+    <string name="text_continue">Doorgaan</string>
+    <string name="title_putin_password">Wachtwoord invoeren</string>
+    <string name="toast_connect_not_available">Niet verbonden. Verbind met het internet en probeer het opnieuw.</string>
+    <string name="toast_download_package">Even wachten. Systeemupdates worden binnenkort gedownload.</string>
+    <string name="toast_network__judge_before_download">"U gebruikt op dit moment mobiele gegevens.
+        Het downloaden vereist aanzienlijke mobiele gegevens,
+        waarvoor kosten in rekening kunnen worden gebracht.
+        Het wordt aanbevolen om voor het downloaden met wifi te verbinden."</string>
+    <string name="toast_network__judge_before_download_roaming">"U gebruikt nu roaming.
+        Het wordt aanbevolen om voor het downloaden met wifi te verbinden."</string>
+    <string name="toast_network_disconnect">Netwerkverbinding is verbroken. Ga door nadat verbinding is hersteld.</string>
+    <string name="toast_no_available_update">Uw systeem heeft de meest recente versie.</string>
+    <string name="toast_power_not_enough_update">"Systeemupdate niet uitgevoerd.
+        Sluit het apparaat aan op een oplader en laad het op tot ten minste %1$d%2$s en probeer het dan opnieuw"</string>
+    <string name="toast_redownload">De vorige poging tot bijwerken werd onderbroken. Probeer het opnieuw.</string>
+    <string name="toast_remind_change_to_other_network">"Het downloaden op een WAP-netwerk kan mislukken.
+        Het wordt aanbevolen om voor het downloaden met een ander netwerk te verbinden"</string>
+    <string name="toast_result_cancel_download">Download geannuleerd.</string>
+    <string name="toast_result_cancel_downloading">Download tijdens downloaden van het pakket door gebruiker geannuleerd.</string>
+    <string name="toast_result_cancel_update">Update geannuleerd door gebruiker</string>
+    <string name="toast_result_disk_full">U kunt vanwege onvoldoende vrije ruimte geen systeemupdates downloaden.</string>
+    <string name="toast_result_download_fail">Bijwerken mislukt vanwege een fout bij het downloaden van het pakket.</string>
+    <string name="toast_result_update_failure">Onjuiste installatie, bijwerken mislukt.</string>
+    <string name="toast_result_update_success">Bijgewerkt</string>
+    <string name="toast_server_not_available">De software van uw telefoon heeft de meest recente versie.</string>
+    <string name="toast_show_dialog_again">U kunt de systeemupdates later in de meldingenbalk controleren</string>
+    <string name="toast_update_file_not_found_on_server">"Het updatepakket bestaat niet langer op de server.
+        Controleer opnieuw op updates"</string>
+    <string name="update_file_delete_or_not_complete_down">"Het updatepakket is verwijderd of is niet
+        volledig gedownload.Download het updatepakket opnieuw"</string>
+    <string name="update_file_list_not_exists">Het upgradepakket bestaat niet</string>
+    <string name="update_file_lists_not_exists">Updatepakketlijst update_package_list of update_package_list_next bestaat niet</string>
+    <string name="update_ing_loading">Bijwerken. Niet uitschakelen.</string>
+    <string name="update_need_to_reboot">Start het systeem opnieuw op om systeemupdates van kracht te laten worden</string>
+    <string name="update_package_size_text">Omvang van het installatiepakket: %s MB</string>
+    <string name="user_confirm_message">"Het downloaden van systeemupdates kan mobiele gegevens vereisen.
+        Raadpleeg uw mobiele telefoonmaatschappij om eventuele kosten te begrijpen."</string>
+    <string name="userdata_stop_download">U gebruikt momenteel een mobiel netwerk. Het downloaden is opgeschort</string>
+    <string name="version_new">Nieuwe versie beschikbaar</string>
+    <string name="welcome_use_ota">Welkom bij systeemupdate</string>
+    <string name="wifi_available_auto_download">Automatisch bijwerken wanneer verbonden met wifi</string>
+    <string name="wifi_available_auto_download_on">"Systeemupdates automatisch downloaden en bijwerken
+        wanneer verbonden met wifi"</string>
+</resources>

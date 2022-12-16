@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="super_wallpaper_list_complete_packages">
+        <item>com.miui.miwallpaper.geometry</item>
+        <item>com.miui.miwallpaper.saturn</item>
+        <item>com.miui.miwallpaper.earth</item>
+        <item>com.miui.miwallpaper.mars</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_ids">
+        <item>geometry</item>
+        <item>saturn</item>
+        <item>earth</item>
+        <item>mars</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_packages">
+        <item>com.miui.miwallpaper.geometry</item>
+        <item>com.miui.miwallpaper.saturn</item>
+        <item>com.miui.miwallpaper.earth</item>
+        <item>com.miui.miwallpaper.mars</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_summaries">
+        <item>@string/geometry_summary</item>
+        <item>@string/saturn_summary</item>
+        <item>@string/earth_summary</item>
+        <item>@string/mars_summary</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_titles">
+        <item>@string/geometry_title</item>
+        <item>@string/saturn_title</item>
+        <item>@string/earth_title</item>
+        <item>@string/mars_title</item>
+    </string-array>
+    <string-array name="support_super_wallpaper_devices">
+        <item>klein</item>
+        <item>mobius</item>
+        <item>kaiser</item>
+        <item>penrose</item>
+    </string-array>
+</resources>

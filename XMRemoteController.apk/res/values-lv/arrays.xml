@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Dzesēšana</item>
+        <item>Sildīšana</item>
+        <item>Sausināšana</item>
+        <item>Ventilators</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Vīrietis</item>
+        <item>Sieviete</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Jūsu ierīce var veidot pārojumu, lietojot Wi-Fi, tikai ar Mi TV, Mi Box un dažām citām Android ierīcēm.</item>
+        <item>Pārliecinieties, ka esat izvēlējies pareizo gaisa kondicionētāja modeli pārošanas procesā. Sekojiet paziņojumiem savā ierīcē, līdz pārošana ir pabeigta.</item>
+        <item>Nē. Šobrīd jūs kā IR pultis varat lietot Mi 4, Mi 4c un Redmi Note 2.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Saule</item>
+        <item>Pr</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+    </string-array>
+    <string-array name="question">
+        <item>Kāpēc mans tālrunis turpina meklēt bezvadu ierīces?</item>
+        <item>Kāpēc es varu ieslēgt savu gaisa kondicionētāju, bet ne to izslēgt?</item>
+        <item>Vai es varu lietot Mi 3, Mi 2 un Redmi kā IR pultis?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Ieslēgt Haier gaisa kondicionētāju dzīvojamā istabā</item>
+        <item>Uzstādīt temperatūru: 25 grādi</item>
+        <item>Uzstādīt vēja virzienu: \"Augšup\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Ieslēgt Gree gaisa kondicionētāju</item>
+        <item>Pārslēgties uz šūpošanas režīmu</item>
+        <item>Likt gaisa kondicionētājam pūst stiprāk</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Ieslēgt televizora pierīci</item>
+        <item>Es gribu skatīties Hunan TV</item>
+        <item>Iet atpakaļ uz 15. kanālu</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Ieslēgt gaisa kondicionētāju</item>
+        <item>Es gribu skatīties Shenzhen TV</item>
+        <item>Iet atpakaļ uz 12. kanālu</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Ieslēgt TV guļamistabā</item>
+        <item>Izslēgt TV</item>
+        <item>Palielināt TV skaļumu</item>
+    </string-array>
+</resources>

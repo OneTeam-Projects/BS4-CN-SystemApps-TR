@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>Lo stato attuale della rete è eccellente</item>
+        <item>Qualità della rete dati mobile scarsa. Consigliamo di passare in WLAN</item>
+        <item>Qualità della rete WLAN scarsa. Consigliamo di passare ai dati mobili</item>
+        <item>"Il segnale attuale è instabile. Prova a spostarti o modificare l'impugnatura del telefono."</item>
+        <item>Lo stato attuale della rete è normale</item>
+        <item>Nessuna</item>
+    </string-array>
+</resources>

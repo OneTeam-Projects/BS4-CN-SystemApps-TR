@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Engadir frases habituais</string>
+    <string name="delete_frequent_phrases">Eliminar frases habituais</string>
+    <string name="delete_frequent_phrases_confirm">Eliminar as frases habituais seleccionadas?</string>
+    <string name="edit_frequent_phrases">Editar frases habituais</string>
+    <string name="frequent_phrases_des">Introduce frases habituais só cun par de toques durante a edición de texto</string>
+    <string name="frequent_phrases_size_exceeded">Podes engadir máis de %1$d frases frecuentes. Elimina as que non sexan necesarias para engadir máis.</string>
+    <string name="menu_add_frequent_phrases">Engadir</string>
+    <string name="menu_delete">Eliminar</string>
+    <string name="menu_edit">Editar</string>
+    <string name="sync_phrase_label">Frases habituais</string>
+</resources>

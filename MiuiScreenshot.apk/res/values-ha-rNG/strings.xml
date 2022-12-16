@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hoton allon</string>
+    <string name="long_screenshot_guide_text">"Taba ka dauki 
+cikakken hoton allo"</string>
+    <string name="long_screenshot_out_of_memory_error">Hoton ya yi girma kwarai</string>
+    <string name="long_screenshot_processing">Cikin aiki…</string>
+    <string name="long_screenshot_stop">An gama yi</string>
+    <string name="long_screenshot_top_msg">Kirkira hoton fuskar allon…</string>
+    <string name="long_screenshot_top_msg_manual">Yanke hoton fuskar allon sai ka taba madannin ka kare</string>
+    <string name="partial_screenshot_edit">Gyarawa</string>
+    <string name="partial_screenshot_repaint">Sake farawa</string>
+    <string name="partial_screenshot_save">Ajiye</string>
+    <string name="partial_screenshot_save_successful">An yi nasarar adanawa</string>
+    <string name="partial_screenshot_share">Rabar</string>
+    <string name="screenshot_edit">Gyara</string>
+    <string name="screenshot_failed_in_landscape_mode">"Ba'a iya sa gungurar hoton aalo a cikin yanayin filin daji"</string>
+    <string name="screenshot_failed_to_capture_title">Wannan manhajar bai ba da izinin cire hoton fuskar allo</string>
+    <string name="screenshot_failed_to_save_title">"Ya kasa sabuntawa. Babu isashen sarari a ma'aji."</string>
+    <string name="screenshot_feedback_txt">Martani</string>
+    <string name="screenshot_insert_failed">"Ba'a iya lodin hotunan allon. Dauki wani daban ko ka duba hotonn a cikin Galari."</string>
+    <string name="screenshot_long_screenshot">Gungura</string>
+    <string name="screenshot_send">Aika</string>
+</resources>

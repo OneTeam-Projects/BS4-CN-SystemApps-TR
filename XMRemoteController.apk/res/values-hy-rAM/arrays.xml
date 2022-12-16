@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Սառեցնում է</item>
+        <item>Ջերմացնում է</item>
+        <item>Չորացնում է</item>
+        <item>Օդափոխիչ</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Արական</item>
+        <item>Իգական</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Ձեր սարքը կարող է միայն զուգավորվել Mi TV, Mi Box-ի հետ և շատ քիչ ուրիշ Android սարքերի հետ՝ օգտագործելով Wi-Fi:</item>
+        <item>Համոզվե՛ք, որ ընտրել եք ճիշտ A/C մոդելը զուգավորման ընթացքում: Հետևե՛ք ցուցումներին ձեր սարքի վրա, մինչ զուգավորումը կավարտվի:</item>
+        <item>Ո՛չ: Այս պահին դուք կարող եք օգտագործել Mi 4, Mi 4c, և Redmi Note 2 որպես IR հեռակառվարման վահանակներ:</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Կիր</item>
+        <item>Երկշ</item>
+        <item>Երեք</item>
+        <item>Չորք</item>
+        <item>Հինգշ</item>
+        <item>Ուրբ</item>
+        <item>Շաբթ</item>
+    </string-array>
+    <string-array name="question">
+        <item>Ինչու՞ է իմ հեռախոսը շարունակում որոնել անլար սարքերը:</item>
+        <item>Ինչու՞ ես կարող եմ միայն միացնել իմ A/C-ը և չեմ կարող այն անջատել:</item>
+        <item>Կարո՞ղ եմ ես օգտագործել Mi 3, Mi 2 և Redmi-ն որպես IR հեռակառավարման վահանակ:</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Միացնել Haier AC հյուրասենյակում</item>
+        <item>Կարգավորել ջերմաստիճանը 25 աստիճանի վրա</item>
+        <item>Կարգավորել քամու ուղղությունը դեպի «Վերև»</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Միացնել Gree AC-ն</item>
+        <item>Միացնել պտույտի ռեժիմը</item>
+        <item>Ուժեղացնել AC-ի փչելու հոսքը</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Միացնել հեռուստակցորդը</item>
+        <item>Ես ցանկանում եմ դիտել Hunan TV</item>
+        <item>Հետ գնալ դեպի 15-րդ ալիքը</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Միացնել AC-ը</item>
+        <item>Ես ցանկանում եմ դիտել Shenzhen TV</item>
+        <item>Հետ գնալ դեպի 12-րդ ալիքը</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Միացնել TV ննջասենյակում</item>
+        <item>Անջատել TV</item>
+        <item>Բարձրացնել հեռուստացույցի ձայնը</item>
+    </string-array>
+</resources>

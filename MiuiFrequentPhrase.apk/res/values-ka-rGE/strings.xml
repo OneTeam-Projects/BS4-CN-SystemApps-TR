@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">ხშირი ფრაზების დამატება</string>
+    <string name="delete_frequent_phrases">ხშირი ფრაზების წაშლა</string>
+    <string name="delete_frequent_phrases_confirm">გსურთ წავშალო მონიშნული ხშირი ფრაზები?</string>
+    <string name="edit_frequent_phrases">ხშირი ფრაზების რედაქტირება</string>
+    <string name="frequent_phrases_des">რამდენიმე შეხებით ტექსტის რედაქტირებისას დაამატეთ ხშირი ფრაზები</string>
+    <string name="frequent_phrases_size_exceeded">შეგიძლიათ დაამატოთ %1$d ხშირი ფრაზები. წაშალეთ უსარგებლოები მეტის დასამატებლად.</string>
+    <string name="menu_add_frequent_phrases">დამატება</string>
+    <string name="menu_delete">წაშლა</string>
+    <string name="menu_edit">რედაქტირება</string>
+    <string name="sync_phrase_label">ხშირი ფრაზები</string>
+</resources>

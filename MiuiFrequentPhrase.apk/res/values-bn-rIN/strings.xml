@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">ঘন ঘন ব্যবহার করা বাক্যাংশগুলি যোগ করুন</string>
+    <string name="delete_frequent_phrases">ঘন ঘন ব্যবহার করা বাক্যাংশগুলি মুছুন</string>
+    <string name="delete_frequent_phrases_confirm">ঘন ঘন ব্যবহার করা নির্বাচিত বাক্যাংশগুলি মুছবেন?</string>
+    <string name="edit_frequent_phrases">ঘন ঘন ব্যবহার করা বাক্যাংশগুলি সম্পাদনা করুন</string>
+    <string name="frequent_phrases_des">পাঠ্য সম্পাদন করার সময় ঘন ঘন ব্যবহার করা বাক্যাংশগুলি কিছু ট্যাপের মাধ্যমে ব্যবহার করুন</string>
+    <string name="frequent_phrases_size_exceeded">আপনি %1$d টির বেশি সচরাচর ব্যবহার করা শব্দ যোগ করতে পারবেন না। অপ্রয়জনীয়গুলি মুছে দিন যাতে আরো যোগ করতে পারেন।</string>
+    <string name="menu_add_frequent_phrases">যোগ করুন</string>
+    <string name="menu_delete">মুছে দিন</string>
+    <string name="menu_edit">সম্পাদনা করুন</string>
+    <string name="sync_phrase_label">ঘন ঘন ব্যবহার করা বাক্যাংশগুলি</string>
+</resources>

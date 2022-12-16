@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="netlight_notification_summary">当前网络为</string>
+    <string name="netlight_notification_title">网络已智能切换</string>
+    <string name="switch_data_notification_summary">当前上网卡为</string>
+    <string name="switch_data_notification_title">上网卡已智能切换</string>
+    <string name="switch_data_notification_user_reset_title">重置</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">बारम्बारका शब्दावलीहरू थप्नुहोस्</string>
+    <string name="delete_frequent_phrases">बारम्बार आएका शब्दावलीहरू मेटाउनुहोस्</string>
+    <string name="delete_frequent_phrases_confirm">चयन गरिएका बारम्बार आएका शब्दावली मेटाउनुहुने?</string>
+    <string name="edit_frequent_phrases">बारम्बारका शब्दावलीहरू सम्पादन गर्नुहोस्</string>
+    <string name="frequent_phrases_des">पाठलाई सम्पादन गर्दा केही ट्यापले मात्र बारम्बारका शब्दावलीहरू प्रविष्ट गर्नुहोस्</string>
+    <string name="frequent_phrases_size_exceeded">%1$d बारम्बार आएका शब्दावली थप्न सक्नुहुन्छ। धेरै थप्नको लागि अनावश्यक लाई मेटाउनुहोस्।</string>
+    <string name="menu_add_frequent_phrases">थप्नुहोस्</string>
+    <string name="menu_delete">मेटाउनुहोस्</string>
+    <string name="menu_edit">सम्पादन गर्नुहोस्</string>
+    <string name="sync_phrase_label">बारम्बारका शब्दावलीहरू</string>
+</resources>

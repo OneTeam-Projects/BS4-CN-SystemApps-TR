@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>ਚਿੱਤਰ ਸੁਰੱਖਿਅਤ ਕਰੋ</item>
+        <item>ਚਿੱਤਰ ਸਾਂਝਾ ਕਰੋ</item>
+        <item>ਰੱਦ ਕਰੋ</item>
+    </string-array>
+</resources>

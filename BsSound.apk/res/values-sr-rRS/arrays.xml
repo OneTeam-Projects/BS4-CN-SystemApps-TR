@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dtsMusicStyle">
+        <item>Rok</item>
+        <item>Džez</item>
+        <item>Moda</item>
+        <item>Klasična</item>
+        <item>Brus</item>
+        <item>Elektronska muzika</item>
+        <item>Država</item>
+        <item>Dens</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="dts_sound_mode">
+        <item>Opšte</item>
+        <item>Muzika</item>
+        <item>Videozapis</item>
+        <item>Glas</item>
+        <item>Stereo saraund</item>
+        <item>Muzika iz igre</item>
+        <item>Ljudsko poboljšanje</item>
+        <item>Intenziviranje koraka</item>
+    </string-array>
+</resources>

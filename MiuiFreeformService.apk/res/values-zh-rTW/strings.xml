@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自由窗口</string>
+    <string name="bottom_bar_smallwindow_text">鬆手懸掛</string>
+    <string name="bs_how_to_hang_to_small_freeform">懸掛為懸浮球</string>
+    <string name="contentDescription">視窗移動中</string>
+    <string name="freeform_demo_back">返回</string>
+    <string name="freeform_demo_final_over">完成</string>
+    <string name="freeform_demo_final_restart">重新學習</string>
+    <string name="freeform_demo_final_title">完成學習</string>
+    <string name="freeform_demo_go_on">繼續</string>
+    <string name="freeform_demo_title_finish">做得好!</string>
+    <string name="freeform_demo_title_skip">返回</string>
+    <string name="freeform_slide_to_small_freeform">小窗縮小為迷你小窗</string>
+    <string name="freeform_slide_to_small_freeform_summary">按住小窗底部橫桿滑到角落</string>
+    <string name="fullscreen_slide_to_small_freeform">全畫面應用程式縮小為迷你小窗</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">從螢幕底部滑到螢幕右上角</string>
+    <string name="how_to_close_or_fullscreen_freeform">關閉或全螢幕打開小窗</string>
+    <string name="how_to_drop_down_to_fullscreen">全螢幕打開小窗</string>
+    <string name="how_to_drop_down_to_fullscreen_summary">按住小窗底部操作杆向下拉</string>
+    <string name="how_to_hang_freeform">將小窗懸掛為迷你小窗</string>
+    <string name="how_to_hang_to_small_freeform">懸掛為迷你小窗</string>
+    <string name="how_to_hang_to_small_freeform_summary">拖動小窗至螢幕邊角</string>
+    <string name="how_to_move_freeform">如何移動小窗位置</string>
+    <string name="how_to_move_freeform_window">移動小窗位置</string>
+    <string name="how_to_move_freeform_window_summary">按住小窗頂部操作桿並拖動</string>
+    <string name="how_to_notification_drop_down">懸浮通知打開小窗</string>
+    <string name="how_to_notification_drop_down_summary">按住通知底部操作桿並下拉</string>
+    <string name="how_to_open_freeform">如何將懸浮通知打開為小窗</string>
+    <string name="how_to_slide_up_to_close">關閉小窗</string>
+    <string name="how_to_slide_up_to_close_summary">按住小窗底部操作桿向上滑</string>
+    <string name="how_to_use_freeform">學習使用小窗</string>
+</resources>

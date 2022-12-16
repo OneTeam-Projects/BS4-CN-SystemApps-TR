@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>Trạng thái mạng hiện tại rất tuyệt vời</item>
+        <item>Mạng dữ liệu di động kém, bạn nên chuyển sang mạng WLAN</item>
+        <item>Mạng WLAN kém, nên chuyển sang dữ liệu di động</item>
+        <item>Tín hiệu hiện tại không ổn định. Vui lòng cố gắng di chuyển hoặc điều chỉnh vị trí giữ của điện thoại di động.</item>
+        <item>Trạng thái mạng hiện tại là bình thường</item>
+        <item>Không</item>
+    </string-array>
+</resources>

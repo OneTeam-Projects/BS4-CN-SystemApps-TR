@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Kara jumlolin da ake yawan amfani da su</string>
+    <string name="delete_frequent_phrases">Share jumlolin da ake yawan amfani da su</string>
+    <string name="delete_frequent_phrases_confirm">A share jumlolin da ake yawan amfani da su?</string>
+    <string name="edit_frequent_phrases">Gyara jumlolin da ake yawan amfani da su</string>
+    <string name="frequent_phrases_des">Sa jumlolin da ake yawan amfani da su da ka taba wasu malatsay yayin da kake rubutu</string>
+    <string name="frequent_phrases_size_exceeded">Ana iya kara kalmomin da ake amfani da su har guda%1$d. Share wadanda ba ka bukata dan ka sa wasu daban.</string>
+    <string name="menu_add_frequent_phrases">Kara</string>
+    <string name="menu_delete">Share</string>
+    <string name="menu_edit">Gyaran bayani</string>
+    <string name="sync_phrase_label">Jumlolin da ake yawan amfani da su</string>
+</resources>

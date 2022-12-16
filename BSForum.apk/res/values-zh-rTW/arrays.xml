@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="change_avatar">
+        <item>拍照</item>
+        <item>選擇圖片</item>
+    </string-array>
+    <string-array name="genders">
+        <item>保密</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="report_reasons">
+        <item>惡意灌水</item>
+        <item>廣告詐騙</item>
+        <item>淫穢色情</item>
+        <item>其他原因</item>
+    </string-array>
+</resources>

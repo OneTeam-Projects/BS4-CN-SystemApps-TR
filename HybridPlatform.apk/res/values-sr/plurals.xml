@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Пре 1 час</item>
+        <item quantity="one">Пре 1 час</item>
+        <item quantity="few">Пре 1 час</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Пре 1 час</item>
+        <item quantity="one">Пре 1 час</item>
+        <item quantity="few">Пре 1 час</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Пре пола сата</item>
+        <item quantity="one">Пре пола сата</item>
+        <item quantity="few">Пре пола сата</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">За 1 сат</item>
+        <item quantity="one">За 1 сат</item>
+        <item quantity="few">За 1 сат</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">За пола сата</item>
+        <item quantity="one">За пола сата</item>
+        <item quantity="few">За пола сата</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Одмах</item>
+        <item quantity="one">Одмах</item>
+        <item quantity="few">Одмах</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d минута</item>
+        <item quantity="one">за 1 мин.</item>
+        <item quantity="few">за %d минута</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Управо сада</item>
+        <item quantity="one">Управо сада</item>
+        <item quantity="few">Управо сада</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Пре %d минута</item>
+        <item quantity="one">Пре 1 мин.</item>
+        <item quantity="few">Пре %d минута</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Допуштено %d дозвола</item>
+        <item quantity="one">Допуштена %d дозвола</item>
+        <item quantity="few">Допуштене %d дозволе</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Питај за %d дозвола</item>
+        <item quantity="one">Питај за %d дозволу</item>
+        <item quantity="few">Питај за %d дозволе</item>
+    </plurals>
+    <plurals name="app_settings_disabled_header_title">
+        <item quantity="other">Ограничи обавештењадза %d брзих апликација</item>
+        <item quantity="one">Ограничи обавештења за %d брзу апликацију</item>
+        <item quantity="few">Ограничи обавештења за %d брзе апликације</item>
+    </plurals>
+    <plurals name="app_settings_enabled_header_title">
+        <item quantity="other">Дозволи обавештења за %d брзих апликација</item>
+        <item quantity="one">Дозволи обавештења за %d брзу апликацију</item>
+        <item quantity="few">Дозволи обавештења за %d брзе апликације</item>
+    </plurals>
+    <plurals name="features_picker_activity_item_folder_detail">
+        <item quantity="other">%d ставки</item>
+        <item quantity="one">%d ставкa</item>
+        <item quantity="few">%d ставке</item>
+    </plurals>
+    <plurals name="features_picker_activity_label_multi">
+        <item quantity="other">Изабрано је %d ставки</item>
+        <item quantity="one">Изабрана је %d ставка</item>
+        <item quantity="few">Изабране су %d ставке</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Пре пола сата</item>
+        <item quantity="one">Пре пола сата</item>
+        <item quantity="few">Пре пола сата</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d дозвола</item>
+        <item quantity="one">%d дозвола</item>
+        <item quantity="few">%d дозволе</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">За 1 час</item>
+        <item quantity="one">За 1 час</item>
+        <item quantity="few">За 1 час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">За пола сата</item>
+        <item quantity="one">За пола сата</item>
+        <item quantity="few">За пола сата</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Одмах</item>
+        <item quantity="one">Одмах</item>
+        <item quantity="few">Одмах</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">за %d минута</item>
+        <item quantity="one">за 1 мин.</item>
+        <item quantity="few">за %d минута</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Управо сада</item>
+        <item quantity="one">Управо сада</item>
+        <item quantity="few">Управо сада</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d изабраних ставки</item>
+        <item quantity="one">%d изабрана ставка</item>
+        <item quantity="few">%d изабране ставке</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Пре %d минута</item>
+        <item quantity="one">Пре 1 мин.</item>
+        <item quantity="few">Пре %d минута</item>
+    </plurals>
+</resources>

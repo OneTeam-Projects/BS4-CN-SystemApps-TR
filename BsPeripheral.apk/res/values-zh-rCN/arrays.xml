@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gamepad_details_all_settings_name">
+        <item>移动</item>
+        <item>跳跃</item>
+        <item>下蹲</item>
+        <item>匍匐</item>
+        <item>疾跑</item>
+        <item>转向</item>
+        <item>开镜</item>
+        <item>开火</item>
+        <item>装填</item>
+        <item>切换单发/连发</item>
+        <item>开关地图</item>
+        <item>打开系统设置</item>
+        <item>拿/收主武器1</item>
+        <item>拿/收主武器2</item>
+        <item>切换高低抛</item>
+        <item>开门/关门</item>
+        <item>自动奔跑</item>
+        <item>切换当前投掷物</item>
+        <item>使用当前药品</item>
+        <item>游泳时上浮</item>
+        <item>游泳时下沉</item>
+        <item>车辆前进</item>
+        <item>刹车/倒车</item>
+        <item>左转</item>
+        <item>右转</item>
+        <item>摩托抬头</item>
+        <item>摩托压头</item>
+        <item>下车</item>
+        <item>换位</item>
+        <item>喷射加速</item>
+        <item>喇叭</item>
+        <item>伸头/缩头</item>
+        <item>跳伞</item>
+        <item>开伞</item>
+        <item>手枪</item>
+        <item>左探头</item>
+        <item>右探头</item>
+        <item>上下车</item>
+        <item>小眼睛</item>
+        <item>开关背包</item>
+        <item>开关箱子</item>
+        <item>拾取第一件物品</item>
+        <item>开车</item>
+        <item>开关拾取列表</item>
+    </string-array>
+    <string-array name="keyboard_macro_predefined_intervals">
+        <item>短(%dms)</item>
+        <item>中(%dms)</item>
+        <item>长(%dms)</item>
+    </string-array>
+    <string-array name="ota_hint_list">
+        <item>正在更新，请稍候</item>
+        <item>更新期间，请不要关闭手机</item>
+        <item>更新期间，请不要操作设备</item>
+    </string-array>
+</resources>

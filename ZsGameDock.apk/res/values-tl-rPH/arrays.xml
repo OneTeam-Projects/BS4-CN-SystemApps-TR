@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperSurround</item>
+        <item>GameMusic</item>
+        <item>SuperVoices</item>
+        <item>SuperFootstep</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Pinahusay na tunog sa field surround effect, mabilis hanapin na mga kalaban, na angkop sa mga larong FPS</item>
+        <item>Ang music effect ng laro, angkop para sa MOBA, na mga music game</item>
+        <item>Mas malinaw at totoo ang boses, para sa RPG, board game</item>
+        <item>Pahusayin ang mababang dalas ng performance at gawing mas madali ang mga laro para kilalanin ang mga bakas ng paa</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Prayoridad na silver core, limitadong temperatura, pinakamababang pagkonsumo ng power</item>
+        <item>Prayoridad ng silver core, angkop para sa simpleng mga laro</item>
+        <item>Prayoridad na gintong, limitadong temperatura, angkop para sa normal na mga larong 3D</item>
+        <item>Prayoridad na gintong core, angkop para sa mataas na kalidad ng mga larong 3D</item>
+        <item>Gintong core lang, pinakamataas na performance sa pamamagitan din ng pinakamataas na pagkunsumo ng power</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Hindi pinagagana</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>I-off</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>I-off</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Soundtrack</item>
+        <item>Loli</item>
+        <item>Dominanteng Babae</item>
+        <item>Tiyo</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Tulin Muna</item>
+        <item>Binalanse</item>
+        <item>Kalidad ng Larawan Muna</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>BALANSE</item>
+        <item>SOLARCORE</item>
+        <item>LUDICROUS</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Balanse sa pagitan ng performance at pagkunsumo ng power, at magbigay ng balanseng solusyon ng performance para sa mga pangkalahatang laro</item>
+        <item>Pagtibayin ang performance ng telepono mo, angkop para sa mga laro na may mataas na kinakailangan para sa kalidad ng larawan</item>
+        <item>Walang kapantay na performance para sa mga laro, ang nakakabit na cooler ay inirerekomenda</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Mode ng Balanse: Balanse sa pagitan ng performance at pagkunsumo ng power, at magbigay ng solusyon ng balanseng performance para sa mga pangkalahatang laro</item>
+        <item>SolarCore Mode: Palakasin ang performance ng telepono, angkop para sa mga laro na may mataas na kinakailangan para sa kalidad ng larawan</item>
+        <item>Ludicrous Mode: Dinadala ang telepono sa matinding performance, na maaaring magdulot ng napapansing pag-init ng mga telepono</item>
+        <item>Labis na Ludicrous Mode: Pagbawalan ang lahat ng function ng background upang mapanatli ang napakahusay na performance ng mga telepono, na maaaring magdulot ng labis na pag-init ng mga telepono</item>
+    </string-array>
+</resources>

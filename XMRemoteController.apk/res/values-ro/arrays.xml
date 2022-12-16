@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Răcire</item>
+        <item>Încălzire</item>
+        <item>Dezumidificare</item>
+        <item>Ventilator</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Masculin</item>
+        <item>Feminin</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Dispozitivul dvs. se poate împerechea doar cu Mi TV, Mi Box și alte dispozitive Android care folosesc Wi-Fi.</item>
+        <item>Asiguraţi-vă că aţi selectat modelul corect de A/C în procesul de împerechere. Urmaţi instrucţiunile de pe dispozitiv până când împerecherea este completă.</item>
+        <item>Nu. În prezent puteţi utiliza Mi 4, Mi 4c şi Redmi Note 2 ca telecomenzi IR.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Du</item>
+        <item>Lu</item>
+        <item>Ma</item>
+        <item>Mi</item>
+        <item>Jo</item>
+        <item>Vi</item>
+        <item>Să</item>
+    </string-array>
+    <string-array name="question">
+        <item>De ce telefonul meu caută în continuare dispozitive fără fir?</item>
+        <item>De ce pot doar să pornesc A/C dau nu îl pot opri?</item>
+        <item>Pot să folosesc Mi 3, Mi 2 și Redmi ca și telecomandă IR?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Porniţi Haier Ac în sufragerie</item>
+        <item>Setaţi temperatura la 25 de grade</item>
+        <item>Setați direcţia vântului în \"Sus\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Porniţi Gree AC</item>
+        <item>Comutați la modul batant</item>
+        <item>Măriți intensitatea aerului condiționat</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Pornește set-top box</item>
+        <item>Vreau să mă uit la Hunan TV</item>
+        <item>Du-te înapoi la canalul 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Porniţi AC</item>
+        <item>Vreau să mă uit la Shenzhen TV</item>
+        <item>Du-te înapoi la canalul 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Pornește televizorul în dormitor</item>
+        <item>Opriţi televizorul</item>
+        <item>Mărește volumul la televizor</item>
+    </string-array>
+</resources>

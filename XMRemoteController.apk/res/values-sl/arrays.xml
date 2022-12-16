@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Hlajenje</item>
+        <item>Ogrevanje</item>
+        <item>Razvlaževanje</item>
+        <item>Ventilator</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Vaša naprava se lahko prek WiFi omrežja poveže le z Mi TV, Mi Box in peščico drugih Android naprav.</item>
+        <item>Prepričajte se, da ste v postopku povezovanja izbrali pravilen model klimatske naprave. Sledite navodilom na svoji napravi, dokler se povezovanje ne konča.</item>
+        <item>Ne. Trenutno lahko kot infrardeči upravljalnik uporabljate Mi 4, Mi 4c in Redmi Note 2.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Tor</item>
+        <item>Sre</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="question">
+        <item>Zakaj moj telefon še vedno išče brezžične naprave?</item>
+        <item>Zakaj lahko klimatsko napravo le vključim in je ne morem izključiti?</item>
+        <item>Ali lahko kot infrardeči daljinski upravljalnik uporabljam Mi 3, Mi 2 in Redmi?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Vklopite Haier klimo v dnevni sobi</item>
+        <item>Nastavi temperaturo na 25 stopinj</item>
+        <item>Nastavite smer pihanja na \"Gor\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Vklopite Gree klimo</item>
+        <item>Preklopite v nihalni način</item>
+        <item>Naj klima piha močneje</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Vklopite set-top box</item>
+        <item>Rad bi gledal Hunan TV</item>
+        <item>Pojdite nazaj na kanal 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Vklopite klimatsko napravo</item>
+        <item>Rad bi gledal Shenzhen TV</item>
+        <item>Pojdite nazaj na kanal 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Vklopite TV v spalnici</item>
+        <item>Izklopite TV</item>
+        <item>Povečajte glasnost na TV</item>
+    </string-array>
+</resources>

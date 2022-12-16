@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>Du spiller spil hele natten, mens alle andre sover</item>
+        <item>Du er nødt til at spille om morgenen for at vågne op</item>
+        <item>At spise eller at spille et spil – det er dét, det handler om</item>
+        <item>Du er nødt til at spille om eftermiddagen for at vågne op</item>
+        <item>En hård dag på arbejdet betyder, at man har fortjent en spillenat!</item>
+        <item>Du spiller stadig intensivt om natten. Pas godt på din krop, mens du underholder dig selv</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>04.00-07.00</item>
+        <item>07.00-11.00</item>
+        <item>11.00-14.00</item>
+        <item>14.00-18.00</item>
+        <item>18.00-22.00</item>
+        <item>22.00-04.00</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Søndag</item>
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lørdag</item>
+    </string-array>
+</resources>

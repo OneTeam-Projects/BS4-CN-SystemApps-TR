@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aggregate">
+        <item>Disable Aggregation</item>
+        <item>Enable Aggregation</item>
+    </string-array>
+    <string-array name="br_mode">
+        <item>0x00,NULL</item>
+        <item>0x01,POLL</item>
+        <item>0x02,FHS</item>
+        <item>0x03,DM1</item>
+        <item>0x04,DH1</item>
+        <item>0x0A,DM3</item>
+        <item>0x0B,DH3</item>
+        <item>0x0E,DM5</item>
+        <item>0x0F,DH5</item>
+        <item>0x09,AUX1</item>
+        <item>0x24,2-DH1</item>
+        <item>0x2A,2-DH3</item>
+        <item>0x2E,2-DH5</item>
+        <item>0x28,3-DH1</item>
+        <item>0x2B,3-DH3</item>
+        <item>0x2F,3-DH5</item>
+        <item>0x05,HV1</item>
+        <item>0x06,HV2</item>
+        <item>0x07,HV3</item>
+        <item>0x08,DV</item>
+        <item>0x17,EV3</item>
+        <item>0x1C,EV4</item>
+        <item>0x1D,EV5</item>
+        <item>0x36,2-EV3</item>
+        <item>0x3C,2-EV5</item>
+        <item>0x37,3-EV3</item>
+        <item>0x3D,3-EV5</item>
+    </string-array>
+    <string-array name="br_payload">
+        <item>0x00,all zeroes</item>
+        <item>0x01,all ones</item>
+        <item>0x02,alternating bit</item>
+        <item>0x03,alternating nibble</item>
+        <item>0x04,pseudo-random</item>
+    </string-array>
+    <string-array name="channel">
+        <item>2412</item>
+        <item>2417</item>
+        <item>2422</item>
+        <item>2427</item>
+        <item>2432</item>
+        <item>2437</item>
+        <item>2442</item>
+        <item>2447</item>
+        <item>2452</item>
+        <item>2457</item>
+        <item>2462</item>
+        <item>2467</item>
+        <item>2472</item>
+        <item>2484</item>
+        <item>5035</item>
+        <item>5040</item>
+        <item>5045</item>
+        <item>5055</item>
+        <item>5060</item>
+        <item>5080</item>
+        <item>5170</item>
+        <item>5180</item>
+        <item>5190</item>
+        <item>5200</item>
+        <item>5210</item>
+        <item>5220</item>
+        <item>5230</item>
+        <item>5240</item>
+        <item>5250</item>
+        <item>5260</item>
+        <item>5270</item>
+        <item>5280</item>
+        <item>5290</item>
+        <item>5300</item>
+        <item>5310</item>
+        <item>5320</item>
+        <item>5500</item>
+        <item>5510</item>
+        <item>5520</item>
+        <item>5530</item>
+        <item>5540</item>
+        <item>5550</item>
+        <item>5560</item>
+        <item>5570</item>
+        <item>5580</item>
+        <item>5590</item>
+        <item>5600</item>
+        <item>5610</item>
+        <item>5620</item>
+        <item>5630</item>
+        <item>5640</item>
+        <item>5660</item>
+        <item>5670</item>
+        <item>5680</item>
+        <item>5690</item>
+        <item>5700</item>
+        <item>5710</item>
+        <item>5720</item>
+        <item>5745</item>
+        <item>5755</item>
+        <item>5765</item>
+        <item>5775</item>
+        <item>5785</item>
+        <item>5825</item>
+        <item>4915</item>
+        <item>4920</item>
+        <item>4935</item>
+        <item>4940</item>
+        <item>4945</item>
+        <item>4960</item>
+        <item>4980</item>
+    </string-array>
+    <string-array name="data_rate">
+        <item>1 M</item>
+        <item>2 M</item>
+        <item>5.5 M</item>
+        <item>6 M</item>
+        <item>9 M</item>
+        <item>11 M</item>
+        <item>12 M</item>
+        <item>18 M</item>
+        <item>24 M</item>
+        <item>36 M</item>
+        <item>48 M</item>
+        <item>54 M</item>
+        <item>MCS0</item>
+        <item>MCS1</item>
+        <item>MCS2</item>
+        <item>MCS3</item>
+        <item>MCS4</item>
+        <item>MCS5</item>
+        <item>MCS6</item>
+        <item>MCS7</item>
+        <item>MCS8</item>
+        <item>MCS9</item>
+        <item>MCS10</item>
+        <item>MCS11</item>
+        <item>MCS12</item>
+        <item>MCS13</item>
+        <item>MCS14</item>
+        <item>MCS15</item>
+    </string-array>
+    <string-array name="ht_mode">
+        <item>TCMD_WLAN_MODE_NOHT</item>
+        <item>TCMD_WLAN_MODE_HT20</item>
+        <item>TCMD_WLAN_MODE_HT40PLUS</item>
+        <item>TCMD_WLAN_MODE_CCK</item>
+        <item>TCMD_WLAN_MODE_VHT20</item>
+        <item>TCMD_WLAN_MODE_VHT40PLUS</item>
+        <item>TCMD_WLAN_MODE_VHT80_0</item>
+    </string-array>
+    <string-array name="packet_payload">
+        <item>0x00,pseudo-random bit sequence 9</item>
+        <item>0x01,pattern of alternating bits‘11110000’</item>
+        <item>0x02,pattern of alternating bits‘10101010’</item>
+        <item>0x03,pseudo-random bit sequence 15</item>
+        <item>0x04,pattern of All ‘1’ bits</item>
+        <item>0x05,pattern of All ‘0’ bits</item>
+        <item>0x06,pattern of alternating bits‘00001111’</item>
+        <item>0x07,pattern of alternating bits ‘0101’</item>
+    </string-array>
+    <string-array name="power_control">
+        <item>TPC_TX_PWR</item>
+        <item>TPC_FORCED_GAIN</item>
+        <item>TPC_TGT_PWR</item>
+        <item>TPC_TX_FORCED_GAIN</item>
+        <item>TPC_FORCED_GAINIDX</item>
+        <item>TPC_FORCED_TGTPWR</item>
+    </string-array>
+    <string-array name="radiofrequency_background_item">
+        <item>EMMC擦写</item>
+        <item>启动马达</item>
+        <item>打开三色灯</item>
+        <item>打开自动对焦(目前请选择camera预览实现)</item>
+        <item>播放音乐</item>
+        <item>步进电机</item>
+        <item>开启闪光灯</item>
+        <item>开启灯效</item>
+        <item>激光测试</item>
+    </string-array>
+    <string-array name="radiofrequency_background_item_camera">
+        <item>Cameras后摄预览</item>
+        <item>Camera前摄预览</item>
+        <item>视频播放</item>
+        <item>动态壁纸</item>
+        <item>DP投屏</item>
+        <item>游戏场景干扰</item>
+        <item>LCD最大亮度并长亮</item>
+    </string-array>
+    <string-array name="radiofrequency_background_item_screen">
+        <item>亮屏</item>
+        <item>灭屏</item>
+    </string-array>
+    <string-array name="rx_chain">
+        <item>RxChain 0</item>
+        <item>RxChain 1</item>
+        <item>Both Chain 0 and Chain 1 (2x2)</item>
+    </string-array>
+    <string-array name="rx_mode">
+        <item>Rx stop</item>
+        <item>Rx start</item>
+    </string-array>
+    <string-array name="tx_chain">
+        <item>Chain 0</item>
+        <item>Chain 1</item>
+        <item>Both Chain 0 and Chain 1 (2x2)</item>
+    </string-array>
+    <string-array name="tx_mode">
+        <item>Tx off</item>
+        <item>TCMD_CONT_TX_SINE</item>
+        <item>TCMD_CONT_TX_FRAME</item>
+        <item>TCMD_CONT_TX_TX99</item>
+    </string-array>
+</resources>

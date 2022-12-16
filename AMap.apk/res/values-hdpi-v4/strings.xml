@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rd_camera_apply_compensation_car_engine_all_words">请输入完整发动机号</string>
+    <string name="rd_camera_apply_compensation_car_engine_words_count_from_tail">请输入发动机号后%s位</string>
+    <string name="rd_camera_apply_compensation_car_frame_all_words">请输入完整车架号</string>
+    <string name="rd_camera_apply_compensation_car_frame_words_count_from_tail">请输入车架号后%s位</string>
+    <string name="rd_camera_apply_compensation_compensation_hint">审核通过，您会获得%s元现金。</string>
+    <string name="rd_camera_apply_compensation_has_marked">选择违章路段 &lt;font color=#D34E3B>已标记&lt;/font></string>
+    <string name="rd_camera_apply_compensation_words_remaining">还可输入%s字</string>
+    <string name="rd_camera_apply_result_action_apply_again">再次申请</string>
+    <string name="rd_camera_apply_result_apply_hint">申请提示</string>
+    <string name="rd_camera_apply_result_apply_result">申请结果</string>
+    <string name="rd_camera_apply_result_apply_successfully">申请成功！</string>
+    <string name="rd_camera_apply_result_friends_text">&lt;I>小伙伴们！&lt;/I></string>
+    <string name="rd_camera_apply_result_login_notice_info_in_html">需要完成登录后才能获得&lt;font color=#FF4546>%1$.2f&lt;/font>元赔付</string>
+    <string name="rd_camera_apply_result_submit_successfully">提交成功！</string>
+    <string name="rd_camera_apply_result_verified_info_for_entrance_in_html">我们会在%1$d个工作日之内&lt;br/>对您的申请进行审核审核结果可在&lt;br/>\"更多-出行保障-电子眼违章-申请记录\"中查看</string>
+    <string name="rd_camera_apply_result_verified_info_for_money_in_html">审核通过后,您将获得&lt;font color=#FF4546>%1$s&lt;/font>元出行基金</string>
+</resources>

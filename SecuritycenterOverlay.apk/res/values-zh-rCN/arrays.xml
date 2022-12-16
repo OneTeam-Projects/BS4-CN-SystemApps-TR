@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="perm_intercept_unknown_source">
+        <item>未经应用商店检测的第三方应用可能会造成多种软件问题，影响系统稳定性</item>
+        <item>部分恶意第三方应用可能会攻击您的设备,造成行为及隐私数据泄露</item>
+    </string-array>
+</resources>

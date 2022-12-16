@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إنهاء الاتصال</string>
+    <string name="dialog_checkbox_hint">لا مزيد من المطالبات</string>
+    <string name="dialog_message">إذا تم تمكين إنهاء الاتصال، عند تشغيل اللعبة في الخلفية أو عندما تدخل الشاشة في وضع السكون، ستدخل اللعبة في حالة إنهاء الاتصال. يمكنك الخروج من إنهاء الاتصال عند انتهاء العد التنازلي أو بالنقر فوق الزر إيقاف إنهاء الاتصال في شريط الإشعارات. في حالة تشغيل إنهاء الاتصال لفترة طويلة، يوصى بتوصيل مصدر طاقة.</string>
+    <string name="event_back_to_game">العودة إلى اللعبة</string>
+    <string name="event_end_holdon">إنهاء الاتصال معطل</string>
+    <string name="label_holdon_duration">وقت إنهاء الاتصال</string>
+    <string name="label_holdon_pattern">سياسة وقت إنهاء الاتصال</string>
+    <string name="notify_content" formatted="false">%sوقت إنهاء الاتصال المتبقي%s</string>
+    <string name="notify_hour_minute" formatted="false">"%d من الساعات  %d من الدقائق"</string>
+    <string name="notify_less_one_minute">أقل من دقيقة واحدة</string>
+    <string name="notify_minute">%dمن الدقائق</string>
+    <string name="text_cancel_holdon">إيقاف إنهاء الاتصال</string>
+    <string name="text_duration_describe">حدد وقت إنهاء الاتصال الفردي عند تمكين إنهاء الاتصال. قد يتسبب وقت إنهاء الاتصال في استهلاك طاقة غير ضرورية. يمكن أن تؤدي وحدة الماكرو الخاصة باللعبة أيضًا إلى إنهاء الاتصال وتحديد إجمالي وقت إنهاء الاتصال.</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">ساعات</string>
+    <string name="text_minute">دقائق</string>
+    <string name="text_mute_description">سيؤدي تمكين هذه الوظيفة أيضًا إلى تمكين وظيفة [مساعد الصوت]. للخروج مؤقتًا من الحالة الصامتة، يُرجى الضغط على زر مستوى الصوت لضبط مستوى صوت الوسائط أثناء النقر فوق أيقونة مساعد الصوت لتطبيع مستوى صوت اللعبة. لإدارة مساعد الصوت، يُرجى الانتقال إلى [الإعدادات - الصوت والاهتزاز - مساعد الصوت].</string>
+    <string name="text_mute_holdon_description">تم كتم صوت اللعبة عند إنهاء الاتصال</string>
+    <string name="text_pattern_describe">اختر ما إذا كنت تريد تحديث العد التنازلي لوقت إنهاء الاتصال أم لا عند العودة إلى اللعبة أثناء وقت إنهاء الاتصال. تعد الإجابة الإيجابية جيدة لعرض وتشغيل مهمة واحدة متكررة في حالة إنهاء الاتصال، بينما تساعد الإجابة السلبية في تنفيذ مهمة كاملة في إنهاء الاتصال.</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sاكتمال إنهاء الاتصال</string>
+    <string name="toast_header_fix">ستوديو اللاعب:</string>
+    <string name="toast_how_to_holdon">تدخل اللعبة في حالة إنهاء الاتصال عندما يتم تشغيل اللعبة في الخلفية أو تدخل الشاشة في وضع السكون</string>
+    <string name="toast_in_holdon_model">%sدخلت اللعبة في حالة إنهاء الاتصال</string>
+    <string name="toast_not_support_holdon">نظرًا لأن طاقة البطارية منخفضة جدًا أو تم تمكين وضع توفير الطاقة، لا يمكنك الاستمرار في تعليق اللعبة</string>
+</resources>

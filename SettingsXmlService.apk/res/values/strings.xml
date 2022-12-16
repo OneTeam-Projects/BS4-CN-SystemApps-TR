@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Settings Storage</string>
+    <string name="excute_server">Excute Update Server</string>
+    <string name="sys_msg">System Message</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="guide_title">
+        <item quantity="other">歡迎您使用語音控制，開啟本功能後，您可以通過語音控制手機。首次開啟需要按照引導完成教學。%1$d秒後將自動進入教學。</item>
+    </plurals>
+    <plurals name="title_select_nums">
+        <item quantity="other">已選擇%1$s項</item>
+    </plurals>
+</resources>

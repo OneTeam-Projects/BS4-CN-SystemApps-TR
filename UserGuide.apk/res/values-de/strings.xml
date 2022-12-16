@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">Aus</string>
+    <string name="abc_capital_on">An</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Freigeben für</string>
+    <string name="abc_shareactionprovider_share_with_application">Mit %s teilen</string>
+    <string name="abc_toolbar_collapse_description">Minimieren</string>
+    <string name="app_name">Gamer-Handbuch</string>
+    <string name="blackshark_game_phone">Black Shark Gaming-Telefon:</string>
+    <string name="copied">In Zwischenablage kopiert</string>
+    <string name="copy_fail">Kopieren fehlgeschlagen</string>
+    <string name="coy_link">Link kopieren</string>
+    <string name="gamer_guide">Gamer-Handbuch</string>
+    <string name="network_weak">Netzwerkdienst ist schwach</string>
+    <string name="network_weak_desc">Aktualisieren, um Seite neu zu laden</string>
+    <string name="no_network">Netzwerk nicht verbunden</string>
+    <string name="no_network_desc">Netzwerkeinstellung prüfen und zum erneuten Versuch anklicken</string>
+    <string name="permission_internet">Gamer-Handbuch erlauben, sich manuell mit einem Netzwerk zu verbinden, um grundlegende Dienste zu nutzen?</string>
+    <string name="permission_no">Abbrechen</string>
+    <string name="permission_yes">Zulassen</string>
+    <string name="search_menu_title">Suchen</string>
+    <string name="share_desc">Hier finden Sie hervorragende Funktionen von Black Shark Gaming-Telefonen. Lesen Sie das Gamer-Handbuch!</string>
+    <string name="share_type">Teilen mit</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="to_refresh">Aktualisieren</string>
+    <string name="try_again">Erneut versuchen</string>
+    <string name="web_load_error">Fehler beim Laden der Webseite</string>
+</resources>

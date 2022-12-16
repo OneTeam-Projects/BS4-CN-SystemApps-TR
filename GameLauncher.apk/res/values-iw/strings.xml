@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ניווט לדף הבית</string>
+    <string name="abc_action_bar_up_description">ניווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">סיום</string>
+    <string name="abc_activity_chooser_view_see_all">הצגת הכול</string>
+    <string name="abc_activitychooserview_choose_application">בחירת אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">מופעל</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">מחיקה</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">רווח</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">תפריט+</string>
+    <string name="abc_search_hint">חיפוש…</string>
+    <string name="abc_searchview_description_clear">מחיקת השאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חיפוש</string>
+    <string name="abc_searchview_description_submit">שליחת שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שיתוף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">שיתוף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כיווץ</string>
+    <string name="add_game_options">הקש כדי להוסיף משחקים מותקנים</string>
+    <string name="close_diving_toast">משבית מצב צופה. נסה שנית מאוחר יותר</string>
+    <string name="confirm">אישור</string>
+    <string name="copy">העתקה</string>
+    <string name="data_cycle">סטטיסטיקת תעבורת נתונים (%1$s-%2$s)</string>
+    <string name="data_empty">לא התגלה משחק</string>
+    <string name="data_empty_desc">בדוק אם המשחק הותקן</string>
+    <string name="diving_tips">"השבת את תפקודי קבלת שיחות והחזק רק את שירות תעבורת נתונים סלולרית כדי למנוע ניתוק עקב שיחה נכנסת וכך תבטיח חוויית משחק אופפת.
+ניתן לביטול אוטומטי לאחר יציאה ממצב SHARK. הפעל שנית לאחר הכניסה הבאה."</string>
+    <string name="done">סיים</string>
+    <string name="exit_game_launcher">יציאה ממצב SHARK</string>
+    <string name="exit_game_launcher_and_diving">יצאת כבר ממצב SHARK וממצב צופה</string>
+    <string name="exit_gamelauncher_tips">השתמש במקש SHARK כדי לצאת ממצב SHARK</string>
+    <string name="expand_button_title">מתקדם</string>
+    <string name="game_list_tips">המשחקים המפורטים להלן זמינים בדף הבית של מרחב המשחקים ויכולים להשתמש ב\"מעגן המשחק\".</string>
+    <string name="game_list_title">רשימת משחקים</string>
+    <string name="general_game_time_tips">זמן המשחק שלך מרוכז בדרך כלל בשעות</string>
+    <string name="guide_1_content">"אין הודעות, אין שיחות נכנסות 
+ תדירות חכמה וכוונון מחת, נקוי זיכרון חכם"</string>
+    <string name="guide_1_title">עולם משחק חדש הולם לפתיחה</string>
+    <string name="guide_2_content">"ביצועים ותכונות שניתן להגידר בנפרד עבור משחקים שונים, 
+ כדי להטיח סביבת משחק מיטבית."</string>
+    <string name="guide_2_title">אולפן משחקן - אלפי תצורות למשחקים שונים</string>
+    <string name="guide_3_content">"נוח יותר להוריד משחקים ותזמון טוב יותר של עדכונם 
+ אוסף משחקי איכות חדשים ב\"חיפוש משחקים מצוינים"</string>
+    <string name="guide_3_title">\"חיפוש משחקים מצוינים\" בכל עת ובכל מקום</string>
+    <string name="load_error">טעינת הדף נכשלה</string>
+    <string name="loading">טוען...</string>
+    <string name="mobile_bytes">תעבורת נתוני נייד</string>
+    <string name="no_activity_found">היישומון לא נמצא</string>
+    <string name="no_sim_diving_toast">‏אין כרטיס SIM. מצב צופה מושבת</string>
+    <string name="not_set">לא מוגדרת</string>
+    <string name="open_diving">פעיל</string>
+    <string name="open_diving_title">אפשר מצב צופה</string>
+    <string name="open_diving_toast">מאפשר מצב צופה. נסה שנית מאוחר יותר</string>
+    <string name="preference_copied">\"%1$s\" הועתק ללוח.</string>
+    <string name="recommend_key">עמדות מקשים מומלצות</string>
+    <string name="reload">טען מחדש</string>
+    <string name="remove_app_message">ההתקנה של משחק שיוסר ממרחב המשחקים לא תוסר משולחן העבודה.</string>
+    <string name="remove_app_title">להסיר את \"%s\"?</string>
+    <string name="remove_dialog_cancel">ביטול</string>
+    <string name="revert_shark_mode">כדי לבטל את הפעולה, הסט אחורה את לחצן SHARK</string>
+    <string name="search_menu_title">חיפוש</string>
+    <string name="start_now">הזן כעת</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="text_no_apps">אין יישומונים</string>
+    <string name="text_no_games">לא נוספו ולא הותקנו משחקים</string>
+    <string name="v7_preference_off">כבוי</string>
+    <string name="v7_preference_on">מופעל</string>
+    <string name="wifi_bytes">WLAN</string>
+</resources>

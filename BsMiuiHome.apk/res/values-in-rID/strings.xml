@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_game_uninstall_not_allow_removed">Game belum diinstal, tidak dapat dihapus</string>
+    <string name="cloud_folder_edit_mode">Folder ini tidak mendukung mode edit</string>
+    <string name="cloud_folder_title_jui">Game</string>
+    <string name="cloud_folder_title_tencent">Temukan game bagus</string>
+    <string name="default_folder_title_recommend_tencent">Aplikasi lainnya</string>
+    <string name="disable_sw_in_handy_mode">Jendela ajaib: tidak mendukung mode satu tangan</string>
+    <string name="drag_into_cloud_folder">Tidak dapat menyeret ke folder ini</string>
+    <string name="recommend_more">Lainnya</string>
+    <string name="rename_cloud_folder">Folder ini tidak dapat diubah namanya</string>
+    <string name="small_window_count_reach_the_limit">Mendukung maksimal %d jendela melayang. Tutup jendela melayang lalu coba lagi.</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APK</item>
+        <item quantity="one">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s دانلود</item>
+        <item quantity="one">%1$s دانلود</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s کاربر</item>
+        <item quantity="one">%1$s کاربر</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d روز پیش</item>
+        <item quantity="one">%1$d روز پیش</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ساعت پیش</item>
+        <item quantity="one">%1$d ساعت پیش</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d برند موجود است</item>
+        <item quantity="one">۱ برند موجود است</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d دقیقه پیش</item>
+        <item quantity="one">%1$d دقیقه پیش</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d قسمت</item>
+        <item quantity="one">%d قسمت</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d ویدئو</item>
+        <item quantity="one">%d ویدئو</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">پخش قسمت %d</item>
+        <item quantity="one">پخش قسمت %d</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">%d ویدئو یافت شد</item>
+        <item quantity="one">%d ویدئو یافت شد</item>
+    </plurals>
+</resources>

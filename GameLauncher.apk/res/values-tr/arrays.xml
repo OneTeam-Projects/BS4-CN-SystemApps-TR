@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>Gece saatlerinde herkes uykudayken oyun oynuyorsunuz</item>
+        <item>Sabah kendinize gelmek için bir oyun oynamalısınız</item>
+        <item>Yemek yemek ya da oyun oynamak; işte bütün mesele bu</item>
+        <item>Öğleden sonra kendinize gelmek için bir oyun oynamalısınız</item>
+        <item>Gündüz iyi çalıştınız, akşam bir oyunu hak ettiniz!</item>
+        <item>Gece saatlerinde oyunun dozunu kaçırmaya devam ediyorsunuz. Eğlenmek gerekli ama sağlığı tehlikeye atmadan...</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>04:00-07:00</item>
+        <item>07:00-11:00</item>
+        <item>11:00-14:00</item>
+        <item>14:00-18:00</item>
+        <item>18:00-22:00</item>
+        <item>22:00-04:00</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+    </string-array>
+</resources>

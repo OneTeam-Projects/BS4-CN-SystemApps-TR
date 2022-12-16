@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="available_time_left">
+        <item quantity="other">可用时间剩余%s分钟</item>
+    </plurals>
+    <plurals name="click_view_more">
+        <item quantity="other">点击查看剩余的%s个时段</item>
+    </plurals>
+    <plurals name="last_time">
+        <item quantity="other">剩余%s分钟</item>
+    </plurals>
+    <plurals name="min">
+        <item quantity="other">分钟</item>
+    </plurals>
+    <plurals name="notification_today_steps_start">
+        <item quantity="other">今天已步行%d步</item>
+    </plurals>
+    <plurals name="time_left">
+        <item quantity="other">时间剩余%s分钟</item>
+    </plurals>
+    <plurals name="time_restrict_notice">
+        <item quantity="other">可用时间还剩%s分钟，若需延长，请与家长端联系。</item>
+    </plurals>
+</resources>

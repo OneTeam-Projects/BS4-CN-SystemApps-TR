@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperEnvolvente</item>
+        <item>MúsicadeJuegos</item>
+        <item>SuperVoces</item>
+        <item>SuperPasos</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Efecto envolvente de campo de sonido mejorado, fácil de localizar enemigos, adecuado para juegos FPS</item>
+        <item>El efecto de música del juego, adecuado para MOBA, juegos de música</item>
+        <item>Voz más clara y real, adecuada para RPG, juego de mesa</item>
+        <item>Improve low frequency performance and make chicken eating games easier to recognize footsteps</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Prioridad de Silver core, restringir temperatura, consumo de energía mínimo</item>
+        <item>Prioridad de Silver core, adecuado para juegos simples</item>
+        <item>Prioridad de Gold core, restringir temperatura, adecuado para juegos 3D normales</item>
+        <item>Prioridad de Gold core, adecuado para juegos 3D de alta calidad</item>
+        <item>Solamente Gold core, máximo rendimiento pero también máximo consumo de energía</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Deaktivieren</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Desactivado</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Desactivado</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Banda sonora</item>
+        <item>Loli</item>
+        <item>Mujer dominante</item>
+        <item>Tío</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Velocidad primero</item>
+        <item>Equilibrado</item>
+        <item>Calidad de imagen primero</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>BALANCE</item>
+        <item>SOLARCORE</item>
+        <item>LUDICROUS</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Equilibrio entre rendimiento y consumo eléctrico y proporcionar una solución de rendimiento equilibrada para juegos generales</item>
+        <item>Fortalecer rendimiento del teléfono, adecuado para juegos con requisitos altos para la calidad de la imagen</item>
+        <item>Rendimiento máximo para juegos, se recomienda utilizar el refrigerador adjunto</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Modo de equilibrio: equilibrio entre rendimiento y consumo de energía, y proporciona una solución de rendimiento equilibrado para juegos generales</item>
+        <item>Modo de motor de juego: fortalece el rendimiento del teléfono, adecuado para juegos con altos requisitos de calidad de imagen</item>
+        <item>Modo ridículo: lleva los teléfonos a un rendimiento extremo, lo que puede hacer que los teléfonos se calienten notablemente</item>
+        <item>Modo lúdico extremo: prohíbe que todas las funciones en segundo plano mantengan los teléfonos manteniendo un rendimiento máximo, lo que puede hacer que los teléfonos se calienten significativamente</item>
+    </string-array>
+</resources>

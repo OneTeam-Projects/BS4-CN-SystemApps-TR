@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>Game DTS</item>
+        <item>Kort åtkomsttid</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>Supersurround ljud</item>
+        <item>Spelmusik</item>
+        <item>Superröster</item>
+        <item>Super fotsteg</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Förbättrad ljudfält med surroundeffekt, lätt att hitta fiender, lämplig för FPS-spel</item>
+        <item>Spelets musikeffekt, lämplig för MOBA, musikspel</item>
+        <item>Rösten mer ren och verklig, lämplig för RPG, brädspel</item>
+        <item>Förbättra låg frekvens i prestandan och gör spel för ätande av kyckling lättare att känna igen fotspåren</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Prioritet för silverkärna, begränsa temperaturen, minimal strömförbrukning</item>
+        <item>Prioritet för silverkärna, lämpligt för enkla spel</item>
+        <item>Prioritet för guldkärna, begränsa temperaturen, lämpligt för vanliga 3D-spel</item>
+        <item>Prioritet för guldkärna, lämpligt för 3D-spel av hög kvalitet</item>
+        <item>Endast guldkärna, maximal prestanda men också maximal strömförbrukning</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Inaktivera</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Av</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Av</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Ljudspår</item>
+        <item>Loli</item>
+        <item>Domineering Lady</item>
+        <item>Uncle</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Speed First</item>
+        <item>Balanserad</item>
+        <item>Bildkvalitet först och främst</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>BALANS</item>
+        <item>SOLARCORE</item>
+        <item>GALET</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Balans mellan prestanda och strömförbrukning som ger en balanserad prestandalösning för vanliga spel</item>
+        <item>Stärka telefonens prestanda, lämplig för spel med höga krav på bildkvalitet</item>
+        <item>Ultimat prestanda för spel, med bifogad kylare rekommenderas</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Balanserat läge: Balans mellan prestanda och strömförbrukning som ger en balanserad prestandalösning för vanliga spel</item>
+        <item>SolarCore-läge: Stärka telefonens prestanda, lämplig för spel med höga krav på bildkvalitet</item>
+        <item>Galet läge: Få telefonerna till extrema prestanda, vilket gör att telefonerna värms upp märkbart</item>
+        <item>Extremt galet läge: Se till att alla bakgrundsfunktioner är avstängda så att telefonerna behåller sin topprestanda, vilket kan få telefonerna att värmas upp avsevärt</item>
+    </string-array>
+</resources>

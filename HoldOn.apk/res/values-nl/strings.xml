@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Op haak</string>
+    <string name="dialog_checkbox_hint">Geen prompts meer</string>
+    <string name="dialog_message">Als Op haak is geactiveerd wanneer de game op de achtergrond draait of het scherm in slaapstand gaat, wordt Op haak ingeschakeld. Je kunt Op haak beëindigen wanneer het aftellen voorbij is of door te klikken op de knop Op haak stoppen in de meldingsbalk. Als Op haak langere tijd wordt gebruikt, is het aan te bevelen om de netvoeding aan te sluiten.</string>
+    <string name="event_back_to_game">Terug naar de game</string>
+    <string name="event_end_holdon">Op haak uitgeschakeld</string>
+    <string name="label_holdon_duration">Op haak tijd</string>
+    <string name="label_holdon_pattern">Op haak-beleid</string>
+    <string name="notify_content" formatted="false">%sResterende Op haak-tijd%s</string>
+    <string name="notify_hour_minute" formatted="false">%d uren%d minuten</string>
+    <string name="notify_less_one_minute">Minder dan een minuut</string>
+    <string name="notify_minute">%dminuten</string>
+    <string name="text_cancel_holdon">Op haak stoppen</string>
+    <string name="text_duration_describe">Selecteer de Op haak tijd wanneer Op haak is ingeschakeld. Een lange Op haak-tijd kan onnodig stroomverbruik veroorzaken. De gamemacro kan ook de Op haak veroorzaken en de totale Op haak-tijd bepalen.</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">Uren</string>
+    <string name="text_minute">Minuten</string>
+    <string name="text_mute_description">Als je deze functie inschakelt, wordt ook de functie [Geluidsassistent] ingeschakeld. Om tijdelijk de stille stand te verlaten, druk je op de volumetoets om het volume van de media aan te passen, terwijl je op het pictogram van de Geluidsassistent klikt om het volume van de game te normaliseren. Om de Geluidsassistent te beheren, ga je naar [Instellingen - Geluid &amp; Trillingen - Geluidsassistent].</string>
+    <string name="text_mute_holdon_description">Game gedempt bij Op haak</string>
+    <string name="text_pattern_describe">Selecteer of het aftellen van de Op haak-tijd al dan niet moet worden vernieuwd wanneer je tijdens de Op haak-tijd naar de game terugkeert. Een positief antwoord is goed voor het bekijken en uitvoeren van een enkele herhaaldelijke taak in Op haak. Een negatief antwoord helpt bij het uitvoeren van een volledige taak in Op haak.</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sOp haak voltooid</string>
+    <string name="toast_header_fix">Gamer Studio:</string>
+    <string name="toast_how_to_holdon">De game gaat naar Op haak als de game op de achtergrond draait of als het scherm in slaapstand gaat</string>
+    <string name="toast_in_holdon_model">%sDe game is de Op haak-stand geschakeld</string>
+    <string name="toast_not_support_holdon">Omdat de batterijspanning te laag is of de energiebesparingsmodus is ingeschakeld, kun je niet doorgaan met Op haak in de game</string>
+</resources>

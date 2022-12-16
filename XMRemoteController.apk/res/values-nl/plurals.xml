@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">"%d APK's"</item>
+        <item quantity="one">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s downloads</item>
+        <item quantity="one">%1$s download</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s gebruikers</item>
+        <item quantity="one">%1$s gebruiker</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dagen geleden</item>
+        <item quantity="one">%1$d dag geleden</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d uur geleden</item>
+        <item quantity="one">%1$d uur geleden</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d merken beschikbaar</item>
+        <item quantity="one">1 merk beschikbaar</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minuten geleden</item>
+        <item quantity="one">%1$d minuut geleden</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d afleveringen</item>
+        <item quantity="one">%d aflevering</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">"%d video's"</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">Episode %d afspelen</item>
+        <item quantity="one">Episode %d afspelen</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">"%d video's gevonden"</item>
+        <item quantity="one">%d video gevonden</item>
+    </plurals>
+</resources>

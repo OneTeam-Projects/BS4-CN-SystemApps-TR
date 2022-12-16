@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>"Erfa' l-istampa"</item>
+        <item>Aqsam l-istampa mal-oħrajn</item>
+        <item>Ħassar</item>
+    </string-array>
+</resources>

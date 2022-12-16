@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Охолодження</item>
+        <item>Підігрів</item>
+        <item>Осушення</item>
+        <item>Вентилятор</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Чоловіча</item>
+        <item>Жіноча</item>
+    </string-array>
+    <string-array name="answer">
+        <item>"Ваш пристрій може бути під'єднано тільки до Mi TV, Mi Box і кількох інших Android-пристроїв за допомогою Wi-Fi."</item>
+        <item>"Переконайтеся, що ви вибрали відповідну модель A/C у процесі під'єднання. Слідуйте підказкам на пристрої, доки не завершите під'єднання."</item>
+        <item>Ні. Ця функція в даний момент підтримується наступними моделями: Mi 4, Mi 4c і Redmi Note 2.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Нед</item>
+        <item>Пон</item>
+        <item>Вів</item>
+        <item>Сер</item>
+        <item>Чет</item>
+        <item>"П'ят"</item>
+        <item>Суб</item>
+    </string-array>
+    <string-array name="question">
+        <item>Чому мій телефон продовжує пошук бездротових пристроїв?</item>
+        <item>Чому я можу тільки увімкнути свій A/C, а не можу вимкнути його?</item>
+        <item>Чи можу я користуватися Mi 3, Мі 2 і Redmi як ІЧ-пультом?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Увімкнуити кодиціонер Haier у вітальні</item>
+        <item>Встановити температуру у 25 градусів</item>
+        <item>Встановити напрямок вітру \"Вгору\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Увімкнути кондиціонер Gree</item>
+        <item>Перемкнути у режим повороту</item>
+        <item>Збільшити силу вітру</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Увімкнути приставку</item>
+        <item>Я зочу дивитися Хунань ТБ</item>
+        <item>Повернутися до каналу 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Увімкнути кондиціонер</item>
+        <item>Я хочу дивитися Шеньчжень ТБ</item>
+        <item>Повернутися до каналу 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Увімкнути телевізор у спальні</item>
+        <item>Вимкнути телевізор</item>
+        <item>Збільшити гучність на телевізорі</item>
+    </string-array>
+</resources>

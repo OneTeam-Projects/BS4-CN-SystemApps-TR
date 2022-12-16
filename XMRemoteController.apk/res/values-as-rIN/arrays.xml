@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>ঠাণ্ডা হৈ আছে</item>
+        <item>তপত হৈ আছে</item>
+        <item>আদ্ৰতানাশকৰণ</item>
+        <item>ফেন</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>পুৰুষ</item>
+        <item>মহিলা</item>
+    </string-array>
+    <string-array name="answer">
+        <item>ৱাই-ফাই ব্যৱহাৰ কৰি আপোনাৰ ডিভাইচে কেৱল Mi টিভি, Mi বক্স আৰু কেইটামান অন্য Android ডিভাইচলৈ যোৰ কৰিব পাৰে।</item>
+        <item>যোৰ কৰাৰ প্ৰক্ৰিয়াত আপুনি সঠিক A/C মডেলটো চয়ন কৰাটো নিশ্চিত কৰক। যোৰ হোৱাৰ প্ৰক্ৰিয়া সমাপ্ত নোহোৱালৈকে আপোনাৰ ডিভাইচৰ ইংগিত অনুসৰণ কৰক।</item>
+        <item>"নহয়, বৰ্তমান আপুনি Mi 4, Mi 4c, আৰু ৰেডমি নোট 2 IR ৰিম'ট হিচাপে ব্যৱহাৰ কৰিব পাৰে।"</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>দেও</item>
+        <item>সোম</item>
+        <item>মংগল</item>
+        <item>বুধ</item>
+        <item>বৃহস্পতি</item>
+        <item>শুক্ৰ</item>
+        <item>শনি</item>
+    </string-array>
+    <string-array name="question">
+        <item>মোৰ ফোনটোৱে কিয় ৱায়াৰলেছ ডিভাইচৰ বাবে অনুসন্ধান কৰি থাকে?</item>
+        <item>মই কিয় মোৰ A/C-টো কেৱল অন কৰিবহে পাৰো, অফ কৰিব নোৱাৰো?</item>
+        <item>"মই Mi 3, Mi 2, আৰু ৰেডমিক এটা IR ৰিম'ট হিচাপে ব্যৱহাৰ কৰিব পাৰোনে?"</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>বৈঠকখানাত Haier এচি অন কৰক</item>
+        <item>উষ্ণতা 25 ডিগ্ৰীত ছেট কৰক</item>
+        <item>বতাহৰ দিশ \"ওপৰ\"লৈ ছেট কৰক</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree এচি অন কৰক</item>
+        <item>"দোলন ম'ডলৈ সলনি কৰক"</item>
+        <item>এচিটোক জোৰেৰে বতাহ নিৰ্গত কৰিবলৈ দিয়ক</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>ছেট-টপ বক্সটো অন কৰক</item>
+        <item>মই Hunan টিভি চাব খোজো</item>
+        <item>চেনেল 15-লৈ ঘূৰি যাওক</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>এচি অন কৰক</item>
+        <item>মই Shenzhen টিভি চাব খোজো</item>
+        <item>চেনেল 12-লৈ ঘূৰি যাওক</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>শয়নকক্ষত টিভি অন কৰক</item>
+        <item>টিভিটো অফ কৰক</item>
+        <item>টিভিত ভলিউম অধিক কৰক</item>
+    </string-array>
+</resources>

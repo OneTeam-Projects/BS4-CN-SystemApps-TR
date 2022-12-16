@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>Je speelt de hele nacht games terwijl iedereen slaapt</item>
+        <item>"Je moet 's ochtends een spelletje spelen om jezelf op te frissen"</item>
+        <item>Eten of een spelletje spelen; dat is de vraag</item>
+        <item>"Je moet 's middags een spelletje spelen om jezelf op te frissen"</item>
+        <item>Een dag hard werken betekent dat je een avond gamen hebt verdiend!</item>
+        <item>Je bent laat in de nacht nog intensief aan het gamen. Zorg goed voor je lichaam terwijl je jezelf vermaakt</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>04.00 - 07.00 uur</item>
+        <item>07.00 - 11.00 uur</item>
+        <item>11.00 - 14.00 uur</item>
+        <item>14.00 - 18.00 uur</item>
+        <item>18.00 - 22.00 uur</item>
+        <item>22.00 - 04.00 uur</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>zondag</item>
+        <item>maandag</item>
+        <item>dinsdag</item>
+        <item>woensdag</item>
+        <item>donderdag</item>
+        <item>vrijdag</item>
+        <item>zaterdag</item>
+    </string-array>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">Souhlas</string>
+    <string name="begin_use">Začít používat</string>
+    <string name="checKed_no_SIM_tips">Pro telefon v aktuálním stavu není dostupná datová síť</string>
+    <string name="checked_SIM">Kontrola karty SIM</string>
+    <string name="checked_Two_SIM">Nastavení dvou karet SIM</string>
+    <string name="checked_no_SIM">Nebyla nalezena karta SIM</string>
+    <string name="checked_one_sim">Nalezena karta SIM</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">Výběr jazyka</string>
+    <string name="choose_lock_add_fingerprint">Přidat otisk prstu</string>
+    <string name="choose_lock_add_fingerprint_tips">Pomocí otisku prstu můžete odemknout obrazovku a bezpečně a rychle se přihlásit</string>
+    <string name="choose_lock_title">Odemknout přes otisk prstu</string>
+    <string name="cloud_le_account">Přihlásit přes účet Letv</string>
+    <string name="cloud_login">Přihlásit</string>
+    <string name="cloud_register">Registrovat přes telefonní číslo</string>
+    <string name="cloud_tips">Přihlásit přes účet Coolpad pro synchronizaci osobních údajů, jako jsou kontakty, a vyhledat telefon</string>
+    <string name="cloud_titile">Účet Coolpad</string>
+    <string name="connect_WALN">Připojit k síti WLAN</string>
+    <string name="count_down">Odpočítávání</string>
+    <string name="experience_location_service">Vyhledávací služby</string>
+    <string name="experience_location_service_explain">Povolit aplikaci přístup k poloze</string>
+    <string name="experience_plan">Plán uživatelských zkušeností</string>
+    <string name="experience_plan_explain">Pomozte vylepšit a optimalizovat zkušenosti se systémem</string>
+    <string name="experience_setting">Zkušenosti a podmínky</string>
+    <string name="language_shutdown_tip">"Dlouho nebyla zjištěna žádná aktivita
+po odpočítávání
+se zařízení automaticky vypne"</string>
+    <string name="language_shutdown_title">Automaticky vypnout</string>
+    <string name="language_touch_turn_off">Stiskem zrušíte vypnutí</string>
+    <string name="last_step">Zpět</string>
+    <string name="mobile_move">Mobilní přenos</string>
+    <string name="network_flow">Datové přenosy</string>
+    <string name="network_flow_tips">Přístup k internetu přes mobilní síť, není-li připojena bezdrátová síť</string>
+    <string name="next_step">Další</string>
+    <string name="setup_success">Nastavení úspěšné</string>
+    <string name="setupwizard_wifi_cancle_save">Uložení zrušeno</string>
+    <string name="setupwizard_wifi_connect">Připojit k síti WLAN</string>
+    <string name="setupwizard_wifi_connected">Připojeno</string>
+    <string name="setupwizard_wifi_connecting">Připojování...</string>
+    <string name="setupwizard_wifi_dialog_cancel">Zrušit</string>
+    <string name="setupwizard_wifi_dialog_comfirm">OK</string>
+    <string name="setupwizard_wifi_dialog_connect">Připojit</string>
+    <string name="setupwizard_wifi_dialog_disconect">Odpojit</string>
+    <string name="setupwizard_wifi_dialog_hint_text">Heslo</string>
+    <string name="setupwizard_wifi_no_tips">V dosahu nejsou připojení Wi-Fi</string>
+    <string name="setupwizard_wifi_saved">Uloženo</string>
+    <string name="setupwizard_wifi_searching">Hledání</string>
+    <string name="sim_identifying">Identifikování...</string>
+    <string name="skip">Přeskočit</string>
+    <string name="usage_agreement">Uživatelská smlouva</string>
+    <string name="usage_policy">Zásady ochrany soukromí</string>
+</resources>

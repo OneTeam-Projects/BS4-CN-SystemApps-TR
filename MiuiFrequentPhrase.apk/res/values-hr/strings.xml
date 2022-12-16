@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Dodaj česte izraze</string>
+    <string name="delete_frequent_phrases">Izbriši česte izraze</string>
+    <string name="delete_frequent_phrases_confirm">Izbrisati odabrane česte izraze?</string>
+    <string name="edit_frequent_phrases">Uredi česte izraze</string>
+    <string name="frequent_phrases_des">Prilikom uređivanja teksta unesite česte fraze sa samo nekoliko dodira</string>
+    <string name="frequent_phrases_size_exceeded">Mogu dodati do %1$d česte izraze. Izbrišite nepotrebne da biste dodali još.</string>
+    <string name="menu_add_frequent_phrases">Dodaj</string>
+    <string name="menu_delete">Izbriši</string>
+    <string name="menu_edit">Uredi</string>
+    <string name="sync_phrase_label">Česti izrazi</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s gün içinde tam şarj olması bekleniyor</item>
+        <item quantity="one">%s gün içinde tam şarj olması bekleniyor</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s saat içinde tam şarj olması bekleniyor</item>
+        <item quantity="one">%s saat içinde tam şarj olması bekleniyor</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s dakika içinde tam şarj olması bekleniyor</item>
+        <item quantity="one">%s dakika içinde tam şarj olması bekleniyor</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s saat kullanılabilir</item>
+        <item quantity="one">%s saat kullanılabilir</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s dakika kullanılabilir</item>
+        <item quantity="one">%s dakika kullanılabilir</item>
+    </plurals>
+</resources>

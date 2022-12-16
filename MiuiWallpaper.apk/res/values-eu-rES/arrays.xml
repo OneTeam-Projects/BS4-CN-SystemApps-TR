@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Lurra</item>
+        <item>Horma-irudia/Primerako horma-irudiak/Lurra</item>
+        <item>Lurra;Primerako horma-irudiak;Lurra edizioa; Horma-irudia</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometria</item>
+        <item>Horma-irudia/Primerako horma-irudiak/Geometria</item>
+        <item>Geometria;Abstraktua;Primerako horma-irudia;Horma-irudia</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Planeta gorria</item>
+        <item>Horma-irudia/Primerako horma-irudiak/Planeta gorria</item>
+        <item>Marte;Marte edizioa;Primerako horma-irudiak; Horma-irudia</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Gailur elurtuak</item>
+        <item>Horma-irudia/Primerako horma-irudiak/Gailur elurtuak</item>
+        <item>Lurra;Mendiak;Primerako horma-irudia;Horma-irudia</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Primerako horma-irudiak</item>
+        <item>Horma-irudia/Primerako horma-irudiak</item>
+        <item>Primerako horma-irudiak;Horma-irudia;Horma-irudi dinamikoa;3D horma-irudia</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Eguraldia</item>
+        <item>Horma-irudia/Primerako horma-irudiak/Eguraldia</item>
+        <item>Eguraldia;Eguraldiaren informazioa;Primerako horma-irudia;Horma-irudia</item>
+    </string-array>
+</resources>

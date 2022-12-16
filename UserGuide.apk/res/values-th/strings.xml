@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="app_name">คู่มือการใช้งาน</string>
+    <string name="blackshark_game_phone">เกม Black Shark บนโทรศัพท์:</string>
+    <string name="copied">คัดลอกไปที่คลิปบอร์ด</string>
+    <string name="copy_fail">คัดลอกไม่สำเร็จ</string>
+    <string name="coy_link">คัดลอกลิงค์</string>
+    <string name="gamer_guide">คู่มือการใช้งาน</string>
+    <string name="network_weak">สัญญาณเครือข่ายต่ำ</string>
+    <string name="network_weak_desc">รีเฟรชเพื่อรีโหลดหน้า</string>
+    <string name="no_network">ตัดการเชื่อมต่อเครือข่าย</string>
+    <string name="no_network_desc">ตรวจสอบการตั้งค่าเครือข่าย แล้วคลิกเพื่อลองอีกครั้ง</string>
+    <string name="permission_internet">หากต้องการใช้บริการพื้นฐาน คุณอนุญาตให้คู่มือการใช้งานเชื่อมต่อกับเครือข่ายหรือไม่?</string>
+    <string name="permission_no">ยกเลิก</string>
+    <string name="permission_yes">อนุญาต</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="share_desc">คุณสามารถอ่านคุณสมบัติของเกมโทรศัพท์ Black Shark ที่นี่ อ่านคู่มือการใช้งาน!</string>
+    <string name="share_type">แชร์ไปที่</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="to_refresh">รีเฟรช</string>
+    <string name="try_again">ลองอีกครั้ง</string>
+    <string name="web_load_error">โหลดเว็บเพจไม่สำเร็จ</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>현재 네트워크 상태가 매우 좋습니다.</item>
+        <item>모바일 데이터 네트워크 신호가 약합니다. WLAN으로 전환하는 것이 권장됩니다.</item>
+        <item>WLAN 신호가 약합니다. 모바일 데이터로 전환하는 것이 권장됩니다.</item>
+        <item>현재 신호가 불안정합니다. 다른 곳으로 이동하거나 휴대폰을 잡는 위치를 조정해 보십시오.</item>
+        <item>현재 네트워크 상태가 보통입니다.</item>
+        <item>없음</item>
+    </string-array>
+</resources>

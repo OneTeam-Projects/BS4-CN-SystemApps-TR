@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">Förväntas att vara fullt laddat om %s dagar</item>
+        <item quantity="one">Förväntas att vara fullt laddat om %s dagar</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">Förväntas att vara fullt laddat om %s timmar</item>
+        <item quantity="one">Förväntas att vara fullt laddat om %s timmar</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">Förväntas att vara fullt laddat om %s minuter</item>
+        <item quantity="one">Förväntas att vara fullt laddat om %s minuter</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Användbar i %s timmar</item>
+        <item quantity="one">Användbar i %s timmar</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Användbar i %s minuter</item>
+        <item quantity="one">Användbar i %s minuter</item>
+    </plurals>
+</resources>

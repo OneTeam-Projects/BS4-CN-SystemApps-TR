@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passport_oauth_actionbar_title">Mi ଆକାଉଣ୍ଟ</string>
+    <string name="passport_oauth_sucess_tip">ଅଥୋରାଇଜ୍ କରାଯାଇଥିବା ସଫଳ ହୋଇଛି</string>
+</resources>

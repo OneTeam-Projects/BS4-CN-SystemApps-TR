@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">转到主屏幕</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享方式</string>
+    <string name="abc_shareactionprovider_share_with_application">使用%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="alert_dialog_cancel">取消</string>
+    <string name="alert_dialog_confirm">我知道了</string>
+    <string name="alert_dialog_connect_to_same_wifi">请将手机与电脑接入同一网络</string>
+    <string name="alert_dialog_connect_to_wifi">请将手机接入WiFi网络</string>
+    <string name="alert_dialog_continue">继续</string>
+    <string name="app_name">直播投屏服务</string>
+    <string name="miracast_finish">断开投屏</string>
+    <string name="miracast_help">用户帮助文档</string>
+    <string name="miracast_policies">隐私政策</string>
+    <string name="miracast_reject">取消投屏</string>
+    <string name="miracast_scan">扫码投屏</string>
+    <string name="miracast_scan_remind">主播投屏扫码确认</string>
+    <string name="miracast_scan_summary">主播投屏无需插件，即可实现画面与声音的同步投射；包含Wi-Fi连接与USB连接两种方式</string>
+    <string name="miracast_scan_summary_1">"1、前往黑鲨官方网站，下载安装黑鲨主播投屏Windows客户端 
+2、当前客户端仅支持Windows7及以上系统版本"</string>
+    <string name="miracast_scan_summary_2">"注：开启主播投屏后，因录屏冲突故黑鲨时刻将暂不可用 
+      开启网络加速、VPN类应用时，投屏将自动断开连接"</string>
+    <string name="miracast_scan_summary_3">已通过Wi-Fi连接到电脑</string>
+    <string name="miracast_scan_summary_5">已通过USB连接到电脑</string>
+    <string name="miracast_scan_summary_6">方式一：USB连接</string>
+    <string name="miracast_scan_summary_7">方式二：Wi-Fi连接</string>
+    <string name="miracast_scan_summary_8">前往【设置】-【更多设置】-【开发者选项】打开手机USB调试功能；使用USB数据线将手机与投屏设备连接，显示连接成功即可进入投屏模式</string>
+    <string name="miracast_scan_summary_9">点击下方【扫码投屏】，对准客户端二维码，在手机端点击【确认投屏】，手机画面与声音投射至投屏设备即为连接成功</string>
+    <string name="miracast_scan_title">主播投屏</string>
+    <string name="miracast_scan_usb_connected">USB投屏已连接</string>
+    <string name="miracast_scan_wifi_connected">Wi-Fi投屏已连接</string>
+    <string name="miracast_start">确认投屏</string>
+    <string name="notification_title">直播投屏工具正在后台运行</string>
+    <string name="notification_usb_connected">正在通过【USB连接】为此设备投屏</string>
+    <string name="notification_wifi_connected">正在通过【Wi-Fi连接】为此设备投屏</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="ssl_error_cert_invalid">SSL认证失败，是否继续访问？</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="toast_code_error">请核对二维码</string>
+</resources>

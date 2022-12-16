@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ar">
+        <item>自動選擇（推薦）</item>
+        <item>V3硬解優先 (ijkplayer)</item>
+        <item>軟解優先（兼容模式）</item>
+    </string-array>
+    <string-array name="at">
+        <item>根據機型和視頻智能適配</item>
+        <item>硬解播放，性能好，兼容性強</item>
+        <item>冬季暖手必備，偏重兼容性，適用所有手機系統</item>
+    </string-array>
+</resources>

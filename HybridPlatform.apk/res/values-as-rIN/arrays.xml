@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>প্ৰতিচ্ছবি সংৰক্ষণ কৰক</item>
+        <item>প্ৰতিচ্ছবি ভাগ-বতৰা কৰক</item>
+        <item>বাতিল</item>
+    </string-array>
+</resources>

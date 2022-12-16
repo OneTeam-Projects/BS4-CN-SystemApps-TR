@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>გაგრილება</item>
+        <item>გაცხელება</item>
+        <item>ტენიანობის დონის დაწევა</item>
+        <item>ვენტილიატორი</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>მამრობითი</item>
+        <item>მდედრობითი</item>
+    </string-array>
+    <string-array name="answer">
+        <item>თქვენი მოწყობილობა შეიძლება შეწყვილდეს მხოლოდ Mi TV-სთან, Mi Box-თან და რამოდენიმე სხვა Android–მოწყობილობასთან Wi-Fi-ს გამოყენებით.</item>
+        <item>დარწმუნდით, რომ შეწყვილების პროცესში სწორედ შეარჩიეთ A/C–ის მოდელი. დაიცავით თქვენი მოწყობილობის ინსტრუქციები შეწყვილების დასრულებამდე.</item>
+        <item>არა. ამჟამად თქვენ შეგიძლიათ გამოიყენოთ Mi 4, Mi 4c და Redmi Note 2 როგორც IR–პულტები.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>კვ</item>
+        <item>ორშ</item>
+        <item>სამ</item>
+        <item>ოთხ</item>
+        <item>ხუთ</item>
+        <item>პარ</item>
+        <item>შაბ</item>
+    </string-array>
+    <string-array name="question">
+        <item>რატომ განაგრძობს ჩემი ტელეფონი უკაბელო მოწყობილობების ძებნას?</item>
+        <item>რატომ ხდება, რომ ჩემი A/C–ის მხოლოდ ჩართვა შემიძლია და გამორთვა კი არა?</item>
+        <item>შეიძლება გამოვიყენო Mi 3, Mi 2, და Redmi როგორც IR–პულტი?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Haier AC–ის ჩართვა მისაღებ ოთახში</item>
+        <item>ტემპერატურის 25 გრადუსზე დაყენება</item>
+        <item>ქარის მიმართულების დაყენება – \"ზემოთ\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree AC–ის ჩართვა</item>
+        <item>გადართვა რყევის რეჟიმზე</item>
+        <item>AC–ნაკადის გამძლავრება</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Set-top box-ის ჩართვა</item>
+        <item>მინდა ვუყურო Hunan TV–ის</item>
+        <item>დაბრუნება მე–15 არხზე</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>AC–ის ჩართვა</item>
+        <item>მინდა ვუყურო Shenzhen TV–ის</item>
+        <item>დაბრუნება მე–12 არხზე</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>TV–ის ჩართვა საძინებელში</item>
+        <item>TV–ის გამორთვა</item>
+        <item>ხმის აწევა TV–ზე</item>
+    </string-array>
+</resources>

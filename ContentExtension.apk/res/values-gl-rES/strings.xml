@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Esvarar cara abaixo para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Soltar para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Iso é todo por agora</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Iso é todo por agora</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un segundo…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Non se puideron cargar os elementos</string>
+</resources>

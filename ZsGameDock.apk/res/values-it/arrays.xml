@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperSurround</item>
+        <item>GameMusic</item>
+        <item>SuperVoices</item>
+        <item>SuperFootstep</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>"Effetto surround campo sonoro migliorato, semplifica l'individuazione dei nemici, adatti agli sparatutto in prima persona"</item>
+        <item>Effetto musica di gioco, adatto ai MOBA e ai giochi musicali</item>
+        <item>Voce più chiara e reale, adatto agli RPG e ai giochi da tavolo</item>
+        <item>Migliora le prestazioni a bassa frequenza e semplifica il riconoscimento dei passi nei giochi in cui si mangia pollo</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Sidabrinės šerdies prioritetas, apriboti temperatūrą, minimalų energijos suvartojimą</item>
+        <item>Sidabrinės šerdies prioritetas, tinka paprastiems žaidimams</item>
+        <item>Auksinės šerdies prioritetas, riboti temperatūrą, tinka įprastiems 3D žaidimams</item>
+        <item>Auksinės šerdies prioritetas, tinkamas aukštos kokybės 3D žaidimams</item>
+        <item>Tik auksinės šerdies, maksimalus našumas suvartojant maksimaliai energijos</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Disabilita</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Off</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Off</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Colonna sonora</item>
+        <item>Loli</item>
+        <item>Signora dominante</item>
+        <item>Zio</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Priorità velocità</item>
+        <item>Bilanciato</item>
+        <item>"Priorità qualità dell'immagine"</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>BILANCIATA</item>
+        <item>STELLARE</item>
+        <item>ESAGERATA</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Bilanciamento tra prestazioni e consumi. Fornisce una soluzione prestazionale bilanciata per giochi generici</item>
+        <item>"Aumenta le prestazioni del telefono. Adatta per giochi con requisiti elevati in termini di qualità dell'immagine"</item>
+        <item>Massime prestazioni di gioco. Si consiglia un sistema di raffreddamento</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Modalità di bilanciamento: bilanciamento tra prestazioni e consumo energetico e fornisce una soluzione di prestazione bilanciata per giochi generali</item>
+        <item>"Modalità motore di gioco: potenziamento delle prestazioni del telefono, adatto a giochi con elevati requisiti di qualità dell'immagine"</item>
+        <item>Modalità ridicola: porta i telefoni a prestazioni estreme, che possono far surriscaldare notevolmente i telefoni</item>
+        <item>Modalità Ludicrous estrema: Vieta tutte le funzioni in background per mantenere i telefoni mantenendo le massime prestazioni, che potrebbero causare un riscaldamento significativo dei telefoni</item>
+    </string-array>
+</resources>

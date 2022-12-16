@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">“Bekleme”</string>
+    <string name="dialog_checkbox_hint">“Başka istem yok”</string>
+    <string name="dialog_message">“Bekleme etkinse arka planda çalıştığında veya ekran uyku moduna geçtiğinde oyun bekleme durumuna geçer. Geri sayım bittiğinde veya bildirim çubuğundaki “Beklemeyi durdur” düğmesine tıklayarak beklemeden çıkabilirsiniz. Cihazın uzun süre beklemede çalışması durumunda bir güç kaynağının bağlanması önerilir.”</string>
+    <string name="event_back_to_game">“Oyuna geri dön”</string>
+    <string name="event_end_holdon">“Bekleme devre dışı bırakıldı”</string>
+    <string name="label_holdon_duration">“Bekleme süresi”</string>
+    <string name="label_holdon_pattern">“Bekleme süresi politikası”</string>
+    <string name="notify_content" formatted="false">“%sKalan bekleme süresi%s”</string>
+    <string name="notify_hour_minute" formatted="false">“%d saat %d dakika”</string>
+    <string name="notify_less_one_minute">“Bir dakikadan az”</string>
+    <string name="notify_minute">“%d dakika”</string>
+    <string name="text_cancel_holdon">“Beklemeyi durdurma”</string>
+    <string name="text_duration_describe">“Bekleme etkinleştirildiğinde tek bekleme süresi seçin.” Uzun bekleme süresi gereksiz enerji tüketimine neden olabilir. Oyun makrosu da bekleme işlevini tetikleyebilir ve toplam bekleme süresini belirleyebilir.”</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">“Saat”</string>
+    <string name="text_minute">“Dakika”</string>
+    <string name="text_mute_description">“Bu işlevin etkinleştirilmesi [Ses Yardımcısı] işlevini de etkinleştirir. Sessiz durumdan geçici olarak çıkmak için medya sesini ayarlamak amacıyla ses düğmesine basın. Oyun sesini normalleştirmek için de Ses Yardımcısı simgesine tıklayın. Ses Yardımcısını yönetmek için lütfen [Ayarlar - Ses ve Titreşim - Ses Yardımcısı] bölümüne gidin.”</string>
+    <string name="text_mute_holdon_description">“Beklemedeyken oyun sessize alındı”</string>
+    <string name="text_pattern_describe">Bekleme süresi boyunca oyuna döndüğünüzde bekleme süresi geri sayımının yenilenip yenilenmeyeceğini seçin. Buna olumlu yanıt verilmesi, bekleme boyunca tek bir tekrarlayan görevi görüntülemek ve çalıştırmak için iyidir; olumsuz yanıt ise bekleme sırasında tam bir görevin yürütülmesine yardımcı olur.”</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">“%sBekleme tamamlandı”</string>
+    <string name="toast_header_fix">“Gamer Studio:”</string>
+    <string name="toast_how_to_holdon">Arka planda çalıştığında veya ekran uyku moduna geçtiğinde oyun bekleme durumuna girer</string>
+    <string name="toast_in_holdon_model">“%sOyun bekleme durumuna girdi”</string>
+    <string name="toast_not_support_holdon">Pil gücü çok düşük olduğundan veya güç tasarrufu modu etkinleştirildiğinden oyunu bekletmeye devam edemezsiniz</string>
+</resources>

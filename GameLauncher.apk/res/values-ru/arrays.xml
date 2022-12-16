@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>Вы играете всю ночь, пока все спят</item>
+        <item>Нужно поиграть утром, чтобы взбодриться</item>
+        <item>Поесть или поиграть, вот в чем вопрос</item>
+        <item>Нужно поиграть днем, чтобы взбодриться</item>
+        <item>Хорошо поработали днем — заслужили целую ночь игр!</item>
+        <item>Вы все еще активно играете поздно ночью. Позаботьтесь о своем теле, пока развлекаетесь</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>04.00–07.00</item>
+        <item>07.00–11.00</item>
+        <item>11.00–14.00</item>
+        <item>14.00–18.00</item>
+        <item>18.00–22.00</item>
+        <item>22.00–04.00</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+</resources>

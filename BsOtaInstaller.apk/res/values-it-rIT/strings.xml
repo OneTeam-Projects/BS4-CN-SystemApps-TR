@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">Accetta</string>
+    <string name="begin_use">Inizia a utilizzare</string>
+    <string name="checKed_no_SIM_tips">Nessuna rete dati disponibile per il telefono nello stato corrente</string>
+    <string name="checked_SIM">Verifica scheda SIM</string>
+    <string name="checked_Two_SIM">Impostazioni doppia scheda SIM</string>
+    <string name="checked_no_SIM">Nessuna scheda SIM trovata</string>
+    <string name="checked_one_sim">Scheda SIM trovata</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">Selezione lingua</string>
+    <string name="choose_lock_add_fingerprint">Aggiungi impronta digitale</string>
+    <string name="choose_lock_add_fingerprint_tips">"È possibile utilizzare l'impronta digitale per sbloccare lo schermo e accedere in modo sicuro e veloce"</string>
+    <string name="choose_lock_title">Sblocca tramite impronta digitale</string>
+    <string name="cloud_le_account">Accedi tramite account Letv</string>
+    <string name="cloud_login">Accedi</string>
+    <string name="cloud_register">Registrati tramite numero di telefono</string>
+    <string name="cloud_tips">Accedere tramite account Coolpad per sincronizzare i dati personali come i contatti e ricercare il telefono</string>
+    <string name="cloud_titile">Account Coolpad</string>
+    <string name="connect_WALN">Connetti a WLAN</string>
+    <string name="count_down">Conto alla rovescia</string>
+    <string name="experience_location_service">Servizi di localizzazione</string>
+    <string name="experience_location_service_explain">"Consenti all'applicazione di utilizzare i servizi di localizzazione"</string>
+    <string name="experience_plan">Programma User Experience</string>
+    <string name="experience_plan_explain">"Consente di migliorare e ottimizzare l'esperienza di sistema"</string>
+    <string name="experience_setting">Experience e termini</string>
+    <string name="language_shutdown_tip">"Nessuna attività rilevata per un lungo periodo
+Il dispositivo si spegnerà automaticamente
+dopo il conto alla rovescia"</string>
+    <string name="language_shutdown_title">Spegnimento automatico</string>
+    <string name="language_touch_turn_off">Toccare per annullare lo spegnimento</string>
+    <string name="last_step">Indietro</string>
+    <string name="mobile_move">Trasferimento mobile</string>
+    <string name="network_flow">Traffico di rete</string>
+    <string name="network_flow_tips">Accedere a Internet tramite rete mobile quando la rete wireless non è connessa</string>
+    <string name="next_step">Avanti</string>
+    <string name="setup_success">Configurazione completata</string>
+    <string name="setupwizard_wifi_cancle_save">Salvataggio annullato</string>
+    <string name="setupwizard_wifi_connect">Connetti a WLAN</string>
+    <string name="setupwizard_wifi_connected">connesso</string>
+    <string name="setupwizard_wifi_connecting">Connessione in corso...</string>
+    <string name="setupwizard_wifi_dialog_cancel">Annulla</string>
+    <string name="setupwizard_wifi_dialog_comfirm">OK</string>
+    <string name="setupwizard_wifi_dialog_connect">Connetti</string>
+    <string name="setupwizard_wifi_dialog_disconect">Disconnetti</string>
+    <string name="setupwizard_wifi_dialog_hint_text">Password</string>
+    <string name="setupwizard_wifi_no_tips">Nessuna connessione Wi-Fi raggiungibile</string>
+    <string name="setupwizard_wifi_saved">Salvato</string>
+    <string name="setupwizard_wifi_searching">Ricerca in corso</string>
+    <string name="sim_identifying">Identificazione in corso...</string>
+    <string name="skip">Salta</string>
+    <string name="usage_agreement">"Contratto di licenza con l'utente"</string>
+    <string name="usage_policy">Informativa sulla privacy</string>
+</resources>

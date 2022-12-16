@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Přidat častá slovní spojení</string>
+    <string name="delete_frequent_phrases">Smazat častá slovní spojení</string>
+    <string name="delete_frequent_phrases_confirm">Smazat vybraná častá slovní spojení?</string>
+    <string name="edit_frequent_phrases">Upravit častá slovní spojení</string>
+    <string name="frequent_phrases_des">Zadávejte častá slovní spojení pár klepnutími při úpravách textu</string>
+    <string name="frequent_phrases_size_exceeded">Lze přidat až %1$d často používaných slovních spojení. Pokud chcete přidat další, nejprve smažte některé již nepoužívané fráze.</string>
+    <string name="menu_add_frequent_phrases">Přidat</string>
+    <string name="menu_delete">Smazat</string>
+    <string name="menu_edit">Upravit</string>
+    <string name="sync_phrase_label">Častá slovní spojení</string>
+</resources>

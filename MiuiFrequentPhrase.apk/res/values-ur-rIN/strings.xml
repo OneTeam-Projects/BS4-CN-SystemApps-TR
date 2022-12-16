@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">مکرر فقرے شامل کریں</string>
+    <string name="delete_frequent_phrases">مکرر فقرے حذف کریں</string>
+    <string name="delete_frequent_phrases_confirm">منتخب کردہ مکرر قفرے حذف کریں؟</string>
+    <string name="edit_frequent_phrases">مکرر فقرے میں ترمیم کریں</string>
+    <string name="frequent_phrases_des">متن میں ترمیم کرتے وقت صرف چند ٹیپس کے ساتھ مکرر فقرے شامل کریں</string>
+    <string name="frequent_phrases_size_exceeded">%1$d مسلسل آنے والے جملے تک اضافہ کر سکتے ہیں۔ زیادہ اضافہ کرنے کے لیے پہلے غیر ضروری حذف کریں۔</string>
+    <string name="menu_add_frequent_phrases">شامل کریں</string>
+    <string name="menu_delete">حذف کریں</string>
+    <string name="menu_edit">ترمیم کریں</string>
+    <string name="sync_phrase_label">مکرر فقرے</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">من المتوقع أن يتم الشحن الكامل خلال %s أيام</item>
+        <item quantity="one">من المتوقع أن يتم الشحن الكامل خلال %s أيام</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">من المتوقع أن يتم الشحن الكامل خلال %s ساعات</item>
+        <item quantity="one">من المتوقع أن يتم الشحن الكامل خلال %s ساعات</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">من المتوقع أن يتم الشحن الكامل خلال %s دقائق</item>
+        <item quantity="one">من المتوقع أن يتم الشحن الكامل خلال %s دقائق</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">صالحة للاستخدام لمدة %s ساعات</item>
+        <item quantity="one">صالحة للاستخدام لمدة %s ساعات</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">صالحة للاستخدام لمدة %s ساعات</item>
+        <item quantity="one">صالحة للاستخدام لمدة %s ساعات</item>
+    </plurals>
+</resources>

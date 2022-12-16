@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">Naar verwachting volledig opgeladen in %s dagen</item>
+        <item quantity="one">Naar verwachting volledig opgeladen in %s dagen</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">Naar verwachting volledig opgeladen in %s uur</item>
+        <item quantity="one">Naar verwachting volledig opgeladen in %s uur</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">Naar verwachting volledig opgeladen in %s minuten</item>
+        <item quantity="one">Naar verwachting volledig opgeladen in %s minuten</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Bruikbaar voor %s uren</item>
+        <item quantity="one">Bruikbaar voor %s uren</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Bruikbaar voor %s minuten</item>
+        <item quantity="one">Bruikbaar voor %s minuten</item>
+    </plurals>
+</resources>

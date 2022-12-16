@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alpha">Alfa</string>
+    <string name="app_name">Baris Dukungan</string>
+    <string name="cancel">BATAL</string>
+    <string name="clear_hero">HAPUS</string>
+    <string name="color">Warna</string>
+    <string name="create_hero">BUAT</string>
+    <string name="dialog_title_delete">HAPUS</string>
+    <string name="dialog_title_message">Yakin Anda ingin menghapus %s?</string>
+    <string name="gunsight_style">Gaya</string>
+    <string name="height">Tinggi</string>
+    <string name="hero_name">NAMA HERO</string>
+    <string name="piggy_daqiao">Tampilkan Baris Dukungan untuk Skill Da Qiao</string>
+    <string name="piggy_ganjiang">Tampilkan Baris Dukungan untuk Skill Gan Jiang</string>
+    <string name="piggy_gongsunli">Tampilkan Baris Dukungan untuk Skill Gongsun Li</string>
+    <string name="piggy_lixin">Tampilkan Baris Dukungan untuk Skill Li Xin</string>
+    <string name="piggy_moba_line_summary">Gambar Garis Dukungan untuk MOBA</string>
+    <string name="piggy_moba_line_title">Baris Dukungan</string>
+    <string name="piggy_zhongkui">Tampilkan Baris Dukungan untuk Skill Zhong Kui</string>
+    <string name="radius">Radius</string>
+    <string name="rename">UBAH NAMA</string>
+    <string name="restore">Pulihkan</string>
+    <string name="save">SIMPAN</string>
+    <string name="style">Gaya</string>
+    <string name="thickness">Ketebalan</string>
+    <string name="title_fps">BARIS FPS</string>
+    <string name="title_moba">BARIS MOBA</string>
+    <string name="toast_bangs_mode_not_supported">GameSupport: Tincore KeyMapper Tidak Didukung</string>
+    <string name="toast_hero_exist">GameSupport: %s Diduplikasi</string>
+    <string name="toast_no_pkg">GameSupport: Gagal Membaca Nama Game</string>
+    <string name="toast_portrait_not_support">GameSupport: Potret Tidak Didukung</string>
+    <string name="translate">Terjemahkan</string>
+    <string name="width">Lebar</string>
+</resources>

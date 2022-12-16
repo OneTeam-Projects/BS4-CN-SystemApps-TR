@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">ເພີ່ມຄຳທີ່ມັກໃຊ້</string>
+    <string name="delete_frequent_phrases">ລົບຄຳທີ່ມັກໃຊ້</string>
+    <string name="delete_frequent_phrases_confirm">ລົບຄຳທີ່ມັກໃຊ້ທີ່ເລືອກບໍ?</string>
+    <string name="edit_frequent_phrases">ແກ້ໄຂຄຳທີ່ມັກໃຊ້</string>
+    <string name="frequent_phrases_des">ປ້ອນຄຳທີ່ມັກໃຊ້ດ້ວຍການແຕະສອງສາມຄັ້ງໃນຂະນະທີ່ແກ້ໄຂຂໍ້ຄວາມ</string>
+    <string name="frequent_phrases_size_exceeded">ສາມາດເພີ່ມຄຳທີ່ມັກໃຊ້ໄດ້ສູງສຸດ %1$d ອັນ. ລົບອັນທີ່ບໍ່ຈຳເປັນອອກເພື່ອເພີ່ມອັນໃໝ່.</string>
+    <string name="menu_add_frequent_phrases">​ເພີ່ມ</string>
+    <string name="menu_delete">ລົບ</string>
+    <string name="menu_edit">​ແກ້​ໄຂ</string>
+    <string name="sync_phrase_label">ຄຳທີ່ມັກໃຊ້</string>
+</resources>

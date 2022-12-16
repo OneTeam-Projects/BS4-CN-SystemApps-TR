@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="am_pms">
+        <item>@string/am</item>
+        <item>@string/pm</item>
+    </string-array>
+    <string-array name="chinese_days">
+        <item>@string/chinese_day_1</item>
+        <item>@string/chinese_day_2</item>
+        <item>@string/chinese_day_3</item>
+        <item>@string/chinese_day_4</item>
+        <item>@string/chinese_day_5</item>
+        <item>@string/chinese_day_6</item>
+        <item>@string/chinese_day_7</item>
+        <item>@string/chinese_day_8</item>
+        <item>@string/chinese_day_9</item>
+        <item>@string/chinese_day_10</item>
+        <item>@string/chinese_day_11</item>
+        <item>@string/chinese_day_12</item>
+        <item>@string/chinese_day_13</item>
+        <item>@string/chinese_day_14</item>
+        <item>@string/chinese_day_15</item>
+        <item>@string/chinese_day_16</item>
+        <item>@string/chinese_day_17</item>
+        <item>@string/chinese_day_18</item>
+        <item>@string/chinese_day_19</item>
+        <item>@string/chinese_day_20</item>
+        <item>@string/chinese_day_21</item>
+        <item>@string/chinese_day_22</item>
+        <item>@string/chinese_day_23</item>
+        <item>@string/chinese_day_24</item>
+        <item>@string/chinese_day_25</item>
+        <item>@string/chinese_day_26</item>
+        <item>@string/chinese_day_27</item>
+        <item>@string/chinese_day_28</item>
+        <item>@string/chinese_day_29</item>
+        <item>@string/chinese_day_30</item>
+    </string-array>
+    <string-array name="chinese_digits">
+        <item>@string/chinese_digit_zero</item>
+        <item>@string/chinese_digit_one</item>
+        <item>@string/chinese_digit_two</item>
+        <item>@string/chinese_digit_three</item>
+        <item>@string/chinese_digit_four</item>
+        <item>@string/chinese_digit_five</item>
+        <item>@string/chinese_digit_six</item>
+        <item>@string/chinese_digit_seven</item>
+        <item>@string/chinese_digit_eight</item>
+        <item>@string/chinese_digit_nine</item>
+        <item>@string/chinese_digit_ten</item>
+    </string-array>
+    <string-array name="chinese_leap_months">
+        <item>@string/empty</item>
+        <item>@string/chinese_leap</item>
+    </string-array>
+    <string-array name="chinese_months">
+        <item>@string/chinese_month_january</item>
+        <item>@string/chinese_month_february</item>
+        <item>@string/chinese_month_march</item>
+        <item>@string/chinese_month_april</item>
+        <item>@string/chinese_month_may</item>
+        <item>@string/chinese_month_june</item>
+        <item>@string/chinese_month_july</item>
+        <item>@string/chinese_month_august</item>
+        <item>@string/chinese_month_september</item>
+        <item>@string/chinese_month_october</item>
+        <item>@string/chinese_month_november</item>
+        <item>@string/chinese_month_december</item>
+    </string-array>
+    <string-array name="chinese_symbol_animals">
+        <item>@string/chinese_symbol_animals_mouse</item>
+        <item>@string/chinese_symbol_animals_cow</item>
+        <item>@string/chinese_symbol_animals_tiger</item>
+        <item>@string/chinese_symbol_animals_rabbit</item>
+        <item>@string/chinese_symbol_animals_dragon</item>
+        <item>@string/chinese_symbol_animals_snake</item>
+        <item>@string/chinese_symbol_animals_horse</item>
+        <item>@string/chinese_symbol_animals_sheep</item>
+        <item>@string/chinese_symbol_animals_monkey</item>
+        <item>@string/chinese_symbol_animals_chicken</item>
+        <item>@string/chinese_symbol_animals_dog</item>
+        <item>@string/chinese_symbol_animals_pig</item>
+    </string-array>
+    <string-array name="control_about_describe_detail">
+        <item>Operation Center - Left Pressure Sensor</item>
+        <item>SharkTime - AI recording</item>
+        <item>Peripherals - Handle, keyboard, mouse</item>
+        <item>Game Dock - Smart Cube</item>
+        <item>Game Dock - Auxiliary line</item>
+    </string-array>
+    <string-array name="control_about_describe_detail_penrose">
+        <item>SharkTime - AI recording</item>
+        <item>Peripherals - Handle, keyboard, mouse</item>
+        <item>Game Dock - Smart Cube</item>
+        <item>Game Dock - Auxiliary line</item>
+    </string-array>
+    <string-array name="control_function_teaching_title1_describe">
+        <item>The Flat panel mode enables a larger game vision by changing the game frame ratio, offering players a unique game control experience. The unique handle area can allow more button mapping functions. Virtual buttons can be used to customize the number, position. The screen mapping area can also be dragged and adjusted as desired.</item>
+    </string-array>
+    <string-array name="control_function_teaching_title2_describe">
+        <item>Tap the Edit button in the lower right corner of the handle area to show the entrance for setting management</item>
+        <item>Tap the Edit button again to hide the mapping location and entrance for setting management</item>
+    </string-array>
+    <string-array name="control_function_teaching_title3_describe">
+        <item>Tap the Edit button on the interface for setting management to access Handle Area -> Button Management Interface</item>
+        <item>Drag the roulette or button in the handle area to swap them</item>
+        <item>Players can tap the switch to enable/disable X key, Y key, and roulette pressure sensor</item>
+        <item>Players can slide the adjuster to adjust the roulette pressure sensor</item>
+    </string-array>
+    <string-array name="control_function_teaching_title3_describe_penrose">
+        <item>Tap the Edit button on the interface for setting management to access Handle Area -> Button Management Interface</item>
+        <item>Drag the roulette or button in the handle area to swap them</item>
+        <item>Players can tap the switch to enable/disable X key, Y key</item>
+    </string-array>
+    <string-array name="control_function_teaching_title4_describe">
+        <item>Restriction borders will appear after players long press the roulette or button in the handle area</item>
+        <item>Drag the roulette to move the position within the specified range; drag downwards beyond the specified range to swap and adjust the position of the button</item>
+        <item>Drag the button to swap it with the roulette</item>
+    </string-array>
+    <string-array name="control_function_teaching_title5_describe">
+        <item>Tap Mapping Management on the interface for setting management to access Games -> Mapping Management Interface</item>
+        <item>Drag the roulette or the X, Y, and LS icon in the game interface to adjust the mapping position</item>
+    </string-array>
+    <string-array name="control_function_teaching_title5_describe_penrose">
+        <item>Tap Mapping Management on the interface for setting management to access Games -> Mapping Management Interface</item>
+        <item>Drag the roulette or the X, Y icon in the game interface to adjust the mapping position</item>
+    </string-array>
+    <string-array name="control_tutorial_title1_describe">
+        <item>The left side is the virtual controller area, and the right side is the game screen area</item>
+        <item>The type, number and position of buttons can be customized in the virtual handle area</item>
+        <item>The game screen can be switched in three proportions</item>
+    </string-array>
+    <string-array name="control_tutorial_title2_describe">
+        <item>By clicking the icon in the upper right corner of the game card, you can switch the game screen ratio. After switching, you need to restart the game to take effect.</item>
+    </string-array>
+    <string-array name="control_tutorial_title3_describe1">
+        <item>Wider：The left virtual controller supports up to two virtual buttons, and the game screen on the right is wider, and the additional vertical field of view is relatively small</item>
+    </string-array>
+    <string-array name="control_tutorial_title3_describe2">
+        <item>Moderate：The left virtual handle supports up to four virtual buttons, the right game screen has a moderate width, and the additional vertical field of view is larger</item>
+    </string-array>
+    <string-array name="control_tutorial_title3_describe3">
+        <item>Narrow：The left virtual controller supports up to four virtual buttons, the right game screen has a narrower width, and the additional vertical field of view is the largest</item>
+    </string-array>
+    <string-array name="control_tutorial_title4_describe">
+        <item>Click the Edit button in the lower right corner of the handle area to enter the button management and mapping management interface</item>
+        <item>When the button type is button, click the corresponding button to activate or deactivate</item>
+        <item>Drag the buttons in the left area to customize the position of the buttons</item>
+    </string-array>
+    <string-array name="control_tutorial_title5_describe">
+        <item>The mapping board is an operation button in the virtual handle area on the left, which supports the click of the entire area</item>
+        <item>After entering the button management interface, select the button type as mapping board to switch successfully</item>
+        <item>Drag the left area mapping board to customize the position</item>
+    </string-array>
+    <string-array name="detailed_am_pms">
+        <item>@string/midnight</item>
+        <item>@string/early_morning</item>
+        <item>@string/morning</item>
+        <item>@string/noon</item>
+        <item>@string/afternoon</item>
+        <item>@string/evening</item>
+        <item>@string/night</item>
+    </string-array>
+    <string-array name="earthly_branches">
+        <item>@string/earthly_branches_zi</item>
+        <item>@string/earthly_branches_chou</item>
+        <item>@string/earthly_branches_yin</item>
+        <item>@string/earthly_branches_mao</item>
+        <item>@string/earthly_branches_chen</item>
+        <item>@string/earthly_branches_si</item>
+        <item>@string/earthly_branches_wu</item>
+        <item>@string/earthly_branches_wei</item>
+        <item>@string/earthly_branches_shen</item>
+        <item>@string/earthly_branches_you</item>
+        <item>@string/earthly_branches_xu</item>
+        <item>@string/earthly_branches_hai</item>
+    </string-array>
+    <string-array name="eras">
+        <item>@string/eras_bc</item>
+        <item>@string/eras_ad</item>
+    </string-array>
+    <string-array name="game_event_list">
+        <item>打开语音设置</item>
+        <item>关闭通知显示</item>
+        <item>打开体感设置</item>
+        <item>打开（开启）/关闭防误触</item>
+        <item>开始挂机</item>
+        <item>打开（开启）/关闭通知屏蔽</item>
+        <item>打开（开启）/关闭监控浮窗</item>
+        <item>游戏助手/打开游戏助手</item>
+        <item>外设管理/打开装备在线</item>
+        <item>打开潜水模式</item>
+        <item>更换游戏空间壁纸</item>
+        <item>打开投屏</item>
+        <item>打开（开启）/关闭狩猎模式</item>
+    </string-array>
+    <string-array name="game_event_summary_list">
+        <item>打开语音操控设置页面，进行按键配置</item>
+        <item>通知显示关闭，减少通知干扰</item>
+        <item>打开体感操控设置页面，进行按键配置</item>
+        <item>开启防误触功能，降低非游戏手势干扰</item>
+        <item>游戏处于后台或息屏时，游戏将持续运行</item>
+        <item>开启通知屏蔽</item>
+        <item>开启监控浮窗，时刻监控游戏性能变化</item>
+        <item>展开游戏助手，进行功能启停操作</item>
+        <item>拉起外设管理界面，对外设进行配置</item>
+        <item>进入潜水模式</item>
+        <item>进入壁纸及视图更换界面</item>
+        <item>打开主播投屏扫描页面</item>
+        <item>狩猎模式功能</item>
+    </string-array>
+    <string-array name="game_time_tips">
+        <item>You play games all night while everyone else is sleeping</item>
+        <item>You have to play a game in the morning to refresh yourself</item>
+        <item>To eat or to play a game; that is the question</item>
+        <item>You have to play a game in the afternoon to refresh yourself</item>
+        <item>"A hard day's work means you've earned a night of gaming!"</item>
+        <item>"You're still gaming intensively late at night. Take care of your body while entertaining yourself"</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>4:00-7:00AM</item>
+        <item>7:00-11:00AM</item>
+        <item>11:00AM-14:00PM</item>
+        <item>14:00-18:00PM</item>
+        <item>18:00-22:00PM</item>
+        <item>22:00PM-4:00AM</item>
+    </string-array>
+    <string-array name="heavenly_stems">
+        <item>@string/heavenly_stems_jia</item>
+        <item>@string/heavenly_stems_yi</item>
+        <item>@string/heavenly_stems_bing</item>
+        <item>@string/heavenly_stems_ding</item>
+        <item>@string/heavenly_stems_wu</item>
+        <item>@string/heavenly_stems_ji</item>
+        <item>@string/heavenly_stems_geng</item>
+        <item>@string/heavenly_stems_xin</item>
+        <item>@string/heavenly_stems_ren</item>
+        <item>@string/heavenly_stems_gui</item>
+    </string-array>
+    <string-array name="months">
+        <item>@string/month_january</item>
+        <item>@string/month_february</item>
+        <item>@string/month_march</item>
+        <item>@string/month_april</item>
+        <item>@string/month_may</item>
+        <item>@string/month_june</item>
+        <item>@string/month_july</item>
+        <item>@string/month_august</item>
+        <item>@string/month_september</item>
+        <item>@string/month_october</item>
+        <item>@string/month_november</item>
+        <item>@string/month_december</item>
+    </string-array>
+    <string-array name="months_short">
+        <item>@string/month_january_short</item>
+        <item>@string/month_february_short</item>
+        <item>@string/month_march_short</item>
+        <item>@string/month_april_short</item>
+        <item>@string/month_may_short</item>
+        <item>@string/month_june_short</item>
+        <item>@string/month_july_short</item>
+        <item>@string/month_august_short</item>
+        <item>@string/month_september_short</item>
+        <item>@string/month_october_short</item>
+        <item>@string/month_november_short</item>
+        <item>@string/month_december_short</item>
+    </string-array>
+    <string-array name="months_shortest">
+        <item>@string/month_january_shortest</item>
+        <item>@string/month_february_shortest</item>
+        <item>@string/month_march_shortest</item>
+        <item>@string/month_april_shortest</item>
+        <item>@string/month_may_shortest</item>
+        <item>@string/month_june_shortest</item>
+        <item>@string/month_july_shortest</item>
+        <item>@string/month_august_shortest</item>
+        <item>@string/month_september_shortest</item>
+        <item>@string/month_october_shortest</item>
+        <item>@string/month_november_shortest</item>
+        <item>@string/month_december_shortest</item>
+    </string-array>
+    <string-array name="solar_terms">
+        <item>@string/empty</item>
+        <item>@string/solar_term_slight_cold</item>
+        <item>@string/solar_term_great_cold</item>
+        <item>@string/solar_term_spring_begins</item>
+        <item>@string/solar_term_the_rains</item>
+        <item>@string/solar_term_insects_awaken</item>
+        <item>@string/solar_term_vernal_equinox</item>
+        <item>@string/solar_term_clear_and_bright</item>
+        <item>@string/solar_term_grain_rain</item>
+        <item>@string/solar_term_summer_begins</item>
+        <item>@string/solar_term_grain_buds</item>
+        <item>@string/solar_term_grain_in_ear</item>
+        <item>@string/solar_term_summer_solstice</item>
+        <item>@string/solar_term_slight_heat</item>
+        <item>@string/solar_term_great_heat</item>
+        <item>@string/solar_term_autumn_begins</item>
+        <item>@string/solar_term_stopping_the_heat</item>
+        <item>@string/solar_term_white_dews</item>
+        <item>@string/solar_term_autumn_equinox</item>
+        <item>@string/solar_term_cold_dews</item>
+        <item>@string/solar_term_hoar_frost_falls</item>
+        <item>@string/solar_term_winter_begins</item>
+        <item>@string/solar_term_light_snow</item>
+        <item>@string/solar_term_heavy_snow</item>
+        <item>@string/solar_term_winter_solstice</item>
+    </string-array>
+    <string-array name="system_event_list">
+        <item>打开/开始录屏（录制）</item>
+        <item>打开截图/打开截屏/截屏截屏</item>
+        <item>打开/回复消息</item>
+        <item>关闭/停止录屏（录制）</item>
+        <item>打开QQ</item>
+        <item>打开微信</item>
+        <item>亮度高一点/提升亮度</item>
+        <item>亮度低一点/降低亮度</item>
+        <item>最大亮度/最小亮度</item>
+        <item>声音大一点/提升音量</item>
+        <item>声音小一点/降低音量</item>
+        <item>最大音量/最小音量</item>
+        <item>打开浏览器</item>
+        <item>接听电话</item>
+        <item>拒绝来电/挂断电话</item>
+    </string-array>
+    <string-array name="system_event_summary_list">
+        <item>开始录制画面</item>
+        <item>截取当前画面</item>
+        <item>来消息时，在消息尚处于悬浮状态时，说 出“回复消息”即可将通知转为应用小窗</item>
+        <item>停止录制画面</item>
+        <item>打开QQ小窗</item>
+        <item>打开微信小窗</item>
+        <item>提升20%亮度</item>
+        <item>降低20%亮度</item>
+        <item>将画面亮度提升为最高/最低</item>
+        <item>提升20%音量</item>
+        <item>降低20%音量</item>
+        <item>将媒体音量提升至最大/降低至最小</item>
+        <item>打开系统浏览器</item>
+        <item>接听当前来电</item>
+        <item>拒接当前来电</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="week_days">
+        <item>@string/sunday</item>
+        <item>@string/monday</item>
+        <item>@string/tuesday</item>
+        <item>@string/wednesday</item>
+        <item>@string/thursday</item>
+        <item>@string/friday</item>
+        <item>@string/saturday</item>
+    </string-array>
+    <string-array name="week_days_short">
+        <item>@string/sunday_short</item>
+        <item>@string/monday_short</item>
+        <item>@string/tuesday_short</item>
+        <item>@string/wednesday_short</item>
+        <item>@string/thursday_short</item>
+        <item>@string/friday_short</item>
+        <item>@string/saturday_short</item>
+    </string-array>
+    <string-array name="week_days_shortest">
+        <item>@string/sunday_shortest</item>
+        <item>@string/monday_shortest</item>
+        <item>@string/tuesday_shortest</item>
+        <item>@string/wednesday_shortest</item>
+        <item>@string/thursday_shortest</item>
+        <item>@string/friday_shortest</item>
+        <item>@string/saturday_shortest</item>
+    </string-array>
+</resources>

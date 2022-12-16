@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperSurround</item>
+        <item>GameMusic</item>
+        <item>SuperVoices</item>
+        <item>SuperFootstep</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>تأثير محيطي محسّن لمجال الصوت، من السهل تحديد موقع الأعداء، ومناسب للألعاب التي يكون فيها اللاعب هو القناص</item>
+        <item>تأثير موسيقى الألعاب، مناسب لساحة المعركة متعددة اللاعبين على الإنترنت، والألعاب الموسيقية</item>
+        <item>صوت أكثر وضوحًا وحقيقية، ومناسب لألعاب تقمص الأدوار، وألعاب الطاولة</item>
+        <item>تحسين الأداء منخفض التردد وتسهيل ألعاب أكل الدجاج للتعرف على الخطوات</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>أولوية مركز المعالجة الفضي، وتقييد درجة الحرارة، والحد الأدنى من استهلاك الطاقة</item>
+        <item>أولوية مركز المعالجة الفضي، مناسبة للألعاب البسيطة</item>
+        <item>أولوية مركز المعالجة الذهبي، وتقييد درجة الحرارة، ومناسبة للألعاب ثلاثية الأبعاد العادية</item>
+        <item>أولوية مركز المعالجة الذهبي، مناسبة للألعاب ثلاثية الأبعاد عالية الجودة</item>
+        <item>مركز المعالجة الذهبي فقط، أقصى قدر من الأداء من خلال الحد الأقصى من استهلاك الطاقة أيضًا</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>تعطيل</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>إيقاف التشغيل</item>
+        <item>مرتان</item>
+        <item>4 مرات</item>
+        <item>8 مرات</item>
+        <item>16 مرة</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>إيقاف التشغيل</item>
+        <item>مرتان</item>
+        <item>4 مرات</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>المقطع الصوتي</item>
+        <item>لولي</item>
+        <item>السيدة المتسلطة</item>
+        <item>العم</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>السرعة أولاً</item>
+        <item>متوازن</item>
+        <item>جودة الصورة أولاً</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>توازن</item>
+        <item>SOLARCORE</item>
+        <item>سخيف</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>التوازن بين الأداء واستهلاك الطاقة، وتوفير حل أداء متوازن للألعاب العامة</item>
+        <item>تعزيز أداء الهاتف، مناسب للألعاب ذات المتطلبات العالية لجودة الصورة</item>
+        <item>الأداء الفائق للألعاب، يوصى باستخدام المبرد المرفق</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>وضع التوازن: التوازن بين الأداء واستهلاك الطاقة ، وتوفير حل أداء متوازن للألعاب العامة</item>
+        <item>وضع محرك اللعبة: تعزيز أداء الهاتف ، ومناسب للألعاب ذات المتطلبات العالية لجودة الصورة</item>
+        <item>وضع السخرية: اجعل الهواتف بأداء فائق ، مما قد يتسبب في ارتفاع درجة حرارة الهواتف بشكل ملحوظ</item>
+        <item>وضع السخرية القصوى: يحظر على جميع وظائف الخلفية الحفاظ على أداء الهواتف الذروة ، مما قد يؤدي إلى ارتفاع درجة حرارة الهواتف بشكل ملحوظ</item>
+    </string-array>
+</resources>

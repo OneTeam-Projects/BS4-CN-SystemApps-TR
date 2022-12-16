@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="del_menbers_dlg_des">
+        <item quantity="other">确定要移除所选的%1$d位群成员吗？</item>
+    </plurals>
+</resources>

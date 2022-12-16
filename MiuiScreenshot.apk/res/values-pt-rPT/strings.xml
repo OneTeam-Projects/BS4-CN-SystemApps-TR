@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Escolher uma aplicação</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Função +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Partilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Partilhar com a aplicação %s</string>
+    <string name="abc_toolbar_collapse_description">Reduzir</string>
+    <string name="app_name">Captura de ecrã</string>
+    <string name="long_screenshot_guide_text">"Toque para fazer
+uma captura de ecrã estendida"</string>
+    <string name="long_screenshot_out_of_memory_error">A imagem é demasiado grande</string>
+    <string name="long_screenshot_processing">A processar…</string>
+    <string name="long_screenshot_stop">Concluído</string>
+    <string name="long_screenshot_top_msg">A criar captura de ecrã…</string>
+    <string name="long_screenshot_top_msg_manual">Recorte a captura de ecrã e toque no botão para concluir</string>
+    <string name="partial_screenshot_edit">Editar</string>
+    <string name="partial_screenshot_repaint">Começar de novo</string>
+    <string name="partial_screenshot_save">Guardar</string>
+    <string name="partial_screenshot_save_successful">Guardado com sucesso</string>
+    <string name="partial_screenshot_share">Partilhar</string>
+    <string name="screenshot_edit">Editar</string>
+    <string name="screenshot_failed_in_landscape_mode">Não é possível fazer capturas de ecrã estendidas no modo paisagem</string>
+    <string name="screenshot_failed_to_capture_title">Esta aplicação não permite capturar o ecrã</string>
+    <string name="screenshot_failed_to_save_title">Não foi possível guardar. Não há espaço suficiente no armazenamento.</string>
+    <string name="screenshot_feedback_txt">Comentários</string>
+    <string name="screenshot_insert_failed">Não foi possível carregar a captura de ecrã. Tire uma nova ou veja a imagem na Galeria.</string>
+    <string name="screenshot_long_screenshot">Estender</string>
+    <string name="screenshot_send">Enviar</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

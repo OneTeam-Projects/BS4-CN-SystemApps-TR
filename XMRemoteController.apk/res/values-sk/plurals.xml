@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APK</item>
+        <item quantity="one">%d APK</item>
+        <item quantity="few">%d APK</item>
+        <item quantity="many">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s sťahovaní</item>
+        <item quantity="one">%1$s sťahovanie</item>
+        <item quantity="few">%1$s sťahovania</item>
+        <item quantity="many">%1$s sťahovaní</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s užívateľov</item>
+        <item quantity="one">%1$s užívateľ</item>
+        <item quantity="few">%1$s užívatelia</item>
+        <item quantity="many">%1$s užívateľov</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Pred %1$d dňami</item>
+        <item quantity="one">Pred %1$d dňom</item>
+        <item quantity="few">Pred %1$d dňom</item>
+        <item quantity="many">%1$d days ago</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Pred %1$d hodinami</item>
+        <item quantity="one">Pred %1$d hodinou</item>
+        <item quantity="few">Pred %1$d hodinou</item>
+        <item quantity="many">%1$d hours ago</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">dostupných %d značiek</item>
+        <item quantity="one">dostupná 1 značka</item>
+        <item quantity="few">dostupné %d značky</item>
+        <item quantity="many">dostupných %d značiek</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">pred %1$d minútami</item>
+        <item quantity="one">pred %1$d minútou</item>
+        <item quantity="few">pred %1$d minútami</item>
+        <item quantity="many">%1$d minutes ago</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d dielov</item>
+        <item quantity="one">%d diel</item>
+        <item quantity="few">%d diely</item>
+        <item quantity="many">%d dielov</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d videí</item>
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d videá</item>
+        <item quantity="many">%d videí</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">Prehrať %d dielov</item>
+        <item quantity="one">Prehrať %d diel</item>
+        <item quantity="few">Prehrať %d diely</item>
+        <item quantity="many">Prehrať %d dielov</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">Nájdených %d videí</item>
+        <item quantity="one">Nájdené %d video</item>
+        <item quantity="few">Nájdené %d videá</item>
+        <item quantity="many">Nájdených %d videí</item>
+    </plurals>
+</resources>

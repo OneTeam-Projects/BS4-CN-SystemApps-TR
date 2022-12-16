@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">സ്ക്രീൻഷോട്ട്</string>
+    <string name="long_screenshot_guide_text">"ഒരു സ്ക്രോളിംഗ് സ്ക്രീൻഷോട്ട്
+നിർമ്മിക്കാൻ ടാപ്പുചെയ്യുക"</string>
+    <string name="long_screenshot_out_of_memory_error">ഇമേജ് വളരെ വലുതാണ്</string>
+    <string name="long_screenshot_processing">പ്രോസസ്സ് ചെയ്യുന്നു…</string>
+    <string name="long_screenshot_stop">പൂർത്തിയാക്കി</string>
+    <string name="long_screenshot_top_msg">സ്ക്രീൻഷോട്ട് സൃഷ്ടിക്കുന്നു…</string>
+    <string name="long_screenshot_top_msg_manual">സ്ക്രീൻഷോട്ട് ക്രോപ്പുചെയ്ത് പൂർത്തിയാക്കാൻ ബട്ടണിൽ ടാപ്പുചെയ്യുക</string>
+    <string name="partial_screenshot_edit">എഡിറ്റുചെയ്യുക</string>
+    <string name="partial_screenshot_repaint">വീണ്ടും ആരംഭിക്കുക</string>
+    <string name="partial_screenshot_save">സംരക്ഷിക്കുക</string>
+    <string name="partial_screenshot_save_successful">സംരക്ഷിച്ചു</string>
+    <string name="partial_screenshot_share">പങ്കിടുക</string>
+    <string name="screenshot_edit">എഡിറ്റുചെയ്യുക</string>
+    <string name="screenshot_failed_in_landscape_mode">ലാൻഡ്സ്കേപ്പ് മോഡിൽ സ്ക്രീൻഷോട്ടുകൾ സ്കോൾ ചെയ്യാനാവില്ല</string>
+    <string name="screenshot_failed_to_capture_title">സ്‌ക്രീൻഷോട്ടുകൾ എടുക്കാൻ ഈ ആപ്പ് അനുവദിക്കുന്നില്ല</string>
+    <string name="screenshot_failed_to_save_title">സംരക്ഷിക്കാനായില്ല. മതിയായ സ്റ്റോറേജ് ഇടമില്ല.</string>
+    <string name="screenshot_feedback_txt">ഫീഡ്‌ബാക്ക്</string>
+    <string name="screenshot_insert_failed">സ്ക്രീൻഷോട്ട് ലോഡുചെയ്യാനായില്ല. പുതിയതൊന്ന് എടുക്കുകയോ ഗാലറിയിലെ ഇമേജ് കാണുകയോ ചെയ്യുക.</string>
+    <string name="screenshot_long_screenshot">സ്ക്രോൾ ചെയ്യുക</string>
+    <string name="screenshot_send">അയയ്ക്കുക</string>
+</resources>

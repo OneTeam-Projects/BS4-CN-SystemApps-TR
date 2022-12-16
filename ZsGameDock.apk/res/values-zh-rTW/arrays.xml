@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dock_center_wifi_status_array">
+        <item>差</item>
+        <item>偏弱</item>
+        <item>良好</item>
+        <item>極佳</item>
+    </string-array>
+    <string-array name="dts_game_sound">
+        <item>遊戲DTS</item>
+        <item>低延遲音頻</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>環繞立體聲</item>
+        <item>遊戲音樂</item>
+        <item>人聲增強</item>
+        <item>腳步聲增強</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>增強聲場環繞效果，易於定位敵人，適合FPS類遊戲</item>
+        <item>優化遊戲音樂效果，適合MOBA、音樂類遊戲</item>
+        <item>人聲更加清晰和真實，適合RPG、棋牌類遊戲</item>
+        <item>提升低頻表現，使吃雞類遊戲更易分辨腳步聲</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>優先使用小核，限制溫升，降低溫度和耗電量</item>
+        <item>優先使用小核，適合畫面簡單的遊戲</item>
+        <item>優先使用大核，限制溫升，適合壹般的3D遊戲</item>
+        <item>優先使用大核，適合高質量的3D遊戲</item>
+        <item>強制使用大核，最大化性能，溫度和耗電量將顯著增加</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>關閉</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>關</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>關</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>原聲</item>
+        <item>蘿莉</item>
+        <item>禦姐</item>
+        <item>大叔</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>速度優先</item>
+        <item>均衡</item>
+        <item>畫質優先</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>均衡模式</item>
+        <item>智能模式</item>
+        <item>燒雞模式</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>兼顧性能與續航，為壹般遊戲提供均衡的性能方案</item>
+        <item>強化手機性能，適合在畫質要求較高的遊戲中使用</item>
+        <item>釋放手機極致性能，建議進行輔助散熱</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>均衡模式：兼顧性能與續航，為壹般遊戲提供均衡的性能方案</item>
+        <item>智能模式：強化手機性能，適合在畫質要求較高的遊戲中使用</item>
+        <item>燒雞模式：釋放手機極致性能，手機可能明顯發熱</item>
+        <item>極限燒雞模式：禁用所有後臺功能，遊戲保持峰值性能，手機可能嚴重發熱</item>
+    </string-array>
+</resources>

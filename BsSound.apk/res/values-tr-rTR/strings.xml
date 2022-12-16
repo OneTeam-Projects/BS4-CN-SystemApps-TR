@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DTSSound</string>
+    <string name="blackshark_headset">Black Shark oyun kulaklığı</string>
+    <string name="btn_cancel">İptal</string>
+    <string name="btn_default">Varsayılan</string>
+    <string name="default_effect">Varsayılan efekt</string>
+    <string name="dts_all_tag">Hepsi</string>
+    <string name="dts_audio">DTS Efekti</string>
+    <string name="dts_default_style">Varsayılan efekt</string>
+    <string name="dts_headset_equalizer">Kulaklık ekolayzer</string>
+    <string name="dts_headset_equalizer_common">genel</string>
+    <string name="dts_headset_equalizer_custom">Özel</string>
+    <string name="dts_headset_equalizer_fashion">Popüler</string>
+    <string name="dts_headset_equalizer_jazz">Caz</string>
+    <string name="dts_headset_equalizer_rock">Rock</string>
+    <string name="dts_headset_message">Kablolu bir kulaklık takıldığında etkili olur</string>
+    <string name="dts_headset_optimize">Kulak ses optimizasyonu</string>
+    <string name="dts_headset_optimize_message">Kulaklık modeline göre optimize edin</string>
+    <string name="dts_message">Desteklenen video ve müzik yazılımında kablolu kulaklıklar için DTS sesini etkinleştirin (DTS sesi her zaman hoparlörlerden açıktır)</string>
+    <string name="dts_open_error">DTS açılamadı</string>
+    <string name="dts_open_headset_error">Kulak sesi açılamadı</string>
+    <string name="dts_rec_tag">Önerilen</string>
+    <string name="dts_search">Ara</string>
+    <string name="dts_start">Aç</string>
+    <string name="eq_set_error">Ekolayzer Ayarları yapılamadı</string>
+    <string name="headset_calibration">Kablolu kulaklığın kontrol düğmesini kalibre edin</string>
+    <string name="headset_volume_control">Ses artışını/düşünü kontrol edin</string>
+    <string name="headset_wire_drives">Kulaklık kontrol işlevini ayarlayın</string>
+    <string name="is_no_headset">Lütfen kulaklık takın</string>
+</resources>

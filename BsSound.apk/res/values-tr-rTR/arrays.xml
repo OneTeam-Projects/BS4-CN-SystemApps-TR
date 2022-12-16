@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dtsMusicStyle">
+        <item>Rock</item>
+        <item>Caz</item>
+        <item>Popüler</item>
+        <item>Klasik</item>
+        <item>Blues</item>
+        <item>Elektronik Müzik</item>
+        <item>Country</item>
+        <item>Dans</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="dts_sound_mode">
+        <item>Genel</item>
+        <item>Müzik</item>
+        <item>Video</item>
+        <item>Ses</item>
+        <item>Stereo çevreleme</item>
+        <item>Oyun Müziği</item>
+        <item>İnsan Geliştirme</item>
+        <item>Ayak Sesi Yoğunlaştırma</item>
+    </string-array>
+</resources>

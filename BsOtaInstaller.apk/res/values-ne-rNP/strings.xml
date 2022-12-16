@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">सहमत हुनहोस्</string>
+    <string name="begin_use">प्रयोग गर्न सुरु गर्नुहोस्</string>
+    <string name="checKed_no_SIM_tips">हालको स्थितिमा फोनको लागि कुनै डेटा नेटवर्क उपलब्ध छैन</string>
+    <string name="checked_SIM">SIM कार्डको जाँच गर्नुहोस्</string>
+    <string name="checked_Two_SIM">डुअल SIM कार्ड सेटिङहरू</string>
+    <string name="checked_no_SIM">कुनै SIM कार्ड भेटिएन</string>
+    <string name="checked_one_sim">SIM कार्ड भेट्टियो</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">भाषा चयन</string>
+    <string name="choose_lock_add_fingerprint">फिंगरप्रिन्ट थप्नुहोस्</string>
+    <string name="choose_lock_add_fingerprint_tips">तपाईं उक्त स्क्रिन अनलक गर्न र सुरक्षित रूपमा र छिटो लग इन गर्न एउटा फिंगरप्रिन्ट प्रयोग गर्न सक्नुहुन्छ</string>
+    <string name="choose_lock_title">फिंगरप्रिन्टमार्फत अनलक गर्नुहोस्</string>
+    <string name="cloud_le_account">Letv एकाउंटमार्फत लग इन गर्नुहोस्</string>
+    <string name="cloud_login">लग इन गर्नुहोस्</string>
+    <string name="cloud_register">फोन नम्बरमार्फत दर्ता गर्नुहोस्</string>
+    <string name="cloud_tips">सम्पर्क र फोन खोज जस्ता व्यक्तिगत डेटालाई सिंक्रोनाइज गर्न Coolpad एकाउंटमार्फत लग इन गर्नुहोस्</string>
+    <string name="cloud_titile">Coolpad एकाउंट</string>
+    <string name="connect_WALN">WLAN मा जडान गर्नुहोस्</string>
+    <string name="count_down">उल्टोगिन्ती</string>
+    <string name="experience_location_service">स्थान सेवा</string>
+    <string name="experience_location_service_explain">अनुप्रयोगलाई स्थानमा अनुमति दिनुहोस्</string>
+    <string name="experience_plan">प्रयोगकर्ताको अनुभव सम्बन्धी योजना</string>
+    <string name="experience_plan_explain">प्रणालीको अनुभवमा सुधार गर्ने त्यसलाई आफू अनुकूल पार्नमा मद्दत गर्ने</string>
+    <string name="experience_setting">अनुभव र सर्तहरू</string>
+    <string name="language_shutdown_tip">"लामो समयदेखि कुनै क्रियाकलाप पत्ता लगाइएको छैन
+उक्त यन्त्र उल्टोगिन्तीपछि स्वचालित रूपमा बन्द हुनेछ
+"</string>
+    <string name="language_shutdown_title">स्वचालित रूपमा बन्द गर्नुहोस्</string>
+    <string name="language_touch_turn_off">बन्द गर्ने काम रद्द गर्न टच गर्नुहोस्</string>
+    <string name="last_step">पछाडि</string>
+    <string name="mobile_move">मोबाइल ट्रान्फर</string>
+    <string name="network_flow">नेटवर्क ट्राफिक</string>
+    <string name="network_flow_tips">कुनै वायरलेस नेटवर्क जडान नभएको बेला मोबाइल नेटवर्कमार्फत इन्टरनेटमाथि पहुँच राख्नुहोस्</string>
+    <string name="next_step">अर्को</string>
+    <string name="setup_success">सेटअप सफल भयो</string>
+    <string name="setupwizard_wifi_cancle_save">सुरक्षित गर्ने कार्य रद्द गरियो</string>
+    <string name="setupwizard_wifi_connect">WLAN मा जडान गर्नुहोस्</string>
+    <string name="setupwizard_wifi_connected">जडान गरिएको</string>
+    <string name="setupwizard_wifi_connecting">जडान गर्दै...</string>
+    <string name="setupwizard_wifi_dialog_cancel">रद्द गर्नुहोस्</string>
+    <string name="setupwizard_wifi_dialog_comfirm">ठीक छ</string>
+    <string name="setupwizard_wifi_dialog_connect">जडान गर्नुहोस्</string>
+    <string name="setupwizard_wifi_dialog_disconect">विच्छेद गर्नुहोस्</string>
+    <string name="setupwizard_wifi_dialog_hint_text">पासवर्ड</string>
+    <string name="setupwizard_wifi_no_tips">दायरा भित्र कुनै Wi-fi जडान छैन</string>
+    <string name="setupwizard_wifi_saved">सुरक्षित गरियो</string>
+    <string name="setupwizard_wifi_searching">खोजी गर्दै</string>
+    <string name="sim_identifying">पहिचान गर्दै...</string>
+    <string name="skip">छाड्नेहोस्</string>
+    <string name="usage_agreement">प्रयोगकर्ता सम्झौता</string>
+    <string name="usage_policy">गोपनीयता नीति</string>
+</resources>

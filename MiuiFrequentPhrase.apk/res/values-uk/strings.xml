@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Додати часто використовувані фрази</string>
+    <string name="delete_frequent_phrases">Видалити часто використовувані фрази</string>
+    <string name="delete_frequent_phrases_confirm">Видалити вибрані часто використовувані фрази?</string>
+    <string name="edit_frequent_phrases">Редагувати часто використовувані фрази</string>
+    <string name="frequent_phrases_des">Вводьте часто використовувані фрази всього лише декількома натисками, під час редагування тексту</string>
+    <string name="frequent_phrases_size_exceeded">Можна додати до %1$d часто використовуваних фраз. Видаліть непотрібні, щоб додати нові.</string>
+    <string name="menu_add_frequent_phrases">Додати</string>
+    <string name="menu_delete">Видалити</string>
+    <string name="menu_edit">Змінити</string>
+    <string name="sync_phrase_label">Часто використовувані фрази</string>
+</resources>

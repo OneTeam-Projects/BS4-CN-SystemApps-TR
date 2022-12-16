@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Хлађење</item>
+        <item>Грејање</item>
+        <item>Одржавање</item>
+        <item>Вентилатор</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Мушко</item>
+        <item>Женско</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Ваш уређај може се упарити само са Ми TV, Mi Box, и још неколико Андроид уређаја који користе Wi-Fi.</item>
+        <item>Уверите се да сте изабрали прави A/C модел у процесу упаривања. Пратите упутства на свом уређају док се упаривање не заврши.</item>
+        <item>Не. Тренутно можете користити Mi 4, Mi 4c, и Redmi Note 2 као IR даљинске управљаче.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Нeд</item>
+        <item>Пoн</item>
+        <item>Уто</item>
+        <item>Срe</item>
+        <item>Чeт</item>
+        <item>Пeт</item>
+        <item>Сyб</item>
+    </string-array>
+    <string-array name="question">
+        <item>Зашто мој телефон тражи бежичне уређаје?</item>
+        <item>Зашто могу да укључим A/C а не могу да искључим?</item>
+        <item>Да ли могу да користим Mi 3, Mi 2, и Redmi као IR даљински?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Укључите Haier AC у дневној соби</item>
+        <item>Подесите температуру на 25 степени</item>
+        <item>Поставите смер ветра на \"Горе\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Укључите Gree AC</item>
+        <item>Пребаците на режим љуљања</item>
+        <item>Подесите AC да дува јаче</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Укључите set-top box</item>
+        <item>Ја желим гледати Hunan TV</item>
+        <item>Вратите се на канал 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Укључите AC</item>
+        <item>Желим гледати Shenzhen TV</item>
+        <item>Вратите се на канал 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Укључите TV у спаваћој соби</item>
+        <item>Искључите TV</item>
+        <item>Појачајте јачину звука на телевизору</item>
+    </string-array>
+</resources>

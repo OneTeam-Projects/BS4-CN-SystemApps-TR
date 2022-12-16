@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">ཚན་པ་%dཆོག་པ།</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">ཚན་པ་%dའདྲི་རྩད།</item>
+    </plurals>
+    <plurals name="app_settings_disabled_header_title">
+        <item quantity="other">ཉེར་སྤྱོད་མགྱོགས་པོ་%dབརྡ་ཐོ་བཀག་པ།</item>
+    </plurals>
+    <plurals name="app_settings_enabled_header_title">
+        <item quantity="other">ཉེར་སྤྱོད་མགྱོགས་པོ་%dབརྡ་ཐོ་བསྐུར་ཆོག་པ།</item>
+    </plurals>
+    <plurals name="features_picker_activity_item_folder_detail">
+        <item quantity="other">ཚན་པ%d</item>
+    </plurals>
+    <plurals name="features_picker_activity_label_multi">
+        <item quantity="other">ཚན་པ%dབདམས་ཟིན།</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">དབང་ཚད་%d</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">ཚན་པ%dབདམས་ཟིན།</item>
+    </plurals>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>ঠান্ডা হচ্ছে</item>
+        <item>গরম হচ্ছে</item>
+        <item>নিরাদর</item>
+        <item>ফ্যান</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>পুরুষ</item>
+        <item>মহিলা</item>
+    </string-array>
+    <string-array name="answer">
+        <item>আপনার ডিভাইস শুধু Mi টিভি,Mi বক্স এবং কিছু Android ডিভাইসগুলির সাথে ওয়াই ফাই ব্যবহার করে যুক্ত হতে পারে।</item>
+        <item>ঠিক করে দেখে নিন আপনি সঠিক A/C মডেলটি বেছেছেন যুক্ত করার জন্য।যতখন না যুক্ত করার প্রক্রিয়া শেষ না হচ্ছে ততখন আপনার ডিভাইসে যে লেখাগুলো দেখা যাচ্ছে সেগুলি অনুসরণ করুন।</item>
+        <item>না,আপনি বর্তমানে Mi 4, Mi 4c, এবং Redmi Note 2 IR রিমোট হিসেবে ব্যবহার করতে পারবে।</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>রবি</item>
+        <item>সোম</item>
+        <item>মঙ্গল</item>
+        <item>বুধ</item>
+        <item>বৃহ</item>
+        <item>শুক্র</item>
+        <item>শনি</item>
+    </string-array>
+    <string-array name="question">
+        <item>আমার ফোন সারাখন কেন ওয়ারলেস ডিভাইসের জন্য খোঁজ করেন?</item>
+        <item>কেন শুধু আমার অ্যাকাউন্ট অন করতে পারি বন্ধ করতে পারি না কেন?</item>
+        <item>আমি কি Mi 3,Mi 2ও Redmi IR রিমোট হিসেবে ব্যবহার করতে পারি?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>বসার ঘরে Haier AC চালু কর</item>
+        <item>তাপমাত্রা 25 ডিগ্রীতে সেট করুন</item>
+        <item>হাওয়ার দিক \"উপরের\" দিকে সেট করুন</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>গ্রিন এসি চালু করুন</item>
+        <item>সুইংগিং মোডে সুইচ করুন</item>
+        <item>এসি আরো জোর করুন</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>সেট টপ বক্স চালু করুন</item>
+        <item>আমি হুনান টিভি দেখতে চাই</item>
+        <item>15 চ্যানেলে ফিরে যান</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>A/C চালু করুন</item>
+        <item>আমি সেনজেন টিভি দেখতে চাই</item>
+        <item>12 চ্যানেলে ফিরে যান</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>শোবার ঘরে টিভি চালু করুন</item>
+        <item>টি ভি বন্ধ করুন</item>
+        <item>টিভির ভলিউম বাড়ান</item>
+    </string-array>
+</resources>

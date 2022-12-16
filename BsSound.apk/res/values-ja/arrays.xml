@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dtsMusicStyle">
+        <item>ロック</item>
+        <item>ジャズ</item>
+        <item>ポピュラー</item>
+        <item>クラシック</item>
+        <item>ブルース</item>
+        <item>電子音楽</item>
+        <item>カントリー</item>
+        <item>ダンス</item>
+        <item>カスタマイズ済み</item>
+    </string-array>
+    <string-array name="dts_sound_mode">
+        <item>一般</item>
+        <item>音楽</item>
+        <item>ビデオ</item>
+        <item>音声</item>
+        <item>ステレオサラウンド</item>
+        <item>ゲーム音楽</item>
+        <item>人間強化</item>
+        <item>足音の増強</item>
+    </string-array>
+</resources>

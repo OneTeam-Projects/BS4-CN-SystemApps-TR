@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%dଟି APK</item>
+        <item quantity="one">%dAPK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$sଟି ଡାଉନଲୋଡ୍</item>
+        <item quantity="one">%1$sଡାଉନଲୋଡ୍</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$sଟି ଉପଭୋକ୍ତା</item>
+        <item quantity="one">%1$s ଉପଭୋକ୍ତା</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$dଟି ଦିନ ପୂର୍ବରୁ</item>
+        <item quantity="one">%1$d ଦିନ ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$dଟି ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+        <item quantity="one">%1$d ଘଣ୍ଟା ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%dଟି ବ୍ରାଣ୍ଡ ଉପଲବ୍ଧ</item>
+        <item quantity="one">1 ବ୍ରାଣ୍ଡ ଉପଲବ୍ଧ</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$dଟି ମିନିଟ୍‌ ପୂର୍ବରୁ</item>
+        <item quantity="one">%1$d ମିନିଟ୍‌ ପୂର୍ବରୁ</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%dଟି ଅଧ୍ୟାୟ</item>
+        <item quantity="one">%d ଅଧ୍ୟାୟ</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%dଟି ଭିଡିଓ</item>
+        <item quantity="one">%d ଭିଡିଓ</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">ଅଧ୍ୟାୟ %d ପ୍ଲେ କରନ୍ତୁ</item>
+        <item quantity="one">ଅଧ୍ୟାୟ %d ପ୍ଲେ କରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">%dଟି ଭିଡିଓ ମିଳିଛି</item>
+        <item quantity="one">%d ଭିଡିଓ ମିଳିଛି</item>
+    </plurals>
+</resources>

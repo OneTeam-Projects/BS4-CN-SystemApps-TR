@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SystemBlock</string>
+    <string name="get_power_level">获取当前电量</string>
+    <string name="get_power_state">连接着充电器</string>
+    <string name="haptic">振动</string>
+    <string name="haptic_description">%1 振动</string>
+    <string name="magnifier">放大镜</string>
+    <string name="power_level">当电量发生变化</string>
+    <string name="power_state">当%1充电器</string>
+    <string name="system_block">系统功能</string>
+    <string name="toggle_magnifier">显示/隐藏放大镜</string>
+</resources>

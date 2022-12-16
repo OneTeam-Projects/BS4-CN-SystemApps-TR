@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_type">
+        <item>ئالاھىدە كىچىك</item>
+        <item>كىچىك</item>
+        <item>سۈكۈتتىكى چوڭلۇقى</item>
+        <item>چوڭ</item>
+        <item>ئالاھىدە چوڭ</item>
+        <item>ئىنتايىن چوڭ</item>
+    </string-array>
+    <string-array name="welcome_tips">
+        <item>ياخشىمۇسىز</item>
+        <item>مەن شياۋئەي ياردەمچىسى، بۇ قېتىملىق سۆزلىشىشنى مەن قوبۇللايمەن</item>
+    </string-array>
+</resources>

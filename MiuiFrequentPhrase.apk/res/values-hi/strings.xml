@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">आम वाक्य जोड़ें</string>
+    <string name="delete_frequent_phrases">आम वाक्य हटाएं</string>
+    <string name="delete_frequent_phrases_confirm">चयनित आम वाक्य हटाएं?</string>
+    <string name="edit_frequent_phrases">आम वाक्य संपादित करें</string>
+    <string name="frequent_phrases_des">टेक्स्ट संपादित करने के दौरान केवल कुछ ही टैप में आम वाक्य दर्ज करें</string>
+    <string name="frequent_phrases_size_exceeded">अधिकतम %1$d आम वाक्य जोड़े जा सकते हैं. और आम वाक्य जोड़ने के लिए अनावश्यक आम वाक्य हटाएं.</string>
+    <string name="menu_add_frequent_phrases">जोड़ें</string>
+    <string name="menu_delete">हटाएं</string>
+    <string name="menu_edit">संपादित करें</string>
+    <string name="sync_phrase_label">आम वाक्य</string>
+</resources>

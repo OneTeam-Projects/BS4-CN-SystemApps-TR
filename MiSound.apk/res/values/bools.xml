@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="is_dirac_supported">true</bool>
+    <bool name="miui_config_enableRingerRelieveSound">true</bool>
+    <bool name="miui_volume_expand_freeland">false</bool>
+    <bool name="music_is_dolby_supported">false</bool>
+    <bool name="preference_item_bg_enable_variablePadding">false</bool>
+    <bool name="support_dirac">true</bool>
+</resources>

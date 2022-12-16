@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Tez-tez ishlatiladigan so‘zlarni qo‘shish</string>
+    <string name="delete_frequent_phrases">Tez-tez ishlatiladigan so‘zlarni o‘chirish</string>
+    <string name="delete_frequent_phrases_confirm">Tanlangan so‘zlar o‘chirilsinmi?</string>
+    <string name="edit_frequent_phrases">Tez-tez ishlatiladigan so‘zlarni o‘zgartirish</string>
+    <string name="frequent_phrases_des">Matnni o‘zgartirayotganda tez-tez ishlatiladigan so‘zlarni kiriting</string>
+    <string name="frequent_phrases_size_exceeded">%1$dgacha tez-tez ishlatiladigan so‘zlarni qo‘shib bo‘lmaydi. Ko‘proq qo‘shish uchun eskirganlarni o‘chiring.</string>
+    <string name="menu_add_frequent_phrases">Qo‘shish</string>
+    <string name="menu_delete">O‘chirish</string>
+    <string name="menu_edit">O‘zgartirish</string>
+    <string name="sync_phrase_label">Tez-tez ishlatiladigan so‘zlar</string>
+</resources>

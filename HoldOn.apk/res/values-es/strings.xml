@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suspensión</string>
+    <string name="dialog_checkbox_hint">No más indicaciones</string>
+    <string name="dialog_message">Si se activa suspensión, cuando el juego se ejecuta en segundo plano o la pantalla se pone en suspensión, el juego entra en el estado de suspensión. Puedes salir de suspensión cuando la cuenta regresiva ha terminado o haciendo clic en el botón Parar suspensión en la barra de notificación. En el caso de ejecutar la suspensión por mucho tiempo, se recomienda conectar a una fuente de alimentación.</string>
+    <string name="event_back_to_game">Volver al juego</string>
+    <string name="event_end_holdon">Suspensión desactivada</string>
+    <string name="label_holdon_duration">Tiempo de suspensión</string>
+    <string name="label_holdon_pattern">Política de tiempo de suspensión</string>
+    <string name="notify_content" formatted="false">%sTiempo de suspensión restante%s</string>
+    <string name="notify_hour_minute" formatted="false">"%d horas  %d minutos"</string>
+    <string name="notify_less_one_minute">Menos de un minuto</string>
+    <string name="notify_minute">%d minutos</string>
+    <string name="text_cancel_holdon">Parar suspensión</string>
+    <string name="text_duration_describe">"Selecciona el tiempo de suspensión único cuando se activa suspensión. La suspensión durante mucho tiempo puede causar un consumo de energía innecesario. La macro del juego también puede  activar la suspensión y determinar el tiempo de suspensión total."</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">Horas</string>
+    <string name="text_minute">Minutos</string>
+    <string name="text_mute_description">Activar esta función también activará la función [Asistente de sonido]. Para salir temporalmente del estado silencioso, pulsa el botón volumen para ajustar el volumen de medios mientras se hace clic en el icono Asistente de sonido para normalizar el volumen del juego. Para administrar el Asistente de sonido, vete a [Ajustes - Sonido y vibración - Asistente de sonido].</string>
+    <string name="text_mute_holdon_description">Juego silenciado al entrar en suspensión</string>
+    <string name="text_pattern_describe">Escoger si actualizar o no la cuenta regresiva de tiempo de suspensión cuando vuelves al juego durante el tiempo de suspensión. La respuesta positiva es buena para ver y ejecutar una tarea repetitiva única en suspensión, mientras que la negativa ayuda a ejecutar una tarea completa en suspensión</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sSuspensión completa</string>
+    <string name="toast_header_fix">Gamer Studio:</string>
+    <string name="toast_how_to_holdon">El juego entra en el estado de suspensión cuando el juego se ejecuta en segundo plano o la pantalla se pone en suspensión</string>
+    <string name="toast_in_holdon_model">%sEl juego ha entrado en el estado de suspensión</string>
+    <string name="toast_not_support_holdon">Como el consumo de batería es demasiado bajo o se ha activado el modo de ahorro de energía, no puedes continuar para entrar en suspensión el juego</string>
+</resources>

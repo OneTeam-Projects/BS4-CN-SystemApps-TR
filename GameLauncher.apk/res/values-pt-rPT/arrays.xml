@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>Joga a noite toda quando todos estão a dormir</item>
+        <item>Tem que jogar de manhã para refrescar a mente</item>
+        <item>Comer ou jogar; eis a questão</item>
+        <item>Deve jogar durante a tarde para refrescar a mente</item>
+        <item>Um dia duro de trabalho significa que pode jogar a noite toda!</item>
+        <item>Continua a jogar afincadamente a uma hora tardia. Cuide do seu corpo enquanto se diverte</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>04h00–07h00</item>
+        <item>07h00–11h00</item>
+        <item>11h00–14h00</item>
+        <item>14h00–18h00</item>
+        <item>18h00–22h00</item>
+        <item>22h00–04h00</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Domingo</item>
+        <item>Segunda-feira</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sábado</item>
+    </string-array>
+</resources>

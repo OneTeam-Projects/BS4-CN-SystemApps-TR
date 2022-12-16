@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ar">
+        <item>自動選擇（推薦）</item>
+        <item>V3硬解優先 (ijkplayer)</item>
+        <item>軟解優先（兼容模式）</item>
+    </string-array>
+    <string-array name="at">
+        <item>根據機型和視頻智能適配</item>
+        <item>硬解播放，性能好，兼容性強</item>
+        <item>冬季暖手必備，偏重兼容性，適用所有手機系統</item>
+    </string-array>
+    <string-array name="aw">
+        <item>默認排序</item>
+        <item>粉絲數由高到低</item>
+        <item>粉絲數由低到高</item>
+        <item>Lv等級由高到低</item>
+        <item>Lv等級由低到高</item>
+    </string-array>
+    <string-array name="ax">
+        <item>全部時長</item>
+        <item>0-10分鐘</item>
+        <item>10-30分鐘</item>
+        <item>30-60分鐘</item>
+        <item>60分鐘+</item>
+    </string-array>
+    <string-array name="az">
+        <item>默認排序</item>
+        <item>播放多</item>
+        <item>新發佈</item>
+        <item>彈幕多</item>
+    </string-array>
+    <string-array name="b0">
+        <item>全部使用者</item>
+        <item>UP主</item>
+        <item>認證用戶</item>
+        <item>普通用戶</item>
+    </string-array>
+</resources>

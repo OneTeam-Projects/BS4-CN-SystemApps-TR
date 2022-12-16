@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>Super surround</item>
+        <item>Muzika u igri</item>
+        <item>Super glasovi</item>
+        <item>Super korak</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Poboljšani surround efekt zvučnog polja, jednostavan za lokaciju neprijatelja, pogodan za FPS igre</item>
+        <item>Efekti muzike u igri, pogodni za MOBA žanr, muzičke igre</item>
+        <item>Glas jasniji i realniji, pogodan za RPG žanr, igre na tabli</item>
+        <item>Poboljšajte performanse niske frekvencije i olakšajte prepoznavanje koraka u igrama jedenja piletine</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Prioritet srebrnog jezgra, ograničenje temperature, minimalna potrošnja energije</item>
+        <item>Prioritet srebrnog jezgra, pogodno za jednostavne igre</item>
+        <item>Prioritet zlatnog jezgra, ograničenje temperature, pogodno za normalne 3D-igre</item>
+        <item>Prioritet zlatnog jezgra, pogodno za 3D-igre visokog kvaliteta</item>
+        <item>Isključivo zlatno jezgro, maksimalne performanse uz maksimalnu potrošnju energije</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Onemogući</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Isključeno</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Isključeno</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Saundtrek</item>
+        <item>Loli</item>
+        <item>Dominantna</item>
+        <item>Ujak</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Prvo brzina</item>
+        <item>Balansirano</item>
+        <item>Kvalitet slike</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>BALANS</item>
+        <item>USIJANJE</item>
+        <item>BRUTALAN</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Balansirajte između performansi i potrošnje energije i pružite uravnoteženo rešenje performansi za obične igre</item>
+        <item>Ojačajte performanse telefona, pogodne za igre s visokim zahtevima za kvalitetom slike</item>
+        <item>Vrhunske performanse za igre, preporučuje se priključeni hladnjak</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Režim Balans: Balansirajte između performansi i potrošnje energije i pružite uravnoteženo rešenje performansi za obične igre</item>
+        <item>Režim Usijanje: Ojačajte performanse telefona, pogodne za igre s visokim zahtevima za kvalitetom slike</item>
+        <item>Režim Brutalan: Dovedite telefone do ekstremnih performansi, što može dovesti do primetnog zagrevanja telefona</item>
+        <item>Režim Ekstremno Brutalan: Zabranite sve pozadinske funkcije kako bi telefoni održavali vrhunske performanse, što može dovesti do značajnog zagrevanja telefona</item>
+    </string-array>
+</resources>

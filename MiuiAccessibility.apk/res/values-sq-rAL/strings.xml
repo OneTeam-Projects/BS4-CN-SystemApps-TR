@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tërhiq poshtë për të rifreskuar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Rifreskohet me sukses</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Duke rifreskuar…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lëshoje për rifreskim</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Kjo është gjithçka për tani</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Kjo është gjithçka për tani</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Vetëm një sekondë…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nuk mund të ngarkoheshin artikujt</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Gida</item>
+        <item>Takardar allo/Takardar alloN Super/Gida</item>
+        <item>Kasar duniya; Takardar allon Super;Bugu na Kasr duniya;Takardar allo</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Gometiri</item>
+        <item>Takardar allo/Takardar allo Super/Gometiri</item>
+        <item>Gometiri;Abun ciki;Takardun allo supa;Takardun Allo</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Ja duniya</item>
+        <item>Takardar allo/Takardar allo na Super/Jan duniya</item>
+        <item>Mars;Bugu na Mars ;Takatrdar allon Super; Takardar allo</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Kogin dusar kankara</item>
+        <item>Takardar allo/Takardar allo Super/Kogin dusar kankara</item>
+        <item>Doron kasa;Duwatsu;Takardun allo supa;Takardun Allo</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Hoton fuskar allo na tsarin</item>
+        <item>Takardar allo/Takardar alloN Super</item>
+        <item>Takardar allon Super; Takardar allo;Takardar allo na Dynamik, takardar allo na 3D</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Yanayi</item>
+        <item>Takardar allo/Takardar allon Super/Yanayi</item>
+        <item>Yanayi;Bayanan yanayi;Takardun allo supa;Takardun Allo</item>
+    </string-array>
+</resources>

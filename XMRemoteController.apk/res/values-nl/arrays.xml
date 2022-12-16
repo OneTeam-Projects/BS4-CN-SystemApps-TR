@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Koeling</item>
+        <item>Verwarming</item>
+        <item>Ontvochtiging</item>
+        <item>Ventilator</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Man</item>
+        <item>Vrouw</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Uw toestel kan alleen gekoppeld worden met Mi TV, Mi Box en een handvol andere Android-toestellen met behulp van Wifi.</item>
+        <item>Zorg ervoor dat u het juiste model airco hebt gekozen in het koppelproces. Volg de aanwijzingen op uw toestel totdat de koppeling voltooid is.</item>
+        <item>Nee. Momenteel kunt u Mi 4, Mi 4c en Redmi Note 2 als IR afstandsbedieningen gebruiken.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Zo</item>
+        <item>Ma</item>
+        <item>Di</item>
+        <item>Wo</item>
+        <item>Do</item>
+        <item>Vr</item>
+        <item>Za</item>
+    </string-array>
+    <string-array name="question">
+        <item>Waarom blijft mijn telefoon naar draadloze toestellen zoeken?</item>
+        <item>Waarom kan ik mijn airco alleen in- en niet uitschakelen?</item>
+        <item>Kan ik Mi 3, Mi 2 en Redmi als een IR afstandsbediening gebruiken?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Haier airconditioning in de woonkamer inschakelen</item>
+        <item>Stel de temperatuur in op 25 graden</item>
+        <item>Stel de windrichting in op \"Omhoog\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree airconditioning inschakelen</item>
+        <item>Overschakelen naar zwenk-modus</item>
+        <item>Laat de airco harder blazen</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Set-top box inschakelen</item>
+        <item>Ik wil Hunan TV kijken</item>
+        <item>Ga terug naar kanaal 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Airconditioning inschakelen</item>
+        <item>Ik wil Shenzhen TV kijken</item>
+        <item>Ga terug naar kanaal 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Schakel de TV in de slaapkamer in</item>
+        <item>TV uitschakelen</item>
+        <item>Zet het volume op TV hoger</item>
+    </string-array>
+</resources>

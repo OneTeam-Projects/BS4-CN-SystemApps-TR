@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">Đồng ý</string>
+    <string name="begin_use">Bắt đầu sử dụng</string>
+    <string name="checKed_no_SIM_tips">Mạng dữ liệu không khả dụng cho điện thoại ở trạng thái hiện tại</string>
+    <string name="checked_SIM">Kiểm tra thẻ SIM</string>
+    <string name="checked_Two_SIM">Cài đặt SIM kép</string>
+    <string name="checked_no_SIM">Không tìm thấy thẻ SIM</string>
+    <string name="checked_one_sim">Tìm thấy thẻ SIM</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">Lựa chọn ngôn ngữ</string>
+    <string name="choose_lock_add_fingerprint">Thêm dấu vân tay</string>
+    <string name="choose_lock_add_fingerprint_tips">Bạn có thể sử dụng dấu vân tay để mở khóa màn hình và đăng nhập an toàn và nhanh chóng</string>
+    <string name="choose_lock_title">Mở khóa bằng dấu vân tay</string>
+    <string name="cloud_le_account">Đăng nhập qua tài khoản Letv</string>
+    <string name="cloud_login">Đăng nhập</string>
+    <string name="cloud_register">Đăng ký qua số điện thoại</string>
+    <string name="cloud_tips">Đăng nhập qua tài khoản Coolpad để đồng bộ dữ liệu cá nhân chẳng hạn như số liên lạc và tìm kiếm điện thoại</string>
+    <string name="cloud_titile">Tài khoản Coolpad</string>
+    <string name="connect_WALN">Kết nối với WLAN</string>
+    <string name="count_down">Đếm ngược</string>
+    <string name="experience_location_service">Dịch vụ vị trí</string>
+    <string name="experience_location_service_explain">Cho phép ứng dụng đến vị trí</string>
+    <string name="experience_plan">Gói trải nghiệm người dùng</string>
+    <string name="experience_plan_explain">Giúp cải thiện và tối ưu hóa trải nghiệm hệ thống</string>
+    <string name="experience_setting">Trải nghiệm và điều khoản</string>
+    <string name="language_shutdown_tip">"Không phát hiện hoạt động trong thời gian dài
+thiết bị sẽ tự động tắt
+sau khi đếm ngược"</string>
+    <string name="language_shutdown_title">Tự động tắt</string>
+    <string name="language_touch_turn_off">Chạm để hủy tắt</string>
+    <string name="last_step">Quay lại</string>
+    <string name="mobile_move">Truyền di động</string>
+    <string name="network_flow">Lưu lượng mạng</string>
+    <string name="network_flow_tips">Truy cập vào Internet qua mạng di động khi không có mạng không dây nào được kết nối</string>
+    <string name="next_step">Tiếp theo</string>
+    <string name="setup_success">Thiết lập thành công</string>
+    <string name="setupwizard_wifi_cancle_save">Đã hủy lưu</string>
+    <string name="setupwizard_wifi_connect">Kết nối với WLAN</string>
+    <string name="setupwizard_wifi_connected">Đã kết nối</string>
+    <string name="setupwizard_wifi_connecting">Đang kết nối...</string>
+    <string name="setupwizard_wifi_dialog_cancel">Hủy</string>
+    <string name="setupwizard_wifi_dialog_comfirm">OK</string>
+    <string name="setupwizard_wifi_dialog_connect">Kết nối</string>
+    <string name="setupwizard_wifi_dialog_disconect">Ngắt kết nối</string>
+    <string name="setupwizard_wifi_dialog_hint_text">Mật khẩu</string>
+    <string name="setupwizard_wifi_no_tips">Không có kết nối Wi-Fi trong phạm vi</string>
+    <string name="setupwizard_wifi_saved">Đã lưu</string>
+    <string name="setupwizard_wifi_searching">Đang tìm</string>
+    <string name="sim_identifying">Đang xác định...</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="usage_agreement">Thỏa thuận người dùng</string>
+    <string name="usage_policy">Chính sách bảo mật</string>
+</resources>

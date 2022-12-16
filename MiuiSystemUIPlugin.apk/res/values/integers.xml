@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_max_action_buttons">4</integer>
+    <integer name="action_bar_appear_duration">350</integer>
+    <integer name="action_bar_disappear_duration">250</integer>
+    <integer name="action_bar_tab_layout_weight">0</integer>
+    <integer name="button_exit_fade_duration">200</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="checkwidget_background_disable_alpha_dark">24</integer>
+    <integer name="checkwidget_background_disable_alpha_light">5</integer>
+    <integer name="checkwidget_background_normal_alpha_dark">48</integer>
+    <integer name="checkwidget_background_normal_alpha_light">10</integer>
+    <integer name="checkwidget_stroke_disable_alpha_dark">26</integer>
+    <integer name="checkwidget_stroke_disable_alpha_light">13</integer>
+    <integer name="checkwidget_stroke_normal_alpha_dark">51</integer>
+    <integer name="checkwidget_stroke_normal_alpha_light">26</integer>
+    <integer name="config_tooltipAnimTime">150</integer>
+    <integer name="controls_max_columns">2</integer>
+    <integer name="controls_max_columns_adjust_below_width_dp">320</integer>
+    <integer name="dialog_enter_duration">280</integer>
+    <integer name="dialog_exit_duration">150</integer>
+    <integer name="immersion_menu_enter_duration">150</integer>
+    <integer name="immersion_menu_exit_duration">150</integer>
+    <integer name="miui_volume_dialog_gravity_collapsed">0x00000003</integer>
+    <integer name="miui_volume_dialog_gravity_expanded">0x00000001</integer>
+    <integer name="miui_volume_expand_animation_duration">300</integer>
+    <integer name="miui_volume_layout_orientation_expanded">1</integer>
+    <integer name="miui_volume_ringer_gravity">0x00000013</integer>
+    <integer name="miui_volume_ringer_layout_orientation">0</integer>
+    <integer name="miui_volume_timer_icon_rotation">0</integer>
+    <integer name="miui_volume_transition_duration_short">150</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

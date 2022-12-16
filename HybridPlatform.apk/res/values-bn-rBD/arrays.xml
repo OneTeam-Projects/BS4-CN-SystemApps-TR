@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>চিত্র সেভ করুন</item>
+        <item>ছবি শেয়ার করুন</item>
+        <item>বাতিল করুন</item>
+    </string-array>
+</resources>

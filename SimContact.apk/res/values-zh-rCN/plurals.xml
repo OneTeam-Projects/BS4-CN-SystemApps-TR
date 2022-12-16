@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sim_export_success_toast_fmt">
+        <item quantity="other">已导出 %d 位 SIM 卡联系人</item>
+        <item quantity="one">已导出 1 位 SIM 卡联系人</item>
+    </plurals>
+</resources>

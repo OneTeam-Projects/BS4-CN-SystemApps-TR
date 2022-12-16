@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperSurround</item>
+        <item>OyunMüziği</item>
+        <item>SüperSes</item>
+        <item>SüperAyakSesi</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Gelişmiş ses alanı surround efekti; düşmanları bulmak kolay, FPS oyunları için uygun</item>
+        <item>Oyun müziği efekti; MOBA ve müzik oyunları için uygun</item>
+        <item>Daha net ve gerçekçi ses; RPG ve masa oyunları için uygun</item>
+        <item>Düşük frekans performansını artırın ve çatışma oyunlarında ayak seslerinin daha kolay duyulmasını sağlayın</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Gümüş çekirdek önceliği; sıcaklığı kısıtlar, minimum güç tüketimi sağlar</item>
+        <item>Gümüş çekirdek önceliği, basit oyunlar için uygundur</item>
+        <item>Altın çekirdek önceliği; sıcaklığı kısıtlar, normal 3D oyunlar için uygundur</item>
+        <item>Altın çekirdek önceliği, yüksek kaliteli 3D oyunlar için uygundur</item>
+        <item>Yalnızca altın çekirdek, maksimum güç tüketimi ile maksimum performans sağlar</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Devre dışı bırak</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Kapalı</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Kapalı</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Film müziği</item>
+        <item>Genç Kız</item>
+        <item>Otoriter Kadın</item>
+        <item>Amca</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Hız Öncelikli</item>
+        <item>Dengeli</item>
+        <item>Görüntü Kalitesi Öncelikli</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>BALANCE</item>
+        <item>SOLARCORE</item>
+        <item>LUDICROUS</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Performans ve güç tüketimi arasında denge kurar ve genel oyunlar için dengeli bir performans çözümü sağlar</item>
+        <item>Telefonun performansını artırır; yüksek görüntü kalitesi gereksinimleri olan oyunlar için uygundur</item>
+        <item>Oyunlar için üstün performans, soğutucu eklenmesi önerilir</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Balance Modu: Performans ve güç tüketimi arasında denge kurar ve genel oyunlar için dengeli bir performans çözümü sağlar</item>
+        <item>SolarCore Modu: Telefonun performansını artırır; yüksek görüntü kalitesi gereksinimleri olan oyunlar için uygundur</item>
+        <item>Ludicrous Modu: Telefonların olağanüstü performans göstermesini sağlar, bu da telefonların fark edilir derecede ısınmasına neden olabilir</item>
+        <item>Extreme Ludicrous Modu: Telefonların en yüksek performansı korumasını sağlamak için tüm arka plan işlevlerini yasaklar; bu, telefonların önemli ölçüde ısınmasına neden olabilir</item>
+    </string-array>
+</resources>

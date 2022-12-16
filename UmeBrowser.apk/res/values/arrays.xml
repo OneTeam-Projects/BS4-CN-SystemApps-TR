@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="PPshou">
+        <item>游戏</item>
+        <item>应用市场</item>
+        <item>美图</item>
+        <item>美女</item>
+    </string-array>
+    <string-array name="app_block_btn">
+        <item>本次允许打开</item>
+        <item>始终允许打开</item>
+        <item>始终拦截</item>
+    </string-array>
+    <string-array name="auth_app_name_list">
+        <item>腾讯微博分享</item>
+        <item>QQ空间分享</item>
+        <item>微云收藏</item>
+        <item>游戏播放器</item>
+        <item>游戏播放器</item>
+    </string-array>
+    <string-array name="bookmark_popup_content_third_isnotpreset">
+        <item>@string/contextmenu_open_in_new_top_tab</item>
+        <item>@string/remove_bookmark</item>
+        <item>@string/modify_bookmark</item>
+        <item>@string/slidingmenu_addshortcut</item>
+        <item>@string/handleset_desktop</item>
+    </string-array>
+    <string-array name="bookmarkfolder_popup_content">
+        <item>@string/rename_folder</item>
+        <item>@string/deleteroot_folder</item>
+    </string-array>
+    <string-array name="bookmarksavepage_popup_content">
+        <item>@string/deleteroot_folder</item>
+    </string-array>
+    <integer-array name="default_read_app">
+        <item>11072</item>
+        <item>11073</item>
+        <item>9494</item>
+        <item>9529</item>
+        <item>11237</item>
+        <item>13634</item>
+    </integer-array>
+    <string-array name="default_tools_iconpath">
+        <item>http://res.imtt.qq.com/plugin/file/screencut.png</item>
+        <item>http://res.imtt.qq.com/plugin/file/addondictjar.png</item>
+        <item>http://res.imtt.qq.com/plugin/file/refresh.png</item>
+        <item>http://res.imtt.qq.com/plugin/file/within_page.png</item>
+        <item>http://res.imtt.qq.com/plugin/file/weisouc.png</item>
+    </string-array>
+    <integer-array name="default_tools_location">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="default_tools_order">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <string-array name="default_tools_packagename">
+        <item>com.tencent.qb.plugin.screencut</item>
+        <item>com.tencent.qb.plugin.addondictjar</item>
+        <item>com.tencent.qb.plugin.refresh</item>
+        <item>com.tencent.qb.plugin.x5find</item>
+        <item>com.tencent.qb.plugin.docollect</item>
+    </string-array>
+    <integer-array name="default_tools_packagesize">
+        <item>-1</item>
+        <item>-1</item>
+        <item>-1</item>
+        <item>-1</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="default_tools_subtype">
+        <item>6</item>
+        <item>5</item>
+        <item>6</item>
+        <item>5</item>
+        <item>5</item>
+    </integer-array>
+    <string-array name="default_tools_title">
+        <item>网页截图</item>
+        <item>网页翻译</item>
+        <item>定时刷新</item>
+        <item>网页内查找</item>
+        <item>收藏到微云</item>
+    </string-array>
+    <string-array name="default_tools_url">
+        <item>http://soft.imtt.qq.com/browser/plugin/big_file/QQBrowserPluginScreenCut20150122.jar</item>
+        <item>qb://plugin/dict</item>
+        <item>http://soft.imtt.qq.com/browser/plugin/big_file/com.tencent.qb.plugin.refresh.jar</item>
+        <item>qb://plugin/x5find</item>
+        <item>qb://plugin/docollect</item>
+    </string-array>
+    <integer-array name="default_tools_version">
+        <item>5</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <array name="dotsColors">
+        <item>@color/voice_dots_blue</item>
+        <item>@color/voice_dots_blue</item>
+        <item>@color/voice_dots_blue</item>
+        <item>@color/voice_dots_blue</item>
+        <item>@color/voice_dots_blue</item>
+        <item>@color/voice_dots_blue</item>
+    </array>
+    <array name="dotsColors6">
+        <item>@color/voice_dots_blue</item>
+        <item>@color/voice_dots_orange</item>
+        <item>@color/voice_dots_green</item>
+        <item>@color/voice_dots_purple</item>
+        <item>@color/voice_dots_green</item>
+        <item>@color/voice_dots_purple</item>
+    </array>
+    <array name="dotsMaxHeight">
+        <item>@dimen/height_32dp</item>
+        <item>@dimen/height_46dp</item>
+        <item>@dimen/height_26dp</item>
+        <item>@dimen/height_35dp</item>
+        <item>@dimen/height_32dp</item>
+        <item>@dimen/height_46dp</item>
+    </array>
+    <array name="dotsMaxHeight6">
+        <item>@dimen/height_22dp</item>
+        <item>@dimen/height_46dp</item>
+        <item>@dimen/height_26dp</item>
+        <item>@dimen/height_35dp</item>
+        <item>@dimen/height_26dp</item>
+        <item>@dimen/height_35dp</item>
+    </array>
+    <array name="dotsMinHeight">
+        <item>@dimen/height_22dp</item>
+        <item>@dimen/height_36dp</item>
+        <item>@dimen/height_16dp</item>
+        <item>@dimen/height_25dp</item>
+    </array>
+    <string-array name="download_chooser_options">
+        <item>下载</item>
+        <item>安全下载</item>
+        <item>转存到微云</item>
+        <item>分享</item>
+        <item>转存到百度云</item>
+        <item>直接打开</item>
+        <item>取消</item>
+        <item>清理后下载</item>
+    </string-array>
+    <string-array name="download_error_desc">
+        <item>成功</item>
+        <item>未发现SD卡，无法下载</item>
+        <item>SD卡空间不足，无法下载</item>
+        <item>网络异常，无法下载</item>
+        <item>下载中文件被删除，请重新下载。</item>
+        <item>下载文件保存出错，请检查SD卡</item>
+        <item>下载失败，服务器下载异常</item>
+        <item>下载失败</item>
+        <item>下载失败，服务器端该文件已发生变化</item>
+        <item>下载失败，修改文件名失败</item>
+        <item>下载失败，网络错误</item>
+        <item>下载失败，m3u8暂停错误</item>
+        <item>下载失败，增量文件检查错误</item>
+        <item>下载失败，更新文件错误</item>
+        <item>下载失败，302跳转次数过多</item>
+        <item>下载失败，系统错误</item>
+        <item>下载失败，嗅探失败</item>
+        <item>下载失败，重试次数过多</item>
+        <item>下载失败</item>
+        <item>下载文件保存出错，请检查SD卡</item>
+        <item>下载文件保存出错，请检查SD卡</item>
+        <item>下载文件保存出错，请检查SD卡</item>
+        <item>下载任务下载字节较少</item>
+        <item>下载任务文件写入磁盘未完成</item>
+        <item>下载中文件被删除，请重新下载。</item>
+        <item>任务下载完成，但是文件已经不存在，请重新下载。</item>
+        <item>暂停/取消任务，但是任务文件已经不存在</item>
+        <item>下载中文件被删除，请重新下载</item>
+        <item>下载中文件被删除，请重新下载。</item>
+        <item>创建下载文件失败</item>
+        <item>创建下载文件失败</item>
+        <item>创建下载文件失败</item>
+        <item>下载写文件失败</item>
+        <item>下载写文件失败</item>
+        <item>下载失败，无法解析域名</item>
+        <item>网络异常，无法下载</item>
+        <item>网络异常，无法下载</item>
+        <item>网络异常，无法下载</item>
+        <item>网络异常，无法下载</item>
+        <item>网络异常，无法下载</item>
+        <item>网络异常，无法下载</item>
+        <item>空间不足，无法下载</item>
+        <item>网络异常，无法下载</item>
+        <item>网络异常，无法下载</item>
+        <item>网络异常，无法下载</item>
+    </string-array>
+    <string-array name="exo_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>@string/exo_controls_playback_speed_normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <integer-array name="exo_speed_multiplied_by_100">
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+        <item>200</item>
+    </integer-array>
+    <string-array name="frequent_title_white_list">
+        <item>正在加载</item>
+        <item>正在载入</item>
+        <item>加载</item>
+        <item>载入</item>
+    </string-array>
+    <string-array name="government_site_name">
+        <item>人民网</item>
+        <item>新华网</item>
+        <item>央视网</item>
+        <item>网信网</item>
+        <item>央广网</item>
+        <item>中国网</item>
+    </string-array>
+    <string-array name="government_site_url">
+        <item>http://m.people.cn</item>
+        <item>http://m.news.cn</item>
+        <item>http://cctv.cntv.cn</item>
+        <item>http://wap.cac.gov.cn</item>
+        <item>http://m.cnr.cn</item>
+        <item>http://m.china.com.cn/</item>
+        <item>http://umeweb.cn/net.html</item>
+    </string-array>
+    <string-array name="history_popup_content">
+        <item>@string/slidingmenu_addshortcut</item>
+        <item>@string/remove_history_item</item>
+    </string-array>
+    <string-array name="huawei">
+        <item>游戏</item>
+        <item>应用商店</item>
+        <item>应用市场</item>
+        <item>美图</item>
+        <item>美女</item>
+    </string-array>
+    <string-array name="image_load_dialog_options">
+        <item>仅移动数据网络下无图</item>
+        <item>始终无图</item>
+    </string-array>
+    <string-array name="login_desc">
+        <item>用QQ/微信帐号快速登录</item>
+        <item>登录后定制个性资讯</item>
+        <item>登录后收藏、网址永不丢失</item>
+    </string-array>
+    <string-array name="menu_item_font_size">
+        <item>@string/font_size_tiny_v1</item>
+        <item>@string/font_size_small_v1</item>
+        <item>@string/font_size_normal_v1</item>
+        <item>@string/font_size_large_v1</item>
+        <item>@string/font_size_huge_v1</item>
+    </string-array>
+    <string-array name="menu_item_name">
+        <item>添加</item>
+        <item>书签/历史</item>
+        <item>夜间</item>
+        <item>刷新</item>
+        <item>分享</item>
+        <item>工具箱</item>
+        <item>下载</item>
+        <item>设置</item>
+        <item>截屏</item>
+        <item>退出</item>
+    </string-array>
+    <integer-array name="menu_item_name_id">
+        <item>@integer/add</item>
+        <item>@integer/bookmark_history</item>
+        <item>@integer/night_mode</item>
+        <item>@integer/refresh</item>
+        <item>@integer/share</item>
+        <item>@integer/tools</item>
+        <item>@integer/download</item>
+        <item>@integer/setting</item>
+        <item>@integer/tools_screen_capture</item>
+        <item>@integer/exit</item>
+    </integer-array>
+    <string-array name="menu_tools_item_name">
+        <item>全屏</item>
+        <item>无图</item>
+        <item>无痕</item>
+        <item>页内查找</item>
+        <item>加到首页</item>
+        <item>离线保存</item>
+        <item>翻页</item>
+        <item>锁定旋转</item>
+    </string-array>
+    <string-array name="menu_tools_item_name_hs">
+        <item>访问网页版</item>
+        <item>无图</item>
+        <item>无痕</item>
+        <item>页内查找</item>
+        <item>加到首页</item>
+        <item>离线保存</item>
+    </string-array>
+    <integer-array name="menu_tools_item_name_hs_id">
+        <item>@integer/tools_visit_web</item>
+        <item>@integer/no_picture</item>
+        <item>@integer/no_trace</item>
+        <item>@integer/tools_finding</item>
+        <item>@integer/tools_place_to_desk</item>
+        <item>@integer/tools_save</item>
+    </integer-array>
+    <string-array name="menu_tools_item_name_hs_tencentversion">
+        <item>访问网页版</item>
+        <item>无图</item>
+        <item>无痕</item>
+        <item>页内查找</item>
+        <item>加到首页</item>
+        <item>离线保存</item>
+    </string-array>
+    <integer-array name="menu_tools_item_name_hs_tencentversion_id">
+        <item>@integer/tools_visit_web</item>
+        <item>@integer/no_picture</item>
+        <item>@integer/no_trace</item>
+        <item>@integer/tools_finding</item>
+        <item>@integer/tools_place_to_desk</item>
+        <item>@integer/tools_save</item>
+    </integer-array>
+    <integer-array name="menu_tools_item_name_id">
+        <item>@integer/full_screen</item>
+        <item>@integer/no_picture</item>
+        <item>@integer/no_trace</item>
+        <item>@integer/tools_finding</item>
+        <item>@integer/tools_place_to_desk</item>
+        <item>@integer/tools_save</item>
+        <item>@integer/tools_turn_page</item>
+        <item>@integer/tools_lock</item>
+    </integer-array>
+    <string-array name="menu_top_item_name">
+        <item>夜间</item>
+        <item>全屏</item>
+        <item>无痕</item>
+        <item>无图</item>
+    </string-array>
+    <string-array name="safety_scanning_items">
+        <item>网址安全</item>
+        <item>支付安全</item>
+        <item>帐号安全</item>
+        <item>下载安全</item>
+        <item>文件安全</item>
+        <item>公共WiFi安全</item>
+    </string-array>
+    <array name="skin_bmp_download_names" />
+    <array name="skin_bmp_download_names_pad" />
+    <string-array name="skin_bmp_names">
+        <item>lsjd</item>
+        <item>night_mode</item>
+    </string-array>
+    <array name="skin_download_names" />
+    <array name="skin_download_names_pad" />
+    <array name="skin_download_path" />
+    <array name="skin_download_path_pad" />
+    <array name="skin_download_size" />
+    <array name="skin_download_size_pad" />
+    <string-array name="skin_names">
+        <item>默认皮肤</item>
+        <item>夜间模式</item>
+    </string-array>
+    <array name="skin_thumb_bmp_download_names" />
+    <array name="skin_thumb_bmp_download_names_pad" />
+    <string-array name="skin_thumb_bmp_names">
+        <item>skin_thumb_lsjd.jpg</item>
+        <item>skin_thumb_night_mode.jpg</item>
+    </string-array>
+    <string-array name="theme_channel_id_k12">
+        <item>11243</item>
+        <item>11244</item>
+        <item>11245</item>
+        <item>11246</item>
+        <item>11247</item>
+        <item>11248</item>
+        <item>11249</item>
+        <item>11250</item>
+        <item>11251</item>
+        <item>11252</item>
+    </string-array>
+    <string-array name="theme_channel_id_novel">
+        <item>11436</item>
+        <item>11437</item>
+        <item>11438</item>
+        <item>11439</item>
+        <item>11440</item>
+        <item>11441</item>
+        <item>11442</item>
+        <item>11443</item>
+        <item>11444</item>
+        <item>11445</item>
+        <item>11446</item>
+        <item>11447</item>
+        <item>11448</item>
+        <item>11449</item>
+        <item>11450</item>
+        <item>11451</item>
+        <item>11452</item>
+        <item>11453</item>
+        <item>11454</item>
+        <item>11455</item>
+    </string-array>
+    <string-array name="theme_channel_id_old">
+        <item>11320</item>
+        <item>11321</item>
+        <item>11322</item>
+        <item>11323</item>
+        <item>11324</item>
+        <item>11325</item>
+        <item>11326</item>
+        <item>11327</item>
+        <item>11328</item>
+        <item>11329</item>
+        <item>1100104347</item>
+        <item>1100104348</item>
+        <item>1100104349</item>
+        <item>1100104350</item>
+        <item>1100104351</item>
+        <item>1100104352</item>
+        <item>1100104353</item>
+        <item>1100104354</item>
+        <item>1100104355</item>
+        <item>1100104356</item>
+        <item>1100104382</item>
+        <item>1100104383</item>
+        <item>1100104384</item>
+        <item>1100104385</item>
+        <item>1100104386</item>
+        <item>1100100869</item>
+        <item>1100104426</item>
+        <item>1100104427</item>
+        <item>1100104428</item>
+        <item>1100104429</item>
+        <item>1100104430</item>
+        <item>1100104431</item>
+        <item>1100104432</item>
+        <item>1100104433</item>
+        <item>1100104434</item>
+        <item>1100104435</item>
+        <item>1100104418</item>
+        <item>1100104419</item>
+        <item>1100104420</item>
+        <item>1100104421</item>
+        <item>1100104422</item>
+        <item>1100104525</item>
+        <item>1100104526</item>
+    </string-array>
+    <string-array name="theme_mode_name">
+        <item>2-theme_channel_id_k12</item>
+        <item>3-theme_channel_id_old</item>
+        <item>4-theme_channel_id_novel</item>
+    </string-array>
+    <string-array name="theme_mode_name_setting">
+        <item>默认模式</item>
+        <item>简版展示（无图）</item>
+        <item>少年模式</item>
+        <item>亲情模式</item>
+        <item>小说模式</item>
+    </string-array>
+    <string-array name="transalte_language_list">
+        <item>zh-CN</item>
+        <item>中文</item>
+        <item>zh</item>
+        <item>中文</item>
+        <item>en</item>
+        <item>英文</item>
+        <item>ja</item>
+        <item>日文</item>
+        <item>ko</item>
+        <item>韩文</item>
+        <item>fr</item>
+        <item>法文</item>
+        <item>ru</item>
+        <item>俄文</item>
+    </string-array>
+    <string-array name="tts_speed_list">
+        <item>0.6倍速</item>
+        <item>0.8倍速</item>
+        <item>正常语速</item>
+        <item>1.25倍速</item>
+        <item>1.5倍速</item>
+        <item>2倍速</item>
+    </string-array>
+    <string-array name="tts_speed_list_num">
+        <item>0.6</item>
+        <item>0.8</item>
+        <item>1</item>
+        <item>1.25</item>
+        <item>1.5</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="ua_selection_strings">
+        <item>@string/user_agent_android</item>
+        <item>@string/user_agent_iphone</item>
+        <item>@string/user_agent_computer</item>
+    </string-array>
+    <string-array name="ua_value_array">
+        <item></item>
+        <item>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_5 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B601 Safari/9537.53</item>
+        <item>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36</item>
+    </string-array>
+    <string-array name="ume_Shark_nr">
+        <item>游戏</item>
+        <item>应用商店</item>
+        <item>应用市场</item>
+    </string-array>
+    <string-array name="vivo">
+        <item>京东</item>
+        <item>百度</item>
+        <item>游戏</item>
+        <item>今日头条</item>
+        <item>应用市场</item>
+        <item>彩票</item>
+        <item>热门直播</item>
+        <item>酷咖动漫</item>
+        <item>东方财富</item>
+        <item>汽车之家</item>
+        <item>健康女性</item>
+        <item>美图</item>
+        <item>美女</item>
+    </string-array>
+    <string-array name="webpage_text_size_strings">
+        <item>@string/font_size_tiny</item>
+        <item>@string/font_size_small</item>
+        <item>@string/font_size_normal</item>
+        <item>@string/font_size_large</item>
+        <item>@string/font_size_huge</item>
+    </string-array>
+    <integer-array name="webpage_text_sizes">
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+    </integer-array>
+    <string-array name="xiaomi">
+        <item>游戏</item>
+        <item>应用商店</item>
+        <item>应用市场</item>
+        <item>美图</item>
+        <item>美女</item>
+    </string-array>
+</resources>

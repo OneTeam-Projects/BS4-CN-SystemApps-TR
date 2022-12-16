@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi skrin utama</string>
+    <string name="abc_action_bar_up_description">Navigasi ke atas</string>
+    <string name="abc_action_menu_overflow_description">Lagi pilihan</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih apl</string>
+    <string name="abc_capital_off">MATI</string>
+    <string name="abc_capital_on">HIDUP</string>
+    <string name="abc_search_hint">Cari…</string>
+    <string name="abc_searchview_description_clear">Kosongkan pertanyaan</string>
+    <string name="abc_searchview_description_query">Pertanyaan carian</string>
+    <string name="abc_searchview_description_search">Cari</string>
+    <string name="abc_searchview_description_submit">Serah pertanyaan</string>
+    <string name="abc_searchview_description_voice">Carian suara</string>
+    <string name="abc_shareactionprovider_share_with">Kongsi dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Kongsi dengan %s</string>
+    <string name="abc_toolbar_collapse_description">Runtuhkan</string>
+    <string name="app_name">Manual Pemain</string>
+    <string name="blackshark_game_phone">Telefon permainan Black Shark:</string>
+    <string name="copied">Disalin ke Papan Keratan</string>
+    <string name="copy_fail">Salin gagal</string>
+    <string name="coy_link">Salin pautan</string>
+    <string name="gamer_guide">Manual Pemain</string>
+    <string name="network_weak">Rangkaian begitu lemah</string>
+    <string name="network_weak_desc">Segar Semula untuk Muat Semula Halaman</string>
+    <string name="no_network">Rangkaian diputuskan sambungan</string>
+    <string name="no_network_desc">Semak tetapan rangkaian dan klik untuk cuba lagi</string>
+    <string name="permission_internet">Untuk menggunakan perkhidmatan asas, adakah anda membenarkan manual pemain untuk menyambung ke rangkaian?</string>
+    <string name="permission_no">Batal</string>
+    <string name="permission_yes">Benarkan</string>
+    <string name="search_menu_title">Cari</string>
+    <string name="share_desc">Anda mungkin dapat melihat ciri hebat telefon permainan Black Shark di sini. Baca manual pemain!</string>
+    <string name="share_type">Dikongsi ke</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="to_refresh">Segar Semula</string>
+    <string name="try_again">Cuba Lagi</string>
+    <string name="web_load_error">Ralat memuatkan laman web</string>
+</resources>

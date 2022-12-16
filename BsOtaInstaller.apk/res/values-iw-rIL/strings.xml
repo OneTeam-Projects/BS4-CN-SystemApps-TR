@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">מסכים</string>
+    <string name="begin_use">התחל להשתמש</string>
+    <string name="checKed_no_SIM_tips">במצב הנוכחי אין רשת נתונים זמינה עבור הטלפון</string>
+    <string name="checked_SIM">בדוק כרטיס SIM</string>
+    <string name="checked_Two_SIM">הגדרות כרטיס SIM כפול</string>
+    <string name="checked_no_SIM">לא נמצא כרטיס SIM</string>
+    <string name="checked_one_sim">נמצא כרטיס SIM</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">בחירת שפה</string>
+    <string name="choose_lock_add_fingerprint">הוסף טביעת אצבע</string>
+    <string name="choose_lock_add_fingerprint_tips">בטל את נעילת המסך והיכנס באופן מהיר ומאובטח בעזרת טביעת אצבע</string>
+    <string name="choose_lock_title">בטל נעילה בטביעת אצבע</string>
+    <string name="cloud_le_account">היכנס דרך חשבון LeTV</string>
+    <string name="cloud_login">היכנס</string>
+    <string name="cloud_register">הירשם דרך מספר הטלפון</string>
+    <string name="cloud_tips">היכנס דרך חשבון CoolPad כדי לסנכרן נתונים אישיים כמו אנשי קשר ולערוך חיפוש בטלפון</string>
+    <string name="cloud_titile">חשבון CoolPad</string>
+    <string name="connect_WALN">התחבר ל-WLAN</string>
+    <string name="count_down">ספירה לאחור</string>
+    <string name="experience_location_service">שירותי מיקום</string>
+    <string name="experience_location_service_explain">אפשר לאפליקציה לרשום מיקום</string>
+    <string name="experience_plan">חבילת חוויית משתמש</string>
+    <string name="experience_plan_explain">סייע לשפר ולמטב את חוויית המערכת</string>
+    <string name="experience_setting">ניסיון ותנאים</string>
+    <string name="language_shutdown_tip">"זוהה פרק זמן ארוך ללא פעילות
+ההתקן יכבה אוטומטית
+עם סיום הספירה לאחור"</string>
+    <string name="language_shutdown_title">"כיבוי אוטו'"</string>
+    <string name="language_touch_turn_off">גע כדי לבטל את הכיבוי</string>
+    <string name="last_step">חזרה</string>
+    <string name="mobile_move">העברת נייד</string>
+    <string name="network_flow">תעבורת רשת</string>
+    <string name="network_flow_tips">כשאין חיבור לרשת אלחוטית, היכנס לאינטרנט דרך הרשת הסלולרית</string>
+    <string name="next_step">הבא</string>
+    <string name="setup_success">ההגדרה הצליחה</string>
+    <string name="setupwizard_wifi_cancle_save">השמירה בוטלה</string>
+    <string name="setupwizard_wifi_connect">התחבר ל-WLAN</string>
+    <string name="setupwizard_wifi_connected">מחובר</string>
+    <string name="setupwizard_wifi_connecting">מתחבר...</string>
+    <string name="setupwizard_wifi_dialog_cancel">ביטול</string>
+    <string name="setupwizard_wifi_dialog_comfirm">אישור</string>
+    <string name="setupwizard_wifi_dialog_connect">התחבר</string>
+    <string name="setupwizard_wifi_dialog_disconect">התנתק</string>
+    <string name="setupwizard_wifi_dialog_hint_text">סיסמה</string>
+    <string name="setupwizard_wifi_no_tips">אין רשת Wi-Fi בטווח המתאים</string>
+    <string name="setupwizard_wifi_saved">נשמר</string>
+    <string name="setupwizard_wifi_searching">מחפש</string>
+    <string name="sim_identifying">מזהה...</string>
+    <string name="skip">דלג</string>
+    <string name="usage_agreement">הסכם משתמש</string>
+    <string name="usage_policy">מדיניות פרטיות</string>
+</resources>

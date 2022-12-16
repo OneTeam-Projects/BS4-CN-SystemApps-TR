@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>تصویر محفوظ کریں</item>
+        <item>تصویر کا اشتراک کریں</item>
+        <item>منسوخ کریں</item>
+    </string-array>
+</resources>

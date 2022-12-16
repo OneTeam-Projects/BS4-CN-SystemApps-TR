@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Tambah frasa umum</string>
+    <string name="delete_frequent_phrases">Padam frasa umum</string>
+    <string name="delete_frequent_phrases_confirm">Padam frasa umum terpilih?</string>
+    <string name="edit_frequent_phrases">Edit frasa umum</string>
+    <string name="frequent_phrases_des">Masukkan frasa umum dengan hanya beberapa klik semasa menulis mesej</string>
+    <string name="frequent_phrases_size_exceeded">Maksimum %1$d frasa umum. Padam yang tidak diperlukan untuk tambah frasa.</string>
+    <string name="menu_add_frequent_phrases">Tambah</string>
+    <string name="menu_delete">Padam</string>
+    <string name="menu_edit">Edit</string>
+    <string name="sync_phrase_label">Frasa umum</string>
+</resources>

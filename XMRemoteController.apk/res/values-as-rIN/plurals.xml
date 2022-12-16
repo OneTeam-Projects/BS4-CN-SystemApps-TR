@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d টা APK</item>
+        <item quantity="one">%d টা APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s টা ডাউনলোড</item>
+        <item quantity="one">%1$s টা ডাউনলোড</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s জন ব্যৱহাৰকাৰী</item>
+        <item quantity="one">%1$s জন ব্যৱহাৰকাৰী</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d দিন পূৰ্বে</item>
+        <item quantity="one">%1$d দিন পূৰ্বে</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ঘণ্টা পূৰ্বে</item>
+        <item quantity="one">%1$d ঘণ্টা পূৰ্বে</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d টা ব্ৰেণ্ড উপলব্ধ</item>
+        <item quantity="one">1 টা ব্ৰেণ্ড উপলব্ধ</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d মিনিটৰ আগত</item>
+        <item quantity="one">%1$d মিনিটৰ আগত</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">"%d টা এপিচ'ড"</item>
+        <item quantity="one">"%d টা এপিচ'ড"</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">"%d টা ভিডিঅ'"</item>
+        <item quantity="one">"%d টা ভিডিঅ'"</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">"এপিচ'ড %d চলাওক"</item>
+        <item quantity="one">"এপিচ'ড %d চলাওক"</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">"%d টা ভিডিঅ' পোৱা গ'ল"</item>
+        <item quantity="one">"%d টা ভিডিঅ' পোৱা গ'ল"</item>
+    </plurals>
+</resources>

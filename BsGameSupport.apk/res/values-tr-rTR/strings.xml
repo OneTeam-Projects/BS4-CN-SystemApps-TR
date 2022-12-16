@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alpha">Alfa</string>
+    <string name="app_name">Destek Hatları</string>
+    <string name="cancel">İPTAL</string>
+    <string name="clear_hero">TEMİZLE</string>
+    <string name="color">Renk</string>
+    <string name="create_hero">OLUŞTUR</string>
+    <string name="dialog_title_delete">KALDIR</string>
+    <string name="dialog_title_message">%s öğesini kaldırmak istediğinize emin misiniz?</string>
+    <string name="gunsight_style">Tarz</string>
+    <string name="height">Yükseklik</string>
+    <string name="hero_name">KAHRAMAN İSMİ</string>
+    <string name="piggy_daqiao">Da Qiao Becerileri için Destek Hatlarını Görüntüle</string>
+    <string name="piggy_ganjiang">Gan Jiang Becerileri için Destek Hatlarını Görüntüle</string>
+    <string name="piggy_gongsunli">Gongsun Li Becerileri için Destek Hatlarını Görüntüle</string>
+    <string name="piggy_lixin">Li Xin Becerileri için Destek Hatlarını Görüntüle</string>
+    <string name="piggy_moba_line_summary">MOBA için Destek Hattı Kullan</string>
+    <string name="piggy_moba_line_title">Destek Hatları</string>
+    <string name="piggy_zhongkui">Zhong Kui Becerileri için Destek Hatlarını Görüntüle</string>
+    <string name="radius">Yarıçap</string>
+    <string name="rename">YENİDEN ADLANDIR</string>
+    <string name="restore">Geri yükle</string>
+    <string name="save">KAYDET</string>
+    <string name="style">Tarz</string>
+    <string name="thickness">Kalınlık</string>
+    <string name="title_fps">FBS HATTI</string>
+    <string name="title_moba">MOBA HATTI</string>
+    <string name="toast_bangs_mode_not_supported">OyunDesteği: Tincore KeyMapper Desteklemiyor</string>
+    <string name="toast_hero_exist">OyunDesteği: %s Tekrarı</string>
+    <string name="toast_no_pkg">OyunDesteği: Oyun Adı Okuma Başarısız</string>
+    <string name="toast_portrait_not_support">OyunDesteği: Portre Desteklenmiyor</string>
+    <string name="translate">Çevir</string>
+    <string name="width">Genişlik</string>
+</resources>

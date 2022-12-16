@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽主頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">刪除</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 鍵</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">空白鍵</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">使用「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="app_name">特徵學習</string>
+    <string name="back_home">返回桌面</string>
+    <string name="charge_subhead">當插入充電器時,播放鯊鯊醬充能動畫</string>
+    <string name="charge_title">充電動效</string>
+    <string name="clock_subhead">系統鬧鐘響起時,由鯊鯊醬進行喚醒</string>
+    <string name="clock_title">早安鬧鐘</string>
+    <string name="complete">完成</string>
+    <string name="dts_desc">"採用對稱式雙超線性揚聲器。
+遊戲中，幫助用戶聽聲辨比特，
+營造真實的戰場體驗。"</string>
+    <string name="dts_direction_back">後方聲道</string>
+    <string name="dts_direction_front">前方聲道</string>
+    <string name="dts_direction_left">左方聲道</string>
+    <string name="dts_direction_left_back">左後方聲道</string>
+    <string name="dts_direction_left_front">左前方聲道</string>
+    <string name="dts_direction_right">右方聲道</string>
+    <string name="dts_direction_right_back">右後方聲道</string>
+    <string name="dts_direction_right_front">右前方聲道</string>
+    <string name="dts_play">試聽</string>
+    <string name="dts_stop">暫停</string>
+    <string name="dts_title">全景環繞 影院系統</string>
+    <string name="dts_toast_tips">當前已靜音，調高音量試聽立體聲效</string>
+    <string name="dual_disk_summary">由兩塊獨立的磁片組成一個磁碟陣列，同時對兩塊磁片進行讀寫，大幅提升了遊戲和應用的啟動、加載速度。</string>
+    <string name="dual_disk_title">雙磁碟陣列</string>
+    <string name="finish_desc">更多關於手機新特性功能，請在玩家手册查看。</string>
+    <string name="finish_title">恭喜您，完成體驗</string>
+    <string name="finish_type_1">&lt;span>&lt;text size=\"20\">荧幕壓感&lt;/text>&lt;/span></string>
+    <string name="finish_type_2">&lt;span>&lt;text size=\"20\">極速觸控體驗&lt;/text>&lt;/span></string>
+    <string name="finish_type_3">&lt;span>&lt;text size=\"20\">升降肩鍵&lt;/text>&lt;/span></string>
+    <string name="finish_type_4">&lt;span>&lt;text size=\"20\">雙超線性揚聲器&lt;/text>&lt;/span></string>
+    <string name="finish_type_5">&lt;span>&lt;text size=\"20\">雙磁碟陣列&lt;/text>&lt;/span></string>
+    <string name="finish_type_5_2">&lt;span>&lt;text size=\"20\">極速模式&lt;/text>&lt;/span></string>
+    <string name="look_aside">再看一遍</string>
+    <string name="magic_touch_page_prompt">請在藍、黃色區域向下按壓屏幕，感受壓感力度</string>
+    <string name="magic_touch_page_summary">"在左右半區分別向下按壓屏幕，感受力度變化
+遊戲中可通過壓感實現快速開槍、換彈等高階操作"</string>
+    <string name="magic_touch_page_title">屏幕壓感</string>
+    <string name="magnetic_fifth_page_summary">將手機頂部兩側的滑塊向外撥動</string>
+    <string name="magnetic_fifth_page_title">收回升降肩鍵</string>
+    <string name="magnetic_first_page_summary">"采用多極磁吸升降，享受掌機真實觸感，
+遊戲內映射開火、開鏡等功能，可大幅度提升遊戲體驗。"</string>
+    <string name="magnetic_first_page_title">升降肩鍵</string>
+    <string name="magnetic_second_page_subtitle">彈起升降肩鍵</string>
+    <string name="magnetic_second_page_title">撥動開關</string>
+    <string name="magnetic_second_page_two_summary">根據動畫所示，將手機頂部兩側的滑塊向內撥動</string>
+    <string name="magnetic_third_page_subtitle">啟動遊戲空間</string>
+    <string name="magnetic_third_page_summary">左、右升降肩鍵同時向下按壓約0.5秒</string>
+    <string name="magnetic_third_page_title">雙按壓升降肩鍵</string>
+    <string name="opt_continue">繼續</string>
+    <string name="opt_previous">返回</string>
+    <string name="opt_skip">跳過</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="sharkchan_first_page_title">鯊鯊醬</string>
+    <string name="sharkchan_message">可以提供精美壁紙特效和互動桌面,還可以在遊戲中播報戰況</string>
+    <string name="sharkchan_subhead">桌面看板娘</string>
+    <string name="sharkchan_subtitle">在桌面顯示鯊鯊醬</string>
+    <string name="sharkchan_title">敬請期待</string>
+    <string name="sharkman_hint_message">指揮官, 我的陪伴沒有冷卻時間哦 ~ 請收下這份指南 !</string>
+    <string name="speedmode_con_read">連續讀取</string>
+    <string name="speedmode_con_write">連續寫入</string>
+    <string name="speedmode_indi_common">普通模式</string>
+    <string name="speedmode_indi_speed">極速模式</string>
+    <string name="speedmode_ran_read">隨機讀取</string>
+    <string name="speedmode_ran_write">隨機寫入</string>
+    <string name="speedy_mode_summary">遊戲或應用可以直接在記憶體中啟動、加載，减去磁片的讀寫處理過程，大幅提升遊戲或應用的處理速度。</string>
+    <string name="speedy_mode_title">極速模式</string>
+    <string name="start_foot">&lt;span>&lt;text size=\"14\" color=\"#FFFFFFFF\">稍後再看&lt;/text>&lt;br>&lt;text size=\"12\" color=\"#80FFFFFF\">(玩家手册內)&lt;/text>&lt;/span></string>
+    <string name="start_learning">開始體驗</string>
+    <string name="start_title_1">&lt;span>&lt;text size=\"20\">鯊鯊醬帶您體驗&lt;/text>&lt;/span></string>
+    <string name="start_title_2">&lt;span>&lt;text size=\"30\">手機新特性&lt;/text>&lt;/span></string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="touch_sampling">極速觸控體驗</string>
+    <string name="touch_sampling_bs">低觸控取樣速率</string>
+    <string name="touch_sampling_demonstrate">示範演示</string>
+    <string name="touch_sampling_des">高取樣速率的觸控IC帶來更精密的觸控點擊迴響、更低的觸控響應延遲、更好的跟手性</string>
+    <string name="touch_sampling_normal">高觸控取樣速率</string>
+</resources>

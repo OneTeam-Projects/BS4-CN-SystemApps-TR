@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="app_name">Manual del jugador</string>
+    <string name="blackshark_game_phone">Teléfono gaming Black Shark</string>
+    <string name="copied">Copiado al portapapeles</string>
+    <string name="copy_fail">Error en la copia</string>
+    <string name="coy_link">Copiar enlace</string>
+    <string name="gamer_guide">Manual del jugador</string>
+    <string name="network_weak">Tan débil como la red</string>
+    <string name="network_weak_desc">Refrescar para recargar la página</string>
+    <string name="no_network">Red no conectada</string>
+    <string name="no_network_desc">Comprueba los ajustes de la red y haz clic para probar de nuevo</string>
+    <string name="permission_internet">Para usar los servicios básicos, ¿permites que el manual jugador se conecte a una red?</string>
+    <string name="permission_no">Cancelar</string>
+    <string name="permission_yes">Permitir</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="share_desc">Puedes encontrar funciones asombrosa de los teléfonos de gaming Black Shark aquí. ¡Lee el manual de jugador!</string>
+    <string name="share_type">Compartido con</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="to_refresh">Refrescar</string>
+    <string name="try_again">Probar de nuevo</string>
+    <string name="web_load_error">Error en la carga de la página web</string>
+</resources>

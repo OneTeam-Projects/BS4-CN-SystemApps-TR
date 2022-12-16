@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Руководство для игроков</string>
+    <string name="blackshark_game_phone">Игровой телефон Black Shark:</string>
+    <string name="copied">Скопировано в буфер обмена</string>
+    <string name="copy_fail">Не удалось скопировать</string>
+    <string name="coy_link">Копировать ссылку</string>
+    <string name="gamer_guide">Руководство для игроков</string>
+    <string name="network_weak">Слабая сеть</string>
+    <string name="network_weak_desc">Обновите, чтобы перезагрузить страницу</string>
+    <string name="no_network">Сеть не подключена</string>
+    <string name="no_network_desc">Проверьте настройки сети и нажмите, чтобы повторить попытку</string>
+    <string name="permission_internet">Разрешить руководству для игроков подключаться к сети для использования базовых услуг?</string>
+    <string name="permission_no">Отмена</string>
+    <string name="permission_yes">Разрешить</string>
+    <string name="share_desc">Здесь вы можете ознакомиться с удивительными особенностями игровых телефонов Black Shark. Прочтите руководство для игроков!</string>
+    <string name="share_type">Переслано</string>
+    <string name="to_refresh">Обновить</string>
+    <string name="try_again">Повторить попытку</string>
+    <string name="web_load_error">Ошибка загрузки веб-страницы</string>
+</resources>

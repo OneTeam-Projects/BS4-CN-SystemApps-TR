@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>制冷</item>
+        <item>制热</item>
+        <item>除湿</item>
+        <item>送风</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="answer">
+        <item>您的手机不支持红外发射，支持通过wifi控制小米盒子，小米电视及部分android标准智能盒子/电视。</item>
+        <item>您匹配的这套数据不是这个空调的数据。匹配按键第二个就是关空调，请注意手机上的提示，当匹配关空调时空调真正关闭时再选择有响应，请重新匹配。</item>
+        <item>不支持！目前小米系列只有小米4，小米4c，红米note2支持红外发射。</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar_v53">
+        <item>全部频道</item>
+        <item>卫视频道</item>
+        <item>央视频道</item>
+        <item>高清频道</item>
+        <item>经常观看</item>
+    </string-array>
+    <string-array name="epg_channel_tab_v53">
+        <item>全部</item>
+        <item>卫视</item>
+        <item>央视</item>
+        <item>高清</item>
+        <item>常看</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>综艺</item>
+        <item></item>
+        <item>体育</item>
+        <item>少儿</item>
+        <item>新闻</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>热门</item>
+        <item>电影</item>
+        <item>综艺</item>
+        <item>电视剧</item>
+        <item>体育</item>
+        <item>少儿</item>
+        <item>新闻</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>热门节目</item>
+        <item>电影节目</item>
+        <item>综艺节目</item>
+        <item>电视剧</item>
+        <item>体育节目</item>
+        <item>少儿节目</item>
+        <item>新闻节目</item>
+        <item>生活节目</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="question">
+        <item>我的手机一直在搜索无线设备怎么办？</item>
+        <item>空调为什么只能开不能关？</item>
+        <item>小米3，红米，小米2支持红外控制电视空调等设备么？</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>打开客厅的海尔空调</item>
+        <item>温度调到25度</item>
+        <item>风向向上</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>打开格力风扇</item>
+        <item>风扇摇头</item>
+        <item>风速增加</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>打开机顶盒</item>
+        <item>我想看湖南卫视</item>
+        <item>换到15频道</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>请把空调打开</item>
+        <item>我要看深圳卫视</item>
+        <item>换到十二频道</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>打开卧室的电视</item>
+        <item>关闭电视</item>
+        <item>电视音量加大</item>
+    </string-array>
+</resources>

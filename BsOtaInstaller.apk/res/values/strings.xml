@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="agreement">AGREE</string>
+    <string name="app_name">ZsSetupWizard</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="begin_use">START TO USE</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="checKed_no_SIM_tips">No data network available for phone in the current status</string>
+    <string name="checked_SIM">Check SIM card</string>
+    <string name="checked_Two_SIM">Dual SIM card settings</string>
+    <string name="checked_no_SIM">No SIM card found</string>
+    <string name="checked_one_sim">SIM card found</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_face_unclock">Choose face unlock</string>
+    <string name="choose_face_unclock_tips">You can unlock the screen with your face</string>
+    <string name="choose_lauguage">Language selection</string>
+    <string name="choose_lock_add_fingerprint">Add fingerprint</string>
+    <string name="choose_lock_add_fingerprint_tips">You can use a fingerprint to unlock the screen and log in securely and quickly</string>
+    <string name="choose_lock_title">Unlock</string>
+    <string name="cloud_le_account">Log in via LeTV account</string>
+    <string name="cloud_login">Log in</string>
+    <string name="cloud_register">Register via phone number</string>
+    <string name="cloud_tips">Log in to Coolpad account to synchronize personal data such as contacts, and phone search</string>
+    <string name="cloud_titile">Coolpad account</string>
+    <string name="connect_WALN">Connect to WLAN</string>
+    <string name="count_down">Countdown</string>
+    <string name="en_us">English</string>
+    <string name="experience_location_service">Location services</string>
+    <string name="experience_location_service_explain">Allow application to access location</string>
+    <string name="experience_plan">User Experience Program</string>
+    <string name="experience_plan_explain">Help to improve and optimize the system experience</string>
+    <string name="experience_setting">Experience and terms</string>
+    <string name="fab_transformation_scrim_behavior">android.support.design.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">android.support.design.transformation.FabTransformationSheetBehavior</string>
+    <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="language_shutdown_tip">"No activity detected for a long time
+the device will automatically shutdown
+after the countdown"</string>
+    <string name="language_shutdown_title">Automatically shutdown</string>
+    <string name="language_touch_turn_off">Tap to cancel the shutdown</string>
+    <string name="last_step">BACK</string>
+    <string name="mobile_move">MOBILE TRANSFER</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="navigate_learn_back">How to return to the upper level</string>
+    <string name="navigate_learn_begin">Start to learn</string>
+    <string name="navigate_learn_complete">Completed</string>
+    <string name="navigate_learn_complete_restart_learn">Restart</string>
+    <string name="navigate_learn_complete_tips">Change the navigation mode in [Settings - Navigation Mode]</string>
+    <string name="navigate_learn_complete_title">Completed</string>
+    <string name="navigate_learn_home">How to return to Home</string>
+    <string name="navigate_learn_recent">How to switch recent tasks</string>
+    <string name="navigate_learn_title">Learn full screen gestures</string>
+    <string name="navigate_mode">Navigation mode</string>
+    <string name="navigate_mode_full_screen">Full screen gestures</string>
+    <string name="navigate_mode_learning">Learn gestures</string>
+    <string name="navigate_mode_next">NEXT</string>
+    <string name="navigate_mode_virtual">Virtual navigation key</string>
+    <string name="network_flow">Network traffic</string>
+    <string name="network_flow_tips">Access to Internet via mobile network when no wireless network is connected</string>
+    <string name="next_step">NEXT</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="search_menu_title">Search</string>
+    <string name="setup_success">Setup succeeded</string>
+    <string name="setupwizard_wifi_cancle_save">ABORT SAVE</string>
+    <string name="setupwizard_wifi_connect">Connect to WLAN</string>
+    <string name="setupwizard_wifi_connected">Connected</string>
+    <string name="setupwizard_wifi_connecting">Connecting...</string>
+    <string name="setupwizard_wifi_dialog_cancel">CANCEL</string>
+    <string name="setupwizard_wifi_dialog_comfirm">OK</string>
+    <string name="setupwizard_wifi_dialog_connect">CONNECT</string>
+    <string name="setupwizard_wifi_dialog_disconect">DISCONNECT</string>
+    <string name="setupwizard_wifi_dialog_hint_text">PASSWORD</string>
+    <string name="setupwizard_wifi_no_tips">No WLAN connections within range</string>
+    <string name="setupwizard_wifi_saved">Saved</string>
+    <string name="setupwizard_wifi_searching">Searching</string>
+    <string name="sim1_operator">%1$s</string>
+    <string name="sim2_operator">%1$s</string>
+    <string name="sim_1_text">1</string>
+    <string name="sim_2_text">2</string>
+    <string name="sim_identifying">Identifying...</string>
+    <string name="skip">SKIP</string>
+    <string name="sms_dialog_btn_confirm">OK</string>
+    <string name="start_gesture_go_home">Slide up to enter the system</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="usage_agreement">User agreement</string>
+    <string name="usage_agreement_details">" The User Agreement (the “Agreement”) is entered into among you (or “User”, refers to all individuals or organizations who register, log in, use or browse our Services), Blackshark Technologies（Nanchang） Co., Ltd., and its affiliates (“BLACK SHARK” or “we/our/us”) and our operational cooperators (“Cooperator”), with respect to BLACK SHARK websites www.blackshark.com (“Site”) and the products, programs and services (“Services”) of BLACK SHARK.r
+ Please read carefully and fully understand this Agreement, including the terms of Disclaimer of Warranty, Limitation of Liability, and Rights and Limitations, and choose to accept or not to accept this Agreement (minors should read this Agreement accompanied by legal guardian). BLACK SHARK may suspend or stop providing our Services to you if you do not comply with our terms or policies. By your registration, login, usage of the Services or other actions, you acknowledge that you have read and understood, and agree to accept and be bound by the terms and conditions of this Agreement. r
+ By accepting this Agreement, you agree to accept all constraints, including accepting BLACK SHARK to reserve the right to modify and update the terms of this Agreement from time to time, without notice to you. The updated terms shall supersede any previous terms. You can visit our website to check the latest User Agreement. If you cannot accept any content that we have changed, you shall stop using BLACK SHARK Services. By your continued use of our Services, you agree to accept and will be bound by the modified terms of this Agreement. r
+
+ "<b>1. Terms of Usage of Our Services</b>"r
+ 1.1. You may visit the Site without registration. However, you need a BLACK SHARK Account and provide relevant personal information on the registration webpage in order to access more Site functions and Services. Any changes in your personal information must be updated timely. You shall be responsible for all results arising from inaccurate or untrue information provided. You can delete or suspend your account under the instructions of the Site, and we will keep or delete your Account based on this Agreement. You hereby commit and undertake the following: r
+ \u0009"<b>•</b>"\u0009You understand and agree that the Site is an application service product. You shall take full responsibilities for the authenticity, legality, accuracy and validity of your registration information; you shall not post any information in the name of others; you shall not use registered accounts maliciously; otherwise, we reserve the right to suspend the Services and you shall fully bear all legal liability. r
+ \u0009"<b>•</b>"\u0009You shall use the Site and Services in accordance with all applicable laws and take all responsibility for activities under your registered Accounts, including your statements and any loss or damage that may directly or indirectly arise from your statements. You should estimate the risks of the content on your own and take all risks from it, including the risk that lies on the correctness, integrity or practicability of the content. BLACK SHARK will not take any responsibility for any losses or damages that result from this behavior or activity; r
+ \u0009"<b>•</b>"\u0009You have the obligation to take good care of the registration information on the Site and are responsible for all the activities. You must immediately notify BLACK SHARK if you find any illegal or unauthorized activities. BLACK SHARK will not be liable for damages or losses arising from a user’s non-compliance with any of the provision(s) above; r
+ \u0009"<b>•</b>"\u0009All your statements on the Site are public information that any third party has access to. Any statement posted on the Site will be deemed as public information, and user should bear legal liability for this action. If you do not want any third party to get your statements, please do not post them on the Site. r
+
+ 1.2. You shall also understand and hereby acknowledge the following: r
+ \u0009"<b>•</b>"\u0009The user accepts that, due to business development, we may change, suspend, restrict, terminate or revoke the rights of our services at any time without notice;r
+ \u0009"<b>•</b>"\u0009We may include advertisements, etc. in our Services. You agree to the display of advertisements and other events from us or our related parties or cooperators while enjoying our Services;r
+ \u0009"<b>•</b>"\u0009We have the right to suspend, at our sole discretion or determination, any content that violates the laws and regulations in any jurisdiction or the terms of this Agreement; that infringes, prejudices, threatens any right or safety; or that impersonates others. We also retain the right to take proper legal actions, including but not limited to removing any illegal or infringing content, suspending the qualification of violators and saving relative information and reporting to relevant authorities based on the applicable laws and regulations; r
+ \u0009"<b>•</b>"\u0009Some of our Services have to be used with other networks, including but not limited to the application market and the theme market. You shall bear all the related communication fees or fees from any third party service providers (including but not limited to China Telecom, China Mobile, etc.). We strongly advise you to contact your providers for related fees if there are value-added services involved in your activities; r
+ \u0009"<b>•</b>"\u0009When you shop on the Site, you can only modify one of the following information for maintaining the account’s safety: your name, address or phone number. If you need any help, please call customer service using the phone number you put in the order. Any call from any number other than in the order requires confirmation. r
+
+ "<b>2. User Content</b>"r
+ 2.1. User Content refers to all the content (your information, picture, music or others) resulting from downloads, releases or other activities through the Site and BLACK SHARK Services. You are solely responsible for such content, and bear all risks that result from your disclosure of such User Content. r
+ 2.2. Once you upload, release or engage in activities through the Site and BLACK SHARK Services, you automatically grant to BLACK SHARK an irrevocable, non-exclusive, sub-licensable, transferrable and royalty-free global licence to: r
+ \u0009"<b>•</b>"\u0009Provide you with BLACK SHARK products and services or for the purposes of improving BLACK SHARK products and services through our use of User Content. We may also copy, publish, display, make derivative works and/or bring it to other works, or use your user Account (except for your personal information) in other ways; and you authorize us the transferrable permission for the preceding subject matters; r
+ \u0009"<b>•</b>"\u0009Copy and publish your content and personal information only to designated receiver; you agree that you irrevocably waive any and all ownership, legal and moral rights to your user content. r
+
+ "<b>3. Rights and Obligations</b>"r
+ 3.1. You have the right to use the Site legally. r
+ 3.2. You have the right to upload, download, install, and use BLACK SHARK products and services on mobile communication devices. r
+ 3.3. BLACK SHARK and its affiliates possess the ownership of the BLACK SHARK Accounts. You have the right to use BLACK SHARK Accounts after you complete your registration. The rights to use BLACK SHARK Accounts only belong to you, and you are not allowed to borrow, lease, license, transfer, gift or sell BLACK SHARK Accounts. BLACK SHARK has the right to retrieve any Account for operational needs. r
+ 3.4. You have the right to change and remove personal information, registered information, and any content posted. Please note that you have to take the risk that any picture or word saved in the system might also be deleted when you remove related information. r
+ 3.5. You are responsible for the safety of your Account information and password, and should bear legal liability for activities under registered Accounts. You agree not to use the passwords and Accounts of others under any circumstances. You agree to immediately notify BLACK SHARK once you suspect others using your password or Account. r
+ 3.6. Rights limitations and restrictionsr
+ \u0009"<b>•</b>"\u0009You shall not sell, lease, transfer, release or make other commercial use of the content from the Site or BLACK SHARK products and services (including but not limited to the content or the advertisements or sponsored content); r
+ \u0009"<b>•</b>"\u0009You shall not visit the Site or use BLACK SHARK Services to establish similar or competitive services; r
+ \u0009"<b>•</b>"\u0009Unless expressly prescribed by laws, you shall not copy, publish, download, change, translate, merge, decompose, and paste or decompile etc. any part of the Site or BLACK SHARK Services (including but not limited to the content or the advertisements or sponsored content) in any manner; r
+ \u0009"<b>•</b>"\u0009You agree to bear all the risks and take full legal liability for the following activities while using the Site or Services: Opposing the basic principles determined in the Constitution of the People's Republic of China; endangering national security, leaking state secrets, subverting the government, and undermining national unity; harming national honor and interests; inciting ethnic hatred or ethnic discrimination, and undermining national unity; undermining national religious policy, promoting cults and superstitions; spreading rumor, disturbing social order, undermining social stability; spreading obscenity, pornography, gambling, violence, murder, terrorism or instigating others to commit crimes; insulting or slandering others, infringing upon the legal rights and interests of others; all other content prohibited by the administrative regulations and laws; r
+ \u0009"<b>•</b>"\u0009You shall not use the Site or BLACK SHARK Services to engage in any behavior or activity stated below: Upload or release virus, worm, and malware to damage or change computer system or data; collect the information or data of other users, such as email address, without authorization; disable network connection of the Site, put too much burden on the Site, interrupt or undermine the website server and connection in other ways; attempt to visit the Site, our server or the Site connection without authorization; interrupt or undermine other users' normal use of the BLACK SHARK Services. r
+
+ "<b>4. Third Party</b>"r
+ 4.1 You understand and agree that our services are based on technical support from third parties such as Android, etc. You understand that this Agreement is entered into between you and BLACK SHARK. BLACK SHARK shall be solely responsible for the content, maintenance, support services and guaranties generated and legal proceedings arising from the Site and BLACK SHARK Services. You agree and authorize the Site and Services to limit your rights of using the Site and Cloud services. r
+ 4.2 User Content refers to all the content (your information, picture, music or others) resulting from downloads, releases or other activities through the Site and BLACK SHARK Services. You are solely responsible for such content, and bear all risks that result from your disclosure of such User Content. r
+ 4.3 When you visit the websites and advertisement of a third party, the third party’s terms and policy applies. You will bear all risks and legal responsibility when you use third party’s services. r
+ 4.4 The Site and BLACK SHARK Services include content provided by other users; and the interaction between you and other users only belongs to you and other users. BLACK SHARK does not control such User Content, bear legal liability, or own the obligations to check, monitor, examine and approve such User Content. You thus bear legal liability for the risks of such interaction. r
+
+ "<b>5. Liability for our Services</b>"r
+ 5.1. You agree to use the Site or Services harmlessly and help BLACK SHARK to avoid bearing any lawsuit, complaint, loss, damage, responsibility, cost and fees (including but not limited to counsel fees) from any third party caused by the use of the Site or Services, your user content, or your violation of this Agreement. r
+ 5.2. User Content refers to all the content (your information, picture, music or others) resulting from downloads, releases or other activities through the Site and BLACK SHARK Services. You are solely responsible for such content, and bear all risks that result from your disclosure of such User Content. r
+ 5.3. You will not unilaterally reconcile when you and BLACK SHARK jointly file a lawsuit against any third party without written consent from BLACK SHARK. r
+ 5.4. BLACK SHARK will reasonably notify you such lawsuit or action at law. r
+ 5.5. Under no circumstances will BLACK SHARK bear any indirect, consequential, exemplary, incidental, exceptional or punitive compensation liability resulting from this Agreement. You bear all the risks from using the computer system and mobile database through the Site or Services. r
+
+ "<b>6. Disclaimer of Warranty</b>"r
+ 6.1. BLACK SHARK will not bear any legal liability under circumstances stated below: r
+ \u0009"<b>•</b>"\u0009Provide your personal information requested by government departments or the laws; r
+ \u0009"<b>•</b>"\u0009Disclose private information caused by your negligent actions; r
+ \u0009"<b>•</b>"\u0009Any circumstances caused by suspension, breakdown and so on that result from the hacking, virus invasion, blockings due to illegal and harassing content, government control or any other reasons related to network, technique, communication line and information security management; r
+ \u0009"<b>•</b>"\u0009Cause losses to the users because of any third party issues, such as the communication line breakdown, technical problems, the network and computer breakdown, and other cases of force majeure; r
+ \u0009"<b>•</b>"\u0009Risks come from threat, defamation, offensive or illegal information that caused by anonymous or percolation through the Site or BLACK SHARK Services; r
+ \u0009"<b>•</b>"\u0009Any psychological or physical suffer and economic losses due to misleading or deceiving when you interact with others through the Site or BLACK SHARK Services. r
+ \u0009"<b>•</b>"\u0009The Site or BLACK SHARK Services expressively declare that we do not guarantee timeliness, security and accuracy of the Services expressly, impliedly or in other forms. The Services include but not limited to: The “Intelligent Phone Number Recognition” Service, which refers to the service that recognize phone numbers that come from incoming and outgoing calls or text messages. BLACK SHARK will upload such number to its server, therefore identify the “Marked Information” of such number. Your data and information in this Service will be strictly protected, and we make sure you cannot be identified result from uploading such information. Such Marked Information is provided by users or network partners. We use technical means to ensure that (i) such Marked Information is consistent with the information uploaded by many users during a period of time (i.e., when the tag information of a strange phone number is “a fraud telephone marked by 500 people”, it indicates that a large number of users determine the number of telephone is a fraud and update the Marked Information within a period of time); (ii) filter and select the most reliable Marked Information, and indicate the sources of such information to you. Meanwhile, we provide the option for users to send us feedback on Marked Information. r
+ 6.2. Any content posted by the user on the Site does not represent or reflect any viewpoint or policy of BLACK SHARK; BLACK SHARK does not bear any responsibility for this. r
+ 6.3. Under no circumstances shall BLACK SHARK bear any responsibility for any indirect, consequential, exemplary, incidental, exceptional or punitive damages, including profit losses caused by using BLACK SHARK’s Services. Notwithstanding any provisions contained herein to the contrary, the responsibilities we bear will not exceed the fees (if any) you pay for BLACK SHARK Services during registration valid period, for any reason or in any manner. r
+
+ "<b>7. Intellectual Property</b>"r
+ 7.1. All text, picture, image, audio and/or video information contained in the Web services provided by BLACK SHARK shall be protected by copyright, trademark and/or other property ownership laws. Without the consent of related owners, the above-mentioned information shall not be used for any commercial purposes. r
+ 7.2. All information used in the Web services provided by BLACK SHARK including but not limited to any image, picture, animation, video, audio, music, words and additional procedures, as well as attached help information contained in software belong to the corresponding software copyright owner. Without the permission of the copyright owner, you may not reverse engineer, decompile or disassemble the software. r
+ 7.3. Any information posted on the Site or the interactive platform shall not infringe the intellectual property of any third party. You cannot upload, release, change, spread or copy any information or trademark under copyright protection, or proprietary information of others, without the prior written consent of the owners. If BLACK SHARK receives the appropriate notice from any copyright owner or its legal representative, we will remove the related content after investigation. r
+ 7.4. Graphics, words and composition involved in BLACK SHARK Services and BLACK SHARK logos, product and service name are the trademarks of BLACK SHARK. Without the prior written consent, you cannot display or use them in other manners in any way. By no means can any entity or individual use, copy, change, spread, transcribe any part of the trademark or sell with other products. r
+ 7.5. In addition to the foregoing provisions, you can promptly contact us if you think someone copies or publishes your work on the Site, and also infringe your copyright. Please also include the following information in the written notice: r
+ (i) materials evidencing that you have copyright or you are authorized to exercise copyright of the allegedly infringing content;r
+ (ii) your explicit identification, address and contact information;r
+ (iii) the network address of the allegedly infringing content;r
+ (iv) the description of the allegedly infringing copyright works;r
+ (v) materials evidencing that your copyright infringed;r
+ (vi) under the premise that you agree to bear all consequences of perjury, you issue written statement of the accuracy and authenticity of the content in your written notice. r
+
+ "<b>8. Modification and Termination</b>"r
+ 8.1. Modificationr
+ \u0009"<b>•</b>"\u0009We may change or modify terms of this Agreement at any time, and will notify you through your email address or notifications on the Site. Your use of the Site and BLACK SHARK Services after modifications to the terms indicate that you agree to such changes; r
+ \u0009"<b>•</b>"\u0009BLACK SHARK reserves the right to modify, keep and suspend the Site and BLACK SHARK Services without notification from time to time; r
+ \u0009"<b>•</b>"\u0009You agree that BLACK SHARK will not take any responsibility for changing, reserving or suspending the Site and BLACK SHARK Services. r
+ \u0009"<b>•</b>"\u0009Any updated version of the Site or any future version, update or other changes of BLACK SHARK Services shall be bound by this Agreement. r
+ 8.2. Terminationr
+ \u0009"<b>•</b>"\u0009This Agreement becomes valid and stays valid during your use of the Site and BLACK SHARK Services, until the termination according to this Agreement. r
+ \u0009"<b>•</b>"\u0009Notwithstanding the foregoing provisions, this Agreement becomes effective the first time you use the Site and BLACK SHARK Services if that happens before you accept this Agreement. This stays valid unless the early termination applies. r
+ \u0009"<b>•</b>"\u0009We may reserve your right to access the Site, BLACK SHARK Services, and your account; we may terminate this Agreement at any time for any reason without notice, as believe you violate our acceptable policies or other terms of this Agreement. r
+ \u0009"<b>•</b>"\u0009Not subject to the preceding provisions, BLACK SHARK reserves the right to terminate this Agreement if the user infringe the copyright of the third party and receive the notice from the owner or legal representative of the owner. r
+ \u0009"<b>•</b>"\u0009Once this Agreement terminated, all your website accounts and your right to use the Site and BLACK SHARK Services will also be terminated. You shall understand this means your User Content will be removed from our database. BLACK SHARK will not take any responsibility for terminating this Agreement, including terminating your user account and removing your User Content. r
+
+ "<b>9. Miscellaneous</b>"r
+ 9.1. Feedbackr
+ \u0009"<b>•</b>"\u0009Your suggestion to BLACK SHARK (“Feedback”) is regarded as transferring all rights of Feedback; BLACK SHARK has the right to use the Feedback in any appropriate method. We also consider this feedback unclassified and non-exclusive. r
+ \u0009"<b>•</b>"\u0009You agree not to provide any information you regard as private and proprietary to BLACK SHARK. r
+ \u0009"<b>•</b>"\u0009We reserve the rights (not obligations) to examine your content on our judgments. We have the right to delete or remove your content at any time for any reason. According to the terms of Modification and Termination, we have the right to reserve or terminate your account (including but not limited to your Cloud account). r
+ 9.2. Privacy Policyr
+ \u0009"<b>•</b>"\u0009Please review our Privacy Policy, which has equivalent rights with and is indivisible to this Agreement. BLACK SHARK has the right to analyze and commercially use the whole user database on the premise of non-disclosure of privacy information of individual users. r
+ 9.3. Notification \u0009"<b>•</b>"\u0009You must provide the latest, most used and valid email address. BLACK SHARK will not take any responsibility if we are unable to reach you through the email address you provide. Undoubtedly, the notifications on the Site and emails sent to you are valid notifications. r
+ 9.4. Applicable Lawr
+ \u0009"<b>•</b>"\u0009This Agreement shall be governed and interpreted according to the laws of PRC. r
+ \u0009"<b>•</b>"\u0009Any dispute between you and BLACK SHARK shall first be settled through friendly consultation. If no agreement is reached, the dispute shall be submitted to the jurisdiction court where Blackshark Technologies（Nanchang） Co., Ltd., is located. r
+ 9.5. Independencer
+ \u0009"<b>•</b>"\u0009If some provisions of this Agreement cannot be applied for some reasons, they will be revised to apply legally; and other provisions remain applicable. r
+ 9.6. Integralityr
+ \u0009"<b>•</b>"\u0009This Agreement (including the Privacy Policy) is the ultimate, integral and exclusive agreement between you and BLACK SHARK, in relation to any matter relating to the Site and BLACK SHARK Services, which supersedes and combines all the previous negotiations and agreements regarding to such matters (including End User License Agreement and Terms of Service) . r
+ \u0009"<b>•</b>"\u0009The title of each paragraph is written only for the convenience of reading and does not have any legal or contractual obligations. r
+ \u0009"<b>•</b>"\u0009Without written consent from BLACK SHARK, you cannot transfer the rights and obligations stated in this Agreement. Any behavior or activity violating the provision about such a transfer attempt is invalid. r
+
+ "<b>10. Contact Us</b>"r
+ The copyright of this Policy belongs to the Blackshark Technologies（Nanchang） Co., Ltd.. Blackshark Technologies（Nanchang） Co., Ltd. reserves the right to interpret and change it. If you have any questions, comments, or suggestions on our products, please submit them by visiting www.blackshark.com."</string>
+    <string name="usage_policy">Privacy Policy</string>
+    <string name="usage_policy_details">" Blackshark Technologies（Nanchang） Co., Ltd. and its affiliates (BLACK SHARK or we/our/us) value your privacy and personal data. Please do not submit any personal or private data to BLACK SHARK before you comprehensively read, understand, and agree to this Policy. r
+
+ This Policy is intended to help you understand the following: r
+ 1. How BLACK SHARK collects and uses your personal data. r
+ 2. How BLACK SHARK uses cookies, beacons and similar technologies. r
+ 3. How BLACK SHARK discloses your personal data. r
+ 4. How to modify, change, or check your personal data. r
+ 5. How BLACK SHARK protects your personal data. r
+ 6. How BLACK SHARK protects the personal data of children. r
+ 7. Disclaimer. r
+ 8. Update of this Policy. r
+ 9. Contact us. r
+ Please note that this Privacy Policy applies to the devices, websites, online application or services of BLACK SHARK citing or linking to this Policy, and the consumer-level electronic products of BLACK SHARK, including but not limited to feature phones, smartphones, home devices, data cards, tablets, mobile phones or computer applications, tools and software, and relevant websites, products, and services. This Policy does not apply to BLACK SHARK websites, services, and products that do not display or link to this Policy or those that have their own Privacy Policies. r
+ This Policy describes how BLACK SHARK handles personal and private data and how BLACK SHARK is committed to protecting your privacy. However, one policy may not be expansive enough to address all concerns of data processing. Therefore, BLACK SHARK may provide additional information that is specific to a product or service as a supplement to this Policy in order to keep you informed about other data collection purposes. Please note such notices in other forms during the use of BLACK SHARK products or services. Please read this Privacy Policy and its supplementary terms carefully. By using of our devices, websites or online applications, services or the consumer-level electronic products of BLACK SHARK, you agree to this Privacy Policy and its supplementary terms. r
+
+ "<b>1. How BLACK SHARK collects and uses your personal data?</b>"r
+ 1.1. How, when, and for what purposes does BLACK SHARK collect and make use of your personal data? r
+ \u0009"<b>•</b>"\u0009If you submit requests online to create an account or to purchase or register our products or services, we may ask you to provide information, such as your email address, delivery address, phone number, product information, time of purchase, and method of payment to implement your purchase orders, deliver your products or services, provide technical support or updates, and more. r
+ \u0009"<b>•</b>"\u0009When you are participating in promotions or market surveys held by BLACK SHARK, we may ask you to provide relevant information, such as your phone number and email address, to contact you, send you information about products and services that you may be interested in or invite you to our promotions and market surveys upon your agreement. You may reject or turn off such options on our websites, prompt windows or our products, or visit www.blackshark.com to contact us, to refuse BLACK SHARK to use your personal data for promotions or market surveys. r
+ \u0009"<b>•</b>"\u0009If you use our services to share content with your friends or invite your friends to participate in, we may need you to provide your friends' contact information, including but not limited to any SNS accounts and email addresses. BLACK SHARK may use such information to send invitations to your friends by email, instant messages, SNS, or SMS/MMS. The information will only be used for the purpose of sending invitations. BLACK SHARK will not save this information or use such information for other purposes. r
+ \u0009"<b>•</b>"\u0009BLACK SHARK may collect system and application data from your devices in order to inform you about available system or application updates. Such information may include your device name, system and application versions, operating system and browser versions, region and language settings, device identification numbers (IMEI, ESN, MEID, and SN), and your service provider's network ID, MAC address, IP address and the settings of the device accessing services. BLACK SHARK processes such information for the sole purpose of informing you about system or application updates. r
+ \u0009"<b>•</b>"\u0009BLACK SHARK may collect certain information for statistics and analysis, including your device name, device version, device identification numbers (IMEI, ESN, MEID, and SN), the fuzzy geographic location information of your device (such as the ID of the area where your device is located), your service provider's network ID (PLMN), how you use your applications, and the IP address you use to access the Internet. BLACK SHARK collects and processes such information to provide you with the best personalized user experience and to customize content, improve our products, analyze the efficiency of our business operations, analyze our market share, improve the security of BLACK SHARK's networks and services, and activate your after-sale services. r
+ \u0009"<b>•</b>"\u0009If your device or application experiences any errors, you can choose to send the error information to BLACK SHARK so that BLACK SHARK and BLACK SHARK's partners can provide you with troubleshooting services. BLACK SHARK may collect relevant information about the issue, such as your device model, application name and version, device identification number, and error logs. r
+ \u0009"<b>•</b>"\u0009Some of the services that BLACK SHARK provides allow you to synchronize, share, and store data. BLACK SHARK may collect and store data that you upload or download and data required to implement the uploads and downloads. r
+ 1.2. Location-based servicesr
+When you access certain location-based services, for example, when you search for information, navigate, or check the weather based on specific locations, BLACK SHARK may collect, use, and process the precise or fuzzy location information of your device. This is to allow BLACK SHARK to provide the preceding services for you. Information collected may include your device identification numbers, type, model, and real-time location information (including that obtained through GPS, WLAN, and your service provider's network ID). You may turn on/off the GPS from GPS settings. However, due to your service provider’s policy, you may not have the right to control WLAN and select mobile network. BLACK SHARK collects location information anonymously to provide and improve location-based products and services. r
+ 1.3. Collection and use of non-personal informationr
+Non-personal information refers to information that cannot be used to identify a specific person. BLACK SHARK may collect aggregate statistical information, such as the number of visitors to our website and the click-through rate of webpages. BLACK SHARK collects such information to understand how people use our website, products, or services. In this way, BLACK SHARK can improve our services to better meet customers’ needs. BLACK SHARK may, at its own discretion, collect, use, transfer, or disclose non-personal information for other purposes. r
+
+ "<b>2. How BLACK SHARK uses cookies, beacons and similar technologies</b>"r
+ BLACK SHARK and some third parties providing content, advertisement or other functions through products or services of BLACK SHARK may use cookies, beacons and other similar technologies within the scope of services. By accessing and using our products or services, you agree to our storing cookies, other local storage technologies, beacons and other information on your device, and in addition, you agree to the access of such information by BLACK SHARK and the above-mentioned third parties. r
+
+ "<b>3. How BLACK SHARK discloses your personal data</b>"r
+ BLACK SHARK will never sell your personal data to third parties without your knowledge. However, BLACK SHARK may disclose your personal data in the following situations: r
+ 3.1. After obtaining your approval, BLACK SHARK may share your personal information with other companies; BLACK SHARK will never sell your personal data to third parties for their own marketing or commercial purposes without your permission. r
+ 3.2. BLACK SHARK may need to provide you with certain services through some cooperating parties. Therefore, BLACK SHARK may share some of your personal information with cooperating parties to enrich our services and improve your overall experience. For example, when you decide to purchase BLACK SHARK products online, BLACK SHARK will need to submit your personal information to relevant logistic service providers to allow them to deliver the products to you, or allow our cooperating parties to provide you with other services. BLACK SHARK forbids all BLACK SHARK subsidiaries or authorized third parties to use shared personal information for any other purposes. r
+ 3.3. BLACK SHARK may disclose your personal information when required by the law, legal proceedings, litigation, or public, governmental authorities. r
+ 3.4. Your personal information may also be disclosed to transaction parties under circumstances that BLACK SHARK is involved in reorganization, merger, or insolvency liquidation. r
+ 3.5. Your personal information may be disclosed to relevant parties for the protection of rights, properties or safety of BLACK SHARK and its affiliates, partners or customers. r
+ 3.6. BLACK SHARK may disclose your personal information for maintenance of social public interests. r
+
+ "<b>4. How to modify, change, or check your personal data</b>"r
+ You will be responsible for the accuracy of the personal information you submit. BLACK SHARK makes the best commercial endeavor to keep the accuracy of your personal information, and BLACK SHARK will delete or amend the information upon your request. Under the terms and conditions of BLACK SHARK, you can manage your personal information at any time, such as your personal account registration information. r
+
+ "<b>5. How BLACK SHARK protects your personal data</b>"r
+ BLACK SHARK takes reasonable preventive measures, including but not limited to, technical, physical, and regulatory actions to protect your personal information from unauthorized access, disclosure, use, change, damage, or loss. For example, from a technical perspective, BLACK SHARK uses anti-virus software to encrypt and monitor our systems and protect data centers from malicious attacks. From a physical perspective, BLACK SHARK has set in place visit control mechanisms, allowing only authorized personnel to access some personal data. From a regulatory perspective, BLACK SHARK makes sure employees understand the importance of protecting personal data through training sessions on security and privacy protection awareness. Although we take the utmost care to protect your personal data, please note that no websites, internet transfer, computer system, terminal storage and transfer or wireless connection are absolutely secure. r
+
+ "<b>6. How BLACK SHARK protects the personal data of children</b>"r
+ BLACK SHARK’s products or services may contain content suitable for children. Unless required by law, BLACK SHARK will not collect any personal data from children at the age of 13 or under on purpose without seeking prior parental consent. We will delete it according to applicable laws once we get to know that the personal data provider is at the age of 13 or under. r
+
+ "<b>7. Disclaimer</b>"r
+ 7.1.To ensure an efficient visit and improve user experience, you may be provided with web hyperlinks or services from third parties, over which BLACK SHARK does not have control. BLACK SHARK undertakes no responsibility for the safety or privacy of any personal data collected by these web hyperlinks or services. You can choose whether to access such hyperlinks or content or use services and products of these third parties. BLACK SHARK cannot control any privacy and data protection measures of third parties, and such measures will not be governed by this Policy either. This Policy does not apply to any information that you voluntarily provide to third parties. Please refer to the privacy protection policies of the third parties instead. r
+ 7.2.BLACK SHARK products and services may be provided using resources and servers located in various countries and regions around the world. Therefore, your personal information may be transferred across international borders outside the country where you use our services. Those countries may not have laws providing specific protection for personal data, or they may have different legal regulations on data protection. In such cases, BLACK SHARK will ensure that there is a legal basis for such transfers and that adequate protection for your personal data is provided as required by applicable laws. r
+
+ "<b>8. Update of this Policy</b>"r
+ BLACK SHARK may update or amend this Policy from time to time. BLACK SHARK will notify you of the changes upon update of this Policy. You may also visit our website to inquire the latest version of this Policy. By using of our devices, websites or online applications, services or the consumer-level electronic products of BLACK SHARK after the update of this Policy, you agree to the updated Policy. r
+
+ "<b>9. Contact us</b>"r
+ The copyright of this Policy belongs to the Blackshark Technologies（Nanchang） Co., Ltd.. Blackshark Technologies（Nanchang） Co., Ltd. reserves the right to interpret and change it. If you have any questions, comments, or suggestions on our products, please submit them by visiting www.blackshark.com.
+"</string>
+    <string name="usage_terms_tips">I have carefully read and agree to the above terms.</string>
+    <string name="usage_terms_tips_content">You need to accept the user agreement and privacy policy to continue to use JoyUI. When the device is activated, the service framework, SIM card activation service, Multicast service, Cloud service, Phone Finder, Game service, MIUI statistics, Account module, system lock screen, System Push, and Note will locate and connect to the network.</string>
+    <string name="zh_cn">简体中文</string>
+    <string name="zh_hk">繁体中文(港澳)</string>
+    <string name="zh_tw">繁体中文(台湾)</string>
+</resources>

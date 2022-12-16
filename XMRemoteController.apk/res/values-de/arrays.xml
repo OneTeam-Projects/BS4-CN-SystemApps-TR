@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Kühlung</item>
+        <item>Heizung</item>
+        <item>Entfeuchten</item>
+        <item>Lüfter</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Männlich</item>
+        <item>Weiblich</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Dein Gerät kann nur mit Mi TV, Mi-Box und einigen anderen Android-Geräten mit aktivem Wi-Fi verbunden werden.</item>
+        <item>Stelle sicher, dass Du das richtige Klimaanlage Modell vor dem Koppeln ausgewählt hast. Folge den Anweisungen auf Deinem Gerät, bis die Paarung abgeschlossen ist.</item>
+        <item>Nein. Derzeit können die Smartphones Mi4, Mi4c und Redmi Note 2 als Fernbedienungen genutzt werden.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>So</item>
+        <item>Mo</item>
+        <item>Di</item>
+        <item>Mi</item>
+        <item>Do</item>
+        <item>Fr</item>
+        <item>Sa</item>
+    </string-array>
+    <string-array name="question">
+        <item>Warum sucht mein Telefon permanent nach drahtlosen Geräten?</item>
+        <item>Warum kann ich meine Klimaanlage nur einschalten und nicht ausschalten?</item>
+        <item>Kann ich ein Mi 3, Mi-2 und Redmi als eine IR-Fernbedienung verwenden?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Haier-Klimaanlage im Wohnzimmer einschalten</item>
+        <item>Temperatur auf 25 Grad einstellen</item>
+        <item>Windrichtung auf \"Hoch\" stellen</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree-Klimaanlage einschalten</item>
+        <item>Zum Schwenkmodus wechseln</item>
+        <item>Gebläse der Klimaanlage höherstellen</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Set-Top-Box einschalten</item>
+        <item>Ich möchte mir Hunan-TV ansehen</item>
+        <item>Zurück zu Kanal 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Klimaanlage an</item>
+        <item>Ich möchte mir Shenzhen-TV ansehen</item>
+        <item>Zurück zu Kanal 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>TV im Schlafzimmer einschalten</item>
+        <item>TV ausschalten</item>
+        <item>Die TV-Lautstärke erhöhen</item>
+    </string-array>
+</resources>

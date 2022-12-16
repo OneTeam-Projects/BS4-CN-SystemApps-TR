@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">সঘন বাক্যাংশ যোগ কৰক</string>
+    <string name="delete_frequent_phrases">সঘন বাক্যাংশ বিলোপ কৰক</string>
+    <string name="delete_frequent_phrases_confirm">চয়নিত সঘন বাক্যংশসমূহ বিলোপ কৰিবনে?</string>
+    <string name="edit_frequent_phrases">সঘন বাক্যাংশ সম্পাদনা কৰক</string>
+    <string name="frequent_phrases_des">পাঠ সম্পাদনা কৰোতে মাত্ৰ কেইটামান টেপেৰে সঘন বাক্যাংশসমূহ প্ৰবিষ্ট কৰক</string>
+    <string name="frequent_phrases_size_exceeded">%1$d টা পৰ্যন্ত সঘন বাক্যাংশ যোগ কৰিব পাৰি। অধিক যোগ দিবলৈ অপ্ৰয়োজনীয়সমূহ আঁতৰাওক।</string>
+    <string name="menu_add_frequent_phrases">যোগ</string>
+    <string name="menu_delete">বিলোপ</string>
+    <string name="menu_edit">সম্পাদনা</string>
+    <string name="sync_phrase_label">সঘন বাক্যাংশ</string>
+</resources>

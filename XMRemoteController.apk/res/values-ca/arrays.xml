@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Refrigeració</item>
+        <item>Calefacció</item>
+        <item>Deshumidificació</item>
+        <item>Ventilador</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Masculí</item>
+        <item>Femení</item>
+    </string-array>
+    <string-array name="answer">
+        <item>El vostre dispositiu només es pot vincular amb Mi TV, Mi Box i uns pocs dispositius Android més utilitzant Wi-Fi.</item>
+        <item>"Assegureu-vos que heu seleccionat l'aire acondicionat correcte en el procés de vinculació. Seguiu les indicacions al vostre dispositiu per completar la vinculació."</item>
+        <item>No. Actualment pots utilitzar Mi 4, Mi 4c i Redmi Note 2 com a comandaments infrarrojos.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Dg</item>
+        <item>Dl</item>
+        <item>Dt</item>
+        <item>Dc</item>
+        <item>Dj</item>
+        <item>Dv</item>
+        <item>Ds</item>
+    </string-array>
+    <string-array name="question">
+        <item>Per què el meu telèfon continua buscant dispositius sense fil?</item>
+        <item>"Per què només puc encendre l'aire condicionat i no el puc apagar?"</item>
+        <item>"Puc utilitzar Mi 3, Mi 2 i Redmi com un comandament d'infrarrojos?"</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>"Engegeu l'aire acondicionat Haier a la sala d'estar"</item>
+        <item>Establiu la temperatura a 25 graus</item>
+        <item>Establiu la direcció del aire cap \"Amunt\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>"Engegar l'aire acondicionat Gree"</item>
+        <item>Canvieu a mode balanceig</item>
+        <item>"Augmenteu l'intensitat de l'aire"</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Activeu el descodificador</item>
+        <item>Vull veure TV Hunan</item>
+        <item>Torneu al canal 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>"Activa l'aire acondicionat"</item>
+        <item>Vull veure TV Shenzhen</item>
+        <item>Torneu al canal 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Engegueu el TV al dormitori</item>
+        <item>Apagueu el TV al dormitori</item>
+        <item>Pugeu el volum al TV</item>
+    </string-array>
+</resources>

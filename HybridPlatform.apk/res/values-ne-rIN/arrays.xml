@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>छवि बचत गर्नुहोस्</item>
+        <item>छवि साझा गर्नुहोस्</item>
+        <item>रद्द गर्नुहोस्</item>
+    </string-array>
+</resources>

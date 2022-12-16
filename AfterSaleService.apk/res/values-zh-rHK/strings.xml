@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽主頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">顯示全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">刪除</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 鍵</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">空白鍵</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">使用「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="account_credits">積分</string>
+    <string name="add_pic_video">添加圖片或視頻</string>
+    <string name="agree">同意</string>
+    <string name="app_name">黑鲨服務</string>
+    <string name="auto_close_log">%1$d小時後自動關閉</string>
+    <string name="beta_point_store">Beta商城</string>
+    <string name="browser_not_found">未找到瀏覽器</string>
+    <string name="cancel">取消</string>
+    <string name="chat_online">在線溝通</string>
+    <string name="chat_photo">圖片</string>
+    <string name="chat_video">視頻</string>
+    <string name="click_too_fast">您點的太快了，休息一下吧</string>
+    <string name="close_and_save">取消并保存</string>
+    <string name="close_fail">關閉失敗，請重試</string>
+    <string name="close_success_tips">日誌抓取已停止，若問題已復現請及時反饋</string>
+    <string name="closing">正在關閉，請稍後</string>
+    <string name="cloud_service">雲服務</string>
+    <string name="common_issue">請選擇相應的問題</string>
+    <string name="complete">完成並反饋</string>
+    <string name="complete_info">請完善信息填寫</string>
+    <string name="compress_dump_content">壓縮過程耗時可能比較長，請耐心等待，壓縮完成後將僅在WiFi狀態下上傳該文件。</string>
+    <string name="compress_dump_title">正在壓縮dump日誌</string>
+    <string name="compress_tips">提取完的日誌文件會在Wi-Fi下自動上傳</string>
+    <string name="compress_title">正在提取日誌文件，請勿關閉後台進程</string>
+    <string name="confirm">确定</string>
+    <string name="contact_info">聯繫方式</string>
+    <string name="content_not_empty">內容不能為空</string>
+    <string name="continue_upload">繼續</string>
+    <string name="current_version">當前版本</string>
+    <string name="del_log_content">確定要刪除手機上全部的離線日誌嗎？</string>
+    <string name="del_log_title">刪除全部離線日誌</string>
+    <string name="del_log_toast">共刪除%1$s離線日誌</string>
+    <string name="dialog_submitting">正在提交</string>
+    <string name="disagree">不同意</string>
+    <string name="dump_btn_ok">已聯繫，確定提交</string>
+    <string name="dump_content">"注意事項
+1、為保證日誌有效性，請先與工程師取得聯繫，徵得同意後才可以提交
+2、請預留手機相應內存大小的儲存空間，並儘量使手機電量不低於50%
+3、點擊【已聯繫，確定提交】，開始抓取dump日誌，抓取時間可能比較長，請耐心等待
+4、日誌抓取完成後將僅在WiFi狀態下上傳，上傳完成後將自動刪除本地日誌壓縮包"</string>
+    <string name="dump_title">dump日誌提交</string>
+    <string name="exit_beta_store">再點擊一次退出Beta商城</string>
+    <string name="exit_tips">再點擊一次退出應用</string>
+    <string name="extra_app_title">應用名稱</string>
+    <string name="extra_bt_hint">如：小米AirDots</string>
+    <string name="extra_bt_title">藍牙設備品牌型號</string>
+    <string name="extra_charge_hint">如：黑鯊標配65W+標配數據線</string>
+    <string name="extra_charge_title">充電器規格</string>
+    <string name="extra_gps_hint">如：高德地圖</string>
+    <string name="extra_gps_title">導航軟件</string>
+    <string name="extra_modem_hint">如：上海+電信4G</string>
+    <string name="extra_modem_title">所在地區</string>
+    <string name="extra_theme_title">主題名稱</string>
+    <string name="extra_wlan_hint">如：TP-LINK R476</string>
+    <string name="extra_wlan_title">路由器品牌型號</string>
+    <string name="feedback_content">問題描述：</string>
+    <string name="feedback_detail">反饋詳情</string>
+    <string name="feedback_score">+%1$d积分</string>
+    <string name="feedback_time">反饋時間：%1$s</string>
+    <string name="feedback_title">問題標題：</string>
+    <string name="file_not_exist">文件不存在</string>
+    <string name="function_consultation">在線諮詢</string>
+    <string name="function_feedback">問題反饋</string>
+    <string name="function_problem">猜你想問</string>
+    <string name="get_data_failure">獲取數據失敗，點擊重試</string>
+    <string name="get_msg_error">獲取聊天記錄失敗</string>
+    <string name="goto_set">去設置</string>
+    <string name="grid_service_policy">服務政策</string>
+    <string name="hint_describe_content">詳細描述</string>
+    <string name="hint_input_message">輸入消息…</string>
+    <string name="hint_main_body_prompt">請詳細描述問題發生前後您的操作步驟</string>
+    <string name="hint_main_body_prompt2">請詳細描述您的功能建議</string>
+    <string name="hint_mandatory">必选</string>
+    <string name="hint_title">請簡潔描述您遇到的問題</string>
+    <string name="history_error_hint">網絡連接異常，請重試</string>
+    <string name="history_fail_hint">查詢失敗，請重新查詢</string>
+    <string name="hour">小時</string>
+    <string name="huanji_content">點擊使用“小米換機”，極速導入照片，應用，聯繫人，短信等數據</string>
+    <string name="huanji_title">換新機了，舊手機數據怎麼辦？</string>
+    <string name="i_know_tips">"已開啟日誌工具，日誌抓取過程中可能會增加耗電和影響手機性能，若問題一直無法復現，請回到本頁點擊【取消】，關閉日誌抓取。
+ %1$s"</string>
+    <string name="i_know_tips_more"><Data>&lt;font color=#00C03C font-size=8px>提示：开启/关闭相机拍摄效果日志后，请再次打开相机并重启手机生效&lt;/font></Data></string>
+    <string name="input_key_word">搜索模塊</string>
+    <string name="installed_apps">已安裝的第三方應用</string>
+    <string name="internet_checking_tip">檢查你的網絡設置，再點擊重試</string>
+    <string name="issue_fault">常見問題</string>
+    <string name="issue_offline_tip">與服務器連接失敗，點擊【確定】後問題單將保存在本地，恢復連接後自動上傳。</string>
+    <string name="issue_saved">問題單已保存</string>
+    <string name="issue_type_problem">遇到問題</string>
+    <string name="issue_type_suggestion">功能建議</string>
+    <string name="item_issue_frequency">問題頻率</string>
+    <string name="item_issue_time">出现時間</string>
+    <string name="item_issue_title">問題標題</string>
+    <string name="item_must">必現</string>
+    <string name="item_occasionally">偶爾</string>
+    <string name="item_often">經常</string>
+    <string name="item_only_once">僅一次</string>
+    <string name="item_select_module">選擇模塊</string>
+    <string name="know">知道了</string>
+    <string name="log_check_content_1">檢測到您所反饋問題模塊的%1$s。請檢查相應的日誌開關是否開啟？若已開啟，請先關閉後再重新開啟，問題復現後請及時反饋。</string>
+    <string name="log_check_content_2">檢測到您所反饋問題模塊的%1$s。請正確填寫問題的出現​​時間！</string>
+    <string name="log_check_content_3">"檢測到您所反饋的%1$s。請在問題復現後及時反饋！
+點擊【確定】繼續提交"</string>
+    <string name="log_check_content_4">檢測到影響正常功耗的日誌%1$s。請先關閉日誌，觀察一斷時間，問題復現後請及時反饋。</string>
+    <string name="log_check_msg_1">&lt;font color=#00C03C>離線日誌不存在，將無法提交&lt;/font></string>
+    <string name="log_check_msg_2">&lt;font color=#00C03C>離線日誌打開時間晚於問題出現時間，將無法提交&lt;/font></string>
+    <string name="log_check_msg_3">&lt;font color=#00C03C>問題出現時間距離當前時間已過去%1$d分鐘，日誌可能無效&lt;/font></string>
+    <string name="log_check_msg_4"><Data>&lt;font color=#00C03C>%1$s已開啟，將無法提交&lt;/font></Data></string>
+    <string name="log_crawling">日誌抓取</string>
+    <string name="login">立即登錄</string>
+    <string name="login_tip">登錄後，您可通過 [人工客服] 與工程師取得聯繫。同時，還可以在 [我的] 中查看反饋進度</string>
+    <string name="low_power_mode">低功耗模式，推薦使用</string>
+    <string name="mgws_warning_content">長時間開啟可能會增加耗電和影響手機性能，建議問題復現後及時上傳並關閉抓取進程</string>
+    <string name="mgws_warning_title">%1$s已開啟</string>
+    <string name="modem_low_power_tip">功耗模式已改变，请重启手机生效</string>
+    <string name="modem_more_tips">移動網絡（電話/短信）、音頻（錄音/通話聲音）、GPS、WiFi和傳感器相關的日誌一次只能開一個</string>
+    <string name="modem_more_tips_1">移動網絡（電話/短信等）、音頻（錄音/通話聲音）、GPS和傳感器相關的日誌一次只能開一個</string>
+    <string name="module_update">模塊類型更新成功</string>
+    <string name="msg_abandon_or_not">您已經編輯了反饋的具體內容，點擊確認將默認放棄此條反饋</string>
+    <string name="my_histories">反饋記錄</string>
+    <string name="no_internet">網絡未連接</string>
+    <string name="no_local_video">本地視頻不存在，無法播放</string>
+    <string name="no_more_data">沒有更多數據了</string>
+    <string name="normal_mode">正常模式</string>
+    <string name="not_contains_emoji">不能包含表情等特殊符號</string>
+    <string name="notification_common">常規通知</string>
+    <string name="notification_progress">進度通知</string>
+    <string name="notification_push">推送消息</string>
+    <string name="offline_step">"1、點擊\"開啟日誌抓取\"
+2、再次使用先前出現問題的功能，直到問題復現
+3、問題復現後回到本頁麵點擊\"完成並反饋\"
+4、填寫反饋內容並提交"</string>
+    <string name="offline_step_camera_3a">"1、點擊\"開啟日誌抓取\"
+2、再次打開相機，然後重啟手機
+3、待手機重啟完畢後，再次使用先前出現問題的功能，直到問題復現
+4、問題復現後回到本頁麵點擊\"完成並反饋\"
+5、填寫反饋內容並提交"</string>
+    <string name="open_dir">打開日誌文件夾</string>
+    <string name="open_fail">開啟失敗，請重試</string>
+    <string name="opening">正在開啟，請稍後</string>
+    <string name="permission_no">取消</string>
+    <string name="permission_yes">允許</string>
+    <string name="photo_video_display">圖片/視頻查看</string>
+    <string name="player_handbook">玩家手冊</string>
+    <string name="points_details">積分明細</string>
+    <string name="points_rule">積分規則</string>
+    <string name="post_fail_hint">提交失敗，請重新提交</string>
+    <string name="post_repeat_hint">重複提交</string>
+    <string name="post_server_tips">已提交給工作人員，感謝您的反饋</string>
+    <string name="post_wait_hint">正在提交</string>
+    <string name="posts_detail">反饋記錄</string>
+    <string name="progress_wait_hint">正在關閉，請稍後</string>
+    <string name="protocol">隱私協議</string>
+    <string name="protocol_audio"><Data>&lt;font color=#00C03C>其中可能包含您的手機的聲音信息，包含播放的和麥克風錄到的聲音信息，&lt;/font></Data></string>
+    <string name="protocol_bt"><Data>&lt;font color=#00C03C>其中可能包含藍牙設備操作（可能包含通話記錄、短信彩信、文件傳輸等）信息，&lt;/font></Data></string>
+    <string name="protocol_camera"><Data>&lt;font color=#00C03C>其中可能包含拍照的時間和位置信息，&lt;/font></Data></string>
+    <string name="protocol_content">您正在抓取軟件使用日誌並保存在本地，%1$s請謹慎操作並妥善保管您的軟件使用日誌，選擇下方【同意】表示您同意我們採集接下來錄製環節的上報數據，並提交給我們用於解決您反饋的問題</string>
+    <string name="protocol_gps"><Data>&lt;font color=#00C03C>其中可能包含您的個人信息和定位信息，&lt;/font></Data></string>
+    <string name="protocol_location_content">通過網絡或者衛星對您的設備定位</string>
+    <string name="protocol_location_title">獲取位置信息</string>
+    <string name="protocol_modem"><Data>&lt;font color=#00C03C>其中可能包含您的IMEI，電話號碼，通話內容，短信內容等所有通信信息，&lt;/font></Data></string>
+    <string name="protocol_paragraph_01">歡迎您使用黑鯊服務。您可使用本應用查看常見問題及解決方法、提交問題反饋、抓取日誌、獲得在線客服幫助等功能。</string>
+    <string name="protocol_paragraph_02">我們將嚴格遵守相關法律法規和隱私政策以保護您的個人信息。為提供基本服務，需要聯網以及調用您的如下權限或功能，以收集必要的個人信息：</string>
+    <string name="protocol_paragraph_03">如果您不同意調用以上必要權限或功能，或不同意我們收集並使用以上信息，將無法使用其對應的功能。</string>
+    <string name="protocol_paragraph_04">您可選擇退出本應用以停止授權。</string>
+    <string name="protocol_paragraph_05">請您閱讀並同意&lt;a href=%1$s>《隱私政策》&lt;/a>。</string>
+    <string name="protocol_sensor"><Data>&lt;font color=#00C03C>其中可能包含您的手機的環境傳感器（環境光，氣壓等）信息及運動傳感器（運動步數，手機所在位置磁場強度等），&lt;/font></Data></string>
+    <string name="protocol_wlan"><Data>&lt;font color=#00C03C>其中可能包含您的個人信息、定位信息、IP地址以及網絡設備物理地址，如果您使用未加密的WiFi網絡，還有可能看到您的部分通訊數據，&lt;/font></Data></string>
+    <string name="push_chat_title">攻城獅來信了，點擊查看</string>
+    <string name="reboot_now">立即重启</string>
+    <string name="reference_solution">參考解決方案</string>
+    <string name="request_timeout">請求超時</string>
+    <string name="restart_for_camera">相機配置已修改，請先打開相機應用再重啟手機生效</string>
+    <string name="restart_for_mode_change">切換模式需要重啟手機生效</string>
+    <string name="restart_title">重啟提示</string>
+    <string name="retry">重試</string>
+    <string name="search_apps">搜索應用</string>
+    <string name="search_empty">未查詢到模塊信息</string>
+    <string name="search_empty_app">未搜索到任何應用</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="single_open_tips">一次只能抓取一種日誌</string>
+    <string name="ssl_error_cert_invalid">SSL認證失敗，是否繼續訪問？</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_doing">正在處理</string>
+    <string name="status_done">已處理</string>
+    <string name="status_pended">已提交反饋</string>
+    <string name="status_pending">待提交</string>
+    <string name="steps">操作步驟：</string>
+    <string name="submit_success">提交成功</string>
+    <string name="table_mine">我的</string>
+    <string name="task">任務</string>
+    <string name="tel_email">手機號/郵箱</string>
+    <string name="title_log_time">設置日誌抓取時長</string>
+    <string name="total_points">積分總額</string>
+    <string name="turn_on_log">開啟日誌抓取</string>
+    <string name="tv_emppty_details">暫無反饋記錄</string>
+    <string name="tv_emppty_title">至今未出現任何問題喲</string>
+    <string name="tv_mobile_data">允許使用移動數據上傳本次附件</string>
+    <string name="type_audio">音頻、錄音、通話聲音相關的日誌</string>
+    <string name="type_bt">藍牙相關的日誌</string>
+    <string name="type_camera_3a">相機拍攝效果相關的日誌</string>
+    <string name="type_camera_focus">相機對焦效果相關的日誌</string>
+    <string name="type_camera_sys">相機穩定性相關的日誌</string>
+    <string name="type_charger">充電相關的日誌</string>
+    <string name="type_gps">GPS定位相關的日誌</string>
+    <string name="type_modem">電話、移動網絡、短信相關的日誌</string>
+    <string name="type_sensor">傳感器相關的日誌</string>
+    <string name="type_wlan">WiFi無線網相關的日誌</string>
+    <string name="upgrade_later">稍後更新</string>
+    <string name="upgrade_now">立即更新</string>
+    <string name="upload_log_protocal">上傳您的問題日誌</string>
+    <string name="uploading">正在上傳日誌</string>
+    <string name="use_mobiel_data_content">附件剩餘%1$s未上傳，使用移動數據繼續上傳？</string>
+    <string name="use_mobile_data">當前處於非Wi-Fi狀態下，繼續將消耗較多數據流量。</string>
+    <string name="use_mobile_data_title">流量使用提示</string>
+    <string name="user_flag_beta">BETA</string>
+    <string name="user_flag_fans">粉絲</string>
+    <string name="user_flag_test">測試</string>
+    <string name="user_flag_try">內測</string>
+    <string name="video_error">視頻無法播放</string>
+    <string name="wait_upload">等待上傳</string>
+    <string name="waiting_login">正在登錄，請稍等</string>
+</resources>

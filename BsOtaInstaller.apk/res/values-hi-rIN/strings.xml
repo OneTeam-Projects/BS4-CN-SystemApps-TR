@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">सहमत</string>
+    <string name="begin_use">उपयोग करने के लिए प्रारंभ करें</string>
+    <string name="checKed_no_SIM_tips">वर्तमान स्थिति में फ़ोन के लिए कोई भी डेटा नेटवर्क उपलब्ध नहीं है</string>
+    <string name="checked_SIM">SIM कार्ड जाँचें</string>
+    <string name="checked_Two_SIM">डुअल SIM कार्ड सेटिंग्स</string>
+    <string name="checked_no_SIM">कोई भी SIM कार्ड नहीं पाया गया</string>
+    <string name="checked_one_sim">SIM कार्ड पाया गया</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">भाषा चयन</string>
+    <string name="choose_lock_add_fingerprint">फिंगरप्रिंट जोड़ें</string>
+    <string name="choose_lock_add_fingerprint_tips">स्क्रीन अनलॉक करने के लिए आप फिंगरप्रिंट का उपयोग कर सकते हैं और सुरक्षित रूप से तथा शीघ्रता के साथ लॉग इन कर सकते हैं</string>
+    <string name="choose_lock_title">फिंगरप्रिंट द्वारा अनलॉक करें</string>
+    <string name="cloud_le_account">Letv खाते के माध्यम से लॉग इन करें</string>
+    <string name="cloud_login">लॉग इन करें</string>
+    <string name="cloud_register">फ़ोन नंबर के माध्यम से पंजीकरण करें</string>
+    <string name="cloud_tips">निजी डेटा जैसे कि संपर्कों को सिंक्रोनाइज़ करने के लिए Coolpad खाते के माध्यम से लॉग इन करें और फ़ोन खोजें</string>
+    <string name="cloud_titile">Coolpad खाता</string>
+    <string name="connect_WALN">WLAN से कनेक्ट करें</string>
+    <string name="count_down">काउंटडाउन</string>
+    <string name="experience_location_service">स्थान सेवाएँ</string>
+    <string name="experience_location_service_explain">स्थान पर एप्लिकेशन को अनुमति दें</string>
+    <string name="experience_plan">उपयोगकर्ता अनुभव योजना</string>
+    <string name="experience_plan_explain">सिस्टम अनुभव में सुधार करने और उसे अनुकूलित करने में सहायता करें</string>
+    <string name="experience_setting">अनुभव और शर्तें</string>
+    <string name="language_shutdown_tip">"बहुत अधिक समय से किसी भी गतिविधि की पहचान नहीं की गई है
+काउंटडाउन के बाद
+डिवाइस स्वचालित रूप से बंद हो जाएगा"</string>
+    <string name="language_shutdown_title">स्वचालित रूप से बंद</string>
+    <string name="language_touch_turn_off">बंद करना रद्द करने के लिए टच करें</string>
+    <string name="last_step">वापस</string>
+    <string name="mobile_move">मोबाइल स्थानांतरण</string>
+    <string name="network_flow">नेटवर्क ट्रैफ़िक</string>
+    <string name="network_flow_tips">किसी भी वायरलेस नेटवर्क के कनेक्ट न होने पर मोबाइल नेटवर्क द्वारा इंटरनेट पर पहुँच प्राप्त करें</string>
+    <string name="next_step">अगला</string>
+    <string name="setup_success">सेटअप सफल रहा</string>
+    <string name="setupwizard_wifi_cancle_save">सहेजना रद्द किया गया</string>
+    <string name="setupwizard_wifi_connect">WLAN से कनेक्ट करें</string>
+    <string name="setupwizard_wifi_connected">कनेक्ट हुआ</string>
+    <string name="setupwizard_wifi_connecting">कनेक्ट कर रहा है...</string>
+    <string name="setupwizard_wifi_dialog_cancel">रद्द करें</string>
+    <string name="setupwizard_wifi_dialog_comfirm">ठीक</string>
+    <string name="setupwizard_wifi_dialog_connect">कनेक्ट करें</string>
+    <string name="setupwizard_wifi_dialog_disconect">डिस्कनेक्ट करें</string>
+    <string name="setupwizard_wifi_dialog_hint_text">पासवर्ड</string>
+    <string name="setupwizard_wifi_no_tips">सीमा के भीतर कोई भी Wi-fi कनेक्शन नहीं हैं</string>
+    <string name="setupwizard_wifi_saved">सहेजा गया</string>
+    <string name="setupwizard_wifi_searching">खोज रहा है</string>
+    <string name="sim_identifying">पहचान कर रहा है...</string>
+    <string name="skip">छोड़ें</string>
+    <string name="usage_agreement">उपयोगकर्ता अनुबंध</string>
+    <string name="usage_policy">गोपनीयता नीति</string>
+</resources>

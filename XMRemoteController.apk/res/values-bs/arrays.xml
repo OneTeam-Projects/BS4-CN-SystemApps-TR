@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Hlađenje</item>
+        <item>Grijanje</item>
+        <item>Uklanjanje vlage</item>
+        <item>Ventilator</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Muško</item>
+        <item>Žensko</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Vaš uređaj može se samo upariti s Mi TB, Mi Box i nekolicinom drugih Android uređaja putem Wi-Fi.</item>
+        <item>Provjerite da li ste odabrali ispravan model klima uređaja pri uparivanju. Slijedite upute na uređaju dok se uparivanje ne dovrši.</item>
+        <item>Ne. Trenutno možete da koristite Mi 4, Mi 4c i Redmi Note 2 kao IC daljinske.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+    </string-array>
+    <string-array name="question">
+        <item>Žašto moj telefon stalno traži bežične uređaje?</item>
+        <item>Žašto mogu samo da uključim klima uređaj, a ne i da ga isključim?</item>
+        <item>Mogu li da koristim Mi 3, Mi 2 i Redmi kao IC daljinski?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Uključi Haier klima uređaj u dnevnoj sobi</item>
+        <item>Postavi temperaturu na 25 stepeni</item>
+        <item>Usmjeri zrak prema \"Gore\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Uključi Gree klima uređaj</item>
+        <item>Prebaci na usmjeravanje gore-dolje</item>
+        <item>Postavi jače puhanje na klima uređaju</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Uključi dekoder</item>
+        <item>Želim gledati Hunan TV</item>
+        <item>Vrati se na kanal 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Uključi klima uređaj</item>
+        <item>Želim gledati Shenzhen TV</item>
+        <item>Vrati se na kanal 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Uključi TV u spavaćoj sobi</item>
+        <item>Isključi TV</item>
+        <item>Povećaj glasnoću na TV-u</item>
+    </string-array>
+</resources>

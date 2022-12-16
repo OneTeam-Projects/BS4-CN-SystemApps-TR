@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>حالة الشبكة الحالية ممتازة</item>
+        <item>شبكة بيانات الجوال ضعيفة، يوصى بالتبديل إلى WLAN</item>
+        <item>شبكة WLAN ضعيفة، يوصى بالتبديل إلى بيانات الجوال</item>
+        <item>الإشارة الحالية غير مستقرة. يرجى محاولة تحريك أو تعديل وضع تثبيت الهاتف المحمول.</item>
+        <item>حالة الشبكة الحالية طبيعية</item>
+        <item>لا يوجد</item>
+    </string-array>
+</resources>

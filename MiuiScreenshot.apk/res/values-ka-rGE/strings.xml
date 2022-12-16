@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screenshot</string>
+    <string name="long_screenshot_guide_text">"შეეხეთ რათა სქროლვისას
+ გადაიღოთ screenshot"</string>
+    <string name="long_screenshot_out_of_memory_error">გამოსახულება ძალიან დიდია</string>
+    <string name="long_screenshot_processing">დამუშავება…</string>
+    <string name="long_screenshot_stop">მზადაა</string>
+    <string name="long_screenshot_top_msg">მიმდინარეობს screenshot-ის შექმნა…</string>
+    <string name="long_screenshot_top_msg_manual">მოჭერით screenshot-ი და შეეხეთ ღილაკს დასასრულებლად</string>
+    <string name="partial_screenshot_edit">რედაქტირება</string>
+    <string name="partial_screenshot_repaint">თავიდან დაწყება</string>
+    <string name="partial_screenshot_save">შენახვა</string>
+    <string name="partial_screenshot_save_successful">წარმატებით შეინახა</string>
+    <string name="partial_screenshot_share">გაზიარება</string>
+    <string name="screenshot_edit">რედაქტირება</string>
+    <string name="screenshot_failed_in_landscape_mode">Screenshot-ების ჩამოსქროლვა ლანდშაპტურ რეჟიმში ვერ ხერხდება</string>
+    <string name="screenshot_failed_to_capture_title">ამ აპლიკაციას არ აქვს ნებართვა screenshot-ის გადაღებაზე</string>
+    <string name="screenshot_failed_to_save_title">შენახვა ვერ მოხერხდა. არ არის საკმარისი მეხსიერება.</string>
+    <string name="screenshot_feedback_txt">გამოხმაურება</string>
+    <string name="screenshot_insert_failed">screenshot ვერ ჩაიტვირთა. გააკეთეთ თავიდან ან გადახედეთ გამოსახულებას გალერეაში.</string>
+    <string name="screenshot_long_screenshot">ჩამოსქროლვა</string>
+    <string name="screenshot_send">გაგზავნა</string>
+</resources>

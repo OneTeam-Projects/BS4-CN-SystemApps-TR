@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Додај чести фрази</string>
+    <string name="delete_frequent_phrases">Извриши чести фрази</string>
+    <string name="delete_frequent_phrases_confirm">Избриши ги избраните чести фрази?</string>
+    <string name="edit_frequent_phrases">Уреди чести фрази</string>
+    <string name="frequent_phrases_des">Внесете чести фрази со само неколку притискање додека уредувате текст</string>
+    <string name="frequent_phrases_size_exceeded">Може да додадете до %1$d чести фрази. Избришете ги непотребните за да додадете повеќе.</string>
+    <string name="menu_add_frequent_phrases">Додади</string>
+    <string name="menu_delete">Избриши</string>
+    <string name="menu_edit">Уреди</string>
+    <string name="sync_phrase_label">Чести фрази</string>
+</resources>

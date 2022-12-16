@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>אתה משחק כל הלילה בעוד אחרים ישנים</item>
+        <item>עליך לשחק משחק בוקר כדי להתרענן</item>
+        <item>לאכול או לשחק זו השאלה</item>
+        <item>עליך לשחק משחק אחר הצהריים כדי להתרענן</item>
+        <item>יום עבודה קשה פירושו שהרווחת ביושר לילה של משחק!</item>
+        <item>אתה עדיין משחק עמוק אל תוך הלילה. חשוב על בריאותך בעוד אתה נהנה</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>4:00-7:00 לפנה\"צ</item>
+        <item>07:00-11:00 לפנה\"צ</item>
+        <item>11:00 לפנה\"צ עד 14:00 אחה\"צ</item>
+        <item>14:00-18:00 אחה\"צ</item>
+        <item>18:00-22:00 אחה\"צ</item>
+        <item>22:00 אחה\"צ עד 4:00 לפנה\"צ</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>יום ראשון</item>
+        <item>יום שני</item>
+        <item>יום שלישי</item>
+        <item>יום רביעי</item>
+        <item>יום חמישי</item>
+        <item>יום שישי</item>
+        <item>שבת</item>
+    </string-array>
+</resources>

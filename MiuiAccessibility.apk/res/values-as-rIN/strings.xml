@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">সতেজ কৰিবলৈ তললৈ টানক</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">"সফলভাৱে সতেজ কৰা হ'ল"</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">সতেজ কৰি আছে…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">সতেজ কৰিবলৈ এৰি দিয়ক</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">এতিয়া ইমানেই</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">এতিয়া ইমানেই</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">"এক ছেকেণ্ড ৰ'ব…"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"আইটেম লোড কৰিব পৰা নগ'ল"</string>
+</resources>

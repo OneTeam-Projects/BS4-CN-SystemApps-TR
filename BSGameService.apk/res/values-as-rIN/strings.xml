@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passport_oauth_actionbar_title">Mi একাউণ্ট</string>
+    <string name="passport_oauth_sucess_tip">কৰ্তৃত্বপ্ৰাপ্তি সফল</string>
+</resources>

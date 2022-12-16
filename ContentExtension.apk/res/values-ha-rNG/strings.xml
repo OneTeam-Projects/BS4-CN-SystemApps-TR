@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Jawo zuwa kasa ka wartsake</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">An yi nasarar wartsakewa</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Wartsakewa…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Saki ka wartsake</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Wannan ne duka a yanzu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Wannan ne duka a yanzu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sakan daya…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ba'a iya an yi lodin abubuwa ba"</string>
+</resources>

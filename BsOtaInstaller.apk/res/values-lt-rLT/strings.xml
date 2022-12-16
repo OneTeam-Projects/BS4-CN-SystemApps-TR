@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">Sutikti</string>
+    <string name="begin_use">Pradėti naudoti</string>
+    <string name="checKed_no_SIM_tips">Telefonui dabartinėje būsenoje duomenų tinklo nėra</string>
+    <string name="checked_SIM">Patikrinti SIM kortelę</string>
+    <string name="checked_Two_SIM">Dviejų SIM kortelių nustatymai</string>
+    <string name="checked_no_SIM">SIM kortelė nerasta</string>
+    <string name="checked_one_sim">Rasta SIM kortelė</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">Kalbos pasirinkimas</string>
+    <string name="choose_lock_add_fingerprint">Pridėti piršto atspaudą</string>
+    <string name="choose_lock_add_fingerprint_tips">Galite naudoti piršto atspaudą ekranui atrakinti ir saugiai bei greitai prisijungti</string>
+    <string name="choose_lock_title">Atrakinti naudojant piršto atspaudą</string>
+    <string name="cloud_le_account">Prisijungti per „Letv“ paskyrą</string>
+    <string name="cloud_login">Prisijungti</string>
+    <string name="cloud_register">Registruotis naudojant telefono numerį</string>
+    <string name="cloud_tips">Prisijungti per „Coolpad“ paskyrą ir sinchronizuoti tokius asmeninius duomenis kaip kontaktai bei ieškoti telefono</string>
+    <string name="cloud_titile">„Coolpad“ paskyra</string>
+    <string name="connect_WALN">Prijungti prie WLAN</string>
+    <string name="count_down">Skaičiuoti atgal</string>
+    <string name="experience_location_service">Vietos paslaugos</string>
+    <string name="experience_location_service_explain">Leisti pritaikyti vietai</string>
+    <string name="experience_plan">Naudotojo patirties planas</string>
+    <string name="experience_plan_explain">Padėti pagerinti ir optimaliai pritaikyti sistemos patirtį</string>
+    <string name="experience_setting">Patirtis ir sąlygos</string>
+    <string name="language_shutdown_tip">"Ilgą laiką neaptikta jokia veikla
+prietaisas automatiškai išsijungs
+pasibaigus skaičiavimui"</string>
+    <string name="language_shutdown_title">Automatinis išjungimas</string>
+    <string name="language_touch_turn_off">Bakstelėkite, jei išjungimą norite atšaukti</string>
+    <string name="last_step">Atgal</string>
+    <string name="mobile_move">Mobilus perkėlimas</string>
+    <string name="network_flow">Tinklo srautas</string>
+    <string name="network_flow_tips">Prieiga prie interneto mobiliuoju ryšiu, kai neprijungtas joks belaidis ryšys</string>
+    <string name="next_step">Kitas</string>
+    <string name="setup_success">Sąranka sėkminga</string>
+    <string name="setupwizard_wifi_cancle_save">Išsaugoti atšauktą</string>
+    <string name="setupwizard_wifi_connect">Prijungti prie WLAN</string>
+    <string name="setupwizard_wifi_connected">Prijungta</string>
+    <string name="setupwizard_wifi_connecting">Jungiamasi...</string>
+    <string name="setupwizard_wifi_dialog_cancel">Atšaukti</string>
+    <string name="setupwizard_wifi_dialog_comfirm">Gerai</string>
+    <string name="setupwizard_wifi_dialog_connect">Jungtis</string>
+    <string name="setupwizard_wifi_dialog_disconect">Atjungti</string>
+    <string name="setupwizard_wifi_dialog_hint_text">Slaptažodis</string>
+    <string name="setupwizard_wifi_no_tips">Diapazone Wi-Fi ryšio nėra</string>
+    <string name="setupwizard_wifi_saved">Įrašyta</string>
+    <string name="setupwizard_wifi_searching">Ieškoma</string>
+    <string name="sim_identifying">Identifikuojama...</string>
+    <string name="skip">Praleisti</string>
+    <string name="usage_agreement">Naudotojo sutartis</string>
+    <string name="usage_policy">Privatumo politika</string>
+</resources>

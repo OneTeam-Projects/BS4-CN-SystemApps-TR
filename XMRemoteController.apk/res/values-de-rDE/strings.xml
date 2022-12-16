@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Abbrechen</string>
+    <string name="close">Ausschalten</string>
+    <string name="customize_minute">Anpassen</string>
+    <string name="day">Tag</string>
+    <string name="five_minute">5 Minuten</string>
+    <string name="forty_minute">40 Minuten</string>
+    <string name="hour">Stunde</string>
+    <string name="later">Später</string>
+    <string name="minute">Minute</string>
+    <string name="one_minute">1 Minute</string>
+    <string name="open">Einschalten</string>
+    <string name="open_tips">Einschalten</string>
+    <string name="opening_bluetooth">Bluetooth wird eingeschaltet…</string>
+    <string name="plug_count_down_timer">Countdown</string>
+    <string name="plug_timer_after_tommorrow">Übermorgen</string>
+    <string name="plug_timer_month_day">%1$s%2$s</string>
+    <string name="plug_timer_yesterday">Gestern</string>
+    <string name="refreshing_no_point">Einen Moment bitte...</string>
+    <string name="sixty_minute">60 Minuten</string>
+    <string name="start">Start</string>
+    <string name="stop">Stopp</string>
+    <string name="ten_minute">10 Minuten</string>
+    <string name="three_minute">3 Minuten</string>
+    <string name="time_line_end">24:00</string>
+    <string name="time_line_start">00:00</string>
+    <string name="twenty_minute">20 Minuten</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dtsMusicStyle">
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Beliebt</item>
+        <item>Klassik</item>
+        <item>Blues</item>
+        <item>Elektronische Musik</item>
+        <item>Country</item>
+        <item>Dance</item>
+        <item>Angepasst</item>
+    </string-array>
+    <string-array name="dts_sound_mode">
+        <item>Allgemein</item>
+        <item>Musik</item>
+        <item>Video</item>
+        <item>Stimme</item>
+        <item>Stereo-Surround</item>
+        <item>Game-Musik</item>
+        <item>Verbesserung für Sprache</item>
+        <item>Trittverstärkung</item>
+    </string-array>
+</resources>

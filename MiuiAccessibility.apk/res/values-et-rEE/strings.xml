@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tõmmake värskendamiseks alla</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Edukalt värskendatud</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Värskendamine…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Vabastage värskendamiseks</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">See on praeguseks kõik</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">See on praeguseks kõik</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Üks hetk…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ei saanud üksuseid laadida</string>
+</resources>

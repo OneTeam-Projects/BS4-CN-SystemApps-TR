@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Shto fraza të shpeshta</string>
+    <string name="delete_frequent_phrases">Fshi fraza të shpeshta</string>
+    <string name="delete_frequent_phrases_confirm">Fshi frazat e shpeshta të përzgjedhura?</string>
+    <string name="edit_frequent_phrases">Redakto fraza të shpeshta</string>
+    <string name="frequent_phrases_des">Fut fraza të shpeshta me vetëm disa klikime gjatë redaktimit të tekstit</string>
+    <string name="frequent_phrases_size_exceeded">Mund të shtohen deri në %1$d fraza të shpeshta. Fshij të panevojshmet për të shtuar më shumë.</string>
+    <string name="menu_add_frequent_phrases">Shto</string>
+    <string name="menu_delete">Fshi</string>
+    <string name="menu_edit">Redakto</string>
+    <string name="sync_phrase_label">Fraza të shpeshta</string>
+</resources>

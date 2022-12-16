@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperSurround</item>
+        <item>GameMusic</item>
+        <item>SuperVoices</item>
+        <item>SuperFootstep</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Efek sound field surround yang ditingkatkan, memudahkan menemukan musuh, cocok untuk game FPS</item>
+        <item>Efek musik game, cocok untuk MOBA, game musik</item>
+        <item>Suara lebih jernih dan nyata, cocok untuk RPG, game dengan papan</item>
+        <item>Memperbaiki performa pada frekuensi rendah dan memudahkan mengenali langkah kaki dalam PUBG</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Prioritas inti perak, batasi suhu, konsumsi daya minimum</item>
+        <item>Prioritas inti perak, cocok untuk game sederhana</item>
+        <item>Prioritas inti emas, batasi suhu, cocok untuk game 3D biasa</item>
+        <item>Prioritas inti emas, cocok untuk game 3D berkualitas tinggi</item>
+        <item>Khusus inti emas, performa maksimum dengan konsumsi daya maksimum</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Nonaktifkan</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Off</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Off</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Soundtrack</item>
+        <item>Loli</item>
+        <item>Nyonya Besar</item>
+        <item>Paman</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Prioritas Kecepatan</item>
+        <item>Seimbang</item>
+        <item>Prioritas Kualitas Gambar</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>KESEIMBANGAN</item>
+        <item>INTI MATAHARI</item>
+        <item>GILA</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Keseimbangan antara performa dan konsumsi daya, serta memberikan solusi performa yang seimbang untuk game umum</item>
+        <item>Memperkuat performa ponsel, cocok untuk game dengan syarat kualitas gambar yang ketat</item>
+        <item>Performa maksimal untuk game, sebaiknya gunakan pendingin terintegrasi</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Mode Penyetelan: Seimbang antara kinerja dan konsumsi daya, dan memberikan solusi kinerja seimbang untuk permainan umum</item>
+        <item>Mode Mesin Game: Memperkuat kinerja ponsel, cocok untuk game dengan persyaratan tinggi untuk kualitas gambar</item>
+        <item>Mode Ludicrous: Membawa ponsel ke performa ekstrim, yang dapat menyebabkan ponsel memanas secara nyata</item>
+        <item>Mode Ludicrous Ekstrim: Melarang semua fungsi latar belakang untuk menjaga ponsel mempertahankan kinerja puncak, yang dapat menyebabkan ponsel memanas secara signifikan</item>
+    </string-array>
+</resources>

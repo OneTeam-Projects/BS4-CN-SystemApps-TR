@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dtsMusicStyle">
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Thịnh Hành</item>
+        <item>Cổ Điển</item>
+        <item>Bruce</item>
+        <item>Nhạc Điện Tử</item>
+        <item>Đồng Quê</item>
+        <item>Khiêu Vũ</item>
+        <item>Tùy Chỉnh</item>
+    </string-array>
+    <string-array name="dts_sound_mode">
+        <item>Chung</item>
+        <item>Âm Nhạc</item>
+        <item>Video</item>
+        <item>Giọng Nói</item>
+        <item>Âm thanh nổi vòm</item>
+        <item>Âm Nhạc Trò Chơi</item>
+        <item>Tăng cường con người</item>
+        <item>Cường hóa bước chân</item>
+    </string-array>
+</resources>

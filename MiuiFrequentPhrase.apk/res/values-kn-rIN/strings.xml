@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">ಫ್ರೀಕ್ವೆಂಟ್‌ ಫ್ರೇಸ್‌ಗಳನ್ನು ಸೇರಿಸಿ</string>
+    <string name="delete_frequent_phrases">ಆಗಾಗ್ಗೆ ಫ್ರೇಸ್‌ಗಳನ್ನು ಅಳಿಸಿ</string>
+    <string name="delete_frequent_phrases_confirm">ಆಯ್ಕೆ ಮಾಡಲಾದ ಆಗಾಗ್ಗೆ ಫ್ರೇಸ್‌ಗಳನ್ನು ಅಳಿಸುವುದೇ?</string>
+    <string name="edit_frequent_phrases">ಫ್ರೇಸ್‌ಗಳನ್ನು ಆಗಾಗ್ಗೆ ಎಡಿಟ್‌ ಮಾಡಿ</string>
+    <string name="frequent_phrases_des">ಪಠ್ಯಗಳನ್ನು ಎಡಿಟ್‌ ಜೊತೆ ಕೆಲವೇ ಟ್ಯಾಪ್‌ಗಳ ಮೂಲಕ ಆಗಾಗ್ಗೆ ಫ್ರೇಸ್‌ಗಳನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="frequent_phrases_size_exceeded">%1$d ರಷ್ಟು ಫ್ರೇಸ್‌ಗಳನ್ನು ಸೇರಿಸಬಹುದು. ಇನ್ನಷ್ಟು ಸೇರಿಸಲು ಅನಾವಶ್ಯಕವಾಗಿರುವವನ್ನು ಅಳಿಸಿ.</string>
+    <string name="menu_add_frequent_phrases">ಸೇರಿಸಿ</string>
+    <string name="menu_delete">ಅಳಿಸು</string>
+    <string name="menu_edit">ಎಡಿಟ್‌‌</string>
+    <string name="sync_phrase_label">ಫ್ರೀಕ್ವೆಂಟ್‌ ಫ್ರೇಸ್‌ಗಳು</string>
+</resources>

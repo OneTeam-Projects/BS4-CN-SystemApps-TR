@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Tkessiħ</item>
+        <item>Tisħin</item>
+        <item>Deumidifikar</item>
+        <item>Fann</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Raġel</item>
+        <item>Mara</item>
+    </string-array>
+    <string-array name="answer">
+        <item>"It-tagħmir tiegħek jista' jiġi akkoppjat biss ma' Mi TV, Mi Box, u numru ieħor ta' tagħmir Android permezz ta' Wi-Fi."</item>
+        <item>"Kun ċert li għażilt il-mudell tal-A/C it-tajjeb fil-proċess ta' akkoppjar. Segwi s-suġġerimenti fuq t-tagħmir tiegħek sakemm l-akkoppjar ikun lest."</item>
+        <item>"Le. Bħalissa tista' tuża l-Mi 4, Mi 4c, u Redmi Note 2 bħala remotes IR."</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ħad</item>
+        <item>Tne</item>
+        <item>Tli</item>
+        <item>Erb</item>
+        <item>Ħam</item>
+        <item>Ġim</item>
+        <item>Sib</item>
+    </string-array>
+    <string-array name="question">
+        <item>Għaliex il-mowbajl tiegħi l-ħin kollu jfittex tagħmir wireless?</item>
+        <item>"Għaliex nista' nixgħel l-A/C tiegħi u ma nistax nitfih?"</item>
+        <item>"Nista' nuża MI 3, Mi 2, u Redmi bħala remote IR?"</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Ixgħel l-AC Haier fis-Salott</item>
+        <item>Issettja t-temperatura għal 25 grad</item>
+        <item>Issettja d-direzzjoni tar-riħ għa \"Fuq\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Ixgħel l-AC Gree</item>
+        <item>"Aqleb għall-modalità ta' tbendil"</item>
+        <item>Agħmel li l-AC jonfoħ aktar</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>"Ixgħel il-kaxxa ta' fuq it-TV"</item>
+        <item>Irrid nara Hunan TV</item>
+        <item>Mur lura għal stazzjoni 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Ixgħel l-AC</item>
+        <item>Irrid nara Schenzhen TV</item>
+        <item>Mur lura għal stazzjoni 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Ixgħel it-TV fil-kamra tas-sodda</item>
+        <item>Itfi t-TV</item>
+        <item>Għolli l-volum fuq it-TV</item>
+    </string-array>
+</resources>

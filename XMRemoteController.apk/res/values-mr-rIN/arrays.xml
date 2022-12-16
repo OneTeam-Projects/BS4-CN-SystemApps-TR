@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>थंड करत आहे</item>
+        <item>गरम करत आहे</item>
+        <item>आर्द्रतानाशक</item>
+        <item>पंखा</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>पुरुष</item>
+        <item>स्त्री</item>
+    </string-array>
+    <string-array name="answer">
+        <item>आपले डिव्हाइस केवळ Mi टीव्ही, Mi बॉक्स आणि वाय-फाय वापरणार्‍या इतर काही अन्ड्रोइड डिव्हाइसशीच पेअर करु शकते.</item>
+        <item>आपण पेअरिंगच्या प्रक्रियेमध्ये योग्य वातानुकूलन मॉडेल निवडल्याची खात्री करा. पेअरिंग पूर्ण होईपर्यंत आपल्या डिव्हाइसच्या सूचनांचे अनुसरण करा.</item>
+        <item>नाही. IR रिमोट्स म्हणून आपण सध्या Mi 4, Mi 4c, आणि Redmi Note 2 वापरु शकता.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>रवि</item>
+        <item>सोम</item>
+        <item>मंगळ</item>
+        <item>बुध</item>
+        <item>गुरु</item>
+        <item>शुक्र</item>
+        <item>शनि</item>
+    </string-array>
+    <string-array name="question">
+        <item>माझा फोन वायरलेस डिव्हाइस शोधत का राहतो?</item>
+        <item>मला वातानुकूलन केवळ चालू करता येते पण बंद का करता येत नाही?</item>
+        <item>मला Mi 3, Mi 2 आणि Redmi IR रिमोट म्हणून वापरता येईल का?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>लिव्हिंग रूममधील Haier एसी सुरु करा</item>
+        <item>तापमान 25 अंशापर्यंत सेट करा</item>
+        <item>वाऱ्याची दिशा \"वर\" ठेवा</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree AC सुरु करा</item>
+        <item>स्वीन्गिंग मोडमध्ये स्वीच करा</item>
+        <item>एसी ब्लो अधिक जोरदार बनवा</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>सेट-टॉप बॉक्स सुरु करा</item>
+        <item>मला Hunan टीव्ही पहायचा आहे</item>
+        <item>चॅनेल 15 वर मागे जा</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>एसी सुरु करा</item>
+        <item>मला Shenzhen टीव्ही पहायचा आहे</item>
+        <item>चॅनेल 112 वर मागे जा</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>बेडरूममधील टीव्ही सुरु करा</item>
+        <item>टीव्ही बंद करा</item>
+        <item>टीव्हीवरील आवाज सुरु करा</item>
+    </string-array>
+</resources>

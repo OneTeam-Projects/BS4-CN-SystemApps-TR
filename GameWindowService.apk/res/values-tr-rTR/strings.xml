@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alipay">Alipay</string>
+    <string name="alipay_car_code">Otobüs QR Kodu</string>
+    <string name="alipay_code">QR Kodu</string>
+    <string name="alipay_scan">Tarayın</string>
+    <string name="app_list">Mobil uygulama</string>
+    <string name="app_list_keep_at_least_one">En az bir uygulama tutulmalıdır.</string>
+    <string name="app_not_install">Lütfen uygulamayı yükleyin.</string>
+    <string name="cannot_minimize_in_sw">Sanal GamePad modunda, kayan pencereye geçilemez.</string>
+    <string name="dualapp_dialog_duplicate">%s avatar</string>
+    <string name="dualapp_dialog_title">Açık yöntem seç</string>
+    <string name="finish">Tamamlandı</string>
+    <string name="freeform_ball_tip_confirm">Tamam</string>
+    <string name="freeform_ball_tips">"
+ kapat düğmesini görüntülemek için yüzen topa dokunun ve basılı tutun."</string>
+    <string name="freeform_ball_tips2">"Birden çok kayan pencerenin açılması 
+sistemde sıkışmaya ve ısınmaya neden olabilir."</string>
+    <string name="freeform_window_more_than_five">En çok %d kadar kayan pencere desteklenmektedir. Kayan pencereleri kapatın ve tekrar deneyin.</string>
+    <string name="long_press_enter_edit">Düzenleme moduna girmek için simgeye uzun basın</string>
+    <string name="minimize_window">Serbest form</string>
+    <string name="more">Daha fazla</string>
+    <string name="no_place_remain">Eklenecek yer yok</string>
+    <string name="packup">Gizle</string>
+    <string name="shortcut_fuc">Kısayol özellikleri</string>
+    <string name="sw_not_support_handymode">Çok Yönlü Kayan Pencere Tek el modu desteklenmez.</string>
+    <string name="tencent_mm">WeChat</string>
+    <string name="tencent_mm_code">QR Kodu</string>
+    <string name="tencent_mm_moments">Moments</string>
+    <string name="tencent_mm_scan">Tarayın</string>
+</resources>

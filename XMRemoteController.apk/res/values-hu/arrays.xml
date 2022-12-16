@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Hűtés</item>
+        <item>Fűtés</item>
+        <item>Párátlanítás</item>
+        <item>Ventilátor</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Férfi</item>
+        <item>Nő</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Az ön készüléke kizárólag Mi TV, Mi Box és egy maréknyi egyéb Android eszközzel párosítható Wi-Fi használatával.</item>
+        <item>Ellenőrizze, hogy a helyes A/C modellt választotta ki a párosítás folyamatához. Kövesse az utasításokat a készüléken, amíg befejeződik a párosítás.</item>
+        <item>Nem, jelenleg csak Mi 4, Mi 4c és a Redmi Note 2 használható infravörös távirányítóként.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Kedd</item>
+        <item>Sze</item>
+        <item>Csüt</item>
+        <item>Pén</item>
+        <item>Szo</item>
+    </string-array>
+    <string-array name="question">
+        <item>Miért keresi a telefonom továbbra is a vezetéknélküli készülékeket?</item>
+        <item>Miért csak bekapcsolni tudom a klímát, kikapcsolni nem?</item>
+        <item>Használhatom a Mi3, Mi2 és Redmi telefonokat infravörös távirányítóként?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Haier légkondi bekapcsolása a nappaliban</item>
+        <item>Hőmérséklet beállítása 25 fokra</item>
+        <item>Fújásirány állítása \"Felfelé\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree légkondi bekapcsolása</item>
+        <item>Oszcilláló módra váltás</item>
+        <item>Légkondi erősebben fújjon</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Set-top box bekapcsolása</item>
+        <item>Hunan TV-t szeretném nézni</item>
+        <item>Vissza a 15-ös csatornára</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Légkondi bekapcsolása</item>
+        <item>Shenzhen TV-t szeretném nézni</item>
+        <item>Vissza a 12-es csatornára</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>TV bekapcsolása a hálószobában</item>
+        <item>TV kikapcsolása</item>
+        <item>Hangerő növelése a TV-n</item>
+    </string-array>
+</resources>

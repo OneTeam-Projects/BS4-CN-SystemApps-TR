@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>De huidige netwerkstatus is uitstekend</item>
+        <item>Mobiel datanetwerk is slecht, het is aanbevolen om over te schakelen naar WLAN</item>
+        <item>WLAN netwerk is slecht, het is aanbevolen om over te schakelen naar mobiele data</item>
+        <item>Het huidige signaal is onstabiel. Verander de positie of locatie van de mobiele telefoon.</item>
+        <item>Huidige netwerk status is normaal</item>
+        <item>Geen</item>
+    </string-array>
+</resources>

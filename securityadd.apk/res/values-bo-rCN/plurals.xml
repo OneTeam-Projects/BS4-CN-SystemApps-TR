@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">ཁྱེད་ཀྱི་མིག་སྔའི་དྲ་བའི་མྱུར་གཏོང་ཞབས་ཞུ་ནི་ཉིན་%dཡི་རྗེས་སུ་དུས་ཚོད་ཡོལ་སྲིད། སྔོན་ནས་མཐུད་ཉོ་བྱས་ནས། རོལ་རྩེད་ཀྱི་ཉམས་ལེན་ལ་ཤུགས་རྐྱེན་མི་ཐེབས།</item>
+    </plurals>
+</resources>

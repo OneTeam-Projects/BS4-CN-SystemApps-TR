@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prekini</string>
+    <string name="dialog_checkbox_hint">Bez napomena</string>
+    <string name="dialog_message">Ako je omogućen prekid, kada je igra uključena u pozadini ili kada je ekran u režimu mirovanja, igra ulazi u režim prekida. Prekid možete zaustaviti kada se odbrojavanje završi ili klikom na tipku Prekini prekid na traci sa obaveštenjima. U slučaju dugotrajnog prekidanja rada, preporučuje se priključiti napajanje.</string>
+    <string name="event_back_to_game">Nazad u igru</string>
+    <string name="event_end_holdon">Prekid onemogućen</string>
+    <string name="label_holdon_duration">Vreme prekida</string>
+    <string name="label_holdon_pattern">Politika vremena prekida</string>
+    <string name="notify_content" formatted="false">%sPreostalo vreme prekida%s</string>
+    <string name="notify_hour_minute" formatted="false">%d časova %d minuta</string>
+    <string name="notify_less_one_minute">Manje od jedne minute</string>
+    <string name="notify_minute">%dminuta</string>
+    <string name="text_cancel_holdon">Zaustavi prekid</string>
+    <string name="text_duration_describe">"Odaberite vreme jednog prekida kada je prekid omogućen. Dugo zadržavanje može dovesti do nepotrebne potrošnje energije. Makronaredba igre također može pokrenuti prekid i odrediti ukupno vreme prekida. "</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">Časova</string>
+    <string name="text_minute">Minuta</string>
+    <string name="text_mute_description">"Omogućavanjem ove funkcije omogućiće se i funkcija [Asistent zvuka]. Da biste privremeno izašli iz stanja mirovanja, pritisnite dugme za jačinu zvuka za podešavanje jačine medija klikom na ikonu Asistent zvuka za normalizaciju jačine zvuka igre. Da biste upravljali Asistentom zvuka, idite na [Podešavanja - Zvuk i vibracija - Asistent zvuka]. "</string>
+    <string name="text_mute_holdon_description">Zvuk igra je isključen pri prekidu</string>
+    <string name="text_pattern_describe">Odaberite želite li osvežiti odbrojavanje vremena prekida kada se vratite u igru za vreme prekida. Pozitivan odgovor dobar je za gledanje i pokretanje jednog ponavljajućeg zadatka u prekidu, dok negativni pomaže u izvršavanju kompletnog zadatka u prekidu.</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sPrekid završen</string>
+    <string name="toast_header_fix">Studio igrača</string>
+    <string name="toast_how_to_holdon">Igra prelazi u stanje prekida kada igra radi u pozadini ili ekran prelazi u stanje mirovanja</string>
+    <string name="toast_in_holdon_model">%sIgra je ušla u stanje prekida</string>
+    <string name="toast_not_support_holdon">Napon baterije je prenizak ili je omogućen režim uštede energije, pa ne možete nastaviti prekidati igru</string>
+</resources>

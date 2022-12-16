@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">キャンセル</string>
+    <string name="close">オフにする</string>
+    <string name="customize_minute">カスタマイズ</string>
+    <string name="day">日間</string>
+    <string name="five_minute">5分間</string>
+    <string name="forty_minute">40分間</string>
+    <string name="hour">時間</string>
+    <string name="later">後</string>
+    <string name="minute">分間</string>
+    <string name="one_minute">1分間</string>
+    <string name="open">オンにする</string>
+    <string name="open_tips">オンにする</string>
+    <string name="opening_bluetooth">Bluetooth をオンにしています…</string>
+    <string name="plug_count_down_timer">カウントダウン</string>
+    <string name="plug_timer_after_tommorrow">明後日</string>
+    <string name="plug_timer_month_day">%1$s月%2$s日</string>
+    <string name="plug_timer_yesterday">昨日</string>
+    <string name="refreshing_no_point">少しお待ちください…</string>
+    <string name="sixty_minute">60分間</string>
+    <string name="start">開始</string>
+    <string name="stop">停止</string>
+    <string name="ten_minute">10分間</string>
+    <string name="three_minute">3分間</string>
+    <string name="time_line_end">24:00</string>
+    <string name="time_line_start">00:00</string>
+    <string name="twenty_minute">20分間</string>
+</resources>

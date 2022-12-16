@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>Status jaringan saat ini sangat bagus</item>
+        <item>Jaringan data seluler jelek, sebaiknya beralih ke WLAN</item>
+        <item>Jaringan WLAN jelek, sebaiknya beralih ke data seluler</item>
+        <item>Sinyal saat ini tidak stabil. Cobalah berpindah atau sesuaikan posisi memegang ponsel.</item>
+        <item>Status jaringan saat ini normal</item>
+        <item>Tidak ada</item>
+    </string-array>
+</resources>

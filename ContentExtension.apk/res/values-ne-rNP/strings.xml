@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ताजा गर्नको लागि तल तान्नुहोस्</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">सफलतापूर्वक ताजा गरियो</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ताजा गर्दैछ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ताजा गर्नको लागि छाड्नुहोस्</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">अहिलेको लागि यति नै</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">अहिलेको लागि यति नै</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">एक क्षण पर्खनुहोस्…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">आईटमहरू लोड गर्न सकिएन</string>
+</resources>

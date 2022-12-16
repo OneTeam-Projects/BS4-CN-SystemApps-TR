@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s일 후 완충 예상</item>
+        <item quantity="one">%s일 후 완충 예상</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s시간 후 완충 예상</item>
+        <item quantity="one">%s시간 후 완충 예상</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s분 후 완충 예상</item>
+        <item quantity="one">%s분 후 완충 예상</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s시간 동안 사용 가능</item>
+        <item quantity="one">%s시간 동안 사용 가능</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s분 동안 사용 가능</item>
+        <item quantity="one">%s분 동안 사용 가능</item>
+    </plurals>
+</resources>

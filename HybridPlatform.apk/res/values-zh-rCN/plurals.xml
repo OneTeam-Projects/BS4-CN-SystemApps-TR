@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d项允许</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">%d项询问</item>
+    </plurals>
+    <plurals name="app_settings_disabled_header_title">
+        <item quantity="other">禁止%d个快应用推送通知</item>
+    </plurals>
+    <plurals name="app_settings_enabled_header_title">
+        <item quantity="other">允许%d个快应用推送通知</item>
+    </plurals>
+    <plurals name="features_picker_activity_item_folder_detail">
+        <item quantity="other">%d项</item>
+    </plurals>
+    <plurals name="features_picker_activity_label_multi">
+        <item quantity="other">已选中%d项</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d项权限</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">已选择%d项</item>
+        <item quantity="one">已选择%d项</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">过去%d天</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">第 %1$d 项，共 %2$d 项</item>
+        <item quantity="one">1 个匹配项</item>
+    </plurals>
+</resources>

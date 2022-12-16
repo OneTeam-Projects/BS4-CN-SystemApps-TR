@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">取消</string>
+    <string name="__arcore_continue">继续</string>
+    <string name="__arcore_install_app">需要安装最新版本的“面向 AR 的 Google Play 服务”才能使用此应用。</string>
+    <string name="__arcore_install_feature">需要安装最新版本的“面向 AR 的 Google Play 服务”才能使用此功能。</string>
+    <string name="__arcore_installing">正在安装“面向 AR 的 Google Play 服务”…</string>
+    <string name="dt_common_cancel">取消</string>
+    <string name="dt_common_go_setting">前往设置</string>
+    <string name="dt_permission">权限</string>
+    <string name="dt_permission_access_coarse_location">定位</string>
+    <string name="dt_permission_access_fine_location">定位</string>
+    <string name="dt_permission_add_voicemail">添加语音邮件</string>
+    <string name="dt_permission_allow">授予</string>
+    <string name="dt_permission_body_sensors">传感器</string>
+    <string name="dt_permission_call_phone">拨打电话</string>
+    <string name="dt_permission_camera">相机</string>
+    <string name="dt_permission_denied_message">你已禁止授予钉钉 %1$s 权限</string>
+    <string name="dt_permission_deny">禁止</string>
+    <string name="dt_permission_get_accounts">访问手机账户</string>
+    <string name="dt_permission_goto_settings_failed">跳转设置权限页面失败</string>
+    <string name="dt_permission_never_ask_message">你已禁止授予钉钉 %1$s 权限，可能会造成功能不可用，如需使用请到设置里授予权限</string>
+    <string name="dt_permission_process_outgoing_calls">修改通话</string>
+    <string name="dt_permission_ration_message">需要授予钉钉 %1$s 权限，否则部分功能可能不可用</string>
+    <string name="dt_permission_read_calendar">访问日历</string>
+    <string name="dt_permission_read_call_log">读取通话记录</string>
+    <string name="dt_permission_read_contacts">读取联系人</string>
+    <string name="dt_permission_read_external_storage">读取手机存储</string>
+    <string name="dt_permission_read_phone_state">获取设备信息</string>
+    <string name="dt_permission_read_sms">读取短信</string>
+    <string name="dt_permission_receive_mms">接收彩信</string>
+    <string name="dt_permission_receive_sms">接收短信</string>
+    <string name="dt_permission_receive_wap_push">接收 Wap Push 短信</string>
+    <string name="dt_permission_record_audio">录音</string>
+    <string name="dt_permission_request_install_packages">安装应用</string>
+    <string name="dt_permission_request_message_read_phone_state">"钉钉使用电话权限确定本机号码和设备ID，以保证账号登录的安全性。
+请在“设置-应用-钉钉-权限”中开启电话权限，以便正常使用钉钉"</string>
+    <string name="dt_permission_request_message_write_sd">在“设置-应用-钉钉-权限”中开启存储空间权限，以便正常使用钉钉功能</string>
+    <string name="dt_permission_request_title">权限申请</string>
+    <string name="dt_permission_send_sms">发送短信</string>
+    <string name="dt_permission_system_alert_window">显示悬浮窗</string>
+    <string name="dt_permission_use_sip">视频服务</string>
+    <string name="dt_permission_write_calendar">修改日历</string>
+    <string name="dt_permission_write_call_log">修改通话记录</string>
+    <string name="dt_permission_write_contacts">修改联系人</string>
+    <string name="dt_permission_write_external_storage">写入手机存储</string>
+    <string name="dt_permission_write_settings">修改系统设置</string>
+    <string name="ucrop_label_edit_photo">裁剪</string>
+    <string name="ucrop_label_original">原始比例</string>
+    <string name="ucrop_menu_crop">裁剪</string>
+</resources>

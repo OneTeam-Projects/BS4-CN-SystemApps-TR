@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">સામાન્ય શબ્દસમૂહો ઉમેરો</string>
+    <string name="delete_frequent_phrases">સામાન્ય શબ્દસમૂહો કાઢી નાખો</string>
+    <string name="delete_frequent_phrases_confirm">પસંદ કરેલ સામાન્ય શબ્દસમૂહો કાઢી નાખીએ?</string>
+    <string name="edit_frequent_phrases">સામન્ય શબ્દસમૂહો સંચાલિત કરો</string>
+    <string name="frequent_phrases_des">ટેક્સ્ટ સંપાદિત કરતી વખતે માત્ર થોડા પગલાં સાથે સામાન્ય શબ્દસમૂહો દાખલ કરો</string>
+    <string name="frequent_phrases_size_exceeded">%1$d જેટલા સામાન્ય શબ્દસમૂહો ઉમેરી શકાય છે. વધુ ઉમેરવા માટે બિનજરૂરી સામાન્ય શબ્દસમૂહો કાઢી નાખો.</string>
+    <string name="menu_add_frequent_phrases">ઉમેરો</string>
+    <string name="menu_delete">કાઢી નાખો</string>
+    <string name="menu_edit">સંપાદિત કરો</string>
+    <string name="sync_phrase_label">સામાન્ય શબ્દસમૂહો</string>
+</resources>

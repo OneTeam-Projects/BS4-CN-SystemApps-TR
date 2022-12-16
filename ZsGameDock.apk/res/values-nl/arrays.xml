@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperSurround</item>
+        <item>GameMusic</item>
+        <item>SuperVoices</item>
+        <item>SuperFootstep</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Verbetert geluidsveld-surroundeffect, en maakt het gemakkelijker om vijanden te lokaliseren, geschikt voor FPS-games</item>
+        <item>Muziekeffect van games, geschikt voor MOBA, muziekgames</item>
+        <item>Sraak duidelijker en echter, geschikt voor RPG, bordspel</item>
+        <item>Verbeter de prestaties bij lage frequenties en maak het gemakkelijker om voetstappen te herkennen bij chicken eating games</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>"Priorité Silver core, restriction de la température, consommation d'énergie minimale"</item>
+        <item>Priorité Silver core, adaptée aux jeux simples</item>
+        <item>Priorité Gold core, restriction de la température, adaptée aux jeux 3D normaux</item>
+        <item>Priorité Gold core, adaptée aux jeux 3D haute qualité</item>
+        <item>"Gold core uniquement, performance maximale par une consommation d'énergie maximale"</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Uitschakelen</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Uit</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Uit</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Soundtrack</item>
+        <item>Loli</item>
+        <item>Domineering Lady</item>
+        <item>Uncle</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Snelheid eerst</item>
+        <item>Gebalanceerd</item>
+        <item>Beeldkwaliteit eerst</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>BALANS</item>
+        <item>SOLARCORE</item>
+        <item>LUDICROUS</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Evenwicht tussen prestaties en stroomverbruik, en een gebalanceerde prestatie voor normale games</item>
+        <item>Telefoonprestaties verbeteren, geschikt voor games met hoge eisen aan beeldkwaliteit</item>
+        <item>Ultieme prestaties voor games, bijgevoegde koeler wordt aanbevolen</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Balansmodus: balans tussen prestaties en energieverbruik en een uitgebalanceerde prestatieoplossing voor algemene games</item>
+        <item>Game Engine-modus: verbeter de telefoonprestaties, geschikt voor games met hoge eisen aan beeldkwaliteit</item>
+        <item>Belachelijke modus: breng telefoons tot extreme prestaties, waardoor de telefoons merkbaar kunnen opwarmen</item>
+        <item>Extreme belachelijke modus: verbied alle achtergrondfuncties om telefoons topprestaties te laten behouden, waardoor de telefoons aanzienlijk kunnen opwarmen</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Lisää usein käytettyjä lauseita</string>
+    <string name="delete_frequent_phrases">Poista usein käytettyjä lauseita</string>
+    <string name="delete_frequent_phrases_confirm">Poistetaanko valitut usein käytetyt lauseet?</string>
+    <string name="edit_frequent_phrases">Muokkaa usein käytettyjä lauseita</string>
+    <string name="frequent_phrases_des">Syötä usein käytettyjä lauseita muutamalla painalluksella, kun muokkaat tekstiä</string>
+    <string name="frequent_phrases_size_exceeded">Voit lisätä enintään %1$d usein käytettyjä lausetta. Poista tarpeettomat lisätäksesi.</string>
+    <string name="menu_add_frequent_phrases">Lisää</string>
+    <string name="menu_delete">Poista</string>
+    <string name="menu_edit">Muokkaa</string>
+    <string name="sync_phrase_label">Usein käytetyt lauseet</string>
+</resources>

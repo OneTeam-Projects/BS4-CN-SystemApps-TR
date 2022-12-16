@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">Setuju</string>
+    <string name="begin_use">Mula guna</string>
+    <string name="checKed_no_SIM_tips">Tiada data rangkaian yang tersedia untuk telefon dalam status semasa</string>
+    <string name="checked_SIM">Semak kad SIM</string>
+    <string name="checked_Two_SIM">Tetapan kad SIM duaan</string>
+    <string name="checked_no_SIM">Tiada kad SIM ditemui</string>
+    <string name="checked_one_sim">Kad SIM ditemui</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">Pilihan bahasa</string>
+    <string name="choose_lock_add_fingerprint">Tambah cap jari</string>
+    <string name="choose_lock_add_fingerprint_tips">Anda boleh menggunakan cap jari untuk membuka kunci skrin dan log masuk dengan selamat dan cepat</string>
+    <string name="choose_lock_title">Buka Kunci melalui Cap Jari</string>
+    <string name="cloud_le_account">Log masuk melalui akaun Letv</string>
+    <string name="cloud_login">Log masuk</string>
+    <string name="cloud_register">Daftarkan melalui nombor telefon</string>
+    <string name="cloud_tips">Log masuk melalui akaun Coolpad untuk menyegerakkan data peribadi seperti kenalan dan cari telefon</string>
+    <string name="cloud_titile">Akaun Coolpad</string>
+    <string name="connect_WALN">Sambung ke WLAN</string>
+    <string name="count_down">Kira detik</string>
+    <string name="experience_location_service">Perkhidmatan lokasi</string>
+    <string name="experience_location_service_explain">Benarkan aplikasi pada lokasi</string>
+    <string name="experience_plan">Rancangan Pengalaman Pengguna</string>
+    <string name="experience_plan_explain">Bantu kami meningkatkan dan mengoptimumkan pengalaman sistem</string>
+    <string name="experience_setting">Pengalaman dan terma</string>
+    <string name="language_shutdown_tip">"Tiada aktiviti dikesan untuk masa yang lama,
+peranti akan tutup secara automatik
+selepas pengiraan detik"</string>
+    <string name="language_shutdown_title">Tutup secara automatik</string>
+    <string name="language_touch_turn_off">Sentuh untuk membatalkan penutupan</string>
+    <string name="last_step">Kembali</string>
+    <string name="mobile_move">Pemindahan Mudah Alih</string>
+    <string name="network_flow">Data rangkaian</string>
+    <string name="network_flow_tips">Akses Internet melalui rangkaian mudah alih apabila tiada rangkaian wayarles disambungkan</string>
+    <string name="next_step">Seterusnya</string>
+    <string name="setup_success">Persediaan berjaya</string>
+    <string name="setupwizard_wifi_cancle_save">Penyimpanan dibatalkan</string>
+    <string name="setupwizard_wifi_connect">Sambung ke WLAN</string>
+    <string name="setupwizard_wifi_connected">Disambungkan</string>
+    <string name="setupwizard_wifi_connecting">Menyambung...</string>
+    <string name="setupwizard_wifi_dialog_cancel">Batal</string>
+    <string name="setupwizard_wifi_dialog_comfirm">OK</string>
+    <string name="setupwizard_wifi_dialog_connect">Sambung</string>
+    <string name="setupwizard_wifi_dialog_disconect">Putuskan sambungan</string>
+    <string name="setupwizard_wifi_dialog_hint_text">Kata laluan</string>
+    <string name="setupwizard_wifi_no_tips">Tiada sambungan Wi-Fi dalam lingkungan</string>
+    <string name="setupwizard_wifi_saved">Disimpan</string>
+    <string name="setupwizard_wifi_searching">Mencari</string>
+    <string name="sim_identifying">Mengenal pasti...</string>
+    <string name="skip">Langkau</string>
+    <string name="usage_agreement">Perjanjian pengguna</string>
+    <string name="usage_policy">Dasar Privasi</string>
+</resources>

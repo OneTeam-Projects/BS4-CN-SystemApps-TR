@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽首頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 鍵</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 鍵</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">空格鍵</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="alipay">支付寶</string>
+    <string name="alipay_car_code">乘車碼</string>
+    <string name="alipay_code">二維碼</string>
+    <string name="alipay_scan">掃一掃</string>
+    <string name="app_list">手機應用</string>
+    <string name="app_list_keep_at_least_one">至少需保留一個應用</string>
+    <string name="app_name">GameWindowService</string>
+    <string name="app_not_install">請安裝該應用</string>
+    <string name="bilibili">嗶哩嗶哩</string>
+    <string name="cannot_minimize_in_sw">平板模式/劉海模式下，不可小窗化</string>
+    <string name="cannot_minimize_in_sw_8250">平板模式，不可小窗化</string>
+    <string name="douying">抖音短視頻</string>
+    <string name="dualapp_dialog_duplicate">%s分身</string>
+    <string name="dualapp_dialog_title">選擇打開方式</string>
+    <string name="finish">完成</string>
+    <string name="first_open_slidebar_tips">默認滑動觸發，你可在系統設置裏修改。</string>
+    <string name="freeform_ball_tip_confirm">知道了</string>
+    <string name="freeform_ball_tips">"長按懸浮球可觸發
+關閉按鈕"</string>
+    <string name="freeform_ball_tips2">"開啟多個小窗可能
+導致系統卡頓發熱"</string>
+    <string name="freeform_window_more_than_five">當前最多支持%d個小窗，請刪減小窗後重試</string>
+    <string name="long_press_enter_edit">長按圖標可進入編輯模式</string>
+    <string name="minimize_window">小窗化</string>
+    <string name="more">更多</string>
+    <string name="no_place_remain">無位置可添加</string>
+    <string name="packup">收起</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="shortcut_fuc">快捷功能</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sw_not_support_handymode">百變小窗：不支持單手模式</string>
+    <string name="tencent_mm">微信</string>
+    <string name="tencent_mm_code">二維碼</string>
+    <string name="tencent_mm_moments">朋友圈</string>
+    <string name="tencent_mm_scan">掃一掃</string>
+    <string name="weibo">微博</string>
+</resources>

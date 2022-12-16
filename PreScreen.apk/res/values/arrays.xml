@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bs_news_info_type">
+        <item>@string/bs_perscreen_ad</item>
+        <item>@string/bs_perscreen_recommend</item>
+        <item>@string/bs_perscreen_hotspot</item>
+    </string-array>
+    <string-array name="bs_search_engine_type">
+        <item>@string/bs_settings_search_engine_souguo</item>
+        <item>@string/bs_settings_search_engine_shenma</item>
+        <item>@string/bs_settings_search_engine_baidu</item>
+    </string-array>
+    <array name="letter_tile_colors">
+        <item>#b800c33d</item>
+        <item>#b800c3a2</item>
+        <item>#b80091d8</item>
+        <item>#b81d6dff</item>
+    </array>
+</resources>

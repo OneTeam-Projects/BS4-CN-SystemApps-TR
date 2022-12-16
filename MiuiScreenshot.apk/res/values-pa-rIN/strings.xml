@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਸਕ੍ਰੀਨਸ਼ਾਟ</string>
+    <string name="long_screenshot_guide_text">"ਇੱਕ ਸਕ੍ਰੋਲਿੰਗ ਸਕ੍ਰੀਨਸ਼ਾਟ
+ਬਣਾਉਣ ਲਈ ਟੈਪ ਕਰੋ"</string>
+    <string name="long_screenshot_out_of_memory_error">ਚਿੱਤਰ ਬਹੁਤ ਜ਼ਿਆਦਾ ਵੱਡਾ ਹੈ</string>
+    <string name="long_screenshot_processing">ਪ੍ਰਕਿਰਿਆ ਅਧੀਨ…</string>
+    <string name="long_screenshot_stop">ਸੰਪੰਨ</string>
+    <string name="long_screenshot_top_msg">ਸਕ੍ਰੀਨਸ਼ਾਟ ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ…</string>
+    <string name="long_screenshot_top_msg_manual">"ਸਕ੍ਰੀਨਸ਼ਾਟ ਕੱਟੋ ਅਤੇ ਖ਼ਤਮ ਕਰਨ ਲਈ ਬਟਨ 'ਤੇ ਟੈਪ ਕਰੋ"</string>
+    <string name="partial_screenshot_edit">ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="partial_screenshot_repaint">ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="partial_screenshot_save">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+    <string name="partial_screenshot_save_successful">ਸਫਲਤਾਪੂਰਵਕ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ</string>
+    <string name="partial_screenshot_share">ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="screenshot_edit">ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="screenshot_failed_in_landscape_mode">ਲੈਂਡਸਕੇਪ ਮੋਡ ਵਿੱਚ ਸਕ੍ਰੋਲ ਕਰਦੇ ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ ਬਣਾਏ ਜਾ ਸਕਦੇ</string>
+    <string name="screenshot_failed_to_capture_title">ਇਹ ਐਪ ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ ਲੈਣ ਦਿੰਦੀ</string>
+    <string name="screenshot_failed_to_save_title">ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਲੋੜੀਂਦੀ ਸਟੋਰੇਜ ਥਾਂ ਨਹੀਂ ਹੈ।</string>
+    <string name="screenshot_feedback_txt">ਫ਼ੀਡਬੈਕ</string>
+    <string name="screenshot_insert_failed">ਸਕ੍ਰੀਨਸ਼ਾਟ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਇੱਕ ਨਵਾਂ ਸਕ੍ਰੀਨਸ਼ਾਟ ਲਵੋ ਜਾਂ ਚਿੱਤਰ ਨੂੰ ਗੈਲਰੀ ਵਿੱਚ ਦੇਖੋ।</string>
+    <string name="screenshot_long_screenshot">ਸਕ੍ਰੋਲ ਕਰੋ</string>
+    <string name="screenshot_send">ਭੇਜੋ</string>
+</resources>

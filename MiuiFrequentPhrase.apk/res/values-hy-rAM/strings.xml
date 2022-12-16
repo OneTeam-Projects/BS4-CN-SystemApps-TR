@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Ավելացնել հաճախ օգտագործվող արտահայտություններ</string>
+    <string name="delete_frequent_phrases">Ջնջել հաճախ օգտագործվող արտահայտությունները</string>
+    <string name="delete_frequent_phrases_confirm">Ջնջե՞լ ընտրված հաճախ օգտագործվող արտահայտությունները:</string>
+    <string name="edit_frequent_phrases">Խմբագրել հաճախ օգտագործվող արտահայտությունները</string>
+    <string name="frequent_phrases_des">Տեքստ խմբագրելիս մի քանի հպումով մուտքագրեք հաճախ օգտագործվող արտահայտություններ</string>
+    <string name="frequent_phrases_size_exceeded">Հնարավոր է ավելացնել մինչև %1$d հաճախ օգտագործվող արտահայտություն: Ջնջեք ոչ անհրաժեշտ արտահայտությունները՝ նորերն ավելացնելու համար:</string>
+    <string name="menu_add_frequent_phrases">Ավելացնել</string>
+    <string name="menu_delete">Ջնջել</string>
+    <string name="menu_edit">Խմբագրել</string>
+    <string name="sync_phrase_label">Հաճախ օգտագործվող արտահայտություններ</string>
+</resources>

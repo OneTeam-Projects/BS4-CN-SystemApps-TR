@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">행업</string>
+    <string name="dialog_checkbox_hint">추가 프롬프트 없음</string>
+    <string name="dialog_message">행업이 활성화되면 게임이 백그라운드에서 실행 중이거나 화면이 슬립 모드로 들어갈 때 게임이 행업 상태로 들어갑니다. 알림 표시줄에서 행업 중지 버튼을 클릭해서 카운트다운이 끝날 때 행업을 종료할 수 있습니다. 장시간 동안 행업이 실행 중일 경우, 전원 공급장치를 연결하는 것이 권장됩니다.</string>
+    <string name="event_back_to_game">게임으로 돌아가기</string>
+    <string name="event_end_holdon">행업 비활성화됨</string>
+    <string name="label_holdon_duration">행업 시간</string>
+    <string name="label_holdon_pattern">행업 시간 정책</string>
+    <string name="notify_content" formatted="false">%s남은 행업 시간%s</string>
+    <string name="notify_hour_minute" formatted="false">%d시간 %d분</string>
+    <string name="notify_less_one_minute">1분 미만</string>
+    <string name="notify_minute">%d분</string>
+    <string name="text_cancel_holdon">행업 중지</string>
+    <string name="text_duration_describe">행업이 활성화될 때 단일 행업 시간을 선택하십시오. 행업 시간이 길면 불필요한 전원 소모가 발생할 수 있습니다. 또한 게임 매크로가 행업을 트리거해서 전체 행업 시간을 결정할 수도 있습니다.</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">시간</string>
+    <string name="text_minute">분</string>
+    <string name="text_mute_description">이 기능을 활성화하면 [사운드 어시스턴트] 기능도 활성화됩니다. 무음 상태를 일시적으로 사운드 어시스턴트 아이콘을 클릭해서 게임 볼륨을 정상으로 되돌린 상태에서 볼륨 버튼을 눌러 미디어 볼륨을 조절하십시오. 사운드 어시스턴트를 관리하려면 [설정 - 사운드 및 진동 - 사운드 어시스턴트]로 이동하십시오.</string>
+    <string name="text_mute_holdon_description">행업 시 게임 음소거</string>
+    <string name="text_pattern_describe">행업 시간 중 게임으로 돌아갈 때 행업 시간 카운트다운을 새로 고침할지를 선택하십시오. 행업에서 반복된 단일 작업을 보고 실행할 때는 긍정 대답이 권장되고, 행업에서 완료된 작업을 실행하려면 부정 대답이 권장됩니다.</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%s행업 완료</string>
+    <string name="toast_header_fix">Gamer Studio:</string>
+    <string name="toast_how_to_holdon">게임이 백그라운드에서 실행 중이거나 화면이 슬립 모드로 들어갈 때 게임이 행업 상태로 들어갑니다.</string>
+    <string name="toast_in_holdon_model">%s게임이 행업 상태로 들어갔습니다.</string>
+    <string name="toast_not_support_holdon">배터리 전원이 너무 낮거나 절전 모드가 활성화되었기 때문에 게임을 계속해서 중단시킬 수 없습니다.</string>
+</resources>

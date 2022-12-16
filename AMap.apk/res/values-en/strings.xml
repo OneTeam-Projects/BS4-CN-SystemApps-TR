@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amap_app_name">Amap</string>
+    <string name="app_name">Amap</string>
+    <string name="bindFail">Unable to operate</string>
+    <string name="bindFailTip">"Your Alipay account hasn't been associated with a Taobao account, please go to www.taobao.com to associate, or you can call 9510211 for help"</string>
+    <string name="bindIKnow">Got It</string>
+    <string name="bindTaobaoBindPhone">Please add your phone number to continue</string>
+    <string name="bind_title">Result</string>
+    <string name="iKnow">Got It</string>
+    <string name="loading">Loading</string>
+    <string name="network_error_retry">Network is poor. Please retry</string>
+    <string name="system_error_try_later">It is crowded. Please try again later</string>
+    <string name="toBind">Add Now</string>
+</resources>

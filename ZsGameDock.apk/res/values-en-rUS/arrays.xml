@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Silver core priority, restrict temperature, minimum power consumption</item>
+        <item>Silver core priority, suitable for simple games</item>
+        <item>Gold core priority, restrict temperature, suitable for normal 3D-games</item>
+        <item>Gold core priority, suitable for high quality 3D-games</item>
+        <item>Gold core only, maximum performance by also maximum power consumption</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Disable</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Balance Mode: Balance between performance and power consumption, and provide a balanced performance solution for general games</item>
+        <item>Game Engine Mode: Strengthen phone performance, suitable for games with high requirements for image quality</item>
+        <item>Ludicrous Mode: Bring phones to extreme performance, which may cause the phones to heat up noticeably</item>
+        <item>Extreme Ludicrous Mode: Forbid all background functions to keep phones maintain peak performance, which may cause the phones to heat up significantly</item>
+    </string-array>
+</resources>

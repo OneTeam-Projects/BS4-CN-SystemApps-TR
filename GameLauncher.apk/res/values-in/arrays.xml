@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>Kamu bermain game sepanjang malam saat semua orang tidur</item>
+        <item>Kamu sebaiknya main game pada pagi hari untuk menyegarkan diri</item>
+        <item>Makan atau bermain game; itulah pertanyaannya</item>
+        <item>Kamu sebaiknya main game pada sore hari untuk menyegarkan diri</item>
+        <item>Setelah bekerja keras seharian, kamu boleh bermain game malam harinya!</item>
+        <item>Kamu masih asyik bermain game larut malam. Boleh bersenang-senang, tapi tetap jaga kesehatan tubuhmu</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>04.00–07.00</item>
+        <item>07.00–11.00</item>
+        <item>11.00–14.00</item>
+        <item>14.00–18.00</item>
+        <item>18.00–22.00</item>
+        <item>22.00–04.00</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Minggu</item>
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+    </string-array>
+</resources>

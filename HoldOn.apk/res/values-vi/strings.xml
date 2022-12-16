@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Treo</string>
+    <string name="dialog_checkbox_hint">Không cần nhắc nhở nữa</string>
+    <string name="dialog_message">"Nếu bật chế độ treo, khi trò chơi chạy ngầm hoặc màn hình chuyển sang chế độ ngủ, trò chơi sẽ chuyển sang trạng thái treo. Bạn có thể thoát khỏi trạng thái treo khi bộ đếm ngược kết thúc hoặc bằng cách nhấp vào nút Dừng treo trên thanh thông báo. Nếu chạy trong trạng thái treo thời gian dài, bạn nên kết nối nguồn điện. "</string>
+    <string name="event_back_to_game">Quay lại trò chơi</string>
+    <string name="event_end_holdon">Đã tắt chế độ treo</string>
+    <string name="label_holdon_duration">Thời gian treo</string>
+    <string name="label_holdon_pattern">Chính sách về thời gian treo</string>
+    <string name="notify_content" formatted="false">%sThời gian treo còn lại%s</string>
+    <string name="notify_hour_minute" formatted="false">"%d giờ  %d phút"</string>
+    <string name="notify_less_one_minute">Chưa đến một phút</string>
+    <string name="notify_minute">%dphút</string>
+    <string name="text_cancel_holdon">Dừng chế độ treo</string>
+    <string name="text_duration_describe">Chỉ chọn một khoảng thời gian treo khi bật chế độ treo. Thời gian treo lâu có thể gây tiêu hao điện không cần thiết. Macro trò chơi cũng có thể kích hoạt chế độ treo và xác định tổng thời gian treo.</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">“Giờ”</string>
+    <string name="text_minute">“Phút”</string>
+    <string name="text_mute_description">"Nếu bật chức năng này thì chức năng [Trợ Lý Âm Thanh] cũng sẽ được bật. Để tạm thời thoát khỏi trạng thái im lặng, vui lòng nhấn nút âm lượng để điều chỉnh âm lượng phương tiện, đồng thời nhấp vào biểu tượng Trợ Lý Âm Thanh để đưa âm lượng trò chơi về mức bình thường. Để quản lý Trợ Lý Âm Thanh, vui lòng tới [Cài Đặt - Âm Thanh và Rung - Trợ Lý Âm Thanh]. "</string>
+    <string name="text_mute_holdon_description">Trò chơi bị tắt tiếng khi ở chế độ treo</string>
+    <string name="text_pattern_describe">Chọn xem bạn có muốn làm mới đồng hồ đếm ngược thời gian treo hay không khi quay lại trò chơi trong thời gian treo. Nếu trả lời có thì sẽ tốt cho việc xem và chạy một tác vụ lặp lại trong chế độ treo, còn nếu trả lời không thì sẽ giúp chạy một tác vụ hoàn chỉnh trong chế độ treo.</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sĐã hết thời gian treo</string>
+    <string name="toast_header_fix">Xưởng Trò Chơi:</string>
+    <string name="toast_how_to_holdon">Trò chơi chuyển sang trạng thái treo khi chạy ngầm hoặc màn hình chuyển sang chế độ ngủ</string>
+    <string name="toast_in_holdon_model">%sTrò chơi đã chuyển sang trạng thái treo</string>
+    <string name="toast_not_support_holdon">Do mức pin quá thấp hoặc đã bật chế độ tiết kiệm pin nên bạn không thể tiếp tục treo trò chơi</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passport_oauth_actionbar_title">ບັນຊີ Mi</string>
+    <string name="passport_oauth_sucess_tip">ການອະນຸຍາດສຳເລັດແລ້ວ</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aggancio</string>
+    <string name="dialog_checkbox_hint">Non mostrare richieste</string>
+    <string name="dialog_message">"Abilitando Aggancio, quando il gioco gira in background o lo schermo va in sospensione, il gioco entra in stato di Aggancio. Puoi uscire dall'aggancio quando il conto alla rovescia termina o cliccando sul pulsante Ferma aggancio nella barra di notifica. Se Aggancio è in esecuzione da molto tempo, consigliamo di collegare l'alimentazione."</string>
+    <string name="event_back_to_game">Torna al gioco</string>
+    <string name="event_end_holdon">Aggancio disabilitato</string>
+    <string name="label_holdon_duration">Tempo di aggancio</string>
+    <string name="label_holdon_pattern">Politica di aggancio</string>
+    <string name="notify_content" formatted="false">%sTempo di aggancio residuo%s</string>
+    <string name="notify_hour_minute" formatted="false">"%d ore  %d minuti"</string>
+    <string name="notify_less_one_minute">Meno di un minuto</string>
+    <string name="notify_minute">%d minuti</string>
+    <string name="text_cancel_holdon">Ferma aggancio</string>
+    <string name="text_duration_describe">"Seleziona il singolo tempo di aggancio se l'opzione è abilitata. Un tempo lungo di aggancio può causare consumi inutili. Anche la macro del gioco può attivare l'aggancio e determinare il tempo totale di aggancio."</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">Ore</string>
+    <string name="text_minute">Minuti</string>
+    <string name="text_mute_description">"Abilitando la funzione si abilita anche la funzione [Assistente sonoro]. Per uscire temporaneamente dallo stato silenzioso, premi il pulsante del volume per regolare il volume dei file multimediali cliccando l'icona Assistente sonoro per normalizzare il volume del gioco. Per gestire Assistente sonoro, vai in [Impostazioni - Suono e vibrazione - Assistente sonoro]."</string>
+    <string name="text_mute_holdon_description">Gioco silenziato in aggancio</string>
+    <string name="text_pattern_describe">"Scegli se aggiornare o meno il conto alla rovescia del tempo di aggancio quando torni al gioco. La risposta positiva è adatta a visualizzare ed eseguire una singola attività ripetitiva in aggancio, mentre quella negativa serve a eseguire un'attività completa in aggancio."</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sAggancio completo</string>
+    <string name="toast_header_fix">Gamer Studio:</string>
+    <string name="toast_how_to_holdon">Il gioco entra in stato di aggancio quando gira in background o lo schermo va in sospensione</string>
+    <string name="toast_in_holdon_model">%sIl gioco è entrato in stato di aggancio</string>
+    <string name="toast_not_support_holdon">"Non puoi continuare con l'aggancio perché il livello della batteria è troppo basso o è stata abilitata la modalità di risparmio energetico"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="change_avatar">
+        <item>Photography</item>
+        <item>Select Picture</item>
+    </string-array>
+    <string-array name="genders">
+        <item>Confidential</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="report_reasons">
+        <item>Bump</item>
+        <item>Ad Fraud</item>
+        <item>Porn</item>
+        <item>Other Reasons</item>
+    </string-array>
+</resources>

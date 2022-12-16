@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">Odustani</string>
+    <string name="address_server">Vrijednost koju daje poslužitelj</string>
+    <string name="app_name">Bežično ažuriranje</string>
+    <string name="auto_update_checked_off">Sustav provjerava za ažuriranjima svaka 3 dana</string>
+    <string name="auto_update_checked_on">Sustav provjerava za ažuriranjima svaka 3 dana</string>
+    <string name="checking_is_update">Provjerava se je li ažuriranje uspjelo, pričekajte...</string>
+    <string name="device_is_rooted">"Oprema je ukorijenjena. Ne može upotrijebiti OTA za nadogradnju putem Interneta.
+Za obnavljanje i programiranje novog ROM-a krenite na ovlašteno prodajno mjesto."</string>
+    <string name="device_is_rooted_title">Ažuriranje nije uspjelo</string>
+    <string name="dialog_power_not_enough_title">Priključite punjač</string>
+    <string name="dlg_btn_confirm">U REDU</string>
+    <string name="dlg_btn_negative_download">Odustani</string>
+    <string name="dlg_hit_already_set_as">Već je postavljeno kao:</string>
+    <string name="dlg_title_autoupdate">Automatsko traženje ažuriranja</string>
+    <string name="dlg_title_hint">Savjet</string>
+    <string name="failed_download_update_file">Preuzimanje paketa nadogradnje nije uspjelo, promijenite mrežu ili pokušajte kasnije</string>
+    <string name="have_net_problem">Došlo je do problema s mrežnom vezom, preuzimanje nije uspjelo, prebacite se na drugu mrežu i ponovno preuzmite</string>
+    <string name="hold_on_while_downloading">Preuzimanje...</string>
+    <string name="later_to_reboot">Pokreni kasnije</string>
+    <string name="md5_checkfailed">MD5 provjera paketa nadogradnje nije uspjela, %s pokušaj</string>
+    <string name="message7_note">"Napomena: 
+1. Ažuriranje sustava neće utjecati na vaše osobne podatke.
+2. Preuzimanje paketa ažuriranja sustava može rezultirati troškovima podatkovnog prometa."</string>
+    <string name="message_already_latest_version">Trenutni sustav je najnovija verzija</string>
+    <string name="message_checking_version">Provjeravaju se informacije o verziji...</string>
+    <string name="message_cur_version">Trenutna verzija</string>
+    <string name="message_current_detail">Pojedinosti ažuriranja</string>
+    <string name="message_download_tips">Savjeti za preuzimanje</string>
+    <string name="message_network_disconnect">Povezivanje na mrežu nije uspjelo. Provjerite mrežnu vezu.</string>
+    <string name="message_new_version">nova verzija</string>
+    <string name="message_new_version_find">Pronađena je nova verzija: %s</string>
+    <string name="message_no_history">Nema zapisa o ažuriranju</string>
+    <string name="net_close">Mrežna veza je prekinuta, preuzimanje paketa nadogradnje je zaustavljeno</string>
+    <string name="no_confirm_next_time">Nemoj me podsjećati sljedeći put</string>
+    <string name="notify_download_complete_text">Paket ažuriranja sustava uspješno preuzet</string>
+    <string name="notify_download_now_btn_title">Preuzmi sada</string>
+    <string name="notify_download_text">Pronađena je nova verzija %s, povežite se na WLAN i preuzmite je uskoro</string>
+    <string name="notify_download_title">Dostupno ažuriranje sustava</string>
+    <string name="notify_show_detail_btn_title">Prikaz pojedinosti</string>
+    <string name="notify_update_dialog_msg">Predbilježili ste se za noćnu nadogradnju. Nakon što se zadovolje uvjeti automatske nadogradnje sustav će automatski dovršiti nadogradnju</string>
+    <string name="notify_update_later_btn_title">Noćna nadogradnja</string>
+    <string name="notify_update_now_btn_title">Ponovno pokreni i nadogradi</string>
+    <string name="ok_to_reboot">Pokreni sada</string>
+    <string name="ota_check_update">Provjeri ažuriranje</string>
+    <string name="ota_settings">Postavke ažuriranja sustava</string>
+    <string name="phone_auto_check">Automatski provjeri za ažuriranjem</string>
+    <string name="phone_next_check_time">Kada ponovno provjeriti za ažuriranjem</string>
+    <string name="pkg_note">"Opis paketa: 
+"</string>
+    <string name="pkg_size">Veličina paketa:</string>
+    <string name="reboot_to_update_system">Poruka za ponovno pokretanje sustava kod ažuriranja</string>
+    <string name="show_dialog_when_reboot_to_update">Skočna potvrda ponovnog pokretanja telefona kod ažuriranja sustava</string>
+    <string name="text_continue">Nastavi</string>
+    <string name="toast_connect_not_available">Nema mreže. Pokušajte ponovno nakon povezivanja s mrežom.</string>
+    <string name="toast_download_package">Pričekajte; preuzimanje sistemskog ažuriranja počet će uskoro.</string>
+    <string name="toast_network__judge_before_download">Trenutno upotrebljavate mobilne podatke. Preuzimanje će zahtijevati veliku količinu podatkovnog prometa. Preporučujemo da preuzmete u Wi-Fi okruženju.</string>
+    <string name="toast_network__judge_before_download_roaming">Nalazite se u roamingu. Preporučujemo da preuzmete u Wi-Fi okruženju.</string>
+    <string name="toast_network_disconnect">Mreža nije spojena, pričekajte dok se mreža ne spoji.</string>
+    <string name="toast_no_available_update">Vaš telefon ima najnoviju verziju softvera.</string>
+    <string name="toast_power_not_enough_update">Sistem nije nadograđen, priključite punjač, napunite na više od %1$d%2$s i pokušajte ponovno</string>
+    <string name="toast_redownload">Nadogradnja je prošli put bila prekinuta, molimo ponovno pokrenite vaš telefon i ponovno nadogradite kako biste imali bolji sustav mobilnog telefona.</string>
+    <string name="toast_remind_change_to_other_network">Upotreba WAP mreže može dovesti do pogreške u preuzimanju, preporučujemo da se povežete na drugu mrežu</string>
+    <string name="toast_result_cancel_download">Korisnik je otkazao prije preuzimanja.</string>
+    <string name="toast_result_cancel_downloading">Korisnik je prekinuo tijekom preuzimanja paketa.</string>
+    <string name="toast_result_disk_full">Preuzimanje nije uspjelo zbog nedostatka memorije telefona da pohrani paket za ažuriranje ugrađenog softvera. Ponovno pokrenite vaš telefon i pokušajte ponovno.</string>
+    <string name="toast_result_download_fail">Došlo je do greške prilikom preuzimanja paketa, ažuriranje nije uspjelo.</string>
+    <string name="toast_result_update_failure">Instalacija nije ispravna. Ažuriranje nije uspjelo.</string>
+    <string name="toast_result_update_success">Ažuriranje je uspjelo.</string>
+    <string name="toast_server_not_available">Vaš telefon ima najnoviju verziju softvera.</string>
+    <string name="toast_show_dialog_again">Status ažuriranja sustava pogledajte kasnije na traci s obavijestima</string>
+    <string name="toast_update_file_not_found_on_server">Paket nadogradnje ne postoji na poslužitelju, ponovno provjerite ažuriranje</string>
+    <string name="update_file_delete_or_not_complete_down">Paket nadogradnje je izbrisan ili preuzimanje nije potpuno; paket nadogradnje će se ponovno preuzeti</string>
+    <string name="update_need_to_reboot">Za ažuriranje sustava morate ponovno pokrenuti telefon</string>
+    <string name="update_package_size_text">Veličina paketa:  %s MB</string>
+    <string name="user_confirm_message">OTA će izazvati troškove podatkovnog prometa tijekom preuzimanja paketa ažuriranja sustava. Kontaktirajte davatelja usluga radi cjenika.</string>
+    <string name="userdata_stop_download">Trenutno upotrebljavate mobilnu mrežu, preuzimanje paketa nadogradnje je zaustavljeno</string>
+    <string name="version_new">Pronađena nova verzija</string>
+    <string name="welcome_use_ota">Dobro došli u OTA</string>
+    <string name="wifi_available_auto_download">Preuzmi paket putem Wi-Fi</string>
+    <string name="wifi_available_auto_download_on">Automatski preuzmi paket kada je dostupan Wi-Fi</string>
+</resources>

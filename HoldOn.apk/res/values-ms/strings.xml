@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">“Letakkan”</string>
+    <string name="dialog_checkbox_hint">“Tiada lagi gesaan”</string>
+    <string name="dialog_message">Jika letakkan didayakan, apabila permainan berjalan di latar belakang atau skrin tidur, permainan memasuki keadaan letakkan. Anda boleh keluar dari letakkan apabila kira detik selesai atau dengan mengklik butang Letakkan berhenti di bar pemberitahuan. Sekiranya berlaku dalam keadaan letakkan untuk waktu yang lama, disarankan untuk menyambungkan bekalan kuasa. “</string>
+    <string name="event_back_to_game">“Kembali ke permainan”</string>
+    <string name="event_end_holdon">“Letakkan dinyahdayakan”</string>
+    <string name="label_holdon_duration">“Masa letakkan”</string>
+    <string name="label_holdon_pattern">“Dasar letakkan”</string>
+    <string name="notify_content" formatted="false">%sMasa letakkan yang tinggal%s</string>
+    <string name="notify_hour_minute" formatted="false">“%d jam %d minit”</string>
+    <string name="notify_less_one_minute">“Kurang dari satu minit”</string>
+    <string name="notify_minute">%dminit</string>
+    <string name="text_cancel_holdon">“Letakkan berhenti”</string>
+    <string name="text_duration_describe">Pilih masa letakkan tunggal apabila letakkan didayakan. Waktu letakkan yang lama boleh menyebabkan penggunaan tenaga yang tidak perlu. Makro permainan juga dapat mencetuskan letakkan dan menentukan jumlah masa letakkan.“</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">“Jam.”</string>
+    <string name="text_minute">“Minit”</string>
+    <string name="text_mute_description">Mendayakan fungsi ini juga akan mendayakan fungsi [Pembantu Bunyi]. Untuk keluar dari keadaan senyap buat sementara, tekan butang kelantangan untuk melaraskan kelantangan media sambil mengklik ikon Pembantu Suara untuk menormalkan kelantangan permainan. Untuk menguruskan Pembantu Suara, sila pergi ke [Tetapan - Suara &amp; Getaran - Pembantu Suara]. “</string>
+    <string name="text_mute_holdon_description">Permainan dibisukan semasa letakkan</string>
+    <string name="text_pattern_describe">Pilih sama ada mahu atau tidak untuk menyegarkan semula kira detik masa letakkan apabila anda kembali ke permainan semasa waktu letakkan. Jawapan positif adalah baik untuk melihat dan menjalankan satu tugas berulang dalam keadaan letakkan, sementara yang negatif membantu menjalankan tugas yang lengkap dalam letakkan. “</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sLetakkan selesai</string>
+    <string name="toast_header_fix">“Studio Pemain”</string>
+    <string name="toast_how_to_holdon">Permainan memasuki keadaan letakkan apabila permainan berjalan di latar belakang atau skrin tidur”</string>
+    <string name="toast_in_holdon_model">“%sPermainan telah memasuki keadaan letakkan</string>
+    <string name="toast_not_support_holdon">Oleh kerana kuasa bateri terlalu rendah atau mod penjimatan kuasa didayakan, anda tidak boleh terus meletakkan permainan”</string>
+</resources>

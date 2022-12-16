@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desligar</string>
+    <string name="dialog_checkbox_hint">Sem outros lembretes</string>
+    <string name="dialog_message">Caso tenha a funcionalidade de interrupção ativada, sempre que o jogo estiver a ser executado em segundo plano ou o ecrã se desligue, o jogo entra num estado de interrupção. Pode sair deste estado de interrupção quando o tempo de contagem chegar ao fim ou ao clicar no botão “Sair do estado de interrupção” na barra de notificações. Caso mantenha o estado de interrupção durante um longo período de tempo, é recomendado que ligue o dispositivo à corrente.</string>
+    <string name="event_back_to_game">Regressar ao jogo</string>
+    <string name="event_end_holdon">Desativar o estado de interrupção</string>
+    <string name="label_holdon_duration">Tempo de interrupção</string>
+    <string name="label_holdon_pattern">Políticas de tempo de interrupção</string>
+    <string name="notify_content" formatted="false">%sTempo disponível de interrupção%s</string>
+    <string name="notify_hour_minute" formatted="false">"%d horas  %d minutos"</string>
+    <string name="notify_less_one_minute">Menos de um minuto</string>
+    <string name="notify_minute">%dminutos</string>
+    <string name="text_cancel_holdon">Sair do estado de interrupção</string>
+    <string name="text_duration_describe">Selecione o tempo de interrupção, para quando tiver esta funcionalidade ativada. Tenha em consideração que um longo tempo de interrupção pode levar a um consumo energético desnecessário. A macro de jogo pode também acionar a interrupção e determinar o total período de interrupção.</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">Horas</string>
+    <string name="text_minute">Minutos</string>
+    <string name="text_mute_description">Ativar esta funcionalidade resultará também na ativação da funcionalidade de [Assistente de Som]. Para sair temporariamente do estado silencioso, por favor, prima o botão de volume, para o ajustar, ao mesmo tempo que clica o ícone de Assistente de Som para regularizar o volume do jogo. Para gerir a funcionalidade de Assistente de Som, por favor aceda a [Configurações - Som &amp; Vibração - Assistente de Som].</string>
+    <string name="text_mute_holdon_description">Durante a interrupção, o som do jogo é desativado</string>
+    <string name="text_pattern_describe">Escolha se pretende reiniciar a contagem decrescente do tempo de interrupção quando regressar ao jogo durante a interrupção. Se sim, poderá visualizar ou executar uma tarefa repetitiva durante a interrupção, caso contrário, se não a quiser reiniciar, pode executar uma tarefa por completo durante a interrupção.</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sInterrupção completa</string>
+    <string name="toast_header_fix">Gamer Studio:</string>
+    <string name="toast_how_to_holdon">O jogo entra no estado de interrupção quando está a ser executado em segundo plano, ou caso o ecrã se desligue</string>
+    <string name="toast_in_holdon_model">%sO jogo entrou no estado de interrupção</string>
+    <string name="toast_not_support_holdon">Uma vez que a carga da bateria é insuficiente ou tem ativado o modo de poupança de bateria, não é possível continuar a interromper o jogo</string>
+</resources>

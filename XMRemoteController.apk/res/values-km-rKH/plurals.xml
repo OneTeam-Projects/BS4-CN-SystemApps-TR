@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APKs</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">ឯកសារ​ដោនឡូដ​ចំនួន %1$s</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">ក្រុម​អ្នកប្រើ %1$s</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d ថ្ងៃកន្លងទៅ</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ម៉ោងកន្លងទៅ</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d ម៉ាក្ស​ដែល​អាចរកបាន</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d នាទីកន្លងទៅ</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d ឧបកថា</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d វីដេអូនានា</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">ចាក់ភាគ %d</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">រកឃើញមាន​វីដេអូ​ចំនួន %d</item>
+    </plurals>
+</resources>

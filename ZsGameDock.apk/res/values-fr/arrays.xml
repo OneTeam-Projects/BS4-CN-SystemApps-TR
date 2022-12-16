@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>"SuperAmbiophonie "</item>
+        <item>MusiqueJeu</item>
+        <item>SuperVoix</item>
+        <item>SuperPas</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Effet d’ambiophonie amélioré, facile à localiser les ennemis, convenable aux jeux FPS</item>
+        <item>"L'effet de musique de jeu, convenable à MOBA et aux jeux de musique"</item>
+        <item>Voix plus claire et réelle, convenable à RPG et au jeu de société</item>
+        <item>Améliorer les performances des basses fréquences et rendre les jeux de champ de bataille plus faciles à reconnaître les pas</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>"Priorité Silver core, restriction de la température, consommation d'énergie minimale"</item>
+        <item>Priorité Silver core, adaptée aux jeux simples</item>
+        <item>Priorité Gold core, restriction de la température, adaptée aux jeux 3D normaux</item>
+        <item>Priorité Gold core, adaptée aux jeux 3D haute qualité</item>
+        <item>"Gold core uniquement, performance maximale par une consommation d'énergie maximale"</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Désactiver</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Off</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Off</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Bande originale</item>
+        <item>Loli</item>
+        <item>Dame dominatrice</item>
+        <item>Oncle</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Vitesse prioritaire</item>
+        <item>Équilibré</item>
+        <item>Qualité d’image prioritaire</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>ÉQUILIBRE</item>
+        <item>NOYAUSOLAIRE</item>
+        <item>RIDICULE</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Équilibre entre les performances et la consommation électrique, et offre d’une solution de performance équilibrée pour les jeux généraux</item>
+        <item>"Renforcement des performances du téléphone, convenable aux jeux avec des exigences élevées sur la qualité d'image"</item>
+        <item>Performances ultimes pour les jeux, un refroidisseur attaché est recommandé</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>"Mode d'équilibre: équilibre entre performances et consommation d'énergie et offre une solution de performances équilibrée pour les jeux généraux"</item>
+        <item>"Mode moteur de jeu: renforce les performances du téléphone, adapté aux jeux avec des exigences élevées en matière de qualité d'image"</item>
+        <item>Mode Ludicrous: Amenez les téléphones à des performances extrêmes, ce qui peut provoquer une surchauffe notable des téléphones</item>
+        <item>"Mode extrême ludique: interdire toutes les fonctions d'arrière-plan afin de maintenir les téléphones à des performances optimales, ce qui peut provoquer une surchauffe importante des téléphones"</item>
+    </string-array>
+</resources>

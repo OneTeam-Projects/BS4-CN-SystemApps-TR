@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Жаңарту үшін төмен қарай тартыңыз</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Сәтті жаңартылды</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Жаңарту…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Жаңару үшін жіберіңіз</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Әзірше осы</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Әзірше осы</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Бір секунд…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Элементтерді жүктеу мүмкін болмады</string>
+</resources>

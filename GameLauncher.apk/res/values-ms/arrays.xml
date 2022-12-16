@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>Anda bermain permainan sepanjang malam sementara semua orang lain sedang tidur</item>
+        <item>Anda perlu bermain permainan pada waktu pagi untuk menyegarkan diri</item>
+        <item>Makan atau bermain permainan; itulah soalannya</item>
+        <item>Anda perlu bermain permainan pada waktu petang untuk menyegarkan diri</item>
+        <item>Seharian bekerja bermakna anda mendapat peluang untuk bermain permainan semalaman!</item>
+        <item>Anda masih lagi bermain permainan sehingga larut malam. Jagalah kesihatan badan anda sambil menghiburkan diri anda</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>4:00-7:00PG</item>
+        <item>7:00-11:00PG</item>
+        <item>11:00PG-14:00PTG</item>
+        <item>14:00-18:00PTG</item>
+        <item>6:00 PTG-22:00MLM</item>
+        <item>22:00MLM-4:00PG</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Ahad</item>
+        <item>Isnin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Khamis</item>
+        <item>Jumaat</item>
+        <item>Sabtu</item>
+    </string-array>
+</resources>

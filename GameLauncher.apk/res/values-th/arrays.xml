@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>คุณเล่นเกมทั้งคืนในขณะที่คนอื่น ๆ กำลังนอนหลับ</item>
+        <item>คุณต้องเล่นเกมในตอนเช้าเพื่อความสดชื่น</item>
+        <item>จะกินหรือจะเล่นเกม นั่นคือคำถาม</item>
+        <item>คุณต้องเล่นเกมในตอนบ่ายเพื่อความสดชื่น</item>
+        <item>วันแห่งการทำงานหนักหมายถึงคุณควรได้พักเล่นเกมสักคืน!</item>
+        <item>คุณยังคงเล่นเกมอย่างจริงจังจนดึกดื่น ดูแลสุขภาพของคุณไปพร้อมกับความเพลิดเพลิน</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>4:00 - 7:00 น.</item>
+        <item>7:00 - 11:00 น.</item>
+        <item>11:00 - 14:00 น.</item>
+        <item>14:00 - 18:00 น.</item>
+        <item>18:00 - 22:00 น.</item>
+        <item>22:00 - 4:00 น.</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>อาทิตย์</item>
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ພາບໜ້າຈໍ</string>
+    <string name="long_screenshot_guide_text">"ແຕະເພື່ອ
+ຈັບພາບໜ້າຈໍທາງຍາວ"</string>
+    <string name="long_screenshot_out_of_memory_error">ຮູບພາບໃຫຍ່ເກີນໄປ</string>
+    <string name="long_screenshot_processing">ກຳລັງປະມວນຜົນ…</string>
+    <string name="long_screenshot_stop">​ສຳ​ເລັດ​ແລ້ວ</string>
+    <string name="long_screenshot_top_msg">​ກຳ​ລັງ​ສ້າງ​ພາບ​ໜ້າ​ຈໍ…</string>
+    <string name="long_screenshot_top_msg_manual">ຕັດຂອບພາບໜ້າຈໍແລະແຕະປຸ່ມເພື່ອສຳເລັດ</string>
+    <string name="partial_screenshot_edit">​ແກ້​ໄຂ</string>
+    <string name="partial_screenshot_repaint">ເລີ່ມຕົ້ນໃໝ່</string>
+    <string name="partial_screenshot_save">ບັນທຶກ</string>
+    <string name="partial_screenshot_save_successful">ບັນທຶກສຳເລັດແລ້ວ</string>
+    <string name="partial_screenshot_share">​ແຊ​ຣ໌</string>
+    <string name="screenshot_edit">​ແກ້​ໄຂ</string>
+    <string name="screenshot_failed_in_landscape_mode">ບໍ່ສາມາດສ້າງພາບໜ້າຈໍແນວຍາວໃນໂໝດແນວນອນໄດ້</string>
+    <string name="screenshot_failed_to_capture_title">ແອັບນີ້ບໍ່ອະນຸຍາດການຖ່າຍພາບໜ້າຈໍ</string>
+    <string name="screenshot_failed_to_save_title">ບໍ່ສາມາດບັນທຶກໄດ້. ພື້ນທີ່ຈັດເກັບຂໍ້ມູນບໍ່ພຽງພໍ.</string>
+    <string name="screenshot_feedback_txt">ຄຳຕິຊົມ</string>
+    <string name="screenshot_insert_failed">ບໍ່ສາມາດໂຫຼດພາບໜ້າຈໍໄດ້. ດຳເນີນການໃໝ່ຫຼືເບິ່ງຮູບພາບໃນຄັງຮູບພາບ.</string>
+    <string name="screenshot_long_screenshot">ລວງຍາວ</string>
+    <string name="screenshot_send">​ສົ່ງ</string>
+</resources>

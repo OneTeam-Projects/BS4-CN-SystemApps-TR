@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Penyejukan</item>
+        <item>Pemanasan</item>
+        <item>Pengeringan</item>
+        <item>Kipas</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Lelaki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Peranti anda hanya boleh disambungkan dengan Mi Tv, Mi Box, dan peranti-peranti Android yang lain melalui Wi-Fi.</item>
+        <item>Pastikan anda telah memilih model A/C yang betul semasa proses penyambungan. Ikuti arahan pada peranti anda sehingga proses penyambungan selesai.</item>
+        <item>Tidak. Kini anda boleh menggunakan Mi 4, Mi 4c, dan Redmi Note 2 sebagai alat kawalan jauh IR.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ahd</item>
+        <item>Isn</item>
+        <item>Sel</item>
+        <item>Rab</item>
+        <item>Kha</item>
+        <item>Jum</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="question">
+        <item>Mengapa telefon saya kerap mencari peranti tanpa wayar?</item>
+        <item>Mengapa saya hanya boleh menghidupkan A/C saya tetapi tidak boleh mematikannya?</item>
+        <item>Bolehkah saya menggunakan Mi 3, Mi 2 dan Redmi sebagai remote IR?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Hidupkan AC Haier di ruang tamu</item>
+        <item>Tetapkan suhu ke 25 darjah</item>
+        <item>Tetapkan arah angin ke \"Atas\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Hidupkan AC Gree</item>
+        <item>Ganti ke mod swinging</item>
+        <item>Jadikan AC bertiup lebih kuat</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Hidupkan set-top box</item>
+        <item>Saya ingin melihat Hunan TV</item>
+        <item>Kembali ke saluran 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Hidupkan AC</item>
+        <item>Saya ingin melihat Shenzhen TV</item>
+        <item>Kembali ke saluran 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Hidupkan TV di bilik tidur</item>
+        <item>Matikan TV</item>
+        <item>Naikkan kelantangan di TV</item>
+    </string-array>
+</resources>

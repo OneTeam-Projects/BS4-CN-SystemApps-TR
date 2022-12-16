@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>Deseu la imatge</item>
+        <item>Compartiu la imatge</item>
+        <item>Cancel·leu</item>
+    </string-array>
+</resources>

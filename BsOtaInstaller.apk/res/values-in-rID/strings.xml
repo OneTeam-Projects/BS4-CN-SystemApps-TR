@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">Setuju</string>
+    <string name="begin_use">Mulai menggunakan</string>
+    <string name="checKed_no_SIM_tips">Tidak ada jaringan data untuk ponsel pada status saat ini</string>
+    <string name="checked_SIM">Periksa kartu SIM</string>
+    <string name="checked_Two_SIM">Pengaturan kartu SIM ganda</string>
+    <string name="checked_no_SIM">Tidak ditemukan kartu SIM</string>
+    <string name="checked_one_sim">Kartu SIM ditemukan</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">Pilihan bahasa</string>
+    <string name="choose_lock_add_fingerprint">Tambahkan sidik jari</string>
+    <string name="choose_lock_add_fingerprint_tips">Anda bisa menggunakan sidik jari untuk membuka kunci layar dan masuk dengan aman dan cepat</string>
+    <string name="choose_lock_title">Buka kunci dengan Sidik jari</string>
+    <string name="cloud_le_account">Masuk via akun Letv</string>
+    <string name="cloud_login">Masuk</string>
+    <string name="cloud_register">Daftar via nomor telepon</string>
+    <string name="cloud_tips">Masuk via akun Coolpad untuk menyinkronkan data pribadi seperti kontak, dan cari ponsel</string>
+    <string name="cloud_titile">Akun Coolpad</string>
+    <string name="connect_WALN">Sambungkan ke WLAN</string>
+    <string name="count_down">Hitung mundur</string>
+    <string name="experience_location_service">Layanan lokasi</string>
+    <string name="experience_location_service_explain">Izinkan aplikasi ke lokasi</string>
+    <string name="experience_plan">Paket Pengalaman Pengguna</string>
+    <string name="experience_plan_explain">Bantu meningkatkan dan mengoptimalkan pengalaman sistem</string>
+    <string name="experience_setting">Pengalaman dan ketentuan</string>
+    <string name="language_shutdown_tip">"Tidak ada aktivitas yang terdekteksi untuk waktu lama
+perangkat akan otomatis dimatikan
+setelah hitung mundur"</string>
+    <string name="language_shutdown_title">Otomatis mati</string>
+    <string name="language_touch_turn_off">Sentuh untuk membatalkan mati</string>
+    <string name="last_step">Kembali</string>
+    <string name="mobile_move">Transfer Seluler</string>
+    <string name="network_flow">Traffic jaringan</string>
+    <string name="network_flow_tips">Akses ke Internet via jaringan seluler saat tidak tersambung ke jaringan nirkabel</string>
+    <string name="next_step">Berikutnya</string>
+    <string name="setup_success">Pengaturan berhasil</string>
+    <string name="setupwizard_wifi_cancle_save">Batal disimpan</string>
+    <string name="setupwizard_wifi_connect">Sambungkan ke WLAN</string>
+    <string name="setupwizard_wifi_connected">Tersambung</string>
+    <string name="setupwizard_wifi_connecting">Menyambungkan...</string>
+    <string name="setupwizard_wifi_dialog_cancel">Batal</string>
+    <string name="setupwizard_wifi_dialog_comfirm">OK</string>
+    <string name="setupwizard_wifi_dialog_connect">Sambungkan</string>
+    <string name="setupwizard_wifi_dialog_disconect">Putus koneksi</string>
+    <string name="setupwizard_wifi_dialog_hint_text">Kata Sandi</string>
+    <string name="setupwizard_wifi_no_tips">Tidak ada koneksi Wi-fi dalam jangkauan</string>
+    <string name="setupwizard_wifi_saved">Disimpan</string>
+    <string name="setupwizard_wifi_searching">Mencari</string>
+    <string name="sim_identifying">Mengidentifikasi...</string>
+    <string name="skip">Lewati</string>
+    <string name="usage_agreement">Perjanjian pengguna</string>
+    <string name="usage_policy">Kebijakan Privasi</string>
+</resources>

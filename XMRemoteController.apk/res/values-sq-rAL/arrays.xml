@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Freskim</item>
+        <item>Ngrohje</item>
+        <item>Çlagështim</item>
+        <item>Ventilator</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Mashkull</item>
+        <item>Femër</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Pajisja jote mund të çiftohet vetëm me Mi TV, Mi Box, dhe një mori pajisjesh të tjera Android duke përdorur Wi-Fi.</item>
+        <item>Sigurohu që të kesh përzgjedhur modelin e duhur të kondicionerit në procesin çiftues. Ndiq hapat në pajisjen tënde derisa çiftimi të përfundojë.</item>
+        <item>Jo. Për momentin mund të përdorësh Mi 4, Mi 4c dhe Redmi Note 2 si telekomanda IR.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Die</item>
+        <item>Hën</item>
+        <item>Mar</item>
+        <item>Mër</item>
+        <item>Enj</item>
+        <item>Pre</item>
+        <item>Sht</item>
+    </string-array>
+    <string-array name="question">
+        <item>Pse vazhdon të kërkojë për pajisje me valë telefoni im?</item>
+        <item>Pse mundem vetëm ta ndez kondicionerin por jo ta fik?</item>
+        <item>A mund të përdor Mi 3, Mi 2 dhe Redmi si telekomandë IR?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Ndiz kondicionerin Haier në dhomën e ndenjes</item>
+        <item>Vëre temperaturën 25 gradë</item>
+        <item>Vëre drejtimin e erës \"Lart\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Ndiz kondicionerin Gree</item>
+        <item>Kalo në modalitetin e vërvitjes</item>
+        <item>Bëje kondicionerin të fryjë më fort</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Ndiz marrësin televiziv</item>
+        <item>Dua të shoh Hunan TV</item>
+        <item>Kthehu te kanali 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Ndiz kondicionerin</item>
+        <item>Dua të shoh Shenzhen TV</item>
+        <item>Kthehu te kanali 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Ndiz televizorin në dhomën e gjumit</item>
+        <item>Fik televizorin</item>
+        <item>Ngrija volumin televizorit</item>
+    </string-array>
+</resources>

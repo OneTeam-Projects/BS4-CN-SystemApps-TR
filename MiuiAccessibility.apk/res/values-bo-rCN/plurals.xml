@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="guide_title">
+        <item quantity="other">ཁྱེད་ཀྱིས་སྐད་བརྡའི་ཚོད་འཛིན་བེད་སྤྱོད་བྱེད་པར་དགའ་བསུ་ཞུ། བྱེད་ནུས་འདི་ཁ་ཕྱེ་རྗེས། ཁྱེད་ཀྱིས་སྐད་བརྡའི་ཚོད་འཛིན་གྱིས་ཁ་པར་ཚོད་འཛིན་བྱེད། ཐོག་མར་ཁ་ཕྱེ་བར་སློབ་ཁྲིད་བྱེད་དགོས། སྐར་ཆ་%1$dརྗེས་རང་འགུལ་གྱིས་སློབ་ཁྲིད་ལ་འཛུལ་བ།</item>
+    </plurals>
+    <plurals name="title_select_nums">
+        <item quantity="other">ཚན་པ་%1$sབདམས་ཟིན།</item>
+    </plurals>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">“Gantung”</string>
+    <string name="dialog_checkbox_hint">“Jangan ingatkan lagi”</string>
+    <string name="dialog_message">“Jika gantung diaktifkan, saat game berjalan di latar belakang atau layar masuk mode tidur, game memasuki status gantung. Anda dapat keluar dari status gantung saat hitung mundur selesai atau dengan mengeklik tombol “Gantung berhenti” pada bilah notifikasi. Jika game berjalan dalam status gantung dalam waktu lama, hubungkan catu daya.”</string>
+    <string name="event_back_to_game">“Kembali ke game”</string>
+    <string name="event_end_holdon">“Gantung dinonaktifkan”</string>
+    <string name="label_holdon_duration">“Durasi gantung”</string>
+    <string name="label_holdon_pattern">“Kebijakan durasi gantung”</string>
+    <string name="notify_content" formatted="false">%sSisa durasi gantung%s</string>
+    <string name="notify_hour_minute" formatted="false">"%d jam  %d menit"</string>
+    <string name="notify_less_one_minute">“Kurang dari satu menit”</string>
+    <string name="notify_minute">%dmenit</string>
+    <string name="text_cancel_holdon">“Gantung berhenti”</string>
+    <string name="text_duration_describe">“Pilih satu durasi gantung saat gantung diaktifkan. Durasi gantung yang lama dapat menyebabkan pemborosan konsumsi daya. Makro game juga dapat memicu gantung dan menentukan durasi gantung total.”</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">“Jam”</string>
+    <string name="text_minute">“Menit”</string>
+    <string name="text_mute_description">“Mengaktifkan fungsi ini juga akan mengaktifkan fungsi [Asisten Suara]. Untuk menutup status hening untuk sementara, tekan tombol volume untuk menyesuaikan volume media sambil mengeklik ikon Asisten Suara untuk menormalkan volume game. Untuk mengelola Asisten Suara, buka [Pengaturan - Suara &amp; Getar - Asisten Suara].”</string>
+    <string name="text_mute_holdon_description">“Game diheningkan dalam mode gantung”</string>
+    <string name="text_pattern_describe">“Pilih segarkan durasi gantung atau tidak saat Anda kembali ke game selama durasi gantung. Jawaban positif bagus untuk menonton dan menjalankan satu tugas repetitif selama durasi gantung, sedangkan jawaban negatif membantu menjalankan satu tugas lengkap selama durasi gantung.”</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sGantung selesai</string>
+    <string name="toast_header_fix">Gamer Studio:</string>
+    <string name="toast_how_to_holdon">Game memasuki status gantung saat berjalan di latar belakang atau layar masuk mode tidur”</string>
+    <string name="toast_in_holdon_model">%sGame telah memasuki status gantung</string>
+    <string name="toast_not_support_holdon">“Karena daya baterai sangat lemah atau mode hemat daya diaktifkan, Anda tidak dapat melanjutkan menggantung game”</string>
+</resources>

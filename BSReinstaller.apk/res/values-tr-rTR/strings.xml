@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistem uygulamayı kaldırıp geri alabilir</string>
+    <string name="application_installation_successful">Uygulama yükleme başarılı</string>
+    <string name="bs_install">Yükle</string>
+    <string name="bs_install_cancel">İptal</string>
+    <string name="bs_install_preloaded_app_dialog_message">%1$s bir sistem uygulamasıdır. Yüklemenize gerek yoktur.</string>
+    <string name="bs_install_preloaded_app_dialog_title">%1$s yükle</string>
+    <string name="bs_install_preloaded_app_failed_toast">%1$s için yükleme bilgisi alınamadı</string>
+    <string name="bs_install_preloaded_app_start_toast">%1$s yüklenmek üzere, bir saniye lütfen...</string>
+    <string name="btn_holding">Beklemede</string>
+    <string name="btn_install">Yükle</string>
+    <string name="btn_install_failure">Yükleme Hatası</string>
+    <string name="btn_installing">Yükleniyor</string>
+    <string name="desc_onloading_message">Yükleniyor, lütfen bekleyin...</string>
+    <string name="no_app_to_install">Yüklenebilecek kaldırılmış sistem uygulaması yok</string>
+</resources>

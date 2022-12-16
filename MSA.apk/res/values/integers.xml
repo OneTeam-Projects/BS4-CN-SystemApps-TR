@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="config_tooltipAnimTime">150</integer>
+    <item type="integer" name="splash_anim_enter">@android:integer/config_shortAnimTime</item>
+    <integer name="splash_anim_exit">500</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="surprise_content_line_length">10</integer>
+</resources>

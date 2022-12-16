@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>រក្សាទុក​រូបភាព</item>
+        <item>ចែករំលែករូបភាព</item>
+        <item>បោះបង់</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">ବାରମ୍ୱାର ବ୍ୟବହୃତ ବାକ୍ୟାଂଶ ଯୋଡ଼ନ୍ତୁ</string>
+    <string name="delete_frequent_phrases">ବାରମ୍ୱାର ବ୍ୟବହୃତ ବାକ୍ୟାଂଶ ବିଲୋପ କରନ୍ତୁ</string>
+    <string name="delete_frequent_phrases_confirm">ଚୟନିତ ବାରମ୍ଭାର ବ୍ୟବହୃତ ବାକ୍ୟାଂଶ ବିଲୋପ କରିବେ?</string>
+    <string name="edit_frequent_phrases">ବାରମ୍ୱାର ବ୍ୟବହୃତ ବାକ୍ୟାଂଶ ସମ୍ପାଦନା କରନ୍ତୁ</string>
+    <string name="frequent_phrases_des">ଟେକ୍ସଟ୍‌ ସମ୍ପାଦନ ସମୟରେ କିଛି ଟ୍ୟାପ୍‌ ସହ ବାରମ୍ଭାର ବ୍ୟବହୃତ ବାକ୍ୟାଂଶ ପ୍ରବେଶ କରନ୍ତୁ</string>
+    <string name="frequent_phrases_size_exceeded">%1$dଟି ବାରମ୍ୱାର ବ୍ୟବହୃତ ବାକ୍ୟାଂଶ ଯୋଗ କରିପାରିବେ। ଅଧିକ ଯୋଗ କରିବାକୁ ଅନାବଶ୍ୟକକୁ ବିଲୋପ କରନ୍ତୁ।</string>
+    <string name="menu_add_frequent_phrases">ଯୋଗ କରନ୍ତୁ</string>
+    <string name="menu_delete">ବିଲୋପ</string>
+    <string name="menu_edit">ସମ୍ପାଦନା କରନ୍ତୁ</string>
+    <string name="sync_phrase_label">ବାରମ୍ୱାର ବ୍ୟବହୃତ ବାକ୍ୟାଂଶ</string>
+</resources>

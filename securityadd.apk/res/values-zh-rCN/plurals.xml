@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">您当前的网络加速服务将于%d天后到期，建议提前续订，以免影响游戏体验</item>
+        <item quantity="one">您当前的网络加速服务将于%d天后到期，建议提前续订，以免影响游戏体验</item>
+    </plurals>
+</resources>

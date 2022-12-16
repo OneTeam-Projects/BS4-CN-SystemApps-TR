@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APK</item>
+        <item quantity="one">%d APK</item>
+        <item quantity="few">%d APK</item>
+        <item quantity="many">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s завантажень</item>
+        <item quantity="one">%1$s завантаження</item>
+        <item quantity="few">%1$s завантаження</item>
+        <item quantity="many">%1$s завантажень</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s користувачів</item>
+        <item quantity="one">%1$s користувач</item>
+        <item quantity="few">%1$s користувача</item>
+        <item quantity="many">%1$s користувачів</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d днів тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="few">%1$d дні тому</item>
+        <item quantity="many">%1$d днів тому</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d год тому</item>
+        <item quantity="one">%1$d год тому</item>
+        <item quantity="few">%1$d год тому</item>
+        <item quantity="many">%1$d год тому</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">Доступно %d марок</item>
+        <item quantity="one">Доступна одна марка</item>
+        <item quantity="few">Доступні %d марки</item>
+        <item quantity="many">Доступно %d марок</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d хвилин тому</item>
+        <item quantity="one">%1$d хвилину тому</item>
+        <item quantity="few">%1$d хвилини тому</item>
+        <item quantity="many">%1$d хвилин тому</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d серій</item>
+        <item quantity="one">%d серія</item>
+        <item quantity="few">%d серії</item>
+        <item quantity="many">%d серій</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d відео</item>
+        <item quantity="one">%d відео</item>
+        <item quantity="few">%d відео</item>
+        <item quantity="many">%d відео</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">Відтворити серію %d</item>
+        <item quantity="one">Відтворити серію %d</item>
+        <item quantity="few">Відтворити серію %d</item>
+        <item quantity="many">Відтворити серію %d</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">Знайдено %d відео</item>
+        <item quantity="one">Знайдено %d відео</item>
+        <item quantity="few">Знайдено %d відео</item>
+        <item quantity="many">Знайдено %d відео</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>ଚିତ୍ର ସଞ୍ଚୟ କରନ୍ତୁ</item>
+        <item>ଚିତ୍ର ସେଆର କରନ୍ତୁ</item>
+        <item>ବାତିଲ୍ କରନ୍ତୁ</item>
+    </string-array>
+</resources>

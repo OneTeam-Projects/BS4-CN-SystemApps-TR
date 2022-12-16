@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">དུས་ཚོད1གི་སྔོན།</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">དུས་ཚོད་ཕྱེད་ཀའི་སྔོན།</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">དུས་ཚོད1གི་རྗེས།</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">དུས་ཚོད་ཕྱེད་ཀའི་རྗེས།</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ལམ་སེང་།</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">སྐར་མ%dརྗེས།</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ད་གིན།</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">སྐར་མ%dསྔོན།</item>
+    </plurals>
+    <plurals name="aicall_choose">
+        <item quantity="other">ཚན་པ་%dབདམས་ཟིན།</item>
+    </plurals>
+    <plurals name="aicall_deleted">
+        <item quantity="other">གཞི་གྲངས་%dབསུབས་ཟིན།</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">ཐེངས%dལ་དྲིལ་སྒྲོག་བྱས།</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">ཚན་པ%dབདམས་ཟིན།</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">ཚན་པ་%1$dབདམས་ཟིན།</item>
+    </plurals>
+</resources>

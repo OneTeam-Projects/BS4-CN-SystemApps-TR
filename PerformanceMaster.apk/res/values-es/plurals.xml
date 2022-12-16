@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">Se espera que esté completamente cargado en %s días</item>
+        <item quantity="one">Se espera que esté completamente cargado en %s días</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">Se espera que esté completamente cargado en %s horas</item>
+        <item quantity="one">Se espera que esté completamente cargado en %s horas</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">Se espera que esté completamente cargado en %s minutos</item>
+        <item quantity="one">Se espera que esté completamente cargado en %s minutos</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Se puede usar durante %s horas</item>
+        <item quantity="one">Se puede usar durante %s horas</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Se puede usar durante %s minutos</item>
+        <item quantity="one">Se puede usar durante %s minutos</item>
+    </plurals>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>Žaidžiate visą naktį, kol kiti miega</item>
+        <item>Kad taptumėte žvalūs, žaiskite ryte</item>
+        <item>Valgyti ar žaisti – štai kur klausimas</item>
+        <item>Kad taptumėte žvalūs, žaiskite dieną</item>
+        <item>Sunkus darbas dieną reiškia, kad užsidirbote žaidimų naktį!</item>
+        <item>Jūs vis dar intensyviai žaidžiate vėlai vakare. Pasirūpinkite savimi pramogaudami</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>4–7 val.</item>
+        <item>7–11 val.</item>
+        <item>11–14 val.</item>
+        <item>14–18 val.</item>
+        <item>18–22 val.</item>
+        <item>22–4 val.</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Sekmadienis</item>
+        <item>Pirmadienis</item>
+        <item>Antradienis</item>
+        <item>Trečiadienis</item>
+        <item>Ketvirtadienis</item>
+        <item>Penktadienis</item>
+        <item>Šeštadienis</item>
+    </string-array>
+</resources>

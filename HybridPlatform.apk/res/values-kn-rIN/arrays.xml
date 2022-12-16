@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>ಚಿತ್ರ ಉಳಿಸಿ</item>
+        <item>ಚಿತ್ರ ಹಂಚಿಕೊಳ್ಳಿ</item>
+        <item>ರದ್ದು</item>
+    </string-array>
+</resources>

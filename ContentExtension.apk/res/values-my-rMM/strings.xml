@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ပြန်ဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">အောင်မြင်စွာ ပြန်ဖွင့်ပြီးပါပြီ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ပြန်ဖွင့်နေသည်…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ပြန်ဖွင့်ရန် လက်လွှတ်ပါ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">လောလောဆယ်ဤမျှသာ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ခေတ္တစောင့်ပါ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">အကြောင်းအရာများ တင်မရပါ</string>
+</resources>

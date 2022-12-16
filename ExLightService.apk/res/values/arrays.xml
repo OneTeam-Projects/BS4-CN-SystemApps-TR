@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notify_exlight_ignore_pkg">
+        <item>com.android.providers.downloads</item>
+        <item>android</item>
+        <item>com.android.dialer</item>
+        <item>com.netease.cloudmusic</item>
+        <item>com.tencent.qqmusic</item>
+        <item>com.miui.player</item>
+        <item>cn.kuwo.player</item>
+        <item>cmccwm.mobilemusic</item>
+        <item>fm.xiami.main</item>
+        <item>com.qiyi.video</item>
+        <item>com.blackshark.deskclock</item>
+        <item>com.sina.weibo</item>
+        <item>tv.danmaku.bili</item>
+        <item>com.ss.android.article.news</item>
+    </string-array>
+</resources>

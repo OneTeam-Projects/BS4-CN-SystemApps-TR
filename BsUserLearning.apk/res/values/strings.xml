@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="app_name">Feature Learning</string>
+    <string name="back_home">Exit</string>
+    <string name="charge_subhead">Shark Chan will be energized when a charger is plugged in</string>
+    <string name="charge_title">Charging effect</string>
+    <string name="clock_subhead">Shark Chan will make a morning call when alarm rings</string>
+    <string name="clock_title">Morning Call</string>
+    <string name="complete">Complete</string>
+    <string name="dts_desc">Symmetrical double superlinear loudspeaker is adopted. In the game, it helps the user to listen to the sound and identify the position to create a real battlefield experience.</string>
+    <string name="dts_direction_back">Rear channel</string>
+    <string name="dts_direction_front">Front channel</string>
+    <string name="dts_direction_left">Left channel</string>
+    <string name="dts_direction_left_back">Left rear channel</string>
+    <string name="dts_direction_left_front">Front left channel</string>
+    <string name="dts_direction_right">Right channel</string>
+    <string name="dts_direction_right_back">Right rear channel</string>
+    <string name="dts_direction_right_front">Front right channel</string>
+    <string name="dts_play">Audition</string>
+    <string name="dts_stop">Pause</string>
+    <string name="dts_title">DTS Sound Effects</string>
+    <string name="dts_toast_tips">It is currently muted, turn up the volume and listen to the stereo effect.</string>
+    <string name="dual_disk_summary">A disk array is composed of two independent disks, and the two disks are read and written at the same time, which greatly improves the startup and loading speed of games and applications.</string>
+    <string name="dual_disk_title">Dual Disk Array</string>
+    <string name="finish_desc">For more information about the new features and functions of the phone, please check the player manual.</string>
+    <string name="finish_title">Congratulations, complete the experience</string>
+    <string name="finish_type_1">&lt;span>&lt;text size=\"20\">Magic Press&lt;/text>&lt;/span></string>
+    <string name="finish_type_2">&lt;span>&lt;text size=\"20\">Extremely Speedy Touch Experience&lt;/text>&lt;/span></string>
+    <string name="finish_type_3">&lt;span>&lt;text size=\"20\">Master Button&lt;/text>&lt;/span></string>
+    <string name="finish_type_4">&lt;span>&lt;text size=\"20\">Dual Superlinear Speakers&lt;/text>&lt;/span></string>
+    <string name="finish_type_5">&lt;span>&lt;text size=\"20\">Dual Disk Array&lt;/text>&lt;/span></string>
+    <string name="finish_type_5_2">&lt;span>&lt;text size=\"20\">Speedy Mode&lt;/text>&lt;/span></string>
+    <string name="look_aside">Learn Again</string>
+    <string name="magic_touch_page_prompt">Please press down on the screen in the blue and yellow areas to feel the pressure</string>
+    <string name="magic_touch_page_summary">"Press down on the screen in the left and right halves to feel the changes in intensity
+In the game, high-level operations such as rapid shooting and changing bombs
+can be achieved through pressure sensitivity"</string>
+    <string name="magic_touch_page_title">Magic Press</string>
+    <string name="magnetic_fifth_page_summary">Move the sliders on both sides of the top of the phone outward</string>
+    <string name="magnetic_fifth_page_title">Retract Master Button</string>
+    <string name="magnetic_first_page_summary">"It adopts multi-pole magnetic lift to enjoy the real touch of the handheld.
+The function of mapping fire and mirror opening in the game
+can greatly enhance the game experience."</string>
+    <string name="magnetic_first_page_title">Master Button</string>
+    <string name="magnetic_second_page_subtitle">Pop Up Master Button</string>
+    <string name="magnetic_second_page_title">Toggle Switches</string>
+    <string name="magnetic_second_page_two_summary">According to the animation, move the sliders on both sides of the top of the phone inward</string>
+    <string name="magnetic_third_page_subtitle">Enter Shark Space</string>
+    <string name="magnetic_third_page_summary">Press the left and right master button simultaneously for about 0.5 seconds</string>
+    <string name="magnetic_third_page_title">Press Two Master Button</string>
+    <string name="opt_continue">Continue</string>
+    <string name="opt_previous">Back</string>
+    <string name="opt_skip">Skip</string>
+    <string name="page_index">&lt;span>&lt;text size=\"28.4\">%1$d&lt;/text> /&lt;text size=\"14\">%2$d&lt;/text>&lt;/span></string>
+    <string name="search_menu_title">Search</string>
+    <string name="sharkchan_first_page_title">Shark Chan</string>
+    <string name="sharkchan_message">Wallpapers and kanban girl, In game real time broadcasting</string>
+    <string name="sharkchan_subhead">Kanban girl</string>
+    <string name="sharkchan_subtitle">Show Shark Chan on the launcher</string>
+    <string name="sharkchan_title">Coming soon</string>
+    <string name="sharkman_hint_message">Commander, there is no cooling time for my accompany ~</string>
+    <string name="speedmode_con_read">Sequence Read</string>
+    <string name="speedmode_con_write">Sequence Write</string>
+    <string name="speedmode_indi_common">Common Mode</string>
+    <string name="speedmode_indi_speed">Speedy Mode</string>
+    <string name="speedmode_ran_read">Random Read</string>
+    <string name="speedmode_ran_write">Random Write</string>
+    <string name="speedy_mode_summary">The game or application can be started and loaded directly in the memory, minus the read and write processing of the disk, which greatly improves the processing speed of the game or application.</string>
+    <string name="speedy_mode_title">Extremely Speedy mode</string>
+    <string name="start_foot">&lt;span>&lt;text size=\"14\" color=\"#FFFFFFFF\">See Later&lt;/text>&lt;br>&lt;text size=\"12\" color=\"#80FFFFFF\">(Player Manual)&lt;/text>&lt;/span></string>
+    <string name="start_learning">Start Experience</string>
+    <string name="start_title_1">&lt;span>&lt;text size=\"20\">Shark Chan Experience&lt;/text>&lt;/span></string>
+    <string name="start_title_2">&lt;span>&lt;text size=\"30\">New Features&lt;/text>&lt;/span></string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="touch_sampling">Extremely Speedy Touch Experience</string>
+    <string name="touch_sampling_bs">High touch sampling rate</string>
+    <string name="touch_sampling_demonstrate">Demonstration</string>
+    <string name="touch_sampling_des">&lt;span>&lt;text size=\"14\">High sampling rate touch IC brings more precise touch click feedback, lower touch response delay, and better dexterity&lt;/text>&lt;/span></string>
+    <string name="touch_sampling_normal">Low touch sampling rate</string>
+</resources>

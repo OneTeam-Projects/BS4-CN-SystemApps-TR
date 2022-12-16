@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>سرمایش</item>
+        <item>گرمایش</item>
+        <item>رطوبت گیری</item>
+        <item>پنکه</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>آقا</item>
+        <item>خانم</item>
+    </string-array>
+    <string-array name="answer">
+        <item>دستگاه شما تنها می‌تواند با تلویزیون Mi، جعبه Mi و تعداد انگشت‌شماری از دستگاه‌های اندروید که از Wi-Fi استفاده می‌کنند جفت شود.</item>
+        <item>مطمئن شوید هنگام جفت کردن دستگاه‌ها مدل کولر را درست انتخاب کرده‌اید. مراحل گفته شده در راهنمای دستگاه را طی کنید تا جفت کردن دستگاه‌ها کامل شود.</item>
+        <item>خیر. درحال حاضر شما می‌توانید از Mi 4، Mi 4c و Redmi Note 2 به عنوان کنترل از راه دور استفاده کنید.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>یکشنبه</item>
+        <item>دوشنبه</item>
+        <item>سه‌شنبه</item>
+        <item>چهارشنبه</item>
+        <item>پنجشنبه</item>
+        <item>جمعه</item>
+        <item>شنبه</item>
+    </string-array>
+    <string-array name="question">
+        <item>چرا گوشی من مدام به دنبال دستگاه‌های بی‌سیم می‌گردد؟</item>
+        <item>چرا تنها می‌توانم کولر را روشن کنم و نمی‌توانم آن را خاموش کنم؟</item>
+        <item>آیا می‌توانم از Mi 3، Mi 2، و Redmi به عنوان کنترل از راه دور استفاده کنم؟</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>کولر هایر اتاق نشیمن را روشن کن</item>
+        <item>دما را روی ۲۵ درجه تنظیم کن</item>
+        <item>جهت باد را به بالا تنظیم کن</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>کولر گری را روشن کن</item>
+        <item>به حالت چرخش تعویض کن</item>
+        <item>سرعت باد زدن کولر را بیشتر کن</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>گیرنده تلویزیون را روشن کن</item>
+        <item>من می‌خواهم تلویزیون هونان را تماشا کنم</item>
+        <item>برگرد به کانال ۱۵</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>کولر را روشن کن</item>
+        <item>من می‌خواهم تلویزیون شنجن را تماشا کنم</item>
+        <item>برگرد به کانال ۱۲</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>تلویزیون اتاق خواب را روشن کن</item>
+        <item>تلویزیون را خاموش کن</item>
+        <item>صدای تلویزیون را زیاد کن</item>
+    </string-array>
+</resources>

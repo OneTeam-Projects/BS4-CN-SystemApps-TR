@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Raffreddamento</item>
+        <item>Riscaldamento</item>
+        <item>Deumidificatore</item>
+        <item>Ventilatore</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Maschio</item>
+        <item>Femmina</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Il tuo dispositivo può essere associato solo con Mi TV, Mi Box, e altri dispositivi Android usando il Wi-Fi.</item>
+        <item>"Assicurati di aver selezionato il modello corretto di Condizionatore. Segui le istruzioni sul tuo dispositivo fino a quando l'abbinamento non sarà completato."</item>
+        <item>No. Attualmente è possibile usare Mi 4, Mi 4c e Redmi Note 2 come telecomando infrarossi.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="question">
+        <item>Perché il mio telefono continua a cercare dispositivi wireless?</item>
+        <item>Perchè riesco ad accendere il condizionatore ma non riesco a spegnerlo?</item>
+        <item>Posso usare Mi 3, Mi 2 e Redmi come telecomando infrarossi?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>"Accendi l'AC Haier nel soggiorno"</item>
+        <item>Imposta la temperatura a 25 gradi</item>
+        <item>"Imposta la direzione del vento su \"Verso l'alto\""</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Accendi Gree AC</item>
+        <item>Passa alla modalità oscillazione</item>
+        <item>"Aumenta l'intensità dell'AC"</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Accendi il set-top box</item>
+        <item>Voglio guardare Hunan TV</item>
+        <item>Torna al canale 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Accendi AC</item>
+        <item>Voglio guardare Shenzhen TV</item>
+        <item>Torna al canale 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Accendi la TV nella camera da letto</item>
+        <item>Spegni la TV</item>
+        <item>Alza il volume della TV</item>
+    </string-array>
+</resources>

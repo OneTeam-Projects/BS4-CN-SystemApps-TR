@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="haptic_effect_id">
+        <item>85</item>
+        <item>86</item>
+        <item>50</item>
+        <item>51</item>
+        <item>54</item>
+        <item>55</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2006</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+    <string-array name="haptic_effect_name">
+        <item>短振</item>
+        <item>强振</item>
+        <item>连续</item>
+        <item>急促</item>
+        <item>两个长振</item>
+        <item>清脆</item>
+        <item>渐弱</item>
+        <item>清爽</item>
+        <item>呱呱</item>
+        <item>鼓点</item>
+        <item>普通击杀</item>
+        <item>双杀</item>
+        <item>三杀</item>
+        <item>四杀</item>
+        <item>五杀</item>
+        <item>击杀暴君</item>
+        <item>击杀主宰</item>
+        <item>对局成功</item>
+        <item>对局失败</item>
+    </string-array>
+    <string-array name="new_haptic_effect_id">
+        <item>85</item>
+        <item>86</item>
+        <item>50</item>
+        <item>51</item>
+        <item>54</item>
+        <item>55</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>2101</item>
+        <item>2103</item>
+        <item>2104</item>
+        <item>2105</item>
+        <item>2106</item>
+        <item>2116</item>
+        <item>2117</item>
+        <item>2118</item>
+        <item>2119</item>
+        <item>1080</item>
+        <item>1081</item>
+        <item>1082</item>
+        <item>1083</item>
+    </string-array>
+    <string-array name="new_haptic_effect_name">
+        <item>短振</item>
+        <item>强振</item>
+        <item>连续</item>
+        <item>急促</item>
+        <item>两个长振</item>
+        <item>清脆</item>
+        <item>渐弱</item>
+        <item>清爽</item>
+        <item>呱呱</item>
+        <item>鼓点</item>
+        <item>普通击杀（定制款）</item>
+        <item>双杀（定制款）</item>
+        <item>三杀（定制款）</item>
+        <item>四杀（定制款）</item>
+        <item>五杀（定制款）</item>
+        <item>击杀暴君</item>
+        <item>击杀主宰</item>
+        <item>对局成功</item>
+        <item>对局失败</item>
+        <item>单次心跳</item>
+        <item>两次心跳-慢</item>
+        <item>两次心跳-中</item>
+        <item>两次心跳-快</item>
+    </string-array>
+    <string-array name="power_state_name">
+        <item>连接</item>
+        <item>断开</item>
+    </string-array>
+    <string-array name="power_state_value">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+</resources>

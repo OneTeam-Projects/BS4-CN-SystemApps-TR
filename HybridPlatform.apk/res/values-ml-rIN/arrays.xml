@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>ഇമേജ് സംരക്ഷിക്കുക</item>
+        <item>ഇമേജ് പങ്കിടുക</item>
+        <item>റദ്ദാക്കുക</item>
+    </string-array>
+</resources>

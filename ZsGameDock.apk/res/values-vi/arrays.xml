@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>Siêu Rào Chắn</item>
+        <item>Nhạc Trò Chơi</item>
+        <item>Siêu Giọng Nói</item>
+        <item>Siêu Bước Chân</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Tăng cường hiệu ứng rào chắn cho trường âm thanh, dễ dàng xác định vị trí kẻ thù, thích hợp cho các trò chơi FPS</item>
+        <item>Hiệu ứng âm nhạc trò chơi, thích hợp cho MOBA, trò chơi âm nhạc</item>
+        <item>Giọng nói rõ ràng và chân thực hơn, phù hợp với RPG, trò chơi cờ bàn</item>
+        <item>Cải thiện hiệu suất tần số thấp và giúp dễ nhận ra tiếng bước chân hơn trong trò chơi thể loại bắn súng sinh tồn</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Ưu tiên Silver core, giới hạn nhiệt độ, tiêu thụ điện năng tối thiểu</item>
+        <item>Ưu tiên Silver core, thích hợp cho các game đơn giản</item>
+        <item>Ưu tiên Gold core, giới hạn nhiệt độ, phù hợp với các game 3D thông thường</item>
+        <item>Ưu tiên Gold core, phù hợp cho các game 3D chất lượng cao</item>
+        <item>Chỉ Gold core, hiệu suất tối đa bởi tiêu thụ điện năng tối đa</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Tắt</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Tắt</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Tắt</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Nhạc nền</item>
+        <item>Loli</item>
+        <item>Quý Cô Độc Đoán</item>
+        <item>Chú</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Tốc Độ Đầu Tiên</item>
+        <item>Cân Đối</item>
+        <item>Chất Lượng Hình Ảnh Đầu Tiên</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>CÂN ĐỐI</item>
+        <item>LÕI NĂNG LƯỢNG MẶT TRỜI</item>
+        <item>SIÊU NHANH</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Cân bằng giữa hiệu suất và mức tiêu thụ điện năng, và cung cấp giải pháp hiệu suất cân bằng cho các trò chơi nói chung</item>
+        <item>Tăng cường hiệu suất của điện thoại, phù hợp với các trò chơi yêu cầu chất lượng hình ảnh cao</item>
+        <item>Hiệu suất cao nhất cho các trò chơi, nên sử dụng bộ tản nhiệt kèm theo</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Chế độ cân bằng: Cân bằng giữa hiệu suất và mức tiêu thụ năng lượng và cung cấp giải pháp hiệu suất cân bằng cho các trò chơi thông thường</item>
+        <item>Chế độ công cụ trò chơi: Tăng cường hiệu suất điện thoại, phù hợp với các trò chơi có yêu cầu cao về chất lượng hình ảnh</item>
+        <item>Chế độ Ludicular: Mang điện thoại đến hiệu năng cực cao, điều này có thể khiến điện thoại nóng lên rõ rệt</item>
+        <item>Chế độ cực mạnh: Cấm tất cả các chức năng nền để giữ cho điện thoại duy trì hiệu suất cao nhất, điều này có thể khiến điện thoại nóng lên đáng kể</item>
+    </string-array>
+</resources>

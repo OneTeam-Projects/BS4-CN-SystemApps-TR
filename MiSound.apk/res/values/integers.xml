@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="config_tooltipAnimTime">150</integer>
+    <integer name="curve_view_level_factor">2</integer>
+    <integer name="curve_view_rank_max">10</integer>
+    <integer name="curve_view_rank_min">-10</integer>
+    <integer name="dirac_equalizer_rank_max">10</integer>
+    <integer name="dirac_equalizer_rank_min">-10</integer>
+    <integer name="dirac_euqliazer_level_factor">2</integer>
+    <integer name="miui_volume_dialog_gravity_collapsed">0x00000005</integer>
+    <integer name="miui_volume_dialog_gravity_collapsed_land">0x00000003</integer>
+    <integer name="miui_volume_dialog_gravity_expanded">0x00000001</integer>
+    <integer name="miui_volume_expand_animation_duration">300</integer>
+    <integer name="miui_volume_layout_orientation_expanded">1</integer>
+    <integer name="miui_volume_ringer_layout_orientation">0</integer>
+    <integer name="miui_volume_timer_icon_rotation">0</integer>
+    <integer name="miui_volume_transition_duration_short">150</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="view_alpha_over_ten">3</integer>
+</resources>

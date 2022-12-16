@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_game_uninstall_not_allow_removed">Igra nije instalirana, ne može se ukloniti</string>
+    <string name="cloud_folder_edit_mode">Ova fascikla ne podržava način uređivanja</string>
+    <string name="cloud_folder_title_jui">Igre</string>
+    <string name="cloud_folder_title_tencent">Otkrij dobre igre</string>
+    <string name="default_folder_title_recommend_tencent">Više aplikacija</string>
+    <string name="disable_sw_in_handy_mode">Magic window: Tek el modunda desteklenmez</string>
+    <string name="drag_into_cloud_folder">Nije moguće povući u ovu fasciklu</string>
+    <string name="recommend_more">Više</string>
+    <string name="rename_cloud_folder">Ova fascikla se ne može preimenovati</string>
+    <string name="small_window_count_reach_the_limit">En çok %d kadar kayan pencere desteklenmektedir. Kayan pencereleri kapatın ve tekrar deneyin.</string>
+</resources>

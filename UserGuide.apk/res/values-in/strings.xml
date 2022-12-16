@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi ke beranda</string>
+    <string name="abc_action_bar_up_description">Navigasi naik</string>
+    <string name="abc_action_menu_overflow_description">Opsi lain</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+    <string name="abc_capital_off">NONAKTIF</string>
+    <string name="abc_capital_on">AKTIF</string>
+    <string name="abc_search_hint">Telusuri...</string>
+    <string name="abc_searchview_description_clear">Hapus kueri</string>
+    <string name="abc_searchview_description_query">Kueri penelusuran</string>
+    <string name="abc_searchview_description_search">Telusuri</string>
+    <string name="abc_searchview_description_submit">Kirim kueri</string>
+    <string name="abc_searchview_description_voice">Penelusuran suara</string>
+    <string name="abc_shareactionprovider_share_with">Bagikan dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Bagikan ke %s</string>
+    <string name="abc_toolbar_collapse_description">Ciutkan</string>
+    <string name="app_name">Panduan Pemain</string>
+    <string name="blackshark_game_phone">Ponsel game Black Shark:</string>
+    <string name="copied">Disalin ke Papan Klip</string>
+    <string name="copy_fail">Gagal menyalin</string>
+    <string name="coy_link">Salin tautan</string>
+    <string name="gamer_guide">Panduan Pemain</string>
+    <string name="network_weak">Jaringan sangat lemah</string>
+    <string name="network_weak_desc">Segarkan untuk Memuat Ulang Halaman</string>
+    <string name="no_network">Jaringan tidak tersambung</string>
+    <string name="no_network_desc">Periksa pengaturan jaringan, dan klik untuk mencoba lagi</string>
+    <string name="permission_internet">Untuk menggunakan layanan dasar, apakah Anda mengizinkan panduan pemain tersambung ke jaringan?</string>
+    <string name="permission_no">Batal</string>
+    <string name="permission_yes">Izinkan</string>
+    <string name="search_menu_title">Telusuri</string>
+    <string name="share_desc">Anda akan menemukan aneka fitur mengagumkan ponsel game Black Shark di sini. Baca panduan pemain!</string>
+    <string name="share_type">Dibagikan ke</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="to_refresh">Segarkan</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="web_load_error">Kesalahan memuat halaman web</string>
+</resources>

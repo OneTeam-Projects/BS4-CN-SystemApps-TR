@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>現在のネットワークの状態は素晴らしいです</item>
+        <item>モバイルデータネットワークが十分ではありません。WLANに切り替えることをお勧めします</item>
+        <item>WLANネットワークが十分ではありません。モバイルデータに切り替えることをお勧めします</item>
+        <item>現在の信号は不安定です。移動するか、または携帯電話の持ち方を調整してください。</item>
+        <item>現在のネットワークの状態は正常です</item>
+        <item>なし</item>
+    </string-array>
+</resources>

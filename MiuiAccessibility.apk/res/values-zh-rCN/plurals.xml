@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="guide_title">
+        <item quantity="other">欢迎您使用语音控制，开启本功能后，您可以通过语音控制手机。首次开启需要按照引导完成教学。%1$d秒后将自动进入教学。</item>
+    </plurals>
+    <plurals name="title_select_nums">
+        <item quantity="other">已选择%1$s项</item>
+    </plurals>
+</resources>

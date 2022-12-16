@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">Zgadzam się</string>
+    <string name="begin_use">Rozpocznij używanie</string>
+    <string name="checKed_no_SIM_tips">Brak dostępności sieci danych w telefonie w bieżącym stanie</string>
+    <string name="checked_SIM">Sprawdź kartę SIM</string>
+    <string name="checked_Two_SIM">Ustawienia kart Dual SIM</string>
+    <string name="checked_no_SIM">Nie wykryto karty SIM</string>
+    <string name="checked_one_sim">Wykryto kartę SIM</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">Wybór języka</string>
+    <string name="choose_lock_add_fingerprint">Dodaj odcisk palca</string>
+    <string name="choose_lock_add_fingerprint_tips">Istnieje możliwość użycia odcisku palca do odblokowania ekranu oraz do bezpiecznego i szybkiego logowania</string>
+    <string name="choose_lock_title">Odblokuj za pomocą odcisku palca</string>
+    <string name="cloud_le_account">Zaloguj się za pomocą konta Letv</string>
+    <string name="cloud_login">Zaloguj się</string>
+    <string name="cloud_register">Zarejestruj się przy użyciu numeru telefonu</string>
+    <string name="cloud_tips">Zaloguj się za pomocą konta Coolpad, aby zsynchronizować dane osobiste, takie jak kontakty, i wyszukiwać pozycje w telefonie</string>
+    <string name="cloud_titile">Konto Coolpad</string>
+    <string name="connect_WALN">Połącz z siecią WLAN</string>
+    <string name="count_down">Odliczanie</string>
+    <string name="experience_location_service">Usługi lokalizacji</string>
+    <string name="experience_location_service_explain">Zezwol aplikacji na dostęp do lokalizacji</string>
+    <string name="experience_plan">Plan poprawy wrażeń użytkownika</string>
+    <string name="experience_plan_explain">Pomóż udoskonalić i zoptymalizować korzystanie z systemu</string>
+    <string name="experience_setting">Wrażenia i warunki</string>
+    <string name="language_shutdown_tip">"Nie wykryto aktywności przez długi czas
+urządzenie zostanie wyłączone automatycznie
+po zakończeniu odliczania"</string>
+    <string name="language_shutdown_title">Automatyczne wyłączenie</string>
+    <string name="language_touch_turn_off">Dotknij, aby anulować odliczanie</string>
+    <string name="last_step">Wstecz</string>
+    <string name="mobile_move">Transfer danych komórkowych</string>
+    <string name="network_flow">Ruch w sieci</string>
+    <string name="network_flow_tips">Dostęp do Internetu za pomocą sieci komórkowej w przypadku braku połączenia z siecią Wi-Fi</string>
+    <string name="next_step">Dalej</string>
+    <string name="setup_success">Konfiguracja zakończona pomyślnie</string>
+    <string name="setupwizard_wifi_cancle_save">Zapisz anulowane</string>
+    <string name="setupwizard_wifi_connect">Połącz z siecią WLAN</string>
+    <string name="setupwizard_wifi_connected">Połączone</string>
+    <string name="setupwizard_wifi_connecting">Łączenie...</string>
+    <string name="setupwizard_wifi_dialog_cancel">Anuluj</string>
+    <string name="setupwizard_wifi_dialog_comfirm">OK</string>
+    <string name="setupwizard_wifi_dialog_connect">Połącz</string>
+    <string name="setupwizard_wifi_dialog_disconect">Rozłącz</string>
+    <string name="setupwizard_wifi_dialog_hint_text">Hasło</string>
+    <string name="setupwizard_wifi_no_tips">Brak połączeń Wi-Fi w zasięgu</string>
+    <string name="setupwizard_wifi_saved">Zapisane</string>
+    <string name="setupwizard_wifi_searching">Wyszukiwanie...</string>
+    <string name="sim_identifying">Identyfikacja...</string>
+    <string name="skip">Pomiń</string>
+    <string name="usage_agreement">Umowa użytkownika</string>
+    <string name="usage_policy">Polityka prywatności</string>
+</resources>

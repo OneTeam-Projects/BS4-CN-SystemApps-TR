@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">取消</string>
+    <string name="close">关闭</string>
+    <string name="customize_minute">添加自定义</string>
+    <string name="day">天</string>
+    <string name="five_minute">5分钟</string>
+    <string name="forty_minute">40分钟</string>
+    <string name="hour">小时</string>
+    <string name="later">后</string>
+    <string name="minute">分钟</string>
+    <string name="one_minute">1分钟</string>
+    <string name="open">开启</string>
+    <string name="open_tips">开启</string>
+    <string name="opening_bluetooth">正在打开蓝牙...</string>
+    <string name="plug_count_down_timer">倒计时</string>
+    <string name="plug_timer_after_tommorrow">后天</string>
+    <string name="plug_timer_month_day">%1$s月%2$s日</string>
+    <string name="plug_timer_yesterday">昨天</string>
+    <string name="refreshing_no_point">载入中</string>
+    <string name="sixty_minute">60分钟</string>
+    <string name="start">启动</string>
+    <string name="stop">停止</string>
+    <string name="ten_minute">10分钟</string>
+    <string name="three_minute">3分钟</string>
+    <string name="time_line_end">24:00</string>
+    <string name="time_line_start">00:00</string>
+    <string name="twenty_minute">20分钟</string>
+</resources>

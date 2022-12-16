@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Refrixeración</item>
+        <item>Calefacción</item>
+        <item>Deshumidificación</item>
+        <item>Ventilador</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string-array name="answer">
+        <item>O teu dispositivo só se pode emparellar con Mi TV, Mi Box e un puñado de outros dispositivos Android que usan Wi-Fi.</item>
+        <item>Asegúrate de que seleccionaches o modelo de aire acondicionado correcto no proceso de emparellamento. Sigue as indicacións no teu dispositivo ata que o emparellamento estea completado.</item>
+        <item>Non, actualmente podes usar Mi 4, Mi 4c e Redmi Note 2 como controis remotos de infravermellos.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mér</item>
+        <item>Xov</item>
+        <item>Ven</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="question">
+        <item>Por que o meu teléfono segue a buscar dispositivos inalámbricos?</item>
+        <item>Por que só podo acender o aire acondicionado e non podo apagalo?</item>
+        <item>Podo usar Mi 3, Mi 2 e Redmi como controis remotos de infravermellos?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Acende o aire acondicionado Haier na sala</item>
+        <item>Establece a temperatura a 25 graos</item>
+        <item>Establece a direción do aire como \"Arriba\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Acende o aire acondicionado Gree</item>
+        <item>Cambia ao modo de balanceo</item>
+        <item>Aumenta a intensidade do aire</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Acende o decodificador</item>
+        <item>Quero ver Hunan TV</item>
+        <item>Volve á canle 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Acender o aire acondicionado</item>
+        <item>Quero ver Shenzhen TV</item>
+        <item>Volve á canle 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Acende a TV no dormitorio</item>
+        <item>Apaga a TV</item>
+        <item>Sube o voluma da TV</item>
+    </string-array>
+</resources>

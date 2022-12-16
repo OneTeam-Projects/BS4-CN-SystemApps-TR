@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">您目前的網路加速服務將於%d天后到期，建議提前續訂，以免影響遊戲體驗</item>
+    </plurals>
+</resources>

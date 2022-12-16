@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Batal</string>
+    <string name="close">Nonaktifkan</string>
+    <string name="customize_minute">Kustomisasi</string>
+    <string name="day">Hari</string>
+    <string name="five_minute">5 menit</string>
+    <string name="forty_minute">40 menit</string>
+    <string name="hour">Jam</string>
+    <string name="later">Nanti</string>
+    <string name="minute">Menit</string>
+    <string name="one_minute">1 menit</string>
+    <string name="open">Aktifkan</string>
+    <string name="open_tips">Aktifkan</string>
+    <string name="opening_bluetooth">Mengaktifkan Bluetooth…</string>
+    <string name="plug_count_down_timer">Hitung mundur</string>
+    <string name="plug_timer_after_tommorrow">Lusa</string>
+    <string name="plug_timer_month_day">%1$s%2$s</string>
+    <string name="plug_timer_yesterday">Kemarin</string>
+    <string name="refreshing_no_point">Tunggu sebentar…</string>
+    <string name="sixty_minute">60 menit</string>
+    <string name="start">Mulai</string>
+    <string name="stop">Berhenti</string>
+    <string name="ten_minute">10 menit</string>
+    <string name="three_minute">3 menit</string>
+    <string name="time_line_end">24:00</string>
+    <string name="time_line_start">00:00</string>
+    <string name="twenty_minute">20 menit</string>
+</resources>

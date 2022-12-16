@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>สถานะเครือข่ายในปัจจุบันยอดเยี่ยม</item>
+        <item>เครือข่ายข้อมูลมือถือแย่ แนะนำให้สลับเป็น WLAN</item>
+        <item>เครือข่าย WLAN แย่ แนะนำให้เปลี่ยนเป็นข้อมูลมือถือ</item>
+        <item>สัญญาณปัจจุบันไม่เสถียร โปรดลองเปลี่ยนหรือปรับตำแหน่งการถือโทรศัพท์มือถือ</item>
+        <item>สถานะเครือข่ายในปัจจุบันเป็นปกติ</item>
+        <item>ไม่มี</item>
+    </string-array>
+</resources>

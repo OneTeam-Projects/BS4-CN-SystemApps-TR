@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d項允許</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">%d項詢問</item>
+    </plurals>
+    <plurals name="app_settings_disabled_header_title">
+        <item quantity="other">禁止%d個快應用推送通知</item>
+    </plurals>
+    <plurals name="app_settings_enabled_header_title">
+        <item quantity="other">允許%d個快應用推送通知</item>
+    </plurals>
+    <plurals name="features_picker_activity_item_folder_detail">
+        <item quantity="other">%d項</item>
+    </plurals>
+    <plurals name="features_picker_activity_label_multi">
+        <item quantity="other">已選取%d項</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d項權限</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">已選擇%d個</item>
+    </plurals>
+</resources>

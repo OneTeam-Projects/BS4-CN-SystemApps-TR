@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>Суретті сақтау</item>
+        <item>Сурет бөлісу</item>
+        <item>Болдырмау</item>
+    </string-array>
+</resources>

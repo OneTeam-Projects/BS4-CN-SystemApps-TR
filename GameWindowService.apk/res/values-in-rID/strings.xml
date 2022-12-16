@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alipay">Alipay</string>
+    <string name="alipay_car_code">Kode QR Bus</string>
+    <string name="alipay_code">Kode QR</string>
+    <string name="alipay_scan">Pindai</string>
+    <string name="app_list">Aplikasi seluler</string>
+    <string name="app_list_keep_at_least_one">Pertahankan minimal satu aplikasi.</string>
+    <string name="app_not_install">Silakan instal aplikasi.</string>
+    <string name="cannot_minimize_in_sw">Dalam mode GamePad virtual, tidak dapat beralih ke jendela melayang.</string>
+    <string name="dualapp_dialog_duplicate">%s avatar</string>
+    <string name="dualapp_dialog_title">Pilih metode buka</string>
+    <string name="finish">Selesai</string>
+    <string name="freeform_ball_tip_confirm">OK</string>
+    <string name="freeform_ball_tips">"Ketuk dan tahan bola melayang untuk menampilkan 
+tombol tutup."</string>
+    <string name="freeform_ball_tips2">"Membuka beberapa jendela melayang dapat menyebabkan 
+sistem macet dan panas."</string>
+    <string name="freeform_window_more_than_five">Mendukung maksimal %d jendela melayang. Tutup jendela melayang lalu coba lagi.</string>
+    <string name="long_press_enter_edit">Tekan tahan ikon untuk membuka mode edit</string>
+    <string name="minimize_window">Bentuk bebas</string>
+    <string name="more">Lainnya</string>
+    <string name="no_place_remain">Tidak ada lagi tempat untuk menambahkan</string>
+    <string name="packup">Sembunyikan</string>
+    <string name="shortcut_fuc">Fitur pintasan</string>
+    <string name="sw_not_support_handymode">Mode Jendela Melayang Serbaguna Satu tangan tidak didukung.</string>
+    <string name="tencent_mm">WeChat</string>
+    <string name="tencent_mm_code">Kode QR</string>
+    <string name="tencent_mm_moments">Momen</string>
+    <string name="tencent_mm_scan">Pindai</string>
+</resources>

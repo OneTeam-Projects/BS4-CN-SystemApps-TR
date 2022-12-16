@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>ಕೂಲಿಂಗ್</item>
+        <item>ಹೀಟಿಂಗ್</item>
+        <item>ಡಿಹ್ಯುಮಿಡಿಫೈಯಿಂಗ್‌‌</item>
+        <item>ಫ್ಯಾನ್</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>ಪುರುಷ</item>
+        <item>ಮಹಿಳೆ</item>
+    </string-array>
+    <string-array name="answer">
+        <item>ನಿಮ್ಮ ಸಾಧನ ಕೇವಲ Mi ಟಿವಿ, Mi ಬಾಕ್ಸ್‌‌ ಜೊತೆ ಮಾತ್ರ ಜೋಡಿ ಆಗಬಹುದು. ಹಾಗೂ, ವೈ-ಫೈ ಬಳಸುವ ಕೆಲವೊಂದು Android ಸಾಧನಗಳ ಜೊತೆಗೂ ಜೋಡಿ ಆಗಬಹುದು.</item>
+        <item>ನೀವು ಈ ಜೋಡನೆ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಸರಿಯಾದ ಎ/ಸಿ ಮಾಡೆಲ್‌‌ ಬಳಸುತ್ತಿರುವಿರಿ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಜೋಡಿ ಮಾಡುವಿಕೆ ಸಂಪೂರ್ಣಗೊಳ್ಳುವವರೆಗೆ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಪ್ರಾಂಪ್ಟ್‌‌ಗಳನ್ನು ಅನುಸರಿಸಿ.</item>
+        <item>ಇಲ್ಲ. ನೀವು ಪ್ರಸ್ತುತ Mi 4, Mi 4c ಹಾಗೂ Redmi Note 2 ಗಳನ್ನು IR ರಿಮೋಟ್‌ಗಳಾಗಿ ಬಳಸಬಹುದು.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>ರವಿ</item>
+        <item>ಸೋಮ</item>
+        <item>ಮಂಗಳ</item>
+        <item>ಬುಧ</item>
+        <item>ಗುರು</item>
+        <item>ಶುಕ್ರ</item>
+        <item>ಶನಿ</item>
+    </string-array>
+    <string-array name="question">
+        <item>ನನ್ನ ಫೋನ್‌‌ ಯಾವ ಕಾರಣಕ್ಕೆ ವೈರ್‌ಲೆಸ್‌ ಸಾಧನಗಳಿಗಾಗಿ ಹುಡುಕಾಡುತ್ತಿದೆ?</item>
+        <item>ನಾನು ಎ/ಸಿಯನ್ನು ಮಾಡಬಲ್ಲೆ. ಆದರೆ ಅದನ್ನು ಏಕೆ ಆಫ್‌ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ?</item>
+        <item>IR ರಿಮೋಟ್‌ ಆಗಿ ನಾನು Mi 3, Mi 2 ಹಾಗೂ Redmi ಫೋನ್‌ಗಳನ್ನು ಬಳಸಬಹುದೇ?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>ಲೀವಿಂಗ್‌ ರೂಂನಲ್ಲಿರುವ Haier AC ಆನ್‌ ಮಾಡಿ</item>
+        <item>ತಾಪಮಾನವನ್ನು 25 ಡಿಗ್ರಿಗೆ ಹೊಂದಿಸಿ</item>
+        <item>ಗಾಳಿಯ ದಿಕ್ಕನ್ನು \"ಮೇಲೆ\"ಗೆ ಹೊಂದಿಸಿ</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree ಎಸಿ ಆನ್‌ ಮಾಡಿ</item>
+        <item>ಸ್ವಿಂಗಿಂಗ್‌ ಮೋಡ್‌ಗೆ ಬದಲಾಯಿಸಿ</item>
+        <item>ಎಸಿ ಬ್ಲಾ ಜಾಸ್ತಿ ಮಾಡು</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>ಸೆಟ್‌-ಟಾಪ್‌ ಬಾಕ್ಸ್‌ ಆನ್‌ ಮಾಡಿ</item>
+        <item>ನಾನು Hunan ಟಿವಿ ನೋಡಲು ಬಯಸುತ್ತೇನೆ</item>
+        <item>15ನೇ ಚಾನಲ್‌ಗೆ ಹಿಂದಿರುಗು</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>ಎಸಿ ಆನ್‌ ಮಾಡಿ</item>
+        <item>ನಾನು Shenzhen ಟಿವಿ ನೋಡಲು ಬಯಸುತ್ತೇನೆ</item>
+        <item>12ನೇ ಚಾನಲ್‌‌ಗೆ ಹಿಂದಿರುಗು</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>ಬೆಡ್‌ರೂಂನಲ್ಲಿರುವ ಟಿವಿ ಆನ್‌ ಮಾಡಿ</item>
+        <item>ಟಿವಿ ಆಫ್‌ ಮಾಡಿ</item>
+        <item>ಟಿವಿ ವಾಲ್ಯೂಮ್‌ ಹೆಚ್ಚಿಸಿ</item>
+    </string-array>
+</resources>

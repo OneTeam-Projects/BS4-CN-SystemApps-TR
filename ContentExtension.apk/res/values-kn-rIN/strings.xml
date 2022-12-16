@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ರಿಫ್ರೆಶ್‌ ಮಾಡಲು ಕೆಳಗೆ ಎಳೆಯಿರಿ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">ರಿಫ್ರೆಶ್ ಆಗಿದೆ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ರಿಫ್ರೆಶ್‌ ಆಗುತ್ತಿದೆ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ರಿಫ್ರೆಶ್ ಮಾಡಲು ಸಡಿಲಗೊಳಿಸಿ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">ಸದ್ಯಕ್ಕೆ ಇಷ್ಟೇ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">ಸದ್ಯಕ್ಕೆ ಇಷ್ಟೇ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ಒಂದು ಕ್ಷಣ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ಐಟಂಗಳನ್ನು ಲೋಡ್‌ ಮಾಡಲಾಗಲಿಲ್ಲ</string>
+</resources>

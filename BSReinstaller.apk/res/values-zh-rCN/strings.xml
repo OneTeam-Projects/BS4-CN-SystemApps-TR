@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">转到首页</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 键</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 键</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">空格键</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享对象</string>
+    <string name="abc_shareactionprovider_share_with_application">与%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="app_name">系统可卸载应用找回</string>
+    <string name="application_installation_successful">应用安装成功</string>
+    <string name="bs_install">安装</string>
+    <string name="bs_install_cancel">取消</string>
+    <string name="bs_install_preloaded_app_dialog_message">%1$s为系统预置应用，本次安装无需使用网络流量</string>
+    <string name="bs_install_preloaded_app_dialog_title">安装%1$s</string>
+    <string name="bs_install_preloaded_app_failed_toast">%1$s安装加载失败</string>
+    <string name="bs_install_preloaded_app_start_toast">%1$s安装加载中，请稍后</string>
+    <string name="btn_holding">等待中</string>
+    <string name="btn_install">安装</string>
+    <string name="btn_install_failure">安装失败</string>
+    <string name="btn_installing">安装中</string>
+    <string name="desc_onloading_message">正在加载，请稍后...</string>
+    <string name="no_app_to_install">暂无已经卸载的系统应用可安装</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

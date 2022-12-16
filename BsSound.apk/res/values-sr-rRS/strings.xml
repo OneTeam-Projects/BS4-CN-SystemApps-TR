@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DTSSound</string>
+    <string name="blackshark_headset">Slušalice za igru Black Shark</string>
+    <string name="btn_cancel">Otkaži</string>
+    <string name="btn_default">Zadato</string>
+    <string name="default_effect">Zadati efekt</string>
+    <string name="dts_all_tag">Sve</string>
+    <string name="dts_audio">DTS efekt</string>
+    <string name="dts_default_style">Zadati efekt</string>
+    <string name="dts_headset_equalizer">Ekvilajzer za slušalice</string>
+    <string name="dts_headset_equalizer_common">uobičajeno</string>
+    <string name="dts_headset_equalizer_custom">Prilagođeno</string>
+    <string name="dts_headset_equalizer_fashion">Moda</string>
+    <string name="dts_headset_equalizer_jazz">Džez</string>
+    <string name="dts_headset_equalizer_rock">Rok</string>
+    <string name="dts_headset_message">Radi kada se priključi na žičane slušalice</string>
+    <string name="dts_headset_optimize">Optimizacija zvuka slušalica</string>
+    <string name="dts_headset_optimize_message">Optimizirajte prema modelu slušalica</string>
+    <string name="dts_message">Omogući DTS zvuk za žičane slušalice u podržanom softveru za video i muziku (DTS zvuk je uvijek uključen iz zvučnika)</string>
+    <string name="dts_open_error">DTS se nije uspeo pokrenuti</string>
+    <string name="dts_open_headset_error">Uključivanje zvuka u slušalicama nije uspelo</string>
+    <string name="dts_rec_tag">Preporučeno</string>
+    <string name="dts_search">Pretraga</string>
+    <string name="dts_start">Otvori</string>
+    <string name="eq_set_error">Postavke ekvilajzera nisu uspjele</string>
+    <string name="headset_calibration">Kalibriranje dugmeta za upravljanje žičanim slušalicama</string>
+    <string name="headset_volume_control">Kontrola povećanja / smanjenja jačine zvuka</string>
+    <string name="headset_wire_drives">Postavi funkciju upravljanja linijom</string>
+    <string name="is_no_headset">Umetnite slušalice</string>
+</resources>

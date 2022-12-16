@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Pridėti dažnai naudojamų frazių</string>
+    <string name="delete_frequent_phrases">Ištrinti dažniausiai naudojamas frazes</string>
+    <string name="delete_frequent_phrases_confirm">Ištrinti pasirinktas dažniausiai naudojamas frazes?</string>
+    <string name="edit_frequent_phrases">Redaguoti dažniausiai naudojamas frazes</string>
+    <string name="frequent_phrases_des">Teksto redagavimo metu, įveskite dažnai naudojamas frazes vos keliais palietimais</string>
+    <string name="frequent_phrases_size_exceeded">Galima pridėti iki %1$d dažniausių frazių. Norėdami pridėti naujas, ištrinkite nereikalingas.</string>
+    <string name="menu_add_frequent_phrases">Pridėti</string>
+    <string name="menu_delete">Trinti</string>
+    <string name="menu_edit">Redaguoti</string>
+    <string name="sync_phrase_label">Dažnos frazės</string>
+</resources>

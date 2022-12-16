@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dock_center_wifi_status_array">
+        <item>나쁨</item>
+        <item>약함</item>
+        <item>양호</item>
+        <item>우수</item>
+    </string-array>
+    <string-array name="dts_game_sound">
+        <item>게임 DTS</item>
+        <item>낮은 지연</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperSurround</item>
+        <item>GameMusic</item>
+        <item>SuperVoices</item>
+        <item>SuperFootstep</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>향상된 음장 서라운드 효과, 적의 위치를 쉽게 찾을 수 있음, FPS 게임에 적합</item>
+        <item>게임 음악 효과, MOBA, 뮤직 게임에 적합</item>
+        <item>음성이 더욱 선명하고 실제처럼 들림, RPG, 보드 게임에 적합</item>
+        <item>저주파 성능을 개선하고 치킨 이팅 게임에서 발소리를 보다 쉽게 인식할 수 있습니다.</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>실버 코어 우선, 온도 제한, 최소 전력 소모</item>
+        <item>실버 코어 우선, 단순 게임에 적합</item>
+        <item>골드 코어 우선, 온도 제한, 일반 3D 게임에 적합</item>
+        <item>골드 코어 우선, 고품질 3D 게임에 적합</item>
+        <item>골드 코어만, 최대 성능, 최대 전력 소모</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>비활성화</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>끄기</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>끄기</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>사운드트랙</item>
+        <item>롤리</item>
+        <item>지배자 레이디</item>
+        <item>엉클</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>속도 우선</item>
+        <item>균형</item>
+        <item>이미지 품질 우선</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>균형</item>
+        <item>솔라코어</item>
+        <item>리디큘러스</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>성능과 전원 소모 간의 균형을 맞춥니다. 일반적인 게임에 대해 균형 잡힌 성능 솔루션을 제공합니다.</item>
+        <item>휴대폰 성능을 강화합니다. 이미지 품질에 대해 요구 사항이 높은 게임에 적합합니다.</item>
+        <item>게임을 위한 최상의 성능, 쿨러를 부착하는 것이 권장됩니다.</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>밸런스 모드 : 성능과 전력 소비 사이의 균형을 유지하고 일반 게임을위한 균형 잡힌 성능 솔루션을 제공합니다</item>
+        <item>게임 엔진 모드 : 이미지 품질 요구 사항이 높은 게임에 적합한 전화 성능 강화</item>
+        <item>Ludicrous 모드 : 휴대 전화의 성능을 극대화하여 휴대 전화가 눈에 띄게 가열 될 수 있습니다</item>
+        <item>익스트림 Ludicrous 모드 : 모든 백그라운드 기능을 금지하여 전화기의 성능을 최고 수준으로 유지하면 전화기가 크게 가열 될 수 있습니다.</item>
+    </string-array>
+</resources>

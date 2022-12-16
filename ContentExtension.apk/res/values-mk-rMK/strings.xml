@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Повлечете надолу за освежување</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно освежено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Освежување…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Пуштете за освежување</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ова е сè засега</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Ова е сè засега</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Само момент…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Не можеа да се вчитаат ставки</string>
+</resources>

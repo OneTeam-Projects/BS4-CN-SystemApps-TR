@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Sanyaya</item>
+        <item>Zafafawa</item>
+        <item>Cire zafi</item>
+        <item>Fanka</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Namiji</item>
+        <item>Mace</item>
+    </string-array>
+    <string-array name="answer">
+        <item>"Na'urar na iya haduwa ne kawai da Mi TV, Mi Box, da kuma wasu na'urorin hannu na Android masu amfani da Wi-Fi."</item>
+        <item>"Ka tabbatar ka zabi sunan A/C so sai a lokacin gama shi da wani abun. Bi tsarin a kan na'urar ka har she gamawar ya kammala."</item>
+        <item>"A'a. A yanzu ka na iya amfani ne kawai da Mi 4, Mi 4c, da kuma Redmi Note 2 a matsayin ramut na IR."</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Rana</item>
+        <item>Lit</item>
+        <item>Tal</item>
+        <item>Lar</item>
+        <item>Alh</item>
+        <item>Jum</item>
+        <item>Asa</item>
+    </string-array>
+    <string-array name="question">
+        <item>"Me ya sa waya ta take ta binciken na'urorin sadarwa na mara waya?"</item>
+        <item>Me ya sa zan iya kunna A/C amma ba na iya kashe wa?</item>
+        <item>Shin ina iya amfani da Mi 3, Mi 2, and Redmi a matsayin Ramut na IR?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Kunna AC na Haier a cikin falo</item>
+        <item>Saita karfin sanyi a degree 25</item>
+        <item>"Saita iskan ya fuskanci ''Sama''"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Kunna AC na Gree</item>
+        <item>Canza zuwa yanayin lilo</item>
+        <item>Sa fankan AC ya juya da karfi</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Kunna akwatin satlayit</item>
+        <item>Ina son in kalli tashan Hunan TV</item>
+        <item>Koma zuwa tasha na 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Kunna AC</item>
+        <item>Ina son in kalli tashan Shenzhen TV</item>
+        <item>Koma zuwa tasha na 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Kunna TV a cikin kurya</item>
+        <item>Kashe TV</item>
+        <item>Kara girman kuwa akan TV</item>
+    </string-array>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Hozten</item>
+        <item>Berotzen</item>
+        <item>Idortzen</item>
+        <item>Haizagailua</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Gizonezkoa</item>
+        <item>Emakumezkoa</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Zure gailuak bakarrik parekatu daitezke Mi Telebistarekin, Mi Box-arekin eta beste Android gailu batzuekin Wi-Fi-a erabiltzen.</item>
+        <item>Ziurtatu KA eredu zuzena aukeratu duzula parekatze prozesuan. Zure gailuaren argibideak jarraitu parekatzea burututa izan arte.</item>
+        <item>Ez. Oraingoz Mi 4, Mi 4c eta Redmi Note 2 urruneko IR bat bezala erabil ditzakezu.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Eguzkia</item>
+        <item>Astel</item>
+        <item>Asteart</item>
+        <item>Asteazk</item>
+        <item>Osteg</item>
+        <item>Ostir</item>
+        <item>Larunb</item>
+    </string-array>
+    <string-array name="question">
+        <item>Zergatik nire telefonoak hari gabeko gailuak bilatzen jarraitzen du?</item>
+        <item>Zergatik nire KA bakarrik piztu dezaket eta ez itzali?</item>
+        <item>Mi 3, Mi 2, eta Redmi urruneko IR bat bezala erabili ditzaket?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Haier KA piztu egongelan</item>
+        <item>Tenperatura 25 gradutan ezarri</item>
+        <item>Haizearen ibilbidea \"Gora\" moduan ezarri</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree KA piztu</item>
+        <item>Birakari modura aldatu</item>
+        <item>Korronte alternoak gehiago haizatzea egin ezazu</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Deskodetzailea piztu</item>
+        <item>Hunan telebista ikusi nahi dut</item>
+        <item>15 kanalera itzuli</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>KA piztu</item>
+        <item>Shenzhen telebista ikusi nahi dut</item>
+        <item>12 kanalera itzuli</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Telebista piztu logelan</item>
+        <item>Telebista itzali</item>
+        <item>Telebistaren bolumena igo</item>
+    </string-array>
+</resources>

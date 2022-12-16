@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dnd_entries_list_preference">
+        <item>@string/bslightapp_close_effect</item>
+        <item>@string/bslightapp_reduce_light</item>
+    </string-array>
+    <string-array name="dnd_entryvalues_list_preference">
+        <item>closeExlight</item>
+        <item>reduceColor</item>
+    </string-array>
+    <string-array name="notification_duration">
+        <item>@string/five_minutes</item>
+        <item>@string/fifteen_minutes</item>
+        <item>@string/thirty_minutes</item>
+        <item>@string/one_hour</item>
+    </string-array>
+    <string-array name="notification_gap">
+        <item>@string/five_seconds</item>
+        <item>@string/ten_seconds</item>
+        <item>@string/thirty_seconds</item>
+        <item>@string/one_minute</item>
+    </string-array>
+    <string-array name="off_screen_music_duration">
+        <item>@string/two_minutes</item>
+        <item>@string/five_minutes</item>
+        <item>@string/fifteen_minutes</item>
+    </string-array>
+</resources>

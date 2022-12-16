@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_remove_description_content">日历是MIUI系统应用，提供查询日期及日程管理等功能。移除桌面图标后您可通过桌面插件等方式打开日历。</string>
+    <string name="setting_about_miui_version">应用名称:日历</string>
+</resources>

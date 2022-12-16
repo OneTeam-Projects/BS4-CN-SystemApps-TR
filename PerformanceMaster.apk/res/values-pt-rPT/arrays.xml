@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>De momento, as condições de ligação à rede são ótimas</item>
+        <item>Os dados móveis estão a apresentar um fraco desempenho; recomendamos que se ligue a uma rede sem fios (WLAN) como alternativa</item>
+        <item>A ligação à rede sem fios (WLAN) está bastante fraca; recomendamos que utilize os dados móveis como alternativa</item>
+        <item>De momento, o sinal está bastante instável. Por favor tente colocar-se numa posição mais favorável ou ajuste o posicionamento do seu dispositivo.</item>
+        <item>De momento, o estado de funcionamento da rede é normal</item>
+        <item>Vazio</item>
+    </string-array>
+</resources>

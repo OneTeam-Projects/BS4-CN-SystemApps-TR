@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Ohiko esaldiak gehitu</string>
+    <string name="delete_frequent_phrases">Ohiko esaldiak ezabatu</string>
+    <string name="delete_frequent_phrases_confirm">Aukeratutako ohiko esaldiak ezabatu?</string>
+    <string name="edit_frequent_phrases">Ohiko esaldiak editatu</string>
+    <string name="frequent_phrases_des">Ohiko esaldiak sartu bakarrik ukitze batzuekin testua editatzen ari zaren bitartean</string>
+    <string name="frequent_phrases_size_exceeded">%1$d ohiko esaldi arte gehi ditzakezu. Behar ez dituzunak ezabatu gehiago gehitzeko.</string>
+    <string name="menu_add_frequent_phrases">Gehitu</string>
+    <string name="menu_delete">Ezabatu</string>
+    <string name="menu_edit">Editatu</string>
+    <string name="sync_phrase_label">Ohiko esaldiak</string>
+</resources>

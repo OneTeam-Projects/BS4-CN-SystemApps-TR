@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Chỉ đường về nhà</string>
+    <string name="abc_action_bar_up_description">Di chuyển lên</string>
+    <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Truy vấn tìm kiếm</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="alipay">Alipay</string>
+    <string name="alipay_car_code">Mã QR Xe Buýt</string>
+    <string name="alipay_code">Mã QR</string>
+    <string name="alipay_scan">Quét</string>
+    <string name="app_list">Ứng dụng di động</string>
+    <string name="app_list_keep_at_least_one">Phải giữ chạy ít nhất một ứng dụng.</string>
+    <string name="app_not_install">Vui lòng cài đặt ứng dụng.</string>
+    <string name="cannot_minimize_in_sw">Trong chế độ GamePad ảo, không thể chuyển sang cửa sổ nổi.</string>
+    <string name="dualapp_dialog_duplicate">%s hình đại diện</string>
+    <string name="dualapp_dialog_title">Chọn phương thức mở</string>
+    <string name="finish">Đã hoàn tất</string>
+    <string name="freeform_ball_tip_confirm">OK</string>
+    <string name="freeform_ball_tips">"Nhấn và giữ bóng điều hướng để hiển thị 
+nút đóng."</string>
+    <string name="freeform_ball_tips2">"Mở nhiều cửa sổ nổi có thể 
+khiến hệ thống bị kẹt và nóng."</string>
+    <string name="freeform_window_more_than_five">Hỗ trợ tối đa %d cửa sổ nổi. Đóng cửa sổ nổi và thử lại.</string>
+    <string name="long_press_enter_edit">Nhấn và giữ biểu tượng để vào chế độ chỉnh sửa</string>
+    <string name="minimize_window">Hình thức tự do</string>
+    <string name="more">Thêm</string>
+    <string name="no_place_remain">Không có vị trí để thêm</string>
+    <string name="packup">Ẩn</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="shortcut_fuc">Tính năng phím tắt</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sw_not_support_handymode">Chế độ Một Tay Cửa Sổ Nổi Đa Năng không được hỗ trợ.</string>
+    <string name="tencent_mm">WeChat</string>
+    <string name="tencent_mm_code">Mã QR</string>
+    <string name="tencent_mm_moments">Khoảnh Khắc</string>
+    <string name="tencent_mm_scan">Quét</string>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperSurround</item>
+        <item>ゲームミュージック</item>
+        <item>SuperVoices</item>
+        <item>SuperFootstep</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>強化されたサウンドフィールド サラウンド効果は、敵を発見しやすく、FPSゲームに適しています</item>
+        <item>ゲーム音楽効果は、MOBA、音楽ゲームに適しています</item>
+        <item>よりクリアでリアルな音声、RPG、ボードゲームに適しています</item>
+        <item>低周波パフォーマンスを改善し、単純なゲームでもフットステップを認識しやすくします</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>シルバーコア優先、温度制限、最小消費電力</item>
+        <item>シルバーコア優先、単純なゲームに適してます</item>
+        <item>ゴールドコア優先、温度制限、一般的な３Dゲームに適しています</item>
+        <item>ゴールドコア優先、高度な３Dゲームに適しています</item>
+        <item>ゴールドコアのみ、最大消費電力による最大性能を実現します</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>無効にする</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>オフ</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>オフ</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>サウンドトラック</item>
+        <item>Loli</item>
+        <item>Domineering Lady</item>
+        <item>おじ</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>スピード第一</item>
+        <item>バランス</item>
+        <item>画質第一</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>バランス</item>
+        <item>SOLARCORE</item>
+        <item>LUDICROUS</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>パフォーマンスと消費電力のバランスを取って、一般的なゲームにバランスのとれたパフォーマンス ソリューションを提供します</item>
+        <item>携帯電話の性能を強化するため、画質が必要とされるゲームに適しています</item>
+        <item>ゲームのパフォーマンスを極める、付属のクーラーをお勧めします</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>バランスモード：パフォーマンスとバッテリー寿命を考慮し、一般的なゲームにバランスの取れたパフォーマンスソリューションを提供します</item>
+        <item>インテリジェントモード：携帯電話のパフォーマンスを強化し、高画質が要求されるゲームでの使用に適しています</item>
+        <item>チキンバーニングモード：携帯電話の極端なパフォーマンスを解放し、携帯電話は明らかに加熱する可能性があります</item>
+        <item>極端なローストチキンモード：すべてのバックグラウンド機能を無効にします。ゲームは最高のパフォーマンスを維持し、電話は非常に熱くなることがあります</item>
+    </string-array>
+</resources>

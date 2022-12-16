@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>ઠંડુ</item>
+        <item>ગરમ</item>
+        <item>ભેજ નિવારણ</item>
+        <item>પંખો</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>પુરૂષ</item>
+        <item>સ્ત્રી</item>
+    </string-array>
+    <string-array name="answer">
+        <item>તમારું ઉપકરણ Wi-Fi નો ઉપયોગ કરીને ફક્ત Mi TV, Mi બોક્સ અને મુટ્ઠીભર અન્ય Android ઉપકરણો સાથે જોડી કરી શકે છે.</item>
+        <item>ખાતરી કરો કે જોડી કરવાની પ્રક્રિયામાં તમે સાચું A/C મૉડેલ પસંદ કર્યું છે. જોડી કરવાનું પૂર્ણ ન થઈ જાય ત્યાં સુધી તમારા ઉપકરણ પરના સંકેતોને અનુસરો.</item>
+        <item>ના. હાલમા તમે IR રીમોટ્સ તરીકે Mi 4, Mi 4c, અને રેડમી નોટ 2 નો ઉપયોગ કરી શકો છો.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>રવિ</item>
+        <item>સોમ</item>
+        <item>મંગળ</item>
+        <item>બુધ</item>
+        <item>ગુરુ</item>
+        <item>શુક્ર</item>
+        <item>શનિ</item>
+    </string-array>
+    <string-array name="question">
+        <item>મારો ફોન વાયરલેસ ઉપકરણો માટે શોધવાનું કેમ ચાલુ રાખે છે?</item>
+        <item>મારાથી મારું A/C ફક્ત ચાલુ જ કરી શકાય છે બંધ નહીં, એવું શા માટે?</item>
+        <item>હું IR રીમોટ તરીકે Mi 3, Mi 2 અને Redmi નો ઉપયોગ કરી શકું?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>લિવિંગ રૂમમાં Haier AC ચાલુ કરો</item>
+        <item>તાપમાનને 25 ડિગ્રી પર સેટ કરો</item>
+        <item>હવાની દિશા \"ઉપર\" સેટ કરો</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree AC ચાલુ કરો</item>
+        <item>સ્વિંગિંગ મોડ પર સ્વિચ કરો</item>
+        <item>AC નો વેગ તેજ કરો</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>સેટ-ટૉપ બોક્સ ચાલુ કરો</item>
+        <item>હું Hunan ટીવી જોવા માગું છું</item>
+        <item>ચૅનલ 15 પર પાછા જાઓ</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>AC ચાલુ કરો</item>
+        <item>હું Shenzhen ટીવી જોવા માગું છું</item>
+        <item>ચેનલ 12 પર પાછા જાઓ</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>બેડરૂમનું ટીવી ચાલુ કરો</item>
+        <item>ટીવી બંધ કરો</item>
+        <item>ટીવીનું વૉલ્યૂમ વધારો</item>
+    </string-array>
+</resources>

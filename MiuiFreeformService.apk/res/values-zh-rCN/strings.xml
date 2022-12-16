@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自由窗口</string>
+    <string name="bottom_bar_smallwindow_text">松手悬挂</string>
+    <string name="bs_how_to_hang_to_small_freeform">悬挂为悬浮球</string>
+    <string name="contentDescription">窗口移动中</string>
+    <string name="freeform_demo_back">返回</string>
+    <string name="freeform_demo_final_over">完成</string>
+    <string name="freeform_demo_final_restart">重新学习</string>
+    <string name="freeform_demo_final_title">完成学习</string>
+    <string name="freeform_demo_go_on">继续</string>
+    <string name="freeform_demo_title_finish">干得漂亮！</string>
+    <string name="freeform_demo_title_skip">返回</string>
+    <string name="freeform_slide_to_small_freeform">小窗缩小为迷你小窗</string>
+    <string name="freeform_slide_to_small_freeform_summary">按住小窗底部横杆滑到角落</string>
+    <string name="fullscreen_slide_to_small_freeform">全屏应用缩小为迷你小窗</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">从屏幕底部滑到屏幕右上角</string>
+    <string name="how_to_close_or_fullscreen_freeform">关闭或全屏打开小窗</string>
+    <string name="how_to_drop_down_to_fullscreen">全屏打开小窗</string>
+    <string name="how_to_drop_down_to_fullscreen_summary">按住小窗底部操作杆向下拉</string>
+    <string name="how_to_hang_freeform">将小窗悬挂为迷你小窗</string>
+    <string name="how_to_hang_to_small_freeform">悬挂为迷你小窗</string>
+    <string name="how_to_hang_to_small_freeform_summary">拖动小窗至屏幕边角</string>
+    <string name="how_to_move_freeform">如何移动小窗位置</string>
+    <string name="how_to_move_freeform_window">移动小窗位置</string>
+    <string name="how_to_move_freeform_window_summary">按住小窗顶部操作杆并拖动</string>
+    <string name="how_to_notification_drop_down">悬浮通知打开小窗</string>
+    <string name="how_to_notification_drop_down_summary">按住通知底部操作杆并下拉</string>
+    <string name="how_to_open_freeform">如何将悬浮通知打开为小窗</string>
+    <string name="how_to_slide_up_to_close">关闭小窗</string>
+    <string name="how_to_slide_up_to_close_summary">按住小窗底部操作杆向上滑</string>
+    <string name="how_to_use_freeform">学习使用小窗</string>
+</resources>

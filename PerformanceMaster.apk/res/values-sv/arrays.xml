@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>Det aktuella nätverksläget är utmärkt</item>
+        <item>Mobilt datanätverk är dåligt, och det rekommenderas att man växlar till WLAN</item>
+        <item>WLAN-nätverket är dåligt, och det rekommenderas att man växlar till mobildata</item>
+        <item>Den aktuella signalen är instabil. Försök att flytta eller justera mobiltelefonens hållna position.</item>
+        <item>Status för aktuellt nätverk är normal</item>
+        <item>Ingen</item>
+    </string-array>
+</resources>

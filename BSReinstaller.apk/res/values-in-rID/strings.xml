@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistem dapat mencopot instalan dan memanggilnya kembali</string>
+    <string name="application_installation_successful">Aplikasi berhasil diinstal</string>
+    <string name="bs_install">Instal</string>
+    <string name="bs_install_cancel">Batal</string>
+    <string name="bs_install_preloaded_app_dialog_message">%1$s adalah aplikasi sistem. Tidak perlu internet untuk menginstalnya.</string>
+    <string name="bs_install_preloaded_app_dialog_title">Instal %1$s</string>
+    <string name="bs_install_preloaded_app_failed_toast">Tidak dapat memperoleh info penginstalan untuk %1$s</string>
+    <string name="bs_install_preloaded_app_start_toast">Akan menginstal %1$s, sebentar…</string>
+    <string name="btn_holding">Menunggu</string>
+    <string name="btn_install">Instal</string>
+    <string name="btn_install_failure">Gagal Menginstal</string>
+    <string name="btn_installing">Menginstal</string>
+    <string name="desc_onloading_message">Memuat, mohon tunggu...</string>
+    <string name="no_app_to_install">Tidak tersedia copotan instalan aplikasi sistem untuk diinstal</string>
+</resources>

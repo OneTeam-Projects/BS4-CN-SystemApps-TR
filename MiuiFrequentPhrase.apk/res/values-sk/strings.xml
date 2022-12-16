@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Pridať často používané výrazy</string>
+    <string name="delete_frequent_phrases">Vymazať často používané výrazy</string>
+    <string name="delete_frequent_phrases_confirm">Vymazať vybrané často používané výrazy?</string>
+    <string name="edit_frequent_phrases">Upraviť často používané výrazy</string>
+    <string name="frequent_phrases_des">Vkladajte často používané výrazy len niekoľkými dotykmi počas upravovania textu</string>
+    <string name="frequent_phrases_size_exceeded">Môžete pridať maximálne %1$d často používaných výrazov. Pre pridanie ďalšíeho výrazu vymažte výrazy, ktoré nepoužívate tak často.</string>
+    <string name="menu_add_frequent_phrases">Pridať</string>
+    <string name="menu_delete">Vymazať</string>
+    <string name="menu_edit">Upraviť</string>
+    <string name="sync_phrase_label">Často používané výrazy</string>
+</resources>

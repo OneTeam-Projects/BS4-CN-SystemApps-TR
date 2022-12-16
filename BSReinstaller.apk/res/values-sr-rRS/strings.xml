@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistem ne može ukloniti aplikaciju i vratiti je</string>
+    <string name="application_installation_successful">Uspešna instalacija aplikacije</string>
+    <string name="bs_install">Instaliraj</string>
+    <string name="bs_install_cancel">Otkaži</string>
+    <string name="bs_install_preloaded_app_dialog_message">%1$s je sistemska aplikacija. Ne treba vam internet za instalaciju.</string>
+    <string name="bs_install_preloaded_app_dialog_title">Instaliraj %1$s</string>
+    <string name="bs_install_preloaded_app_failed_toast">Nije moguće dobiti podatke o instalaciji za %1$s</string>
+    <string name="bs_install_preloaded_app_start_toast">Instaliranje %1$s, samo malo…</string>
+    <string name="btn_holding">Zadržavanje</string>
+    <string name="btn_install">Instaliraj</string>
+    <string name="btn_install_failure">Neuspešna instalacija</string>
+    <string name="btn_installing">Instaliranje</string>
+    <string name="desc_onloading_message">Učitavanje, sačekajte...</string>
+    <string name="no_app_to_install">Nema uklonjenih sistemskih aplikacija dostupnih za instalaciju</string>
+</resources>

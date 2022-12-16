@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽首頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">選擇分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="alert_dialog_cancel">取消</string>
+    <string name="alert_dialog_confirm">我知道了</string>
+    <string name="alert_dialog_connect_to_same_wifi">請將手機與電腦接入同壹網絡</string>
+    <string name="alert_dialog_connect_to_wifi">請將手機接入WiFi網絡</string>
+    <string name="alert_dialog_continue">繼續</string>
+    <string name="app_name">直播投屏服務</string>
+    <string name="miracast_finish">斷開投屏</string>
+    <string name="miracast_help">用戶幫助文檔</string>
+    <string name="miracast_policies">隱私政策</string>
+    <string name="miracast_reject">取消投屏</string>
+    <string name="miracast_scan">掃碼投屏</string>
+    <string name="miracast_scan_remind">主播投屏掃碼確認</string>
+    <string name="miracast_scan_summary">主播投屏無需插件，即可實現畫面與聲音的同步投射；包含Wi-Fi連接與USB連接兩種方式</string>
+    <string name="miracast_scan_summary_1">"1、前往黑鯊官方網站，下載安裝黑鯊主播投屏Windows客戶端 
+2、當前客戶端僅支持Windows7及以上系統版本"</string>
+    <string name="miracast_scan_summary_2">"註：開啟主播投屏後，因錄屏沖突故黑鯊時刻將暫不可用 
+      開啟網絡加速、VPN類應用時，投屏將自動斷開連接"</string>
+    <string name="miracast_scan_summary_3">已通過Wi-Fi連接到電腦</string>
+    <string name="miracast_scan_summary_5">已通過USB連接到電腦</string>
+    <string name="miracast_scan_summary_6">方式壹：USB連接</string>
+    <string name="miracast_scan_summary_7">方式二：Wi-Fi連接</string>
+    <string name="miracast_scan_summary_8">前往【設置】-【更多設置】-【開發者選項】打開手機USB調試功能；使用USB數據線將手機與投屏設備連接，顯示連接成功即可進入投屏模式</string>
+    <string name="miracast_scan_summary_9">點擊下方【掃碼投屏】，對準客戶端二維碼，在手機端點擊【確認投屏】，手機畫面與聲音投射至投屏設備即為連接成功</string>
+    <string name="miracast_scan_title">主播投屏</string>
+    <string name="miracast_scan_usb_connected">USB投屏已連接</string>
+    <string name="miracast_scan_wifi_connected">Wi-Fi投屏已連接</string>
+    <string name="miracast_start">確認投屏</string>
+    <string name="notification_title">直播投屏工具正在後臺運行</string>
+    <string name="notification_usb_connected">正在通過【USB連接】為此設備投屏</string>
+    <string name="notification_wifi_connected">正在通過【Wi-Fi連接】為此設備投屏</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="ssl_error_cert_invalid">SSL認證失敗，是否繼續訪問？</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="toast_code_error">請核對二維碼</string>
+</resources>

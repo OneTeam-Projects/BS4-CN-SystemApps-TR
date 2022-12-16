@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">नेहमीचे वाक्यांश जोडा</string>
+    <string name="delete_frequent_phrases">नेहमीचे वाक्यांश डिलीट करा</string>
+    <string name="delete_frequent_phrases_confirm">निवडलेले नेहमीचे वाक्यांश डिलीट करायचे?</string>
+    <string name="edit_frequent_phrases">नेहमीचे वाक्यांश संपादित करा</string>
+    <string name="frequent_phrases_des">मजकूर संपादित करत असतांना केवळ काही टॅप्ससह नेहमीचे वाक्यांश प्रविष्ट करा</string>
+    <string name="frequent_phrases_size_exceeded">%1$dपर्यंत वारंवार वाक्यांश जोडू शकता. ‍अधिक जोडण्यासाठी एखादे अनावश्यक असलेले डिलीट करा.</string>
+    <string name="menu_add_frequent_phrases">जोडा</string>
+    <string name="menu_delete">डिलीट</string>
+    <string name="menu_edit">एडिट</string>
+    <string name="sync_phrase_label">नेहमीचे वाक्यांश</string>
+</resources>

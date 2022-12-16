@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_colors">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+        <item>@color/color5</item>
+        <item>@color/color6</item>
+        <item>@color/color7</item>
+        <item>@color/color8</item>
+        <item>@color/color9</item>
+        <item>@color/color10</item>
+        <item>@color/color11</item>
+        <item>@color/color12</item>
+        <item>@color/color13</item>
+        <item>@color/color14</item>
+        <item>@color/color15</item>
+    </array>
+    <string-array name="hardcode_navigation_icons_cn">
+        <item>home_short_cut</item>
+        <item>home_smalltools</item>
+        <item>home_nav_discover</item>
+        <item>home_nav_study</item>
+        <item>home_nav_health</item>
+        <item></item>
+    </string-array>
+    <string-array name="hardcode_navigation_icons_en">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="hardcode_navigation_titles_cn">
+        <item>捷径</item>
+        <item>AI 应用</item>
+        <item>精选</item>
+        <item>学习</item>
+        <item>夸克健康</item>
+    </string-array>
+    <string-array name="hardcode_navigation_titles_en">
+        <item>CNN</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>YouTube</item>
+    </string-array>
+    <string-array name="hardcode_navigation_urls_cn" formatted="false">
+        <item>http://www.myquark.cn?qk_biz=navi&amp;qk_module=shortcuts</item>
+        <item>http://www.myquark.cn?qk_biz=navi&amp;qk_module=smalltools</item>
+        <item>http://www.myquark.cn?qk_biz=navi&amp;qk_module=jingxuan</item>
+        <item>https://quark.sm.cn/api/rest?method=learning_mode.home&amp;format=html&amp;schema=v2&amp;uc_param_str=dsdnutlbgpmiosntnnfrpfbivepcsv&amp;entry=navi_add</item>
+        <item>https://quark.sm.cn/api/rest?method=quarkhealth.index&amp;format=html&amp;schema=v2&amp;uc_biz_str=OPT%3aBACK_BTN_STYLE%400%7cOPT%3aTOOLBAR_STYLE%401&amp;fromsource=kkframenew_quarkhealth_newuser</item>
+    </string-array>
+    <string-array name="hardcode_navigation_urls_en">
+        <item>http://www.cnn.com</item>
+        <item>https://www.facebook.com</item>
+        <item>https://mobile.twitter.com</item>
+        <item>https://m.youtube.com</item>
+    </string-array>
+    <string-array name="hardcode_vertical_search_engine_iconnames_cn">
+        <item>search_weibo_icon.svg</item>
+        <item>search_zhihu_icon.svg</item>
+        <item>search_youku_icon.svg</item>
+        <item>search_douban_icon.svg</item>
+        <item>search_weixin_icon.svg</item>
+    </string-array>
+    <string-array name="hardcode_vertical_search_engine_names_cn">
+        <item>微博</item>
+        <item>知乎</item>
+        <item>优酷</item>
+        <item>豆瓣</item>
+        <item>微信</item>
+    </string-array>
+    <string-array name="hardcode_vertical_search_engine_urls_cn">
+        <item>http://s.weibo.com/weibo/%s</item>
+        <item>http://www.zhihu.com/search?type=content&amp;q=%s</item>
+        <item>http://www.soku.com/m/y/video?q=%s&amp;tpa=dW5pb25faWQ9MTAzOTQyXzEwMDAwMV8wMV8wMQ</item>
+        <item>https://m.douban.com/search/?query=%s</item>
+        <item>http://weixin.sogou.com/weixinwap?type=2&amp;query=%s</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">புதுப்பிக்க, கீழே இழுக்கவும்</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">வெற்றிகரமாகப் புதுப்பிக்கப்பட்டது</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">புதுப்பிக்கிறது…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">புதுப்பிக்க விடுவிக்கவும்</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">இப்போதைக்கு அவ்வளவுதான்</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">இப்போதைக்கு அவ்வளவுதான்</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">சற்று காத்திருங்கள்…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">உருப்படிகளை ஏற்ற முடியவில்லை</string>
+</resources>

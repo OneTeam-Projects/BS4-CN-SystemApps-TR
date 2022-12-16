@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alpha">Альфа</string>
+    <string name="app_name">Линии поддержки</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="clear_hero">ОЧИСТИТЬ</string>
+    <string name="color">Цвет</string>
+    <string name="create_hero">СОЗДАТЬ</string>
+    <string name="dialog_title_delete">УДАЛИТЬ</string>
+    <string name="dialog_title_message">Вы уверены, что хотите удалить %s?</string>
+    <string name="gunsight_style">Стиль</string>
+    <string name="height">Рост</string>
+    <string name="hero_name">ИМЯ ГЕРОЯ</string>
+    <string name="not_support_gamesupport">В связи с требованиями издателя игры она не поддерживает GameSupport.</string>
+    <string name="piggy_daqiao">Показать линии поддержки навыков Да Ця</string>
+    <string name="piggy_ganjiang">Показать линии поддержки навыков Гань Цзянь</string>
+    <string name="piggy_gongsunli">Показать линии поддержки навыков Гунсунь Ли</string>
+    <string name="piggy_lixin">Показать линии поддержки навыков Ли Синь</string>
+    <string name="piggy_moba_line_summary">Нарисовать линии поддержки для MOBA</string>
+    <string name="piggy_moba_line_title">Линии поддержки</string>
+    <string name="piggy_zhongkui">Показать линии поддержки навыков Чжун Куй</string>
+    <string name="radius">Радиус</string>
+    <string name="rename">ПЕРЕИМЕНОВАТЬ</string>
+    <string name="restore">Восстановить</string>
+    <string name="save">СОХРАНИТЬ</string>
+    <string name="style">Стиль</string>
+    <string name="sure">ОК</string>
+    <string name="thickness">Толщина</string>
+    <string name="title_fps">ЛИНИЯ FPS</string>
+    <string name="title_moba">ЛИНИЯ MOBA</string>
+    <string name="toast_bangs_mode_not_supported">GameSupport: Режим планшета / режим скрытой челки не поддерживается</string>
+    <string name="toast_hero_exist">GameSupport: %s дублировано</string>
+    <string name="toast_no_pkg">GameSupport: Не удалось прочитать название игры</string>
+    <string name="toast_portrait_not_support">GameSupport: Портретный режим не поддерживается</string>
+    <string name="toast_table_mode_not_supported">GameSupport: Режим планшета не поддерживается</string>
+    <string name="translate">Перевести</string>
+    <string name="width">Ширина</string>
+</resources>

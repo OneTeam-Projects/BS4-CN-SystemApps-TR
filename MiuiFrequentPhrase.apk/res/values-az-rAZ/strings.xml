@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Tez-tez istifadə edilən ifadə əlavə et</string>
+    <string name="delete_frequent_phrases">Tez-tez istifadə edilən ifadələri sil</string>
+    <string name="delete_frequent_phrases_confirm">Seçilmiş tez-tez istifadə edilən ifadələr silinsin?</string>
+    <string name="edit_frequent_phrases">Tez-tez istifadə edilən ifadələrə düzəliş et</string>
+    <string name="frequent_phrases_des">Mətnə düzəliş edərkən yalnız bir neçə toxunuş ilə tez-tez istifadə edilən ifadələri daxil edin</string>
+    <string name="frequent_phrases_size_exceeded">%1$d ədədə qədər tez-tez istifadə edilən ifadə əlavə edə bilərsiniz. Daha çox əlavə etmək üçün lazımsız olanları silin.</string>
+    <string name="menu_add_frequent_phrases">Əlavə et</string>
+    <string name="menu_delete">Sil</string>
+    <string name="menu_edit">Düzəlt</string>
+    <string name="sync_phrase_label">Tez-tez istifadə edilən ifadələr</string>
+</resources>

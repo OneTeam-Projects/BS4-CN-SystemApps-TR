@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_remove_description_content">"Calendar is a system app. It allows you to create events and manage them. You'll still be able to use Calendar via the Home screen widget after you remove the Home screen shortcut."</string>
+    <string name="setting_about_miui_version">应用名称:日历</string>
+</resources>

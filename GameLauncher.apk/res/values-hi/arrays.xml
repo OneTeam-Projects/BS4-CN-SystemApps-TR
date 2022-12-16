@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>आप पूरी रात गेम खेलते हैं जबकि बाकी सब सो रहे हैं</item>
+        <item>आपको खुद को तरोताजा करने के लिए सुबह एक गेम खेलना होगा</item>
+        <item>खाना खाए या एक गेम खेलें; यह सवाल है</item>
+        <item>आपको खुद को तरोताजा करने के लिए दोपहर में एक गेम खेलना होगा</item>
+        <item>एक कठिन दिन के काम का मतलब है कि आपने गेमिंग की एक रात अर्जित की है!</item>
+        <item>आप अभी भी रात में देर तक गहन रूप से गेमिंग कर रहे हैं। अपना मनोरंजन करते हुए अपने शरीर का ख्याल रखें</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>4:00-7:00 बजे सुबह</item>
+        <item>7:00-11:00 बजे सुबह</item>
+        <item>11:00 बजे सुबह -14:00 बजे दोपहर</item>
+        <item>14:00 बजे दोपहर -18:00 बजे शाम</item>
+        <item>18:00-22:00 बजे शाम</item>
+        <item>22:00 बजे रात -4:00 बजे सुबह</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>रविवार</item>
+        <item>सोमवार</item>
+        <item>मंगलवार</item>
+        <item>बुधवार</item>
+        <item>गुरूवार</item>
+        <item>शुक्रवार</item>
+        <item>शनिवार</item>
+    </string-array>
+</resources>

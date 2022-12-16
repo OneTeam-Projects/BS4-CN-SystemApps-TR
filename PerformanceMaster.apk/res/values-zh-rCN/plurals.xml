@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">预计%s天充满</item>
+        <item quantity="one">预计%s天充满</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">预计%s小时充满</item>
+        <item quantity="one">预计%s小时充满</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">预计%s分钟充满</item>
+        <item quantity="one">预计%s分钟充满</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">可继续使用%s小时</item>
+        <item quantity="one">可继续使用%s小时</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">可继续使用%s分钟</item>
+        <item quantity="one">可继续使用%s分钟</item>
+    </plurals>
+</resources>

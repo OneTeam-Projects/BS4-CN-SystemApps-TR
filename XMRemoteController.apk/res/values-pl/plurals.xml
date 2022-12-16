@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APK</item>
+        <item quantity="one">%d APK</item>
+        <item quantity="few">%d APK</item>
+        <item quantity="many">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s pobranych plików</item>
+        <item quantity="one">%1$s pobrany plik</item>
+        <item quantity="few">%1$s pobrane pliki</item>
+        <item quantity="many">%1$s pobranych plików</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s użytkowników</item>
+        <item quantity="one">%1$s użytkownik</item>
+        <item quantity="few">%1$s użytkownicy</item>
+        <item quantity="many">%1$s użytkowników</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="one">%1$d dzień temu</item>
+        <item quantity="few">%1$d dni temu</item>
+        <item quantity="many">%1$d dni temu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d godzin temu</item>
+        <item quantity="one">%1$d godzinę temu</item>
+        <item quantity="few">%1$d godziny temu</item>
+        <item quantity="many">%1$d godzin temu</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d producentów</item>
+        <item quantity="one">dostępny 1 producent</item>
+        <item quantity="few">dostępnych %d producentów</item>
+        <item quantity="many">%d producentów</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minut temu</item>
+        <item quantity="one">%1$d minutę temu</item>
+        <item quantity="few">%1$d minuty temu</item>
+        <item quantity="many">%1$d minut temu</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d odcinków</item>
+        <item quantity="one">%d odcinek</item>
+        <item quantity="few">%d odcinki</item>
+        <item quantity="many">%d odcinków</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d wideo</item>
+        <item quantity="one">%d wideo</item>
+        <item quantity="few">%d wideo</item>
+        <item quantity="many">%d wideo</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">Odtwórz odcinek %d</item>
+        <item quantity="one">Odtwórz odcinek %d</item>
+        <item quantity="few">Odtwórz odcinek %d</item>
+        <item quantity="many">Odtwórz odcinek %d</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">Znaleziono %d wideo</item>
+        <item quantity="one">Znaleziono %d wideo</item>
+        <item quantity="few">Znaleziono %d wideo</item>
+        <item quantity="many">Znaleziono %d wideo</item>
+    </plurals>
+</resources>

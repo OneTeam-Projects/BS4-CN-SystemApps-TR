@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>Παίζετε παιχνίδια όλη τη νύχτα όταν όλοι οι άλλοι κοιμούνται</item>
+        <item>Πρέπει να παίξετε παιχνίδι το πρωί για να νιώσετε φρέσκοι</item>
+        <item>Φαγητό ή παιχνίδι, αυτή είναι η κρίσιμη ερώτηση</item>
+        <item>Πρέπει να παίξετε παιχνίδι το απόγευμα για να νιώσετε φρέσκοι</item>
+        <item>Μια σκληρή ημέρα στη δουλειά σημαίνει ότι έχετε κερδίσει μια νύχτα παιχνιδιού!</item>
+        <item>Εξακολουθείτε να παίζετε έντονα αργά το βράδυ. Φροντίστε το σώμα σας ενώ διασκεδάζετε</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>4:00-7:00</item>
+        <item>7:00-11:00</item>
+        <item>11:00-14:00</item>
+        <item>14:00-18:00</item>
+        <item>18:00-22:00</item>
+        <item>22:00 -4:00</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Κυριακή</item>
+        <item>Δευτέρα</item>
+        <item>Τρίτη</item>
+        <item>Τετάρτη</item>
+        <item>Πέμπτη</item>
+        <item>Παρασκευή</item>
+        <item>Σάββατο</item>
+    </string-array>
+</resources>

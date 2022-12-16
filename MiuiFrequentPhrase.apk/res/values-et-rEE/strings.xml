@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Lisa sagedased fraasid</string>
+    <string name="delete_frequent_phrases">Kustuta sagedased fraasid</string>
+    <string name="delete_frequent_phrases_confirm">Kustuta valitud sagedased fraasid?</string>
+    <string name="edit_frequent_phrases">Muuda sagedasi fraase</string>
+    <string name="frequent_phrases_des">Sisesta sagedased fraasid ainult mõne toksega, kui teksti redigeerite</string>
+    <string name="frequent_phrases_size_exceeded">Ei saa %1$d sagedastesse fraasidesse lisada. Lisamiseks kustuta need, mida enam ei vaja.</string>
+    <string name="menu_add_frequent_phrases">Lisa</string>
+    <string name="menu_delete">Kustuta</string>
+    <string name="menu_edit">Muuda</string>
+    <string name="sync_phrase_label">Sagedased fraasid</string>
+</resources>

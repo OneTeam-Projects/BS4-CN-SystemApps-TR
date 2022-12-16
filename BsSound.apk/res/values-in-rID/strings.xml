@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DTSSound</string>
+    <string name="blackshark_headset">Headset game Black Shark:</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_default">Default</string>
+    <string name="default_effect">Efek default</string>
+    <string name="dts_all_tag">Semua</string>
+    <string name="dts_audio">Efek DTS</string>
+    <string name="dts_default_style">Efek default</string>
+    <string name="dts_headset_equalizer">Ekualiser earphone</string>
+    <string name="dts_headset_equalizer_common">biasa</string>
+    <string name="dts_headset_equalizer_custom">Kustom</string>
+    <string name="dts_headset_equalizer_fashion">Fesyen</string>
+    <string name="dts_headset_equalizer_jazz">Jazz</string>
+    <string name="dts_headset_equalizer_rock">Rock</string>
+    <string name="dts_headset_message">Berlaku saat disambungkan ke headset kabel</string>
+    <string name="dts_headset_optimize">Optimisasi suara earphone</string>
+    <string name="dts_headset_optimize_message">Optimalkan menurut model earphone</string>
+    <string name="dts_message">Aktifkan DTS sound untuk headphone kabel untuk perangkat lunak video dan musik yang didukung (DTS sound selalu aktif dari speaker)</string>
+    <string name="dts_open_error">Gagal membuka DTS</string>
+    <string name="dts_open_headset_error">Gagal mengaktifkan suara earphone</string>
+    <string name="dts_rec_tag">Rekomendasikan</string>
+    <string name="dts_search">Cari</string>
+    <string name="dts_start">Buka</string>
+    <string name="eq_set_error">Pengaturan Ekualiser gagal</string>
+    <string name="headset_calibration">Kalibrasi tombol kontrol headset</string>
+    <string name="headset_volume_control">Kontrol tambah/kurangi volume</string>
+    <string name="headset_wire_drives">Atur fungsi kontroler</string>
+    <string name="is_no_headset">Sambungkan earphone</string>
+</resources>

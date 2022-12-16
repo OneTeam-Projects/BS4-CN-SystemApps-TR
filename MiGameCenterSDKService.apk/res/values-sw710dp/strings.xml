@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apk_notinstall">平板未安装该应用</string>
+    <string name="base_dpi">710dp</string>
+    <string name="float_win_wx_tipetext">平板中未安装微信或微信版本过低</string>
+    <string name="mifloat_custom_tip_text">"如果您使用的是非小米平板，
+请在小米游戏中心官网下载APP"</string>
+    <string name="payment_pay_noQQ">平板未安装QQ，需下载安装后才能支付。</string>
+    <string name="payment_pay_noUPPay">平板未安装云闪付，需下载安装后才能支付。</string>
+    <string name="payment_pay_noWx">平板未安装微信，需下载安装后才能支付。</string>
+    <string name="permission_request_phone">获取平板信息</string>
+    <string name="permission_request_storage">读写平板存储</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">掛機模式</string>
+    <string name="dialog_checkbox_hint">不再提示</string>
+    <string name="dialog_message">掛機模式開啟後，當遊戲退至後臺或息屏後進入掛機狀態,倒計時結束或點擊通知欄中“取消掛機”按鈕可以退出掛機模式。長時間掛機建議連接電源。</string>
+    <string name="dialog_status_label_name">掛機應用</string>
+    <string name="dialog_status_title">遊戲掛機狀態</string>
+    <string name="event_back_to_game">返回遊戲</string>
+    <string name="event_end_holdon">掛機關閉</string>
+    <string name="label_holdon_duration">掛機時長</string>
+    <string name="label_holdon_pattern">掛機時長策略</string>
+    <string name="notify_content" formatted="false">%s掛機剩余%s</string>
+    <string name="notify_hour_minute" formatted="false">%d時%d分</string>
+    <string name="notify_less_one_minute">小於一分鐘</string>
+    <string name="notify_minute">%d分</string>
+    <string name="text_cancel_holdon">取消掛機</string>
+    <string name="text_duration_describe">選擇開啟掛機模式後單次掛機的時長,過長的掛機時長可能造成不必要的電量消耗。遊戲宏也可觸發掛機模式，總掛機時長亦由此決定。。</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">時</string>
+    <string name="text_minute">分</string>
+    <string name="text_mute_description">開啟此功能後會同時啟用[聲音助手]功能。若要臨時退出靜音狀態，請按音量鍵調整媒體音的同時，點擊聲音助手圖標，將遊戲的音量調整至正常。管理聲音助手請前往[設置-聲音與振動-聲音助手]。</string>
+    <string name="text_mute_holdon">靜音掛機</string>
+    <string name="text_mute_holdon_description">開始掛機後，遊戲靜音</string>
+    <string name="text_only_in_game_work">該功能僅在遊戲內生效</string>
+    <string name="text_pattern_describe">選擇在掛機過程中回到遊戲是否刷新掛機時長倒計時，前者利於單一重復性任務的查看和掛機，後者利於完整任務的掛機。</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%s已結束掛機</string>
+    <string name="toast_header_fix">遊戲助手：</string>
+    <string name="toast_how_to_holdon">遊戲退至後臺或鎖屏後進入掛機狀態</string>
+    <string name="toast_in_holdon_model">%s遊戲已進入掛機狀態</string>
+    <string name="toast_not_support_holdon">電量過低或已開啟省電模式，無法繼續掛機</string>
+</resources>

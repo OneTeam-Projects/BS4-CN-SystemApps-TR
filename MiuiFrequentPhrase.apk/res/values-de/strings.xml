@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Häufige Sätze hinzufügen</string>
+    <string name="delete_frequent_phrases">Häufige Sätze löschen</string>
+    <string name="delete_frequent_phrases_confirm">Ausgewählte häufige Sätze löschen?</string>
+    <string name="edit_frequent_phrases">Häufige Sätze bearbeiten</string>
+    <string name="frequent_phrases_des">Häufig verwendete Sätze während der Textbearbeitung mit wenigen Tippeingaben einfügen</string>
+    <string name="frequent_phrases_size_exceeded">Es können bis zu %1$d häufige verwendete Sätze hinzugefügt werden. Zum Hinzufügen von mehr Sätzen die unbenötigten löschen.</string>
+    <string name="menu_add_frequent_phrases">Hinzufügen</string>
+    <string name="menu_delete">Löschen</string>
+    <string name="menu_edit">Bearbeiten</string>
+    <string name="sync_phrase_label">Häufige Sätze</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">Atšaukti</string>
+    <string name="address_server">Serveris pateikta vertė</string>
+    <string name="app_name">Belaidis atnaujinimas</string>
+    <string name="auto_update_checked_off">Sistema kas 3 dienas patikrina, ar yra nauja versija</string>
+    <string name="auto_update_checked_on">Sistema kas 3 dienas patikrina, ar yra nauja versija</string>
+    <string name="checking_is_update">Tikrinama, ar atnaujinti pavyko, prašome palaukti...</string>
+    <string name="device_is_rooted">"Įranga įdiegta. Negalima naudoti OTA atnaujinimui internetu. 
+Norėdami atkurti, apsilankykite oficialiame biure, kad gautumėte naują diską."</string>
+    <string name="device_is_rooted_title">Atnaujinti nepavyko</string>
+    <string name="dialog_power_not_enough_title">Prijunkite įkroviklį</string>
+    <string name="dlg_btn_confirm">Gerai</string>
+    <string name="dlg_btn_negative_download">Atšaukti</string>
+    <string name="dlg_hit_already_set_as">Jau nustatyta kaip:</string>
+    <string name="dlg_title_autoupdate">Automatiškai tikrinti, ar yra naujinių</string>
+    <string name="dlg_title_hint">Patarimas</string>
+    <string name="failed_download_update_file">Atnaujinimų paketo nepavyko atsisiųsti, perjunkite tinklus arba vėliau bandykite dar kartą</string>
+    <string name="have_net_problem">Atsirado problemų dėl ryšio su tinklu, atsisiųsti nepavyko, perjunkite kitą tinklą ir bandykite atsisiųsti iš naujo</string>
+    <string name="hold_on_while_downloading">Atsisiunčiama...</string>
+    <string name="later_to_reboot">vėliau</string>
+    <string name="md5_checkfailed">Nepavyko atnaujinti paketo MD5 tikrinimo, %s bandymas</string>
+    <string name="message7_note">"Pranešimas: 
+1. Sistemos naujinimas neturės įtakos jūsų asmens duomenims. 
+2. Atsisiunčiant sistemos naujinimo paką, gali būti taikomi duomenų naudojimo mokesčiai."</string>
+    <string name="message_already_latest_version">Dabartinė sistema yra naujausia versija</string>
+    <string name="message_checking_version">Tikrinama versijos informacija...</string>
+    <string name="message_cur_version">Dabartinė versija</string>
+    <string name="message_current_detail">Naujinio informacija</string>
+    <string name="message_download_tips">Atsisiuntimo patarimai</string>
+    <string name="message_network_disconnect">Tinklo ryšys nutrūko. Patikrinkite savo tinklo ryšį.</string>
+    <string name="message_new_version">nauja versija</string>
+    <string name="message_new_version_find">Rasta nauja versija:%s</string>
+    <string name="message_no_history">Nėra atnaujinimo įrašų</string>
+    <string name="net_close">Tinklas atjungtas, naujinimo paketo atsisiuntimas sustabdytas</string>
+    <string name="no_confirm_next_time">Nepriminkite man kitą kartą</string>
+    <string name="notify_download_complete_text">Sistemos atnaujinimo paketas sėkmingai atsiųstas</string>
+    <string name="notify_download_now_btn_title">Atsisiųsti dabar</string>
+    <string name="notify_download_text">Rasta nauja versija %s, prisijunkite prie WLAN tinklo ir atsisiųskite netrukus</string>
+    <string name="notify_download_title">Yra sistemos atnaujinimų</string>
+    <string name="notify_show_detail_btn_title">Peržiūrėti duomenis</string>
+    <string name="notify_update_dialog_msg">Suplanavote atnaujinti naktį; atitinkant automatinio atnaujinimo sąlygas, sistema bus automatiškai atnaujinama</string>
+    <string name="notify_update_later_btn_title">Atnaujinimas naktį</string>
+    <string name="notify_update_now_btn_title">Paleisti iš naujo ir atnaujinti</string>
+    <string name="ok_to_reboot">dabar</string>
+    <string name="ota_check_update">Tikrinti, ar yra naujinių</string>
+    <string name="ota_settings">Sistemos naujinio parametrai</string>
+    <string name="phone_auto_check">Automatiškai tikrinti, ar yra naujinių</string>
+    <string name="phone_next_check_time">Kada vėl tikrinti, ar yra naujinių</string>
+    <string name="pkg_note">"Paketo aprašymas: 
+"</string>
+    <string name="pkg_size">Pako dydis:</string>
+    <string name="reboot_to_update_system">Raginimas iš naujo paleisti atnaujintą sistemą</string>
+    <string name="show_dialog_when_reboot_to_update">Sistemai atnaujinti reikia iš naujo paleisti savo telefoną: laikinojo lango patvirtinimas</string>
+    <string name="text_continue">Tęsti</string>
+    <string name="toast_connect_not_available">Nėra ryšio, bandykite dar kartą prisijungę prie tinklo.</string>
+    <string name="toast_download_package">Palaukite, greitai bus pradėtas sistemos atnaujinimo atsiuntimas.</string>
+    <string name="toast_network__judge_before_download">Jūs naudojate mobiliuosius duomenis, Atsisiunčiant bus naudojama daug duomenų, mes rekomenduojame jums atsisiųsti naudojant WIFI.</string>
+    <string name="toast_network__judge_before_download_roaming">Jūs naudojate tarptinklinį ryšį, mes rekomenduojame jums atsisiųsti naudojant WIFI.</string>
+    <string name="toast_network_disconnect">Tinklas atjungtas; naujinimas bus sustabdytas, kol bus prisijungta prie tinklo.</string>
+    <string name="toast_no_available_update">Jūsų telefono programinės įrangos versija yra naujausia.</string>
+    <string name="toast_power_not_enough_update">Sistema neatnaujinta, prijunkite įkroviklį ir įkraukite iki daugiau nei %1$d%2$s ir bandykite dar kartą</string>
+    <string name="toast_redownload">Praėjusį kartą atnaujinimas buvo nutrauktas; norėdami, kad mobiliojo telefono sistema geriau veiktų, paleiskite iš naujo ir iš naujo atnaujinkite versiją.</string>
+    <string name="toast_remind_change_to_other_network">Šiuo metu naudojamas WAP tinklas gali neleisti atsisiųsti turinio. Siūlome perjungti kitą tinklą</string>
+    <string name="toast_result_cancel_download">Vartotojas atšaukė prieš pradedant atsiuntimą.</string>
+    <string name="toast_result_cancel_downloading">Vartotojas atšaukė pako atsisiuntimą.</string>
+    <string name="toast_result_disk_full">Atsisiųsti nepavyksta, nes prietaise nepakanka atminties programinės-aparatinės įrangos atnaujinimo paketui; paleiskite telefoną iš naujo ir bandykite dar kartą.</string>
+    <string name="toast_result_download_fail">Atsiunčiant paketą įvyko klaida; atnaujinti nepavyko.</string>
+    <string name="toast_result_update_failure">Įdiegimas netinkamas; atnaujinti nepavyko.</string>
+    <string name="toast_result_update_success">Sėkmingai atnaujinta.</string>
+    <string name="toast_server_not_available">Jūsų telefono programinės įrangos versija yra naujausia.</string>
+    <string name="toast_show_dialog_again">Peržiūrėti sistemos atnaujinimo būseną vėliau perspėjimų juostoje</string>
+    <string name="toast_update_file_not_found_on_server">Atnaujinimo paketo serveryje nėra, iš naujo patikrinkite atnaujinimą</string>
+    <string name="update_file_delete_or_not_complete_down">Atnaujinimo paketas ištrintas arba atsisiuntimas baigtas; atnaujinimo paketas bus atnaujintas iš naujo</string>
+    <string name="update_need_to_reboot">Sistemai atnaujinti reikia iš naujo paleisti telefoną</string>
+    <string name="update_package_size_text">Pako dydis:  %sMB</string>
+    <string name="user_confirm_message">Atsisiunčiant sistemos atnaujinimo paką, OTA bus taikomi duomenų mokesčiai, pasitarkite su atitinkamais operatoriais dėl konkrečių mokesčių.</string>
+    <string name="userdata_stop_download">Šiuo metu naudojamas mobilusis ryšys, naujinimo pakuotės naujinimas Jums sustabdytas</string>
+    <string name="version_new">Rasta nauja versija</string>
+    <string name="welcome_use_ota">Sveiki, jūs naudojatės OTA</string>
+    <string name="wifi_available_auto_download">Atsiųsti naujinį per Wi_Fi</string>
+    <string name="wifi_available_auto_download_on">Atsiųsti naujinį automatiškai, kai veiks wifi</string>
+</resources>

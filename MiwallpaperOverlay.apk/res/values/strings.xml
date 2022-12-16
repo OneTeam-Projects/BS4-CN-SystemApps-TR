@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="earth_summary">The Earth is the cradle of human civilization</string>
+    <string name="earth_title">Home</string>
+    <string name="geometry_summary">Shapes, light, and colors</string>
+    <string name="geometry_title">Geometry</string>
+    <string name="mars_summary">Vast deserts of Mars have always kept humanity in awe</string>
+    <string name="mars_title">The red planet</string>
+    <string name="saturn_summary">The rings of Saturn make the most incredible spectacle in the Solar System</string>
+    <string name="saturn_title">Faraway rings</string>
+</resources>

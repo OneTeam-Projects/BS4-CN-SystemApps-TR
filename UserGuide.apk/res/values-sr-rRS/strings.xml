@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Priručnik za igrače</string>
+    <string name="blackshark_game_phone">Black Shark telefon:</string>
+    <string name="copied">Kopirano u međumemoriju</string>
+    <string name="copy_fail">Neuspešno kopiranje</string>
+    <string name="coy_link">Kopiraj link</string>
+    <string name="gamer_guide">Priručnik za igrače</string>
+    <string name="network_weak">Slaba je mreža</string>
+    <string name="network_weak_desc">Učitaj ponovo stranicu</string>
+    <string name="no_network">Mreža nije povezana</string>
+    <string name="no_network_desc">Proveri podešavanja mreže i klikni za novi pokušaj</string>
+    <string name="permission_internet">Za korišćenje osnovnih usluga, da li omogućavate priručniku za igrače da se poveže na mrežu?</string>
+    <string name="permission_no">Otkaži</string>
+    <string name="permission_yes">Dozvoli</string>
+    <string name="share_desc">Ovde možete naći čudesne funkcije na Black Shark telefonu. Pročitajte priručnik za igrače!</string>
+    <string name="share_type">Podeljeno sa</string>
+    <string name="to_refresh">Osveži</string>
+    <string name="try_again">Pokušaj ponovo</string>
+    <string name="web_load_error">Greška kod učitavanja stranice</string>
+</resources>

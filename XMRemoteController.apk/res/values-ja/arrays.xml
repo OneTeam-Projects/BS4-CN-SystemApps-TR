@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>冷房</item>
+        <item>暖房</item>
+        <item>除湿</item>
+        <item>送風</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>男性</item>
+        <item>女性</item>
+    </string-array>
+    <string-array name="answer">
+        <item>お使いのデバイスは、Wi-Fiを使用してMi テレビとMi ボックス、および一部のAndroid搭載デバイスのみとペアリングできます。</item>
+        <item>ペアリングする際には、正しいエアコンモデルを選択したことを確認してください。ペアリングが完了するまでは、デバイスに表示される指示に従ってください。</item>
+        <item>サポートしていません。現時点では、Mi 4、Mi 4c、Redmi Note 2を赤外線リモコンとして使用できます。</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>日</item>
+        <item>月</item>
+        <item>火</item>
+        <item>水</item>
+        <item>木</item>
+        <item>金</item>
+        <item>土</item>
+    </string-array>
+    <string-array name="question">
+        <item>スマートフォンがワイヤレスデバイスを探し続けているのはなぜですか？</item>
+        <item>エアコンをオンできても、オフにできないのはなぜですか？</item>
+        <item>Mi 3、Mi 2、Redmiを赤外線リモコンとして使用できますか？</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>リビングルームのHaierのエアコンをオンにする</item>
+        <item>温度を25度に設定する</item>
+        <item>風向きを\"上\"に設定する</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Greeの扇風機をオンにする</item>
+        <item>スイングモードに切り替える</item>
+        <item>風速を速くする</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>セットトップボックスをオンにする</item>
+        <item>湖南テレビが見たいです</item>
+        <item>15チャンネルに戻す</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>エアコンをオンにしてください</item>
+        <item>深センテレビが見たいです</item>
+        <item>12チャンネルに戻す</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>寝室のテレビをオンにする</item>
+        <item>テレビをオフにする</item>
+        <item>テレビの音量を上げる</item>
+    </string-array>
+</resources>

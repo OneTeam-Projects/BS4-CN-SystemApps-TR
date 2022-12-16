@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ハングアップ</string>
+    <string name="dialog_checkbox_hint">追加のプロンプトを表示しない</string>
+    <string name="dialog_message">ハングアップが有効になると、ゲームがバックグラウンドで実行されるか、または画面がスリーブに移行するとき、ゲームはハングアップ状態に入ります。カウントダウンが終了するか、または通知バーの「ハングアップを停止」ボタンをクリックすることにより、ハングアップを終了することができます。長時間ハングアップを実行する場合、電源に接続することを推奨します。</string>
+    <string name="event_back_to_game">ゲームに戻る</string>
+    <string name="event_end_holdon">ハングアップ無効</string>
+    <string name="label_holdon_duration">ハングアップ時間</string>
+    <string name="label_holdon_pattern">ハングアップ時間ポリシー</string>
+    <string name="notify_content" formatted="false">%s残りのハングアップ時間%s</string>
+    <string name="notify_hour_minute" formatted="false">"%d時間  %d分"</string>
+    <string name="notify_less_one_minute">1分未満</string>
+    <string name="notify_minute">%d分</string>
+    <string name="text_cancel_holdon">ハングアップ停止</string>
+    <string name="text_duration_describe">ハングアップが有効なときに、単一のハングアップ時間を選択してください。ハングアップ時間が長いと、無駄な電力消費の原因になります。ゲームのマクロはまた、ハングアップをトリガーし、合計ハングアップ時間を決定します。</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">時間</string>
+    <string name="text_minute">分</string>
+    <string name="text_mute_description">この機能を有効にすると、[音声アシスタント]機能も有効になります。サイレント状態を一時的に解除するには、音量ボタンを押してメディアの音量を調整しながら、音声アシスタントのアイコンをクリックして、ゲームの音量を正常にしてください。音声アシスタントを管理するには、[設定 - 音声とバイブレーション - 音声アシスタント]に進みます。</string>
+    <string name="text_mute_holdon_description">ハングアップ時にゲームをミュート</string>
+    <string name="text_pattern_describe">ハングアップ時間中にゲームに戻ってきたとき、ハングアップ時間のカウントダウンを更新するかどうかを選択します。ポジティブな答えは、ハングアップ時に単一の反復タスクを表示・実行するのに適しており、ネガティブな答えは、ハングアップ時に完全なタスクを実行するのに役立ちます。</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sハングアップ終了</string>
+    <string name="toast_header_fix">ゲーマースタジオ：</string>
+    <string name="toast_how_to_holdon">ゲームは、ゲームがバックグラウンドで実行されるか、または画面がスリーブに移行するとき、ハングアップ状態に入ります。</string>
+    <string name="toast_in_holdon_model">%sゲームはハングアップ状態に入りました</string>
+    <string name="toast_not_support_holdon">バッテリー残量が少なすぎるか、または省電力モードが有効になっているため、ゲームのハングアップを続行することができません</string>
+</resources>

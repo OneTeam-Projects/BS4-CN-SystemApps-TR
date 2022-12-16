@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>གྲང་བཟོ།</item>
+        <item>ཚ་བཟོ།</item>
+        <item>རླན་སེལ།</item>
+        <item>རླུང་སྐྱེལ།</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>ཕོ།</item>
+        <item>མོ།</item>
+    </string-array>
+    <string-array name="answer">
+        <item>སྐུ་ཉིད་ཀྱི་ཁ་པར་གྱིས་དམར་ཕྱིའི་འཕེན་གཏོང་ལ་རམ་འདེགས་བྱེད་ཐུབ་མི་འདུག Wi-Fiབརྒྱུད་ནས་ཞའོ་མཱི་སྒམ་ཆུང་དང་ཞའོ་མཱི་བརྙན་འཕྲིན། androidཚད་གཞིའི་རིག་སྟོབས་སྒམ་ཆུང་དང་བརྙན་འཕྲིན་ཁ་ཤས་ལ་རམ་འདེགས་བྱེད་ཐུབ། ལ་ཚོད་འཛིན་དང་།</item>
+        <item>སྐུ་ཉིད་ཀྱིས་ཆ་སྒྲིག་བྱས་པའི་གཞི་གྲངས་འདི་དྲོ་སྙོམས་ཆས་འདིའི་གཞི་གྲངས་མ་ཡིན། ཆ་སྒྲིག་མཐེབ་རྒྱག་གཉིས་པ་ནི་དྲོ་སྙོམས་ཆས་ཁ་རྒྱག་བྱེད་ཡིན། ཁ་པར་སྟེང་གི་དྲན་བརྡ་ལ་མཉམ་འཇོག་གནང་རོགས། དྲོ་སྙོམས་ཆས་ཁ་རྒྱག་པ་ཆ་སྒྲིག་བྱེད་དུས། འཕྲུལ་ཆས་གཞི་ནས་ཁ་བརྒྱབ་ཚར་ན་ད་གཟོད་དང་ལེན་འདེམ་བསལ་བྱོས།</item>
+        <item>རམ་འདེགས་བྱེད་ཐུབ་མི་འདུག མིག་སྔར་ཞའོ་མཱི་རྒྱུད་རིགས་ལས་ཞའོ་མཱི4དང་། ཞའོ་མཱི་4c ཧུང་མཱི་note2བཅས་ཀྱིས་དམར་ཕྱིའི་འཕེན་གཏོང་ལ་རམ་འདེགས་བྱེད་ཐུབ།</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar_v53">
+        <item>འཕྲིན་ལམ་ཡོངས།</item>
+        <item>སྲུང་སྐར་འཕྲིན་ལམ།</item>
+        <item>ཀྲུང་དབྱང་འཕྲིན་ལམ།</item>
+        <item>ཆེས་གསལ་འཕྲིན་ལམ།</item>
+        <item>རྒྱུན་དུ་བལྟ་བ།</item>
+    </string-array>
+    <string-array name="epg_channel_tab_v53">
+        <item>ཡོངས།</item>
+        <item>སྲུང་འཕྲིན།</item>
+        <item>ཀྲུང་དབྱང་འཕྲིན་ལམ།</item>
+        <item>ཆེས་གསལ།</item>
+        <item>རྒྱུན་དུ་བལྟ་བ།</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>ཕྱོགས་བསྡུས་སྒྱུ་རྩལ།</item>
+        <item></item>
+        <item>ལུས་རྩལ།</item>
+        <item>བྱིས་པ།</item>
+        <item>གསར་འགྱུར།</item>
+        <item>འཚོ་བ།</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>ཚ་གནས།</item>
+        <item>གློག་བརྙན།</item>
+        <item>ཕྱོགས་བསྡུས་སྒྱུ་རྩལ།</item>
+        <item>བརྙན་འཕྲིན་ཟློས་གར།</item>
+        <item>ལུས་རྩལ།</item>
+        <item>བྱིས་པ།</item>
+        <item>གསར་འགྱུར།</item>
+        <item>འཚོ་བ།</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>ཀུན་གྱིས་དོ་སྣང་བྱེད་པའི་འཁྲབ་ཚན།</item>
+        <item>གློག་བརྙན་ལེ་ཚན།</item>
+        <item>ཕྱོགས་བསྡུས་སྒྱུ་རྩལ་ལེ་ཚན།</item>
+        <item>བརྙན་འཕྲིན་ཟློས་གར།</item>
+        <item>ལུས་རྩལ་ལེ་ཚན།</item>
+        <item>བྱིས་པའི་ལེ་ཚན།</item>
+        <item>གསར་འགྱུར་ལེ་ཚན།</item>
+        <item>འཚོ་བའི་ལེ་ཚན།</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>གཟའ་ཉི་མ།</item>
+        <item>གཟའ་ཟླ་བ།</item>
+        <item>གཟའ་མིག་དམར།</item>
+        <item>གཟའ་ལྷག་པ།</item>
+        <item>གཟའ་ཕུར་བུ།</item>
+        <item>གཟའ་པ་སངས།</item>
+        <item>གཟའ་སྤེན་པ།</item>
+    </string-array>
+    <string-array name="question">
+        <item>ངའི་ཁ་པར་གྱིས་ནམ་ཡང་སྐུད་མེད་སྒྲིག་ཆས་བཤེར་འཚོལ་བྱེད་བཞིན་འདུག་པས་ཅི་བྱེད།</item>
+        <item>དྲོ་སྙོམས་ཆས་སྒོ་འབྱེད་རྒྱུ་ལས་ཁ་རྒྱག་མི་ཐུབ་དོན་ཅི་ཡིན།</item>
+        <item>ཞའོ་མཱི་3 ཧོང་མཱི། ཞའོ་མཱི2བཅས་ཀྱིས་དམར་ཕྱིའི་ཚོད་འཛིན་གྱི་བརྙན་འཕྲིན་དང་དྲོ་སྙོམས་ཆས་སོགས་སྒྲིག་ཆས་ལ་ཚོད་འཛིན་བྱེད་དམ།</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>ཚོམས་ཆེན་གྱི་ཧ་ཨེར་དྲོད་སྙོམ་ཆས་ཁ་འབྱེད།</item>
+        <item>དྲོད་ཚད་25སྙོམ་སྒྲིག</item>
+        <item>རླུང་ཕྱོགས་ཡར་ལྟོས།</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>གེ་ལེ་རླུང་འཁོར་ཁ་འབྱེད།</item>
+        <item>རླུང་འཁོར་མགོ་གཡུགས།</item>
+        <item>རླུང་ཤུགས་ཆེར་གཏོང་།</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>འཕྲུལ་རྩེ་སྒམ་ཁ་འབྱེད།</item>
+        <item>ང་ནི་ཧུའུ་ནན་སྲུང་འཕྲིན་ལྟ་འདོད།</item>
+        <item>འཕྲིན་ལམ་15ལ་བརྗེ་བ།</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>དྲོད་སྙོམ་ཆས་ཁ་འབྱེད་རོགས།</item>
+        <item>ང་ཧྲེན་དྲེན་སྲུང་འཕྲིན་ལྟ་འདོད།</item>
+        <item>འཕྲིན་ལམ་བཅུ་གཉིས་ལ་བརྗེ་བ།</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>ཉལ་ཁང་ནང་གི་བརྙན་འཕྲིན་ཁ་འབྱེད།</item>
+        <item>བརྙན་འཕྲིན་ཁ་རྒྱག</item>
+        <item>བརྙན་འཕྲིན་སྒྲ་ཚད་ཆེར་གཏོང་།</item>
+    </string-array>
+</resources>

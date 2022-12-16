@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">བསྡོམས་སྒྲིག་འཇུག་ཐུམ་%d</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$sཕབ་ལེན་བྱས་ཟིན།</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">མི%1$sལྷག་གིས་སྤྱོད་བཞིན་པ།</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">ཉིན%1$dསྔོན།</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">དུས་ཚོད%1$dསྔོན།</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">ཚོང་རྟགས་ཀྱི་རིགས་བསྡོམས་པས%d</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">སྐར་མ%1$dསྔོན་དུ།</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">ལེའུ་%dཆ་ཚང་།</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">བསྡོམས་བརྙན་ཟློས་%d</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">བརྙན་འདེབས་ངང་ལེའུ་%dགཏོང་བ།</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">བསྡོམས་གློག་བརྙན་%dརྙེད་བྱུང་།</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cookie_controls_blocked_cookies">
+        <item quantity="other">Užblokuota %d slapukų</item>
+        <item quantity="one">Užblokuotas 1 slapukas</item>
+        <item quantity="few">Užblokuoti %d slapukai</item>
+        <item quantity="many">Užblokuota %d slapuko</item>
+    </plurals>
+    <plurals name="selected_items">
+        <item quantity="other">Pasirinkta %d elementų</item>
+        <item quantity="one">Pasirinktas 1 elementas</item>
+        <item quantity="few">Pasirinkti %d elementai</item>
+        <item quantity="many">Pasirinkta %d elemento</item>
+    </plurals>
+</resources>

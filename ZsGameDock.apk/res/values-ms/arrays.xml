@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>Super Keliling</item>
+        <item>Permainan Muzik</item>
+        <item>Super Suara</item>
+        <item>Super Langkah Kaki</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Kesan keliling medan bunyi yang dipertingkatkan, mudah mengesan musuh, sesuai untuk permainan FPS</item>
+        <item>Kesan muzik permainan, sesuai untuk MOBA, permainan muzik</item>
+        <item>Suara lebih jelas dan nyata, sesuai untuk RPG, permainan papan</item>
+        <item>Tingkatkan prestasi frekuensi rendah dan jadikan permainan makan ayam lebih mudah untuk mengenali langkah kaki</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Keutamaan silver core, menyekat suhu, penggunaan kuasa minimum</item>
+        <item>Keutamaan silver core, sesuai untuk permainan mudah</item>
+        <item>Keutamaan gold core, menyekat suhu, sesuai untuk permainan 3D biasa</item>
+        <item>Keutamaan gold core, sesuai untuk permainan 3D kualiti tinggi</item>
+        <item>Gold core sahaja, prestasi maksimum dengan penggunaan kuasa maksimum juga</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Nyahdayakan</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Dimatikan</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Dimatikan</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Runut Bunyi</item>
+        <item>Loli</item>
+        <item>Wanita Dominan</item>
+        <item>Bapa Saudara</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Kelajuan Dahulu</item>
+        <item>Seimbang</item>
+        <item>Kualiti Imej Dahulu</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>SEIMBANG</item>
+        <item>TERAS SOLAR</item>
+        <item>TIDAK MUNASABAH</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Keseimbangan antara prestasi dan penggunaan kuasa, dan menyediakan penyelesaian prestasi yang seimbang untuk permainan umum</item>
+        <item>Tingkatkan prestasi telefon, sesuai untuk permainan dengan keperluan tinggi untuk kualiti imej</item>
+        <item>Prestasi unggul untuk permainan, penyejuk yang disertakan adalah disyorkan</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Mod Keseimbangan: Imbangan antara prestasi dan penggunaan kuasa, dan menyediakan penyelesaian prestasi seimbang untuk permainan umum</item>
+        <item>Mod Enjin Permainan: Memperkukuhkan prestasi telefon, sesuai untuk permainan dengan syarat yang tinggi untuk kualiti imej</item>
+        <item>Mod Ludicrous: Bawa telefon ke prestasi yang melampau, yang boleh menyebabkan telefon menjadi panas</item>
+        <item>Mode Ludicrous yang melampau: Melarang semua fungsi latar belakang untuk memastikan telefon mengekalkan prestasi puncak, yang boleh menyebabkan telefon menjadi panas dengan ketara</item>
+    </string-array>
+</resources>

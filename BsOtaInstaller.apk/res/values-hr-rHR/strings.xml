@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">Prihvaćam</string>
+    <string name="begin_use">Početak korištenja</string>
+    <string name="checKed_no_SIM_tips">U trenutnom stanju nije dostupna podatkovna mreža</string>
+    <string name="checked_SIM">Provjerite SIM karticu</string>
+    <string name="checked_Two_SIM">Postavke dvije SIM kartice</string>
+    <string name="checked_no_SIM">Nije pronađena SIM kartica</string>
+    <string name="checked_one_sim">SIM kartica pronađena</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">Odabir jezika</string>
+    <string name="choose_lock_add_fingerprint">Dodajte otisak prsta</string>
+    <string name="choose_lock_add_fingerprint_tips">Pomoću otiska prsta možete otključati zaslon te se prijaviti brzo i sigurno</string>
+    <string name="choose_lock_title">Otključavanje otiskom prsta</string>
+    <string name="cloud_le_account">Prijava putem Letv računa</string>
+    <string name="cloud_login">Prijava</string>
+    <string name="cloud_register">Registracija putem telefonskog broja</string>
+    <string name="cloud_tips">Prijavite se putem Coolpad računa kako biste sinkronizirali osobne podatke kao što su kontakti te pretražili telefon</string>
+    <string name="cloud_titile">Coolpad račun</string>
+    <string name="connect_WALN">Poveži se na WLAN</string>
+    <string name="count_down">Odbrojavanje</string>
+    <string name="experience_location_service">Usluge za lociranje</string>
+    <string name="experience_location_service_explain">Aplikaciji dopusti lociranje</string>
+    <string name="experience_plan">Program za unapređenje iskustva korisnika</string>
+    <string name="experience_plan_explain">Pomozite nam da unaprijedimo i optimiziramo iskustvo korištenja sustava</string>
+    <string name="experience_setting">Iskustvo i uvjeti</string>
+    <string name="language_shutdown_tip">"Dugo nije zabilježena aktivnost
+uređaj će se automatski isključiti
+nakon odbrojavanja"</string>
+    <string name="language_shutdown_title">Automatsko isključivanje</string>
+    <string name="language_touch_turn_off">Dodirnite za otkazivanje isključivanja</string>
+    <string name="last_step">Natrag</string>
+    <string name="mobile_move">Mobilni prijenos</string>
+    <string name="network_flow">Mrežni promet</string>
+    <string name="network_flow_tips">Pristup internetu putem mobilne mreže kada niste povezani na bežičnu mrežu</string>
+    <string name="next_step">Sljedeće</string>
+    <string name="setup_success">Postavljanje je uspjelo</string>
+    <string name="setupwizard_wifi_cancle_save">Spremanje otkazano</string>
+    <string name="setupwizard_wifi_connect">Poveži se na WLAN</string>
+    <string name="setupwizard_wifi_connected">Povezano</string>
+    <string name="setupwizard_wifi_connecting">Povezivanje...</string>
+    <string name="setupwizard_wifi_dialog_cancel">Odustani</string>
+    <string name="setupwizard_wifi_dialog_comfirm">U redu</string>
+    <string name="setupwizard_wifi_dialog_connect">Spoji</string>
+    <string name="setupwizard_wifi_dialog_disconect">Isključi</string>
+    <string name="setupwizard_wifi_dialog_hint_text">Lozinka</string>
+    <string name="setupwizard_wifi_no_tips">Nema Wi-Fi veza u dosegu</string>
+    <string name="setupwizard_wifi_saved">Spremljeno</string>
+    <string name="setupwizard_wifi_searching">Pretraživanje</string>
+    <string name="sim_identifying">Prepoznavanje...</string>
+    <string name="skip">Preskoči</string>
+    <string name="usage_agreement">Ugovor s korisnikom</string>
+    <string name="usage_policy">Pravila zaštite privatnosti</string>
+</resources>

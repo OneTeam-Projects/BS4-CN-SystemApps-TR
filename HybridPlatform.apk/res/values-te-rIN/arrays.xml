@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>చిత్రాన్ని సేవ్ చేయి</item>
+        <item>చిత్రాన్ని పంచుకోండి</item>
+        <item>రద్దు చేయి </item>
+    </string-array>
+</resources>

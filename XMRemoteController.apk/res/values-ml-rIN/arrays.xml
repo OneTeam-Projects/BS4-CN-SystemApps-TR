@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>തണുപ്പിക്കുന്നു</item>
+        <item>ചൂടാക്കുന്നു</item>
+        <item>ഈർപ്പത്തിന്റെ അളവ് കുറയ്ക്കുന്നു</item>
+        <item>ഫാൻ</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>പുരുഷൻ</item>
+        <item>സ്ത്രീ</item>
+    </string-array>
+    <string-array name="answer">
+        <item>വൈ‌-ഫൈ ഉപയോഗിച്ച് Mi TV, Mi Box എന്നിവയും ഏതാനും ആൻഡ്രോയ്ഡ് ഉപകരണങ്ങളും മാത്രമേ നിങ്ങൾക്ക് ജോടിയാക്കാൻ കഴിയൂ.</item>
+        <item>ജോടിയാക്കൽ പ്രോസസ്സിൽ നിങ്ങൾ ശരിയായ A/C മോഡലാണ് തിരഞ്ഞെടുത്തിരിക്കുന്നതെന്ന് ഉറപ്പാക്കുക. ജോടിയാക്കൽ പൂർത്തിയാകുന്നതുവരെ നിങ്ങളുടെ ഉപകരണത്തിലെ നിർദേശങ്ങൾ പാലിക്കുക.</item>
+        <item>ഇല്ല. നിലവിൽ നിങ്ങൾക്ക് IR റിമോട്ടുകളായി Mi 4, Mi 4c, Redmi നോട്ട് എന്നിവ ഉപയോഗിക്കാം.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>ഞായര്‍</item>
+        <item>തിങ്കള്‍</item>
+        <item>ചൊവ്വ</item>
+        <item>ബുധന്‍</item>
+        <item>വ്യാഴം</item>
+        <item>വെള്ളി</item>
+        <item>ശനി</item>
+    </string-array>
+    <string-array name="question">
+        <item>എന്തുകൊണ്ടാണ് എന്റെ ഫോൺ വയർലെസ്സ് ഉപകരണങ്ങൾക്കായി തിരഞ്ഞുകൊണ്ടിരിക്കുന്നത്?</item>
+        <item>എന്തുകൊണ്ടാണ് എനിക്ക് എന്റെ A/C ഓണാക്കാൻ മാത്രം കഴിയുന്നതും ഓഫാക്കാൻ കഴിയാത്തതും?</item>
+        <item>ഒരു IR റിമോട്ടായി എനിക്ക് Mi 3, Mi 2, Redmi എന്നിവ ഉപയോഗിക്കാനാവുമോ?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>ലിവിംഗ് റൂമിൽ Haier AC ഓൺ ചെയ്യുക</item>
+        <item>25 ഡിഗ്രിയിൽ താപനില സജ്ജമാക്കുക</item>
+        <item>\"മുകളിലേക്ക്\" കാറ്റിന്റെ ദിശ സജ്ജമാക്കുക</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree എസി ഓണാക്കുക</item>
+        <item>സ്വിംഗ് മോഡിലേക്ക് മാറുക</item>
+        <item>AC ബ്ലോ ഹാർഡറാക്കി മാറ്റുക</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>സെറ്റപ്പ് ബോക്സ് ഓൺ ചെയ്യുക</item>
+        <item>ഞാൻ Hunan TV കാണാനാഗ്രഹിക്കുന്നു</item>
+        <item>ചാനൽ 15-ലേക്ക് മടങ്ങിപ്പോകുക</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>എസി ഓണാക്കുക</item>
+        <item>Shenzhen ടിവി കാണാൻ ഞാൻ ആഗ്രഹിക്കുന്നു</item>
+        <item>ചാനൽ 12-ലേക്ക് മടങ്ങിപ്പോകുക</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>ബെഡ്റൂമിലെ ടിവി ഓണാക്കുക</item>
+        <item>ടിവി ഓഫുചെയ്യുക</item>
+        <item>ടിവിയിൽ ശബ്ദം കൂട്ടുക</item>
+    </string-array>
+</resources>

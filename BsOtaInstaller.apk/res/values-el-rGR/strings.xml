@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">Αποδοχή</string>
+    <string name="begin_use">Έναρξη χρήσης</string>
+    <string name="checKed_no_SIM_tips">Κανένα διαθέσιμο δίκτυο δεδομένων για τηλέφωνο στην τρέχουσα κατάσταση</string>
+    <string name="checked_SIM">Έλεγχος κάρτας SIM</string>
+    <string name="checked_Two_SIM">Ρυθμίσεις διπλής κάρτας SIM</string>
+    <string name="checked_no_SIM">Δεν βρέθηκε κάρτα SIM</string>
+    <string name="checked_one_sim">Βρέθηκε κάρτα SIM</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">Επιλογή γλώσσας</string>
+    <string name="choose_lock_add_fingerprint">Προσθήκη αποτυπώματος</string>
+    <string name="choose_lock_add_fingerprint_tips">Μπορείτε να χρησιμοποιήσετε αποτύπωμα για να ξεκλειδώσετε την οθόνη και να συνδεθείτε με ασφάλεια και γρήγορα</string>
+    <string name="choose_lock_title">Ξεκλείδωμα με αποτύπωμα</string>
+    <string name="cloud_le_account">Σύνδεση μέσω λογαριασμού Letv</string>
+    <string name="cloud_login">Σύνδεση</string>
+    <string name="cloud_register">Εγγραφή μέσω αριθμού τηλεφώνου</string>
+    <string name="cloud_tips">Σύνδεση μέσω λογαριασμού Coolpad για συγχρονισμό προσωπικών δεδομένων, όπως επαφές, και αναζήτηση τηλεφώνου</string>
+    <string name="cloud_titile">Λογαριασμός Coolpad</string>
+    <string name="connect_WALN">Σύνδεση σε WLAN</string>
+    <string name="count_down">Αντίστροφη μέτρηση</string>
+    <string name="experience_location_service">Υπηρεσίες εντοπισμού θέσης</string>
+    <string name="experience_location_service_explain">Να επιτρέπεται στην εφαρμογή ο εντοπισμός θέσης</string>
+    <string name="experience_plan">Πρόγραμμα εμπειρίας χρήστη</string>
+    <string name="experience_plan_explain">Βοηθήστε στη βελτίωση και βελτιστοποίηση της εμπειρίας συστήματος</string>
+    <string name="experience_setting">Εμπειρία και όροι</string>
+    <string name="language_shutdown_tip">"Δεν εντοπίστηκε δραστηριότητα για μεγάλο χρονικό διάστημα 
+η λειτουργία της συσκευής θα τερματιστεί αυτόματα 
+μετά την αντίστροφη μέτρηση"</string>
+    <string name="language_shutdown_title">Αυτόματος τερματισμός</string>
+    <string name="language_touch_turn_off">Πατήστε για ακύρωση τερματισμού</string>
+    <string name="last_step">Πίσω</string>
+    <string name="mobile_move">Μεταφορά δεδομένων κινητού</string>
+    <string name="network_flow">Κίνηση δικτύου</string>
+    <string name="network_flow_tips">Πρόσβαση στο Internet μέσω δικτύου κινητής τηλεφωνίας αν δεν υπάρχει συνδεδεμένο ασύρματο δίκτυο</string>
+    <string name="next_step">Επόμενο</string>
+    <string name="setup_success">Επιτυχής ρύθμιση</string>
+    <string name="setupwizard_wifi_cancle_save">Η αποθήκευση ακυρώθηκε</string>
+    <string name="setupwizard_wifi_connect">Σύνδεση σε WLAN</string>
+    <string name="setupwizard_wifi_connected">Συνδέθηκε</string>
+    <string name="setupwizard_wifi_connecting">Σύνδεση...</string>
+    <string name="setupwizard_wifi_dialog_cancel">Ακύρωση</string>
+    <string name="setupwizard_wifi_dialog_comfirm">OK</string>
+    <string name="setupwizard_wifi_dialog_connect">Σύνδεση</string>
+    <string name="setupwizard_wifi_dialog_disconect">Αποσύνδεση</string>
+    <string name="setupwizard_wifi_dialog_hint_text">Κωδικός πρόσβασης</string>
+    <string name="setupwizard_wifi_no_tips">Καμία σύνδεση Wi-Fi εντός εμβέλειας</string>
+    <string name="setupwizard_wifi_saved">Αποθηκεύτηκε</string>
+    <string name="setupwizard_wifi_searching">Αναζήτηση</string>
+    <string name="sim_identifying">Αναγνώριση...</string>
+    <string name="skip">Παράλειψη</string>
+    <string name="usage_agreement">Συμφωνία χρήστη</string>
+    <string name="usage_policy">Πολιτική απορρήτου</string>
+</resources>

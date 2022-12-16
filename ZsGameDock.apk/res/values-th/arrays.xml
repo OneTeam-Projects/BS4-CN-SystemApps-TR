@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>เกม DTS</item>
+        <item>เวลาแฝงระดับต่ำ</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>ซุเปอร์เซอร์ราวด์</item>
+        <item>ดนตรีเกม</item>
+        <item>ซุเปอร์เสียง</item>
+        <item>ซุเปอร์รอยเท้า</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>ยกระดับเอฟเฟกต์เซอร์ราวด์สนามเสียง ค้นหาศัตรูง่าย เหมาะสำหรับเกมประเภท FPS</item>
+        <item>เอฟเฟกต์ดนตรีเกม เหมาะสำหรับเกม MOBA เกมดนตรี</item>
+        <item>เสียงชัดและสมจริงขึ้น เหมาะสำหรับเกม RPG เกมกระดาน</item>
+        <item>ปรับปรุงการปฏิบัติงานความถี่ต่ำและทำให้เกมกินไก่ง่ายขึ้นในการจดจำรอยเท้า</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>ลำดับ Silver core ก่อน, จำกัดอุณหภูมิ, การใช้พลังงานแบตเตอรีขั้นต่ำ</item>
+        <item>ลำดับ Silver core ก่อน, เหมาะสำหรับเกมธรรมดา</item>
+        <item>ลำดับ Gold core ก่อน, จำกัดอุณหภูมิ, เหมาะสำหรับเกมสามมิติทั่วไป</item>
+        <item>ลำดับ Gold core ก่อน, เหมาะสำหรับเกมสามมิติคุณภาพสูง</item>
+        <item>Gold core เท่านั้น, ผลปฏิบัติการสูงสุดและใช้พลังงานแบตเตอรีสูงสุด</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>ปิดใช้งาน</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>ปิด</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>ปิด</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>ดนตรีประกอบ</item>
+        <item>โลลิ</item>
+        <item>หญิงจอมบงการ</item>
+        <item>ลุง</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>เร็วไว้ก่อน</item>
+        <item>สมดุล</item>
+        <item>คุณภาพของภาพก่อน</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>BALANCE</item>
+        <item>SOLARCORE</item>
+        <item>LUDICROUS</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>ความสมดุลระหว่างการปฏิบัติงานและการใช้พลังงานและให้ผลลัพธ์การปฏิบัติงานที่สมดุลสำหรับเกมทั่วไป</item>
+        <item>เพิ่มความแข็งแกร่งให้กับการปฏิบัติงานของโทรศัพท์ เหมาะสำหรับเกมที่มีความต้องการของคุณภาพของภาพสูง</item>
+        <item>การปฏิบัติงานขั้นสูงสุดสำหรับเกม แนะนำให้ติดตั้งคูลเลอร์</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>โหมดสมดุล: สมดุลระหว่างประสิทธิภาพและการใช้พลังงานและมอบโซลูชันประสิทธิภาพที่สมดุลสำหรับเกมทั่วไป</item>
+        <item>โหมด Game Engine: เสริมประสิทธิภาพของโทรศัพท์เหมาะสำหรับเกมที่ต้องการคุณภาพของภาพสูง</item>
+        <item>โหมด Ludicrous: นำโทรศัพท์ไปสู่ประสิทธิภาพสูงสุดซึ่งอาจทำให้โทรศัพท์ร้อนขึ้นอย่างเห็นได้ชัด</item>
+        <item>โหมด Ludicrous มาก: ห้ามฟังก์ชั่นพื้นหลังทั้งหมดเพื่อให้โทรศัพท์รักษาประสิทธิภาพสูงสุดซึ่งอาจทำให้โทรศัพท์ร้อนขึ้นอย่างมีนัยสำคัญ</item>
+    </string-array>
+</resources>

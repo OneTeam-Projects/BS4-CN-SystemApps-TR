@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="control_about_describe_detail">
+        <item>操控中心-左侧压感</item>
+        <item>黑鯊时刻-AI录制</item>
+        <item>外设-手柄、键盘、鼠标</item>
+        <item>游戏助手-智能魔方</item>
+        <item>游戏助手-辅助线</item>
+    </string-array>
+    <string-array name="control_about_describe_detail_penrose">
+        <item>黑鯊时刻-AI录制</item>
+        <item>外设-手柄、键盘、鼠标</item>
+        <item>游戏助手-智能魔方</item>
+        <item>游戏助手-辅助线</item>
+    </string-array>
+    <string-array name="control_function_teaching_title1_describe">
+        <item>平板模式，是通过改变游戏画幅比例，来获得更大游戏视野，具有独特的游戏操控体验。独有的手柄区域可以扩展更多的按键映射功能，虚拟按键可以自定义数量、位置，画面映射区域更是随心拖动和调节。</item>
+    </string-array>
+    <string-array name="control_function_teaching_title2_describe">
+        <item>点击手柄区域右下角的“编辑按钮”即可显示设置管理的入口</item>
+        <item>再次点击“编辑按钮”则隐藏映射位置及设置管理入口</item>
+    </string-array>
+    <string-array name="control_function_teaching_title3_describe">
+        <item>点击设置管理界面上的“按键管理”进入手柄区域-按键管理界面</item>
+        <item>在手柄区域内长按并拖动轮盘或按键可以进行轮盘和按键的位置互换</item>
+        <item>可以通过点击开关来停止/启用X键、Y键、轮盘压感</item>
+        <item>可以通过滑动调节器来调节轮盘压感力度</item>
+    </string-array>
+    <string-array name="control_function_teaching_title3_describe_penrose">
+        <item>点击设置管理界面上的“按键管理”进入手柄区域-按键管理界面</item>
+        <item>在手柄区域内长按并拖动轮盘或按键可以进行轮盘和按键的位置互换</item>
+        <item>可以通过点击开关来停止/启用X键、Y键</item>
+    </string-array>
+    <string-array name="control_function_teaching_title4_describe">
+        <item>在手柄区域内长按轮盘或按键后出现限制边框</item>
+        <item>长按并拖动轮盘时可以在指定范围内移动位置，向下拖动超出指定范围时则与按键位置进行互换调整</item>
+        <item>长按并拖动按键时则可以直接与轮盘调换位置</item>
+    </string-array>
+    <string-array name="control_function_teaching_title5_describe">
+        <item>点击设置管理界面上的“映射管理”进入游戏-映射管理界面</item>
+        <item>在游戏界面拖动轮盘或“X”、“Y”、“LS”图标可以调整映射位置</item>
+    </string-array>
+    <string-array name="control_function_teaching_title5_describe_penrose">
+        <item>点击设置管理界面上的“映射管理”进入游戏-映射管理界面</item>
+        <item>在游戏界面拖动轮盘或“X”、“Y”图标可以调整映射位置</item>
+    </string-array>
+    <string-array name="control_tutorial_title1_describe">
+        <item>左侧为虚拟手柄区域，右侧为游戏画面区域</item>
+        <item>虚拟手柄区域可以自定义按键类型、数量以及位置</item>
+        <item>游戏画面有三种比例可以切换</item>
+    </string-array>
+    <string-array name="control_tutorial_title2_describe">
+        <item>通过点击游戏卡片右上角的图标，可以切换游戏画面比例，切换后需重新启动游戏才可生效</item>
+    </string-array>
+    <string-array name="control_tutorial_title3_describe1">
+        <item>较宽：左侧虚拟手柄最多支持两个虚拟按键，右侧游戏画面较宽，额外增加的纵向视野相对较小</item>
+    </string-array>
+    <string-array name="control_tutorial_title3_describe2">
+        <item>适中：左侧虚拟手柄最多支持四个虚拟按键，右侧游戏画面宽度适中，额外增加的纵向视野较大</item>
+    </string-array>
+    <string-array name="control_tutorial_title3_describe3">
+        <item>较窄：左侧虚拟手柄最多支持四个虚拟按键，右侧游戏画面宽度较窄，额外增加的纵向视野最大</item>
+    </string-array>
+    <string-array name="control_tutorial_title4_describe">
+        <item>点击手柄区域右下角的“编辑”按钮即可进入按键管理和映射管理界面</item>
+        <item>按键类型为“按钮”的情况下，单击对应按钮即可启动或停用</item>
+        <item>拖动左侧区域按键可以自定义按键位置</item>
+    </string-array>
+    <string-array name="control_tutorial_title5_describe">
+        <item>映射板是左侧虚拟手柄区域的一种操作按键，支持整块区域的点击</item>
+        <item>进入按键管理界面后，选择按键类型为“映射板”即切换成功</item>
+        <item>拖动左侧区域映射板可以自定义位置</item>
+    </string-array>
+    <string-array name="game_time_tips">
+        <item>别人都还在睡觉，而你已经肝到天亮</item>
+        <item>早上必须来一把游戏醒醒脑</item>
+        <item>吃饭还是玩游戏，这是个问题</item>
+        <item>下午必须来一把游戏提提神</item>
+        <item>白天辛苦忙碌就是为了晚上能痛快玩游戏啊！</item>
+        <item>深夜爆肝，娱乐的同时还是要注意身体哦～</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>凌晨4:00-7:00</item>
+        <item>上午7:00-11:00</item>
+        <item>中午11:00-14:00</item>
+        <item>下午14:00-18:00</item>
+        <item>晚上18:00-22:00</item>
+        <item>半夜22:00-4:00</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+</resources>

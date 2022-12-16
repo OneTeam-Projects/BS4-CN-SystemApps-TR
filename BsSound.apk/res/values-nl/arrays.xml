@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dtsMusicStyle">
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Fusion</item>
+        <item>Klassiek</item>
+        <item>Bruce</item>
+        <item>Elektronische muziek</item>
+        <item>Country</item>
+        <item>Dance</item>
+        <item>Aangepast</item>
+    </string-array>
+    <string-array name="dts_sound_mode">
+        <item>Algemeen</item>
+        <item>Muziek</item>
+        <item>Video</item>
+        <item>Spraak</item>
+        <item>Stereo-surround</item>
+        <item>Game-muziek</item>
+        <item>Menselijke verbetering</item>
+        <item>Voetstapintensivering</item>
+    </string-array>
+</resources>

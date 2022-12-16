@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">"Żid frażijiet li jintużaw ta' spiss"</string>
+    <string name="delete_frequent_phrases">"Ħassar il-frażijiet li jintużaw ta' spiss"</string>
+    <string name="delete_frequent_phrases_confirm">"Trid tħassar dal-frażijiet li jintużaw ta' spiss?"</string>
+    <string name="edit_frequent_phrases">"Ibdel il-frażijiet li jintużaw ta' spiss"</string>
+    <string name="frequent_phrases_des">"Daħħal il-frażijiet li jintużaw ta' spiss bi ftit għafsiet waqt li tkun qed tirranġa t-test"</string>
+    <string name="frequent_phrases_size_exceeded">"Tista' żżid sa %1$d frażijiet li jintużawt ta' spiss. Ħassar dawk m'għandekx bżonn iktar biex iżżid oħrajn."</string>
+    <string name="menu_add_frequent_phrases">Żid</string>
+    <string name="menu_delete">Ħassar</string>
+    <string name="menu_edit">Ibdel</string>
+    <string name="sync_phrase_label">"Frażijiet li jintużaw ta' spiss"</string>
+</resources>

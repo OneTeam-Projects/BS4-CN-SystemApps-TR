@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APK-a</item>
+        <item quantity="one">%d APK</item>
+        <item quantity="few">%d APK-a</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s преузето</item>
+        <item quantity="one">%1$s преузето</item>
+        <item quantity="few">%1$s преузето</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s корисника</item>
+        <item quantity="one">%1$s корисник</item>
+        <item quantity="few">%1$s корисника</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d данa раније</item>
+        <item quantity="one">%1$d дан раније</item>
+        <item quantity="few">%1$d данa раније</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d сати раније</item>
+        <item quantity="one">%1$d сат раније</item>
+        <item quantity="few">%1$d сати раније</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d брендова доступних</item>
+        <item quantity="one">1 бренд је доступан</item>
+        <item quantity="few">%d брендова доступних</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">пре %1$d мин</item>
+        <item quantity="one">пре %1$d мин</item>
+        <item quantity="few">пре %1$d мин</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d епизода</item>
+        <item quantity="one">%d епизода</item>
+        <item quantity="few">%d епизоде</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d видео записa</item>
+        <item quantity="one">%d видео запис</item>
+        <item quantity="few">%d видео записa</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">Репродукуј епизоду %d</item>
+        <item quantity="one">Репродукуј епизоду %d</item>
+        <item quantity="few">Репродукуј епизоду %d</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">Пронађен %d видео записa</item>
+        <item quantity="one">Пронађен %d видео запис</item>
+        <item quantity="few">Пронађен %d видео записa</item>
+    </plurals>
+</resources>

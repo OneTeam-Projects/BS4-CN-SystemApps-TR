@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_type">
+        <item>超小</item>
+        <item>小號</item>
+        <item>預設大小</item>
+        <item>大號</item>
+        <item>超大</item>
+        <item>巨無霸</item>
+    </string-array>
+    <string-array name="welcome_tips">
+        <item>你好</item>
+        <item>我是小愛智慧助手，本次通話由我幫主人接聽</item>
+    </string-array>
+</resources>

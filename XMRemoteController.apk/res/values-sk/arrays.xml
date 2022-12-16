@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Chladenie</item>
+        <item>Kúrenie</item>
+        <item>Odvlhčovanie</item>
+        <item>Ventilátor</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Vaše zariadenie môžete spárovať len s Mi TV, Mi Box a zopár inými Android zariadeniami pomocou Wi-Fi.</item>
+        <item>Uistite sa, že ste vybrali správny model klimatizácie v procese párovania. Postupujte podľa pokynov v zariadení, kým sa párovanie nedokončí.</item>
+        <item>Nie. V súčasnosti môžete používať ako IR diaľkové len Mi 4, Mi 4c a Redmi Note 2.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Str</item>
+        <item>Štv</item>
+        <item>Pia</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="question">
+        <item>Prečo môj telefón neustále vyhľadáva bezdrôtové zariadenia?</item>
+        <item>Prečo môžem iba zapnúť klimatizáciu, ale nie vypnúť?</item>
+        <item>Môžem použiť Mi 3, Mi 2 a Redmi ako IR diaľkové ovládanie?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Zapnúť klimatizáciu Haier v obývačke</item>
+        <item>Nastaviť teplotu na 25 stupňov</item>
+        <item>Nastavte smer vetra na „Hore“</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Zapnúť klimatizáciu Gree</item>
+        <item>Prepnúť do režimu natáčania</item>
+        <item>Nastavte ventilátor klimatizácie silnejšie</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Zapnite set-top box</item>
+        <item>Chcem sledovať Hunan TV</item>
+        <item>Prejdite späť na 15. kanál</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Zapnúť klimatizáciu</item>
+        <item>Chcem sledovať Shenzhen TV</item>
+        <item>Prejdite späť na 12. kanál</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Zapnite televíziu v spálni</item>
+        <item>Vypnite televíziu</item>
+        <item>Zvýšte hlasitosť na TV</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alarm_headsup_bottom">黑鲨手机抢红包就是快</string>
+    <string name="app_behavior_about_content_no_link">为保护⽤户的隐私数据安全，JOYUI系统将显示系统及第三⽅应⽤的链式启动、⾃启动、权限调⽤及敏感⾏为记录，由于安卓系统原因，该记录可能出现误差，若您发现系统记录错误，请通过“服务与反馈”向我们提交错误内容，帮助我们改正记录准确率。</string>
+    <string name="app_error_tip_for_launcher">因未适配您的黑鲨手机新硬件或Android版本，可能会在运行时出现卡顿、闪退等异常情况，如在运行中发现风问题请反馈至应用开发商</string>
+    <string name="app_error_tip_for_store">因未适配您的黑鲨手机新硬件或Android版本，可能会无法安装，或在运行时出现卡顿、闪退等异常情况，建议等待应用开发商解决此问题后安装</string>
+    <string name="apps_item_sign_dialog_content">\"%s\"应用签名与应用市场官方版不同，是否删除原应用，并安装该应用官方版？注意：因安卓签名机制，安装不同签名应用会导致原应用本地数据丢失，请谨慎选择。</string>
+    <string name="declaration_dialog_msg">黑鲨手机会监控手机流量使用情况，展示的结果仅供用户参考使用，由于各运营商实际流量计算的标准以及用户选择的流量的套餐情况各不相同和运营商计费延迟等原因，其数值不可作为与运营商对账的凭据，流量使用值须以运营商实际出账数据值为准。</string>
+    <string name="dialog_msg_auto_start_declare">JOYUI从系统底层管理应用的自启动行为，一些安全软件会错误显示被JOYUI禁止的应用可以自启动，请以JOYUI的显示为准。</string>
+    <string name="float_window_tips">黑鲨手机就是快！</string>
+    <string name="hongbao_message_slogon">黑鲨手机就是快!</string>
+    <string name="local_ip_exception_summary">本地IP测试失败,请到用户反馈App或JOYUI论坛上传Log,以便开发人员解决该问题</string>
+    <string name="optimize_result_summary_system_default_settings">使用JOYUI提供的基础应用，系统将更加安全、稳定</string>
+    <string name="power_save_ps_close_setting_3">停用耗电设置(%1$s、%2$s、%3$s、息屏时网络连接等)</string>
+    <string name="power_save_ps_close_setting_4">停用耗电设置(%1$s、%2$s、%3$s%4$s、息屏时网络连接等)</string>
+    <string name="power_save_ps_close_setting_5">停用耗电设置(%1$s、%2$s、%3$s、%4$s、%5$s、息屏时网络连接等)</string>
+    <string name="power_save_ps_close_setting_6">停用耗电设置(%1$s、%2$s、%3$s、%4$s、%5$s、%6$s、息屏时网络连接等)</string>
+    <string name="power_save_ps_close_setting_7">停用耗电设置(%1$s、%2$s、%3$s、%4$s、%5$s、%6$s、%7$s、息屏时网络连接等)</string>
+    <string name="power_save_ps_close_setting_fingeraod" />
+    <string name="pref_summary_upload_data_usage">上报剩余流量与流量排行信息，用以提升JOYUI产品和服务。整个过程中将遵循JOYUI隐私政策。</string>
+    <string name="privacy_dialog_camera_message">为保护您的个人隐私信息安全，JOYUI已全面禁止后台拍照行为，防止出现恶意应用在后台进行偷拍的情况。</string>
+    <string name="privacy_dialog_danger_mission_message">在安卓设备中，存在“通知使用权”、“使用情况访问权限”等多种高度敏感权限，JOYUI将在应用申请此类权限时增加询问及拦截，防止您的个人隐私信息被窃取和泄露。</string>
+    <string name="privacy_mask_summary">JOYUI将向已安装的应用提供虚拟身份ID(OAID)代替您的设备唯一身份ID，保护您的个人隐私信息及行为数据</string>
+    <string name="protocol_loop_back_exception_summary">本地环回测试失败,请到用户反馈App或JOYUI论坛上传Log,以便开发人员解决该问题</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>诊断结果：诊断失败&lt;br/>&lt;br/>上报信息，帮助JOYUI完善校正引擎&lt;/font>"</string>
+    <string name="tc_diagnostic_success_notification_summary">上报信息，帮助JOYUI完善诊断引擎</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>诊断结果：运营商及品牌设置正确&lt;br/>&lt;br/>校正失败的原因可能包含：&lt;br/>1. 月初月末运营商统计不稳定&lt;br/>2. 网络助手模板更新不及时&lt;br/>&lt;br/>上报信息，帮助JOYUI完善校正引擎&lt;/font>"</string>
+    <string name="tc_sms_report_receive_content_null">如果您希望帮助网络助手改进校正成功率&lt;br/>将运营商短信反馈给JOYUI，请按以下步骤操作:&lt;br/>1. 确认“查询指令”与“发送到号码”无误&lt;br/>2. 点击“获取校正短信”&lt;br/>3. 等待运营商短信&lt;br/>4. 点击“上报短信”</string>
+    <string name="third_desktop_dialog_content">由于使用第三方桌面应用可能造成数据泄漏、耗电异常、运行卡顿等问题，目前仅支持设置JOYUI官方认证过的三方应用为默认桌面。</string>
+</resources>

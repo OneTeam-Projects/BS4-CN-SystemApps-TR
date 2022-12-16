@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>Keadaan rangkaian semasa cemerlang</item>
+        <item>Rangkaian data mudah alih lemah, adalah disarankan untuk bertukar ke WLAN</item>
+        <item>Rangkaian WLAN lemah, adalah disarankan untuk bertukar ke data mudah alih</item>
+        <item>Isyarat semasa tidak stabil. Sila cuba untuk beralih atau sesuaikan kedudukan pegangan telefon bimbit.</item>
+        <item>Status rangkaian semasa adalah normal</item>
+        <item>Tiada</item>
+    </string-array>
+</resources>

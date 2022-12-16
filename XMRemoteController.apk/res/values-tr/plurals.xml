@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APK</item>
+        <item quantity="one">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s indirilme</item>
+        <item quantity="one">%1$s indirilme</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s kullanıcı</item>
+        <item quantity="one">%1$s kullanıcı</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d gün önce</item>
+        <item quantity="one">%1$d gün önce</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d saat önce</item>
+        <item quantity="one">%1$d saat önce</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d marka uygun</item>
+        <item quantity="one">1 marka uygun</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d dakika önce</item>
+        <item quantity="one">%1$d dakika önce</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d bölüm</item>
+        <item quantity="one">%d bölüm</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">%d. bölümü oynat</item>
+        <item quantity="one">%d. bölümü oynat</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">%d video bulundu</item>
+        <item quantity="one">%d video bulundu</item>
+    </plurals>
+</resources>

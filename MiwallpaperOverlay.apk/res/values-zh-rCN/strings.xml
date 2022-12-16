@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="earth_summary">人类历史与文明的起点</string>
+    <string name="earth_title">地球家园</string>
+    <string name="geometry_summary">光影与材质的空间之旅</string>
+    <string name="geometry_title">几何</string>
+    <string name="mars_summary">承载人类好奇心的沙漠星球</string>
+    <string name="mars_title">红色火星</string>
+    <string name="saturn_summary">探索未知宇宙的新一站</string>
+    <string name="saturn_title">土星环</string>
+</resources>

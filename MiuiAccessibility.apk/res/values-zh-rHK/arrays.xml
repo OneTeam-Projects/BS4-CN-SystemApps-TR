@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_source_entries">
+        <item>麥克風聲音</item>
+        <item>系統內錄</item>
+    </string-array>
+</resources>

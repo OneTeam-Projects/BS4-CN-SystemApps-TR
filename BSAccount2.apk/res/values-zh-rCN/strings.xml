@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">转到首页</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 键</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 键</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">空格键</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享对象</string>
+    <string name="abc_shareactionprovider_share_with_application">与%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="collect_diagnosis_log">收集诊断日志</string>
+    <string name="diagnosis_log_send_failed">诊断日志发送失败，请稍后重试</string>
+    <string name="diagnosis_log_sent_format">"诊断日志发送成功！
+诊断编号：%s
+请把诊断编号发送给技术人员"</string>
+    <string name="for_diagnosis_usage_only">说明: 日志信息仅作为诊断使用</string>
+    <string name="ok">好的</string>
+    <string name="passport_oauth_actionbar_title">小米帐号</string>
+    <string name="passport_oauth_sucess_tip">授权成功</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="send_diagnosis_log">发送诊断日志</string>
+    <string name="sending">发送中…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="temporary_not_available">功能暂未开启</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>କୁଲିଙ୍ଗ</item>
+        <item>ହିଟିଂ</item>
+        <item>ଡିହୁମିଡିଫାଇଙ୍ଗ୍</item>
+        <item>ଫ୍ୟାନ୍‌</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>ପୁରୁଷ</item>
+        <item>ମହିଳା</item>
+    </string-array>
+    <string-array name="answer">
+        <item>ଆପଣଙ୍କ ଡିଭାଇସ Mi ଟିଭି, Mi ବାକ୍ସ ଏବଂ ଅନ୍ୟ କେତେ Android ଡିଭାଇସଗୁଡ଼ିକରେ Wi-Fi ବ୍ୟବହାର କରି ପେଆର କରିପାରିବ|</item>
+        <item>ସୁନିଶ୍ଚିତ ହୁଅନ୍ତୁ ଯେ ଆପଣ ସଠିକ୍ A/C ମଡେଲ୍‌ ପେଆରିଂ ପ୍ରକ୍ରିୟାରେ ଟୟନ କରିଛନ୍ତି|ପେଆରିଂ ସମ୍ପୂର୍ଣ୍ଣ ହେବା ଯାଏ ପ୍ରମ୍ପ୍ଟ ଅନୁସରଣ କରନ୍ତୁ|</item>
+        <item>ନା|ବର୍ତ୍ତମାନ ଆପଣ Mi 4, Mi 4C, ଏବଂ Redmi Note 2 IR ରିମୋଟ୍ ଭାବରେ ବ୍ୟବହାର କରିପାରିବେ|</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>ରବି</item>
+        <item>ସୋମ</item>
+        <item>ମଙ୍ଗଳ</item>
+        <item>ବୁଧ</item>
+        <item>ଗୁରୁ</item>
+        <item>ଶୁକ୍ର</item>
+        <item>ଶନି</item>
+    </string-array>
+    <string-array name="question">
+        <item>ମୋ ଫୋନ୍ କାହିଁକି ୱେୟାର୍‌ଲେସ୍‍ ଡିଭାଇସଗୁଡ଼ିକ ବିଷୟରେ ସନ୍ଧାନ କରିଥାଏ?</item>
+        <item>ମୁଁ କାହିଁକି ମୋ A/C ଚାଲୁ କରିପାରିବି ଏବଂ କାହିଁକି ବନ୍ଦ କରିପାରିବି ନାହିଁ?</item>
+        <item>ମୁଁ Mi 3, Mi 2 ଏବଂ Redmi IR ରିମୋଟ୍ ଭାବରେ ବ୍ୟବହାର କରିପାରିବି କି?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>ଲିଭିଂ ରୁମରେ Haier AC ଚାଲୁ କରନ୍ତୁ</item>
+        <item>ତାପମାତ୍ରାକୁ 25 ଡିଗ୍ରୀରେ ସେଟ୍ କରନ୍ତୁ</item>
+        <item>ପବନର ଦିଗକୁ \"ଉପର\" ଆଡ଼କୁ ସେଟ କରନ୍ତୁ</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree AC ଚାଲୁ କରନ୍ତୁ</item>
+        <item>ଦେଳନ ମୋଡକୁ ସୁଇଚ କରନ୍ତୁ</item>
+        <item>ACକୁ ଟିକେ ଜୋରରେ ଚଲାନ୍ତୁ</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>ସେଟ-ଟପ୍ ବାକ୍ସ ଚାଲୁ କରନ୍ତୁ</item>
+        <item>ମୁଁ Hunan ଟିଭି ଦେଖିବାକୁ ଚାହେଁ</item>
+        <item>ଚ୍ୟାନାଲ 15କୁ ଯାଆନ୍ତୁ</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>AC ଚାଲୁ କରନ୍ତୁ</item>
+        <item>Shenzhen ଟିଭି ମୁଁ ଦେଖିବାକୁ ଚାହେଁ</item>
+        <item>ଚ୍ୟାନାଲ 12କୁ ଯାଆନ୍ତୁ</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>ଶୋଇବାଘରେ ଟିଭି ଚାଲୁ କରନ୍ତୁ</item>
+        <item>ଟିଭି ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ଟିଭିରେ ଭଲ୍ୟୁମ ଟର୍ନ ଅପ କରନ୍ତୁ</item>
+    </string-array>
+</resources>

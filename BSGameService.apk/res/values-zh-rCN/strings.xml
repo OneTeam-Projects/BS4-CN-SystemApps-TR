@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">转到首页</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 键</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 键</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">空格键</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享对象</string>
+    <string name="abc_shareactionprovider_share_with_application">与%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="account_login_protocol">请认真阅读并同意黑鲨系统帐号《用户协议》和《隐私条款》，同意后可开始使用我们的服务</string>
+    <string name="account_password_mismatch">用户名密码不匹配</string>
+    <string name="agree">同意</string>
+    <string name="app_name">黑鲨游戏服务</string>
+    <string name="bind_success">绑定成功</string>
+    <string name="black_shark_service_agreement">用户协议</string>
+    <string name="black_vip">黑卡</string>
+    <string name="bs_account_login">登录黑鲨帐号，可享受更多游戏福利！</string>
+    <string name="btn_login">登录</string>
+    <string name="btn_re_req_sms">重新获取</string>
+    <string name="btn_req_sms">获取验证码</string>
+    <string name="btn_submit">确认</string>
+    <string name="cancel_login">取消</string>
+    <string name="certification_provided_by">认证服务由%s提供</string>
+    <string name="change_account">切换帐号</string>
+    <string name="change_account_title">使用黑鲨帐号登录游戏</string>
+    <string name="china_mobile">中国移动</string>
+    <string name="china_telecom">中国电信</string>
+    <string name="china_unicom">中国联通</string>
+    <string name="choose_email_client">请选择邮件发送软件</string>
+    <string name="code_last_time">今日最后一份验证码，请收好!</string>
+    <string name="code_one_time">今日仅剩1次获取验证码的机会</string>
+    <string name="code_two_time">今日仅剩2次获取验证码的机会</string>
+    <string name="collect_diagnosis_log">收集诊断日志</string>
+    <string name="confirm">确认</string>
+    <string name="consumer_rebate_operate_title">消费返利</string>
+    <string name="continue_to_login">继续登录</string>
+    <string name="coupon_amount_title">您的%s元券有效期仅剩</string>
+    <string name="coupon_expired_end_date">有效期至：%s</string>
+    <string name="coupon_for_platform">平台优惠券</string>
+    <string name="coupon_gift_operate_title">新福利</string>
+    <string name="coupon_max_discount_info" formatted="false">可减%s元，最多减%s元：</string>
+    <string name="coupon_rule_arbitrary">任意金额可用</string>
+    <string name="coupon_rule_specify">满%s可用</string>
+    <string name="coupon_use_available">%d张可用优惠券</string>
+    <string name="coupon_use_not_select_vip_set">选择会员套餐后才可使用黑卡券</string>
+    <string name="coupon_use_scope">使用范围：%s</string>
+    <string name="diagnosis_log_send_failed">诊断日志发送失败，请稍后重试</string>
+    <string name="diagnosis_log_sent_format">"诊断日志发送成功！
+诊断编号：%s
+请把诊断编号发送给技术人员"</string>
+    <string name="disagree">不同意</string>
+    <string name="do_not_notice_anymore_this_term">本期不再提示</string>
+    <string name="fetching_pay_channels">加载中...</string>
+    <string name="for_diagnosis_usage_only">说明: 日志信息仅作为诊断使用</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="hint_first_login">首次登录会创建黑鲨帐号</string>
+    <string name="hint_mobile">请输入手机号码</string>
+    <string name="hint_password">请输入帐号密码</string>
+    <string name="hint_verification_code">请输入验证码</string>
+    <string name="install_app_first">请先安装应用</string>
+    <string name="internal_err">内部错误</string>
+    <string name="invalid_configuration">配置无效，请稍后重试</string>
+    <string name="invalid_login_info">手机号或验证码有误</string>
+    <string name="invalid_numbers">手机号码格式有误</string>
+    <string name="invalid_phone_or_password">手机号或密码有误</string>
+    <string name="invalid_verification_code">验证码有误</string>
+    <string name="link_phone">绑定手机号码</string>
+    <string name="logged_in">登录成功</string>
+    <string name="logging">登录中...</string>
+    <string name="logging_in_in">正在进入登录…</string>
+    <string name="login_by_password">帐号密码登录</string>
+    <string name="login_by_password_or_register">短信登录/注册</string>
+    <string name="login_canceled">取消登录</string>
+    <string name="login_expired">登录过期</string>
+    <string name="login_failed">登录失败</string>
+    <string name="login_shark">登录黑鲨帐号</string>
+    <string name="marquee_detail">查看详情</string>
+    <string name="need_permission">黑鲨游戏服务需要浮窗权限才能正常运行</string>
+    <string name="network_error">网络请求失败，请检查您的网络设置</string>
+    <string name="network_error_try_later">网络错误，请稍后重试</string>
+    <string name="no_this_apk">未安装应用</string>
+    <string name="not_login">未登录</string>
+    <string name="ok">好的</string>
+    <string name="other_accounts">其他帐号</string>
+    <string name="other_login_way">其他登录方式</string>
+    <string name="other_phone_to_login">其他手机号码登录</string>
+    <string name="parameters_error">参数错误</string>
+    <string name="passport_oauth_actionbar_title">小米帐号</string>
+    <string name="passport_oauth_sucess_tip">授权成功</string>
+    <string name="pay_cancel">支付取消</string>
+    <string name="pay_cancel_btn_cancel">取消支付</string>
+    <string name="pay_cancel_btn_continue">继续支付</string>
+    <string name="pay_cancel_btn_quit_discount">放弃优惠</string>
+    <string name="pay_cancel_dialog_title">确认取消支付？</string>
+    <string name="pay_fail">支付失败</string>
+    <string name="pay_failed_invalid_params">支付参数无效</string>
+    <string name="pay_failed_not_login">支付检查登录失败</string>
+    <string name="pay_success">支付成功</string>
+    <string name="payment_feedback">立即反馈</string>
+    <string name="permission_cancel">取消</string>
+    <string name="permission_reject_result">您拒绝了权限，将无法获取游戏福利</string>
+    <string name="permission_sms">应用需要读取短信权限，请去设置页面更改应用的授权</string>
+    <string name="permission_sms_need">应用需要读取短信权限</string>
+    <string name="permission_storage_desc">用于问题反馈功能</string>
+    <string name="phone_already_bounded">手机号码已被绑定</string>
+    <string name="policy">已阅读并同意黑鲨系统帐号用户协议和隐私条款</string>
+    <string name="price_subtotal">小计：</string>
+    <string name="privacy_alignment" formatted="false">"已阅读并同意黑鲨系统帐号%1s和%2s
+以及%3s"</string>
+    <string name="privacy_policy">隐私条款</string>
+    <string name="querying_order_status">正在查询订单状态，请稍候...</string>
+    <string name="read_and_agree_protocol">请阅读并勾选服务协议</string>
+    <string name="reject">拒绝</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="select_pay_way_please">请选择支付方式</string>
+    <string name="send_diagnosis_log">发送诊断日志</string>
+    <string name="sending">发送中…</string>
+    <string name="server_error">服务器错误</string>
+    <string name="shark_purchase_title">订单支付</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_readme"><b>说明：</b><small>咨询客服QQ群:2794805745； 或者详见游戏公告。</small></string>
+    <string name="temporary_not_available">功能暂未开启</string>
+    <string name="text_coupon">优惠券</string>
+    <string name="text_coupon_select">完成</string>
+    <string name="text_disabled_coupons">不可用优惠券</string>
+    <string name="text_max_saved_pay">最高可减%s元</string>
+    <string name="text_networt_error">网络不可用，请重新检查网络</string>
+    <string name="text_no_coupon">本笔订单无可用优惠券</string>
+    <string name="text_set_discount_month_new" formatted="false">新客优惠首月%s元，自动续费次月起%s元/月，可随时取消</string>
+    <string name="text_set_discount_month_time" formatted="false">限时优惠首月%s元，自动续费次月起%s元/月，可随时取消</string>
+    <string name="text_set_discount_season_new" formatted="false">限时优惠首季%s元，自动续费次季起%s元/季，可随时取消</string>
+    <string name="text_set_discount_season_time" formatted="false">限时优惠首季%s元，自动续费次季起%s元/季，可随时取消</string>
+    <string name="text_set_discount_year_new" formatted="false">限时优惠首年%s元，自动续费次年起%s元/年，可随时取消</string>
+    <string name="text_set_discount_year_time" formatted="false">限时优惠首年%s元，自动续费次年起%s元/年，可随时取消</string>
+    <string name="text_verify_app_error">非法接入的游戏，拒绝访问</string>
+    <string name="text_vip_answer">"1、开通黑卡会员的同时可使用一张“黑卡券”
+2、优惠券不找零，请尽量购买大于优惠金额的商品"</string>
+    <string name="token_expired">授权已过期，请重新登录</string>
+    <string name="too_many_req">今日获取验证码已达上限</string>
+    <string name="unknown">未知</string>
+    <string name="use_immediately">立即使用</string>
+    <string name="user_agreement_description">已阅读并同意黑鲨系统帐号《用户协议》和《隐私条款》，及黑鲨游戏《用户协议》和《隐私条款》</string>
+    <string name="user_instructions">用户须知</string>
+    <string name="user_login_agreement">请认真阅读并同意黑鲨系统帐号《用户协议》和《隐私条款》，及黑鲨游戏《用户协议》和《隐私条款》，同意后可开始使用我们的服务</string>
+    <string name="verification_code_error">验证码错误</string>
+    <string name="verification_code_sent">验证码已发送，请注意查收</string>
+    <string name="vip_button_continue">继续开通</string>
+    <string name="vip_quit_confirm">确定放弃开通只赚不亏的黑卡套餐吗？</string>
+    <string name="vip_set_not_selected">请选择套餐</string>
+    <string name="vip_threshold_text" formatted="false">&lt;font color=#99000000>每月%s元 × %d张无门槛优惠券，&lt;/font>&lt;font color=#DA9F73>本单可用%s元&lt;/font></string>
+    <string name="web_loading">加载中…</string>
+    <string name="web_service_error">数据加载出错</string>
+    <string name="write_numbers">请填写手机号码</string>
+    <string name="write_password">请输入密码</string>
+    <string name="write_verification_code">请输入验证码</string>
+</resources>

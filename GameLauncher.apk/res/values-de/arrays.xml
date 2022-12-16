@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>Sie spielen die ganze Nacht Spiele, während jeder sonst schläft</item>
+        <item>Sie müssen am Morgen ein Spiel spielen, um neue Energie zu tanken</item>
+        <item>Essen oder ein Spiel spielen, das ist hier die Frage</item>
+        <item>Sie müssen am Nachmittag ein Spiel spielen, um neue Energie zu tanken</item>
+        <item>Ein harter Arbeitstag bedeutet, dass Sie sich eine Spielenacht verdient haben!</item>
+        <item>Es ist spät nachts und Sie sind noch immer intensiv am Spielen. Achten Sie auf Ihren Körper, während Sie sich Unterhaltung gönnen</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>04:00–07:00 Uhr</item>
+        <item>07:00–11:00 Uhr</item>
+        <item>11:00–14:00 Uhr</item>
+        <item>14:00–18:00 Uhr</item>
+        <item>18:00–22:00 Uhr</item>
+        <item>22:00–04:00 Uhr</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Sonntag</item>
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
+    </string-array>
+</resources>

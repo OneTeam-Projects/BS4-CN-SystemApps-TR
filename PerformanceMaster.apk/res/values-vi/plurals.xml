@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">Pin sẽ sạc đầy sau %s ngày</item>
+        <item quantity="one">Pin sẽ sạc đầy sau %s ngày</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">Pin sẽ sạc đầy sau %s giờ</item>
+        <item quantity="one">Pin sẽ sạc đầy sau %s giờ</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">Pin sẽ sạc đầy sau %s phút</item>
+        <item quantity="one">Pin sẽ sạc đầy sau %s phút</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Có thể sử dụng trong %s giờ</item>
+        <item quantity="one">Có thể sử dụng trong %s giờ</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Có thể sử dụng trong %s phút</item>
+        <item quantity="one">Có thể sử dụng trong %s phút</item>
+    </plurals>
+</resources>

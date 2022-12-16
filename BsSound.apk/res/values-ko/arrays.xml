@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dtsMusicStyle">
+        <item>록</item>
+        <item>재즈</item>
+        <item>패션</item>
+        <item>클래식</item>
+        <item>브루스</item>
+        <item>일렉트로닉 뮤직</item>
+        <item>컨트리</item>
+        <item>댄스</item>
+        <item>사용자 지정</item>
+    </string-array>
+    <string-array name="dts_sound_mode">
+        <item>일반</item>
+        <item>음악</item>
+        <item>동영상</item>
+        <item>음성</item>
+        <item>스테레오 서라운드</item>
+        <item>게임 음악</item>
+        <item>인간 증강</item>
+        <item>발걸음 극대화</item>
+    </string-array>
+</resources>

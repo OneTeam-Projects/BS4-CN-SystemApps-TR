@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ରିଫ୍ରେଶ୍ କରିବାକୁ ତଳକୁ ଟାଣନ୍ତୁ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">ସଫଳତାର ସହିତ ରିଫ୍ରେଶ ହୋଇଛି</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">ରିଫ୍ରେଶ୍ ହେଉଛି…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">ରିଫ୍ରେଶ୍ କରିବା ପାଇଁ ରିଲିଜ୍ କରନ୍ତୁ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">ବର୍ତ୍ତମାନ ପାଇଁ ସେତିକି</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">ବର୍ତ୍ତମାନ ପାଇଁ ସେତିକି</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ଗୋଟିଏ ସେକେଣ୍ଡ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ଆଇଟମଗୁଡ଼ିକ ଲୋଡ ହୋଇପାରିଲା ନାହିଁ</string>
+</resources>

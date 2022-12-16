@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>Lagre bildet</item>
+        <item>Del bildet</item>
+        <item>Avbryt</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tarik ke bawah untuk muat semula</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Berjaya dimuat semula</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Memuat semula…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lepaaskan untuk muat semula</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Itu sahaja buat masa ini</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Itu sahaja buat masa ini</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sebentar…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Tidak dapat memuat item</string>
+</resources>

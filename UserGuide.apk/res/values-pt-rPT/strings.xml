@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Escolher uma aplicação</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
+    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Partilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Partilhar com a aplicação %s</string>
+    <string name="abc_toolbar_collapse_description">Reduzir</string>
+    <string name="app_name">Manual do jogador</string>
+    <string name="blackshark_game_phone">Telemóvel com o jogo Black Shark:</string>
+    <string name="copied">Copiado para a área de transferência</string>
+    <string name="copy_fail">Falha ao copiar</string>
+    <string name="coy_link">Copiar link</string>
+    <string name="gamer_guide">Manual do jogador</string>
+    <string name="network_weak">O sinal da rede está muito fraco</string>
+    <string name="network_weak_desc">Atualizar para carregar de novo a página</string>
+    <string name="no_network">Rede não ligada</string>
+    <string name="no_network_desc">Verifique a definição de rede e clique para tentar novamente</string>
+    <string name="permission_internet">Para utilizar os serviços básicos, permite que o manual do jogador esteja ligado a uma rede?</string>
+    <string name="permission_no">Cancelar</string>
+    <string name="permission_yes">Permitir</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="share_desc">Estão disponíveis aqui funcionalidades fantásticas de telemóveis com o jogo Black Shark. Leia o manual do jogador!</string>
+    <string name="share_type">Partilhado com</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="to_refresh">Atualizar</string>
+    <string name="try_again">Tente de novo</string>
+    <string name="web_load_error">Erro ao carregar a página Web</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ar">
+        <item>Auto (recommended)</item>
+        <item>V3-HW (ijkplayer)</item>
+        <item>Software decoding</item>
+    </string-array>
+    <string-array name="at">
+        <item>Auto choose by device &amp; video</item>
+        <item>Hardware decoding, good performance and strong compatibility</item>
+        <item>Compatibility mode, support all devices</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">ទាញចុះក្រោមដើម្បីរីហ្វ្រេស</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">បានរីហ្វ្រែសដោយជោគជ័យ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">កំពុង​រីហ្វ្រែស…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">លែងដៃដើម្បីរីហ្វ្រស</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">អស់ហើយសម្រាប់ពេលនេះ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">អស់ហើយសម្រាប់ពេលនេះ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">សូមចាំមួយភ្លែត…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">មិនអាចទាញធាតុបានទេ</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Салқындату</item>
+        <item>Жылыту</item>
+        <item>Ылғал сіңіру</item>
+        <item>Желдеткіш</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Ер</item>
+        <item>Әйел</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Құрылғыңыз тек қана Mi TV, Mi Box және Wi-Fi қолданатын бірнеше Android құрылғыларына қосыла алады.</item>
+        <item>Қосылу кезде кондиционер моделін дұрыс таңдағаныңызға көз жеткізіңіз. Қосылу аяқталғанша құрылғыңыздағы нұсқаулықты қолданыңыз.</item>
+        <item>Жоқ. Қазір Mi 4, Mi 4c және Redmi Note 2 құрылғыларын инфрақызыл пульттары ретінде пайдалана аласыз.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Жк</item>
+        <item>Дс</item>
+        <item>Сс</item>
+        <item>Ср</item>
+        <item>Бс</item>
+        <item>Жм</item>
+        <item>Сн</item>
+    </string-array>
+    <string-array name="question">
+        <item>Телефоным неге сымсыз құрылғылар іздеуін жалғастыруда?</item>
+        <item>Кондиционерді неге тек қана қоса аламын, неге өшіре алмаймын?</item>
+        <item>Mi 3, Mi 2, және Redmi құрылғыларын инфрақызыл пульты ретінде қолдана аламын ба?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Қонақ бөлмедегі Haier кондиционерін қосу</item>
+        <item>Температураны 25 градусқа орнату</item>
+        <item>Жел бағытын \"Жоғары\"-ға орнату</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree кондиционерін қосу</item>
+        <item>Тербелу режиміне ауыстыру</item>
+        <item>Кондиционер қаттырақ желдетсін</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Приставканы қосу</item>
+        <item>Hunan TV қарағым келеді</item>
+        <item>15 арнаға қайту</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Кондиционерді қосу</item>
+        <item>Shenzhen TV қарағым келеді</item>
+        <item>12 арнаға қайту</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Жатын бөлмедегі теледидарды қосу</item>
+        <item>Теледидарды өшіру</item>
+        <item>Теледидардың дыбыс деңгейін арттыру</item>
+    </string-array>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 گھنٹہ قبل</item>
+        <item quantity="one">1 گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 گھنٹہ قبل</item>
+        <item quantity="one">1 گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 گھنٹہ میں</item>
+        <item quantity="one">1 گھنٹہ میں</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">1 منٹ میں</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d منٹ قبل</item>
+        <item quantity="one">1 منٹ قبل</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d اجازتیں دی گئیں</item>
+        <item quantity="one">%d اجازت دی گئی</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">%d اجازتوں کے لیے پوچھیں</item>
+        <item quantity="one">%d اجازت کے لیے پوچھیں</item>
+    </plurals>
+    <plurals name="app_settings_disabled_header_title">
+        <item quantity="other">%d کوئیک ایپس کے لیے اطلاعات محدود کریں</item>
+        <item quantity="one">%d کوئیک ایپ کے لیے اطلاعات محدود کریں</item>
+    </plurals>
+    <plurals name="app_settings_enabled_header_title">
+        <item quantity="other">%d کوئیک ایپس کے لیے اطلاعات کو اجازت دیں</item>
+        <item quantity="one">%d کوئیک ایپ کے لیے اطلاعات کو اجازت دیں</item>
+    </plurals>
+    <plurals name="features_picker_activity_item_folder_detail">
+        <item quantity="other">%d آئٹم</item>
+        <item quantity="one">%d آئٹم</item>
+    </plurals>
+    <plurals name="features_picker_activity_label_multi">
+        <item quantity="other">%d آئٹم منتخب کیے گئے</item>
+        <item quantity="one">%d آئٹم منتخب کیا گیا</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d اجازتیں</item>
+        <item quantity="one">%d اجازت</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 گھنٹہ میں</item>
+        <item quantity="one">1 گھنٹہ میں</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوری طور پر</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">1 منٹ میں</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d آئٹمز منتخب کیے گئے</item>
+        <item quantity="one">%d آئٹم منتخب ہوا</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d منٹ قبل</item>
+        <item quantity="one">1 منٹ پہلے</item>
+    </plurals>
+</resources>

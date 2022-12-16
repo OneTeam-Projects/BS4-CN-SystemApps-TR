@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>سۈرەتنى ساقلاش</item>
+        <item>رەسىم ھەمبەھىرلەش</item>
+        <item>بىكار قىلىش</item>
+    </string-array>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Làm lạnh</item>
+        <item>Làm ấm</item>
+        <item>Hút ẩm</item>
+        <item>Quạt</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Thiết bị của bạn chỉ được ghép nối với Mi TV, Mi Box, và số ít thiết bị Android khác qua Wi-Fi.</item>
+        <item>Hãy chắc là bạn đã chọn đúng loại điều hòa trong quá trình ghép nối. Làm theo hướng dẫn trên thiết bị cho đến khi quá trình ghép nối hoàn tất.</item>
+        <item>Không. Hiện tại bạn có thể sử dụng Mi4, Mi 4c, và Redmi Note 2 làm điều khiển hồng ngoại.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Cn</item>
+        <item>Th 2</item>
+        <item>Th 3</item>
+        <item>Th 4</item>
+        <item>Th 5</item>
+        <item>Th 6</item>
+        <item>Th 7</item>
+    </string-array>
+    <string-array name="question">
+        <item>Tại sao điện thoại của tôi luôn tìm kiếm thiết bị không dây?</item>
+        <item>Tại sao tôi chỉ có thể bật mà không thể tắt điều hòa?</item>
+        <item>Tôi có thể sử dụng Mi 3, Mi 2 và Redmi làm điều khiển hồng ngoại không?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Bật điều hòa Haier trong phòng khách</item>
+        <item>Đặt nhiệt độ là 25 độ</item>
+        <item>Đặt hướng gió là \"Hướng lên\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Bật điều hòa Gree</item>
+        <item>Chuyển sang chế độ đảo gió</item>
+        <item>Quạt điều hòa thổi mạnh hơn</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Bật bộ giải mã</item>
+        <item>Tôi muốn xem đài Hồ Nam</item>
+        <item>Quay lại kênh 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Bật điều hòa</item>
+        <item>Tôi muốn xem đài Thẩm Quyến</item>
+        <item>Quay lại kênh 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Bật TV trong phòng ngủ</item>
+        <item>Tắt TV</item>
+        <item>Tăng âm lượng TV</item>
+    </string-array>
+</resources>

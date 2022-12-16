@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Pievienot bieži lietotās frāzes</string>
+    <string name="delete_frequent_phrases">Dzēst bieži lietotās frāzes</string>
+    <string name="delete_frequent_phrases_confirm">Izdzēst izvēlētās bieži lietotās frāzes?</string>
+    <string name="edit_frequent_phrases">Rediģēt bieži lietotās frāzes</string>
+    <string name="frequent_phrases_des">Ievadiet bieži lietotās frāzes ar pāris pieskārieniem teksta rediģēšanas laikā</string>
+    <string name="frequent_phrases_size_exceeded">Iespējams pievienot ne vairāk kā %1$d bieži lietotās frāzes. Izdzēsiet nevajadzīgās, lai pievienotu vairāk.</string>
+    <string name="menu_add_frequent_phrases">Pievienot</string>
+    <string name="menu_delete">Dzēst</string>
+    <string name="menu_edit">Rediģēt</string>
+    <string name="sync_phrase_label">Bieži lietotās frāzes</string>
+</resources>

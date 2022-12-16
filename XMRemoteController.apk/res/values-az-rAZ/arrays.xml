@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Sərinlətmə</item>
+        <item>İsitmə</item>
+        <item>Nəmlənmə</item>
+        <item>Sərinkeş</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Cihazınız yalnızca Mi TV, Mİ Box və Wi-Fi istifadə edə bilən bəzi Android qurğuları ilə cütləşə bilər.</item>
+        <item>Cütləşdirmə prosesində kondisonerin modelini doğru seçdiyinizdən əmin olun. Cütləşdirmə tamamlanana qədər cihazınızdakı tapşırıqları izləyin.</item>
+        <item>Xeyr. Hal-hazırda Mi 4, Mi 4c və Redmi Note 2 cihazlarını infraqırmızı pultu olaraq istifadə edə bilərsiniz.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>B.</item>
+        <item>B.E</item>
+        <item>Ç</item>
+        <item>Ç.A</item>
+        <item>C.A</item>
+        <item>C</item>
+        <item>Ş</item>
+    </string-array>
+    <string-array name="question">
+        <item>Telefonum niyə simsiz cihazları axtarmağa davam edir?</item>
+        <item>Kondisoneri niyə yalnızca aça bilriəm və niyə söndürə bilmirəm?</item>
+        <item>Mi 3, Mi 2 və Redmi cihazlarını infraqırmızı pultu olaraq istifadə edə biərəmmi?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Oturma otağındakı Haier Kondisionerini aç</item>
+        <item>Temperaturu 25 dərəcəyə təyin et</item>
+        <item>Külək istiqamətini yuxarı təyin et</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree kondisioneri açın</item>
+        <item>Döndərmə rejiminə dəyişdir</item>
+        <item>Kondisioner daha çox üfləsin</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Rəqəmsal yayım qutusunu aç</item>
+        <item>Hunan TV-ni izləmək istəyirəm</item>
+        <item>Kanal 15-ə geri qayıt</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Kondisioneri aç</item>
+        <item>Shenzen Tv-ni izləmək istəyirəm</item>
+        <item>Kanal 12-yə geri qayıt</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Yataq otağındakı televizoru aç</item>
+        <item>Televizoru söndür</item>
+        <item>Televizorun səsini ucalt</item>
+    </string-array>
+</resources>

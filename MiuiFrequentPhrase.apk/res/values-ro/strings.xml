@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Adăugați expresii frecvente</string>
+    <string name="delete_frequent_phrases">Șterge expresii frecvente</string>
+    <string name="delete_frequent_phrases_confirm">Șterge expresiile frecvente selectate?</string>
+    <string name="edit_frequent_phrases">Editează expresii frecvente</string>
+    <string name="frequent_phrases_des">Introduceți expresii frecvente cu doar câteva atingeri în timp ce editați textul</string>
+    <string name="frequent_phrases_size_exceeded">Se poate adăuga până la %1$d expresii frecvente. Șterge cele care nu sunt necesare pentru a adăuga mai multe.</string>
+    <string name="menu_add_frequent_phrases">Adaugă</string>
+    <string name="menu_delete">Ștergeți</string>
+    <string name="menu_edit">Editează</string>
+    <string name="sync_phrase_label">Expresii frecvente</string>
+</resources>

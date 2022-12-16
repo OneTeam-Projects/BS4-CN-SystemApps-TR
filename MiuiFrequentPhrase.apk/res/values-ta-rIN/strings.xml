@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">அடிக்கடி பயன்படுத்தும் வாக்கியங்களைச் சேர்</string>
+    <string name="delete_frequent_phrases">அடிக்கடி பயன்படுத்தும் வாக்கியங்களை நீக்கு</string>
+    <string name="delete_frequent_phrases_confirm">தேர்ந்தெடுத்த அடிக்கடி பயன்படுத்தும் வாக்கியங்களை நீக்கவா?</string>
+    <string name="edit_frequent_phrases">அடிக்கடி பயன்படுத்தும் வாக்கியங்களைத் திருத்து</string>
+    <string name="frequent_phrases_des">அடிக்கடிப் பயன்படுத்தும் வாக்கியங்களை, ஒரு சில தட்டுதல்களில் பயன்படுத்தலாம்</string>
+    <string name="frequent_phrases_size_exceeded">%1$d அடிக்கடி பயன்படுத்தும் வாக்கியங்களைச் சேர்க்கலாம். மேலும் சேர்ப்பதற்கு, தேவையில்லாதவற்றை நீக்கவும்.</string>
+    <string name="menu_add_frequent_phrases">சேர்</string>
+    <string name="menu_delete">நீக்கு</string>
+    <string name="menu_edit">திருத்து</string>
+    <string name="sync_phrase_label">அடிக்கடி பயன்படுத்தும் வாக்கியங்கள்</string>
+</resources>

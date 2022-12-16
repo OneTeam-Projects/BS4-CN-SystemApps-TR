@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dock_center_wifi_status_array">
+        <item>Poor</item>
+        <item>Weak</item>
+        <item>Good</item>
+        <item>Excellent</item>
+    </string-array>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_mode">
+        <item>stereo_surround</item>
+        <item>the_game_music</item>
+        <item>human_enhancement</item>
+        <item>footstep_intensification</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperSurround</item>
+        <item>GameMusic</item>
+        <item>SuperVoices</item>
+        <item>SuperFootstep</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Enhanced sound field surround effect, easy to locate enemies, suitable for FPS games</item>
+        <item>The game music effect, suitable for MOBA, music games</item>
+        <item>Voice more clear and real, suitable for RPG, board game</item>
+        <item>Improve low frequency performance and make chicken eating games easier to recognize footsteps</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Silver core priority, restrict temperature, minimum power consumption</item>
+        <item>Silver core priority, suitable for simple games</item>
+        <item>Gold core priority, restrict temperature, suitable for normal 3D-games</item>
+        <item>Gold core priority, suitable for high quality 3D-games</item>
+        <item>Gold core only, maximum performance by also maximum power consumption</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_sensor_seekbar_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Disable</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Off</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Off</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_array">
+        <item>original</item>
+        <item>loli</item>
+        <item>lady</item>
+        <item>men</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Soundtrack</item>
+        <item>Loli</item>
+        <item>Domineering Lady</item>
+        <item>Uncle</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Speed First</item>
+        <item>Balanced</item>
+        <item>Image Quality First</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anisotropic_value">
+        <item>1.0</item>
+        <item>2.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anti_value">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture_value">
+        <item>Fastest</item>
+        <item>Balanced</item>
+        <item>Default</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>BALANCE</item>
+        <item>SOLARCORE</item>
+        <item>LUDICROUS</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Balance between performance and power consumption, and provide a balanced performance solution for general games</item>
+        <item>Strengthen phone performance, suitable for games with high requirements for image quality</item>
+        <item>Ultimate performance for games, attached cooler is recommended</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Balance Mode: Balance between performance and power consumption, and provide a balanced performance solution for general games</item>
+        <item>SolarCore Mode: Strengthen phone performance, suitable for games with high requirements for image quality</item>
+        <item>Ludicrous Mode: Bring phones to extreme performance, which may cause the phones to heat up noticeably</item>
+        <item>Extreme Ludicrous Mode: Forbid all background functions to keep phones maintain peak performance, which may cause the phones to heat up significantly</item>
+    </string-array>
+</resources>

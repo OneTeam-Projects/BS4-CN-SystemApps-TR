@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vänteläge</string>
+    <string name="dialog_checkbox_hint">Inga fler uppmaningar</string>
+    <string name="dialog_message">Om vänteläge är aktiverat, när spelet körs i bakgrunden eller skärmen går i vila, går spelet in i vänteläget. Du kan avsluta vänteläget när nedräkningen är klar eller genom att klicka på knappen Stoppa vänteläget i meddelandefältet. Om du använder vänteläge under en längre tid rekommenderas du att ansluta till en strömförsörjning.</string>
+    <string name="event_back_to_game">Tillbaka till spelet</string>
+    <string name="event_end_holdon">Vänteläge inaktiverat</string>
+    <string name="label_holdon_duration">Väntelägestid</string>
+    <string name="label_holdon_pattern">Tidspolicy för vänteläge</string>
+    <string name="notify_content" formatted="false">%sÅterstående väntelägestid%s</string>
+    <string name="notify_hour_minute" formatted="false">"%d timmar  %d minuter"</string>
+    <string name="notify_less_one_minute">Mindre än en minut</string>
+    <string name="notify_minute">%dminuter</string>
+    <string name="text_cancel_holdon">Stoppa vänteläge</string>
+    <string name="text_duration_describe">Välj enskild tid för vänteläge när det är aktiverat. Lång väntelägestid kan orsaka onödig strömförbrukning. Spelmakron kan också utlösa vänteläge och bestämma den totala väntelägestiden.</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">Timmar</string>
+    <string name="text_minute">Minuter</string>
+    <string name="text_mute_description">Om du aktiverar den här funktionen aktiveras också funktionen [Ljudassistent]. För att tillfälligt lämna det tysta läget kan du trycka på volymknappen för att justera medievolymen och klicka på ikonen Ljudassistent för att normalisera spelvolymen. För att hantera ljudassistenten går du till [Inställningar - Ljud och vibrationer - Ljudassistent].</string>
+    <string name="text_mute_holdon_description">Spelets ljud är av under vänteläge</string>
+    <string name="text_pattern_describe">Välj om du vill uppdatera nedräkningen av väntelägestiden eller inte när du återvänder till spelet under väntelägestiden. Det positiva svaret är bra för att visa och köra en enskild repetitiv uppgift när du lägger på, medan det negativa svaret hjälper dig att köra en komplett uppgift när du lägger på.</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sVänteläge avslutat</string>
+    <string name="toast_header_fix">Gamer Studio:</string>
+    <string name="toast_how_to_holdon">Spelet går in i vänteläget när spelet körs i bakgrunden eller skärmen går in i viloläget.</string>
+    <string name="toast_in_holdon_model">%sSpelet har gått in i vänteläget</string>
+    <string name="toast_not_support_holdon">Eftersom batteriet är för lågt eller energisparläget har aktiverats kan du inte fortsätta med vänteläget i spelet.</string>
+</resources>

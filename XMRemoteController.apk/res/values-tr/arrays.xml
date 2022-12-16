@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Soğutma</item>
+        <item>Isıtma</item>
+        <item>Nem alma</item>
+        <item>Fan</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Cihazınız kızılötesi desteklemiyor. Cihazınız yalnızca Mi TV, Mi Box ve Wi-Fi kullanan birkaç Android aygıtıyla eşleşebilir.</item>
+        <item>Eşleştirme sürecinde klima modelini doğru olarak seçtiğinizden emin olun. Eşleştirme işlemi tamamlanana kadar cihazınızdaki yönergeleri izleyin.</item>
+        <item>Hayır. Şu anda Mi 4, Mi 4c ve Redmi Note 2 cihazlarını kızılötesi kumanda olarak kullanabilirsiniz.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çrş</item>
+        <item>Prş</item>
+        <item>Cum</item>
+        <item>Cts</item>
+    </string-array>
+    <string-array name="question">
+        <item>Telefonum neden kablosuz cihazları aramaya devam ediyor?</item>
+        <item>Klimayı neden yalnızca açabiliyorum, neden kapatamıyorum?</item>
+        <item>Mi 3, Mi 2 ve Redmi cihazlarını kızılötesi kumanda olarak kullanabilir miyim?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Oturma odasındaki Haier Klimayı aç</item>
+        <item>Sıcaklığı 25 dereceye ayarla</item>
+        <item>Rüzgar yönünü yukarı ayarla</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree Klimayı aç</item>
+        <item>Dönüş moduna geç</item>
+        <item>Klima daha çok üflesin</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Dijital yayın alıcısını aç</item>
+        <item>Hunan TV izlemek istiyorum</item>
+        <item>"Kanal 15'e geri git"</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Klimayı aç</item>
+        <item>Shenzhen TV izlemek istiyorum</item>
+        <item>"Kanal 12'ye geri git"</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Yatak odasındaki televizyonu aç</item>
+        <item>Televizyonu kapat</item>
+        <item>Televizyonun sesini aç</item>
+    </string-array>
+</resources>

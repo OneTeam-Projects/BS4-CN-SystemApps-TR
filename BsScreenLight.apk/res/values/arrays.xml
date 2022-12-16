@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="light_type_name">
+        <item>@string/pulse_light_block_desc</item>
+        <item>@string/star_light_block_desc</item>
+        <item>@string/spark_light_block_desc</item>
+        <item>@string/smoke_light_block_desc</item>
+        <item>@string/dragon_tyrant_block_desc</item>
+        <item>@string/dragon_dominate_block_desc</item>
+        <item>@string/dragon_storm_king_block_desc</item>
+        <item>@string/game_blue</item>
+        <item>@string/game_yellow</item>
+        <item>@string/game_red</item>
+        <item>@string/game_purple</item>
+        <item>@string/game_halo</item>
+        <item>@string/game_traverse</item>
+        <item>@string/game_frozen</item>
+        <item>@string/game_mecha</item>
+    </string-array>
+    <string-array name="light_type_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+</resources>

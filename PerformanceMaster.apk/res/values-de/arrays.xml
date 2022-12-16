@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>Der aktuelle Netzwerkstatus ist hervorragend</item>
+        <item>Mobiles Datennetz ist schlecht, es wird empfohlen, auf WLAN zu wechseln</item>
+        <item>WLAN-Netz ist schlecht, es wird empfohlen, auf mobile Daten zu wechseln</item>
+        <item>Das aktuelle Signal ist instabil. Bitte versuchen Sie, die Halteposition des Mobiltelefons zu ändern oder anzupassen.</item>
+        <item>Aktueller Netzwerkstatus ist normal</item>
+        <item>Keine</item>
+    </string-array>
+</resources>

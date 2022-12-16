@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>توڭلىتىش</item>
+        <item>ئىسسىتىش</item>
+        <item>قۇرۇتۇش</item>
+        <item>شامال بېرىش</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="answer">
+        <item>يانفونىڭىز ئىنفىرا قىزىل نۇرنى قوللىمايدۇ،WLAN دىن پايدىلىنىپ شياۋمى قۇتىسى، شياۋمى تېلېۋىزورى،بىر قىسىمandroid ئەقلىي تېلېۋىزورى/قۇتىسىنى كونتىرول قىلالايدۇ。</item>
+        <item>سىز ماسلاشتۇرغان بۇ سانلىق مەلۇماتلار بۇ ھاۋا تەڭشىگۈچنىڭ سانلىق مەلۇماتلىرى ئەمەس。ماسلاشقان كونۇپكىنىڭ ئىككىنچىسى ھاۋا تەڭشىگۈچنى ئېتىش，يانفوندىكى ئەسكەرتىشكە دىققەت قىلىڭ， ھاۋا تەڭشىگۈچنى ئېتىشكە ماسلاشقاندا ھەمدە راستىنلا ئېتىلگەندە ئاندىن ئىنكاس باردەپ تاللاڭ，قايتا ماسلاشتۇرۇڭ。</item>
+        <item>قوللىمايدۇ، نۆۋەتتە شياۋمى 4، شياۋمى 4c، خۇڭمى note2 لا ئىنفىرا قىزىل نۇرنى قوللايدۇ</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar_v53">
+        <item>بارلىق قانال</item>
+        <item>سۈنئىي ھەمراھ قانىلى</item>
+        <item>مەركىزىي تېلۋىزىيە قانىلى</item>
+        <item>سۈزۈك قانال</item>
+        <item>دائىم كۆردىغان</item>
+    </string-array>
+    <string-array name="epg_channel_tab_v53">
+        <item>ھەممە</item>
+        <item>سۈنئىي ھەمراھ قانىلى</item>
+        <item>مەركىزىي قانال</item>
+        <item>سۈزۈك</item>
+        <item>دائىملىق</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>ئۇنۋىرسال سەنئەت</item>
+        <item></item>
+        <item>تەنتەربىيە</item>
+        <item>ئۆسمۈرلەر قانىلى</item>
+        <item>خەۋەر</item>
+        <item>تۇرمۇش</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>قىزىق</item>
+        <item>كىنو</item>
+        <item>ئۇنۋىرسال سەنئەت</item>
+        <item>تېلۋېزىيە تىياتىرى</item>
+        <item>تەنتەربىيە</item>
+        <item>ئۆسمۈرلەر قانىلى</item>
+        <item>خەۋەر</item>
+        <item>تۇرمۇش</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>قىزىق پروگرامما</item>
+        <item>كىنو پروگراممىسى</item>
+        <item>سەنئەت پروگراممىسى</item>
+        <item>تېلۋېزىيە تىياتىرى</item>
+        <item>تەنتەربىيە پروگراممىسى</item>
+        <item>ئۆسمۈرلەر پروگراممىسى</item>
+        <item>خەۋەرلەر پروگراممىسى</item>
+        <item>تۇرمۇش پروگراممىسى</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>يەكشەنبە</item>
+        <item>دۈشەنبە</item>
+        <item>سەيشەنبە</item>
+        <item>چارشەنبە</item>
+        <item>پەيشەنبە</item>
+        <item>جۈمە</item>
+        <item>شەنبە</item>
+    </string-array>
+    <string-array name="question">
+        <item>يانفونۇم ئىزچىل سىمسىز ئۈسكۈنىنى ئىزدەۋاتىدۇ، قانداق قىلىمەن؟</item>
+        <item>ھاۋا تەڭشىگۈچنى پەقەت تاقىغىلى بولمىدى</item>
+        <item>شياۋمى 3، خۇڭمى، شياۋمى 2 تېلۋىزۇر، ھاۋا تەڭشىگۈچ قاتارلىق ئۈسكۈنىلەرنى ئىنفىرا قىزىل نۇرلۇق تىزگىنەكتە كونترول قىلىشنى قوللامدۇ؟</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>مېھمانخانىنىڭ خەيئېر ھاۋا تەڭشىگۈچىنى ئېچىش</item>
+        <item>تېمپىراتۇرىنى 25 گرادۇسقا تەڭشەش</item>
+        <item>شامال يۆنىلىشى ئۈستىگە</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>گېلىي شامالدۇرغۇچىنى ئېچىش</item>
+        <item>شامالدۇرغۇچ ئايلانسۇن</item>
+        <item>شامال كۈچى قوشۇلسۇن</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>تېلېۋىزىيە قۇتىسىنى ئېچىش</item>
+        <item>خۇنەن قانىلىنى كۆرگۈم بار</item>
+        <item>15-قانالغا يۆتكەش</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>ھاۋا تەڭشىگۈچنى ئېچىڭ</item>
+        <item>شېنجېن قانىلىنى كۆرىمەن</item>
+        <item>12- قانالغا يۆتكەش</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>ياتاقنىڭ تېلېۋىزورىنى ئېچىش</item>
+        <item>تېلېۋىزورنى تاقاش</item>
+        <item>تېلېۋىزور ئاۋازىنى چوڭايتىش</item>
+    </string-array>
+</resources>

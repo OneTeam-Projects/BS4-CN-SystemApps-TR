@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Aušinama</item>
+        <item>Šildoma</item>
+        <item>Sausinama</item>
+        <item>Ventiliatorius</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Vyras</item>
+        <item>Moteris</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Jūsų prietaisas gali susiporuoti tik su Mi TV, Mi Box ir kitais \"Android\" prietaisais per \"Wi-Fi.</item>
+        <item>Įsitikinkite, kad pasirinkote tinkamą A/C modelį, poravimo procesui. Sekite raginimus prietaise kol poravimas bus baigtas.</item>
+        <item>Ne. Šiuo metu galite naudoti tik su Mi 4, Mi 4c ir Redmi Note 2.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Sek</item>
+        <item>Pir</item>
+        <item>Ant</item>
+        <item>Tre</item>
+        <item>Ket</item>
+        <item>Pen</item>
+        <item>Šeš</item>
+    </string-array>
+    <string-array name="question">
+        <item>Kodėl nėra mano telefonas nuolat ieško bevielių prietaisų?</item>
+        <item>Kodėl galiu tik įjungti A/C, bet ne išjungti?</item>
+        <item>Ar galiu naudoti Mi 3, MI 2 ir Redmi kaip IR distancinį pultą?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Įjungti Haier AC svetainėje</item>
+        <item>Nustatyti 25 laipsnių temperatūrą</item>
+        <item>Nustatyti vėjo kryptį „Aukštyn“</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Įjungti Gree AC</item>
+        <item>Perjungti į siūbavimo režimą</item>
+        <item>Padidinti AC oro pūtimo stiprumą</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Įjungti TV priedėlį</item>
+        <item>Aš noriu stebėti Hunano televiziją</item>
+        <item>Grįžti į 15 kanalą</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Įjungti AC</item>
+        <item>Aš noriu stebėti Šendženo TV</item>
+        <item>Grįžti į 12 kanalą</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Įjungti televizorių miegamajame</item>
+        <item>Išjungti televizorių</item>
+        <item>Pagarsinti televizorių</item>
+    </string-array>
+</resources>

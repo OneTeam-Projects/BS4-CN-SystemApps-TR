@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">共%d个安装包</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">下载：%1$s</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s人在使用</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d小时前</item>
+        <item quantity="one">%1$d小时前</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">共%d种品牌</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d分钟前</item>
+        <item quantity="one">%1$d分钟前</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d集全</item>
+        <item quantity="one">%d集全</item>
+    </plurals>
+    <plurals name="receive_share_titel_no">
+        <item quantity="other">收到分享的遥控器</item>
+        <item quantity="one">收到分享的遥控器</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">共%d部视频</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">投屏播放第 %d 集</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">共找到%d个影视</item>
+    </plurals>
+</resources>

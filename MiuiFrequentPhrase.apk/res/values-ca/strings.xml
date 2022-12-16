@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Afegeix frases habituals</string>
+    <string name="delete_frequent_phrases">Suprimeix frases freqüents</string>
+    <string name="delete_frequent_phrases_confirm">Voleu suprimir les frases freqüents seleccionades?</string>
+    <string name="edit_frequent_phrases">Editeu frases freqüents</string>
+    <string name="frequent_phrases_des">Introduïu frases freqüents amb només uns tocs mentre editeu text</string>
+    <string name="frequent_phrases_size_exceeded">Podeu afegir fins a %1$d frases freqüents. Suprimiu les menys utilitzades per afegir-ne més.</string>
+    <string name="menu_add_frequent_phrases">Afegiu</string>
+    <string name="menu_delete">Elimineu</string>
+    <string name="menu_edit">Editeu</string>
+    <string name="sync_phrase_label">Frases freqüents</string>
+</resources>

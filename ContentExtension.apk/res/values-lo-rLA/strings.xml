@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">​ລາກ​ລົງ​ເພື່ອ​ຣີ​ເຟຣັຊ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">ຣີ​ເຟຣັຊສຳເລັດແລ້ວ</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">​ກຳ​ລັງ​ຣີ​ເຟຣັຊ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">​ປ່ອຍ​ເພື່ອ​ຣີ​ເຟຣັຊ</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">ນັ້ນແມ່ນທັງໝົດສຳລັບຕອນນີ້</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">ນັ້ນແມ່ນທັງໝົດສຳລັບຕອນນີ້</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">ລໍຖ້າຄາວໜຶ່ງ…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ບໍ່ສາມາດໂຫຼດລາຍການ</string>
+</resources>

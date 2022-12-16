@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$sダウンロード</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$sユーザー</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d日前</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d時間前</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%dメーカーが利用可能です</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d分前</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d話</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d本のビデオ</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">第%d話を再生</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">%d本のビデオが見つかりました</item>
+    </plurals>
+</resources>

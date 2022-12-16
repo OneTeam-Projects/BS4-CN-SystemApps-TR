@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>குளிர்வித்தல்</item>
+        <item>வெப்பமாக்கல்</item>
+        <item>ஈரப்பதம் குறைத்தல்</item>
+        <item>மின்விசிறி மட்டும்</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>ஆண்</item>
+        <item>பெண்</item>
+    </string-array>
+    <string-array name="answer">
+        <item>உங்கள் சாதனம் Mi TV, Mi பாக்ஸ் மற்றும் வேறு சில Android சாதனங்களுடன் மட்டுமே Wi-Fi மூலமாக இணைய முடியும்.</item>
+        <item>பிணைத்தல் செயல்முறையில் சரியான ஏ/சி மாடலைத் தேர்ந்தெடுத்தீர்களா என்று உறுதிசெய்து கொள்ளவும். பிணைத்தல் முடிவடையும் வரை, உங்கள் சாதனத்தில் தோன்றும் வழிமுறைகளை சரியாகப் பின்பற்றவும்.</item>
+        <item>இல்லை. தற்போது IR ரிமோட்களாக, Mi 4, Mi 4c, மற்றும் Redmi Note 2 ஆகியவற்றை மட்டுமே பயன்படுத்த முடியும்.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>ஞாயிறு</item>
+        <item>திங்கள்</item>
+        <item>செவ்வாய்</item>
+        <item>புதன்</item>
+        <item>வியாழன்</item>
+        <item>வெள்ளி</item>
+        <item>சனி</item>
+    </string-array>
+    <string-array name="question">
+        <item>ஏன் என்னுடைய ஃபோன், தொடர்ந்து, வயர்லெஸ் சாதனங்களைத் தேடுகிறது?</item>
+        <item>ஏன் என்னுடைய ஏ/சி ஐ ஆன் செய்ய மட்டுமே முடிகிறது, ஆஃப் செய்ய முடியவில்லை?</item>
+        <item>நான் Mi 3, Mi 2 மற்றும் Redmi ஆகிய ஃபோன்களை IR ரிமோட்டாகப் பயன்படுத்தலாமா?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>வரவேற்பறையில் உள்ள ஹையர் ஏசியை இயக்கு</item>
+        <item>வெப்பநிலையை 25 டிகிருக்கு அமை</item>
+        <item>காற்றின் திசையை “மேல்நோக்கி” அமை</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>க்ரீ ஏசியை இயக்கு</item>
+        <item>ஸ்விங்கிங் பயன்முறைக்கு மாறு</item>
+        <item>ஏசியின் காற்றின் வேகத்தை அதிகமாக்கு</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>செட்-டாப் பாக்ஸை இயக்கு</item>
+        <item>Hunan TV ஐப் பார்க்க விரும்புகிறேன்</item>
+        <item>மீண்டும் சேனல் 15 க்குத் திரும்பு</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>ஏசியை இயக்கு</item>
+        <item>Shenzhen TV ஐப் பார்க்க விரும்புகிறேன்</item>
+        <item>மீண்டும் சேனல் 12 க்குத் திரும்பு</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>படுக்கையறையில் உள்ள டிவியை இயக்கு</item>
+        <item>டிவியை அணை</item>
+        <item>டிவியில் ஒலியளவை அதிகரி</item>
+    </string-array>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>Niedrige Latenz</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>footstep_intensification</item>
+        <item>SuperSurround</item>
+        <item>Spielmusik</item>
+        <item>SuperVoices</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>SuperFootstep</item>
+        <item>Verbesserter Klangfeld-Umgebungseffekt, einfach zu lokalisierende Feinde, geeignet für FPS-Spiele</item>
+        <item>Spielmusikeffekt, geeignet für MOBA, Musikspiele</item>
+        <item>Klarere und echtere Sprache, geeignet für RPG, Brettspiel</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Silver Core-Priorität, Temperaturbegrenzung, minimaler Stromverbrauch</item>
+        <item>Silver Core-Priorität, für einfache Spiele geeignet</item>
+        <item>Gold Core-Priorität, Temperaturbegrenzung, geeignet für normale 3D-Spiele</item>
+        <item>Gold Core-Priorität, geeignet für hochqualitative 3D-Spiele</item>
+        <item>Nur Gold Core, maximale Performance bei maximalem Stromverbrauch</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Deaktivieren</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item></item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>5</item>
+        <item>Aus</item>
+        <item>x 2</item>
+        <item>x 4</item>
+        <item>x 8</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>x 16</item>
+        <item>Aus</item>
+        <item>x 2</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>men</item>
+        <item>Tonspur</item>
+        <item>Loli</item>
+        <item>Herrische Frau</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Onkel</item>
+        <item>Geschwindigkeit zuerst</item>
+        <item>Ausgeglichen</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>AUSGLEICH</item>
+        <item>SOLARKERN</item>
+        <item>LÄCHERLICH</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Gleichen Sie Leistung und Energieverbrauch aus und bieten Sie eine ausgeglichene Leistungslösung für allgemeine Spiele</item>
+        <item>Telefonleistung stärken, geeignet für Spiele mit hohen Anforderungen an Bildqualität</item>
+        <item>Ultimative Leistung für Spiele, angebrachter Kühler empfohlen</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Balance-Modus: Balance zwischen Leistung und Stromverbrauch und bietet eine ausgewogene Leistungslösung für allgemeine Spiele</item>
+        <item>Game Engine-Modus: Verbessern Sie die Telefonleistung, geeignet für Spiele mit hohen Anforderungen an die Bildqualität</item>
+        <item>Lächerlicher Modus: Bringen Sie Telefone auf extreme Leistung, was dazu führen kann, dass sich die Telefone merklich erwärmen</item>
+        <item>Extremer lächerlicher Modus: Verbieten Sie alle Hintergrundfunktionen, um die Spitzenleistung der Telefone aufrechtzuerhalten, was dazu führen kann, dass sich die Telefone erheblich erwärmen</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="net_speed_compass_suggestion_array">
+        <item>Mevcut ağ durumu mükemmel</item>
+        <item>"Mobil veri ağı zayıf, WLAN'a geçmeniz önerilir"</item>
+        <item>WLAN ağı zayıf, mobil veriye geçmeniz önerilir</item>
+        <item>Mevcut sinyal stabil değil. Lütfen cep telefonu tutma konumunu hareket ettirmeyi veya ayarlamayı deneyin.</item>
+        <item>Mevcut ağ durumu normal</item>
+        <item>Hiçbiri</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APKలు</item>
+        <item quantity="one">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s డౌన్‌లోడ్‌లు</item>
+        <item quantity="one">%1$s డౌన్‌లోడ్</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s వినియోగదారులు</item>
+        <item quantity="one">%1$s వినియోగదారు</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d రోజుల క్రితం</item>
+        <item quantity="one">%1$d రోజు క్రితం</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d గంటల క్రితం</item>
+        <item quantity="one">%1$d గంట క్రితం</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d బ్రాండ్‌లు అందుబాటులో ఉన్నాయి</item>
+        <item quantity="one">1 బ్రాండ్ అందుబాటులో ఉంది</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d నిమిషాల క్రితం</item>
+        <item quantity="one">%1$d నిమిషం క్రితం</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d ఎపిసోడ్‌లు</item>
+        <item quantity="one">%d ఎపిసోడ్</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d వీడియోలు</item>
+        <item quantity="one">%d వీడియో</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">ఎపిసోడ్ %d ప్లే చేయండి</item>
+        <item quantity="one">ఎపిసోడ్ %d ప్లే చేయండి</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">%d వీడియోలు గుర్తించబడ్డాయి</item>
+        <item quantity="one">%d వీడియో గుర్తించబడింది</item>
+    </plurals>
+</resources>

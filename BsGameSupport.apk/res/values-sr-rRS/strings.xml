@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alpha">Alfa</string>
+    <string name="app_name">Linije podrške</string>
+    <string name="cancel">OTKAŽI</string>
+    <string name="clear_hero">OBRIŠI</string>
+    <string name="color">Boja</string>
+    <string name="create_hero">NAPRAVI</string>
+    <string name="dialog_title_delete">UKLONI</string>
+    <string name="dialog_title_message">Želite li ukloniti %s?</string>
+    <string name="gunsight_style">Stil</string>
+    <string name="height">Visina</string>
+    <string name="hero_name">IME HEROJA</string>
+    <string name="piggy_daqiao">Prikaži linije podrške za veštine Da Qiao</string>
+    <string name="piggy_ganjiang">Prikaži linije podrške za veštine Gan Jiang</string>
+    <string name="piggy_gongsunli">Prikaži linije podrške za veštine Gongsun Li</string>
+    <string name="piggy_lixin">Prikaži linije podrške za veštine Li Xin</string>
+    <string name="piggy_moba_line_summary">Iscrtaj linije podrške za MOBA</string>
+    <string name="piggy_moba_line_title">Linije podrške</string>
+    <string name="piggy_zhongkui">Prikaži linije podrške za veštine Zhong Kui</string>
+    <string name="radius">Radijus</string>
+    <string name="rename">PROMENI NAZIV</string>
+    <string name="restore">Povrati</string>
+    <string name="save">SAČUVAJ</string>
+    <string name="style">Stil</string>
+    <string name="thickness">Debljina</string>
+    <string name="title_fps">FPS LINIJA</string>
+    <string name="title_moba">MOBA LINIJA</string>
+    <string name="toast_bangs_mode_not_supported">Podrška za igru: Tincore KeyMapper nije podržan</string>
+    <string name="toast_hero_exist">Podrška za igru: %s Duplicirano</string>
+    <string name="toast_no_pkg">Podrška za igru: Učitavanje naziva igre neuspešno</string>
+    <string name="toast_portrait_not_support">Podrška za igru: Portret nije podržan</string>
+    <string name="translate">Prevedi</string>
+    <string name="width">Širina</string>
+</resources>

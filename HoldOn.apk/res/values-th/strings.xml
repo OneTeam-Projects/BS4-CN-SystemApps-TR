@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">วางสาย</string>
+    <string name="dialog_checkbox_hint">ไม่แจ้งเพิ่ม</string>
+    <string name="dialog_message">หากเปิดใช้งานการวางสาย เมื่อเกมทำงานในพื้นหลังหรือหน้าจอเข้าสู่โหมดสลีป เกมจะเข้าสู่สถานะวางสาย คุณสามารถออกจากสถานะวางสายเมื่อสิ้นสุดเวลานับถอยหลังหรือด้วยการคลิกปุ่ม หยุดวางสาย ในแถบการแจ้งเตือน ในกรณีที่ทำงานในสถานะวางสายเป็นเวลานาน แนะนำให้เชื่อมต่อกับอุปกรณ์จ่ายไฟ</string>
+    <string name="event_back_to_game">กลับไปที่เกม</string>
+    <string name="event_end_holdon">ปิดใช้งานการวางสาย</string>
+    <string name="label_holdon_duration">เวลาวางสาย</string>
+    <string name="label_holdon_pattern">นโยบายเวลาวางสาย</string>
+    <string name="notify_content" formatted="false">%sเวลาวางสายที่เหลือ%s</string>
+    <string name="notify_hour_minute" formatted="false">%d ชั่วโมง %d นาที</string>
+    <string name="notify_less_one_minute">เหลือน้อยกว่าหนึ่งนาที</string>
+    <string name="notify_minute">%d นาที</string>
+    <string name="text_cancel_holdon">หยุดวางสาย</string>
+    <string name="text_duration_describe">เลือกเวลาวางสายครั้งเดียวเมื่อเปิดใช้งานวางสาย เวลาสางสายนานอาจทำให้ใช้พลังงานโดยไม่จำเป็น เกมแมคโครจะทำให้สถานะวางสายทำงานและกำหนดเวลาวางสายโดยรวม</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">ชั่วโมง</string>
+    <string name="text_minute">นาที</string>
+    <string name="text_mute_description">เปิดใช้งานฟังก์ชันนี้จะเปิดใช้งานฟังก์ชัน [บริการช่วยเหลือเสียง] เช่นกัน หากต้องการออกจากสถานะปิดเสียงชั่วคราว โปรดกดปุ่มระดับเสียงเพื่อปรับระดับเสียงสื่อขณะคลิกไอคอนบริการช่วยเหลือเสียงเพื่อปรับระดับเสียงเกมให้เป็นปกติ หากต้องการจัดการบริการช่วยเหลือเสียง โปรดไปที่ [การตั้งค่า - เสียงและระบบสั่น - บริการช่วยเหลือเสียง]</string>
+    <string name="text_mute_holdon_description">เกมจะปิดเสียงเมื่อวางสาย</string>
+    <string name="text_pattern_describe">เลือกว่าจะรีเฟรชการนับเวลาถอยหลังเวลาวางสายเมื่อคุณกลับไปที่เกมระหว่างเวลาวางสาย คำตอบเชิงบวกจะดีสำหรับการดูและใช้งานงานซ้ำแบบเดี่ยวในสถานะวางสาย ขณะที่คำตอบเชิงลบช่วยในการทำงานให้ครบสมบูรณ์ในสถานะวางสาย</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sวางสายเสร็จสิ้น</string>
+    <string name="toast_header_fix">Game Studio:</string>
+    <string name="toast_how_to_holdon">เกมเข้าสู่สถานะวางสายเมื่อเกมทำงานในพื้นหลังหรือหน้าจอเข้าสู่โหมดสลีป</string>
+    <string name="toast_in_holdon_model">%sเกมเข้าสู่สถานะวางสาย</string>
+    <string name="toast_not_support_holdon">เนื่องจากพลังงานแบตเตอรี่ต่ำเกินไปหรือเปิดใช้งานโหมดประหยัดพลังงาน คุณไม่สามารถอยู่ในสถานะวางสายเกมต่อ</string>
+</resources>

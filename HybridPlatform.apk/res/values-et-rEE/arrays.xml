@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>Salvesta pilt</item>
+        <item>Jaga pilti</item>
+        <item>Tühista</item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Chỉ đường về nhà</string>
+    <string name="abc_action_bar_up_description">Di chuyển lên</string>
+    <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Truy vấn tìm kiếm</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="app_name">Hệ thống có thể gỡ cài đặt ứng dụng và truy xuất</string>
+    <string name="application_installation_successful">Cài đặt ứng dụng thành công</string>
+    <string name="bs_install">Cài Đặt</string>
+    <string name="bs_install_cancel">Hủy</string>
+    <string name="bs_install_preloaded_app_dialog_message">%1$s là một ứng dụng hệ thống. Bạn không cần internet để cài đặt.</string>
+    <string name="bs_install_preloaded_app_dialog_title">Cài đặt %1$s</string>
+    <string name="bs_install_preloaded_app_failed_toast">Không thể lấy thông tin cài đặt cho %1$s</string>
+    <string name="bs_install_preloaded_app_start_toast">Chuẩn bị cài đặt %1$s, chờ trong giây lát…</string>
+    <string name="btn_holding">Đang chờ</string>
+    <string name="btn_install">Cài Đặt</string>
+    <string name="btn_install_failure">Lỗi Cài Đặt</string>
+    <string name="btn_installing">Đang Cài Đặt</string>
+    <string name="desc_onloading_message">Đang tải, vui lòng đợi...</string>
+    <string name="no_app_to_install">Không có ứng dụng hệ thống đã gỡ cài đặt nào có sẵn để cài đặt</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

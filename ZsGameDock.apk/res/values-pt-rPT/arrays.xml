@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dts_game_sound">
+        <item>GameDTS</item>
+        <item>LowLatency</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode">
+        <item>SuperSurround</item>
+        <item>GameMusic</item>
+        <item>SuperVoices</item>
+        <item>SuperFootstep</item>
+    </string-array>
+    <string-array name="dts_game_sound_string_mode_tag">
+        <item>Melhora o som de campo surround (envolvente), facilitando a localização de inimigos, adequado a jogos FPS</item>
+        <item>O som da música do jogo, mais adequado a jogos MOBA, jogos musicais</item>
+        <item>Vozes mais claras e reais, adequado a jogos RPG, de tabuleiro</item>
+        <item>Melhora o desempenho de sons de baixa frequência e torna o som das pegadas mais facilmente detetável em certos jogos</item>
+    </string-array>
+    <string-array name="game_control_centre_performance_tips_array">
+        <item>Prioridade ao núcleo Silver, temperatura restrita, consumo mínimo de energia</item>
+        <item>Prioridade ao núcleo Silver, adequado para jogos simples</item>
+        <item>Prioridade ao núcleo Gold, temperatura restrita, adequado para jogos 3D normais</item>
+        <item>Prioridade ao núcleo Gold, adequado para jogos 3D de elevada qualidade</item>
+        <item>Apenas o núcleo Gold, desempenho máximo para além de um consumo máximo de energia</item>
+    </string-array>
+    <string-array name="gamer_studio_acreen_seekbar_array">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gamer_studio_acuity_seekbar_array">
+        <item>Desativar</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gamer_studio_anisotropic_seekbar_array">
+        <item>Off</item>
+        <item>x2</item>
+        <item>x4</item>
+        <item>x8</item>
+        <item>x16</item>
+    </string-array>
+    <string-array name="gamer_studio_anti_aliasing_seekbar_array">
+        <item>Off</item>
+        <item>x2</item>
+        <item>x4</item>
+    </string-array>
+    <string-array name="gamer_studio_audio_change_mode_string_array">
+        <item>Banda Sonora</item>
+        <item>Loli</item>
+        <item>Dama Dominadora</item>
+        <item>Tio</item>
+    </string-array>
+    <string-array name="gamer_studio_texture_seekbar_array">
+        <item>Prioridade a Velocidade</item>
+        <item>Equilibrado</item>
+        <item>Prioridade a Qualidade de Imagem</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>BALANCE</item>
+        <item>SOLARCORE</item>
+        <item>LUDICROUS</item>
+    </string-array>
+    <string-array name="mode_description_array">
+        <item>Equilíbrio entre o desempenho e o consumo de energia, oferendo uma solução equilibrada e que se adequa aos jogos mais comuns</item>
+        <item>Potencia o desempenho do seu telemóvel, mais adequado a jogos com maiores exigências de qualidade de imagem</item>
+        <item>Melhor desempenho para jogos, recomenda-se a utilização concomitante de um refrigerador</item>
+    </string-array>
+    <string-array name="tencent_performance_tips_array">
+        <item>Modo de equilíbrio: equilíbrio entre desempenho e consumo de energia e fornece uma solução de desempenho equilibrado para jogos em geral</item>
+        <item>Modo Game Engine: Fortaleça o desempenho do telefone, adequado para jogos com altos requisitos de qualidade de imagem</item>
+        <item>Modo Ludicrous: leve o telefone a um desempenho extremo, o que pode fazer com que o telefone aqueça visivelmente</item>
+        <item>Modo Ludicrous Extreme: proíbe todas as funções em segundo plano para manter os telefones com desempenho máximo, o que pode fazer com que os telefones aqueçam significativamente</item>
+    </string-array>
+</resources>

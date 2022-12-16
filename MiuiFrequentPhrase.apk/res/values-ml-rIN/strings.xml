@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">പതിവ് ശൈലികൾ ചേർക്കുക</string>
+    <string name="delete_frequent_phrases">പതിവ് ശൈലികൾ മായ്ക്കുക</string>
+    <string name="delete_frequent_phrases_confirm">തിരഞ്ഞെടുത്ത പതിവ് ശൈലികൾ മായ്ക്കണോ?</string>
+    <string name="edit_frequent_phrases">പതിവ് ശൈലികൾ എഡിറ്റുചെയ്യുക</string>
+    <string name="frequent_phrases_des">ടെക്സ്റ്റ് എഡിറ്റുചെയ്യുമ്പോൾ ഏതാനും ടാപ്പുകളിലൂടെ ആവർത്തിച്ചുപയോഗിക്കുന്ന പദങ്ങൾ നൽകുക</string>
+    <string name="frequent_phrases_size_exceeded">%1$d വരെ പതിവ് ശൈലികൾ ചേർക്കാനാകും. കൂടുതൽ ചേർക്കാനായി ആവശ്യമില്ലാത്തവ മായ്ക്കുക.</string>
+    <string name="menu_add_frequent_phrases">ചേർക്കുക</string>
+    <string name="menu_delete">മായ്ക്കുക</string>
+    <string name="menu_edit">എഡിറ്റുചെയ്യുക</string>
+    <string name="sync_phrase_label">പതിവ് ശൈലികൾ</string>
+</resources>

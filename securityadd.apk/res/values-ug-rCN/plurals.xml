@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">نۆۋەتتىكى تور تېزلىتىش مۇلازىمىتىڭىز %d كۈندىن كېيىن ۋاقتى توشىدۇ،ئالدىنئاللا داۋاملىق مۇشتەرى بولۇڭ، ئويۇنغا تەسىراتىغا تەسىر قىلىشتىن ساقلىنىڭ</item>
+    </plurals>
+</resources>

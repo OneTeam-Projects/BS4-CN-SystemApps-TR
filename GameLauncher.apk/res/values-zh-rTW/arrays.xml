@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="control_about_describe_detail">
+        <item>操控中心-左側壓感</item>
+        <item>黑鯊時刻-AI錄製</item>
+        <item>外設-手柄、鍵盤、鼠標</item>
+        <item>遊戲助手-智能魔方</item>
+        <item>遊戲助手-輔助綫</item>
+    </string-array>
+    <string-array name="control_about_describe_detail_penrose">
+        <item>黑鯊時刻-AI錄製</item>
+        <item>外設-手柄、鍵盤、鼠標</item>
+        <item>遊戲助手-智能魔方</item>
+        <item>遊戲助手-輔助綫</item>
+    </string-array>
+    <string-array name="control_function_teaching_title1_describe">
+        <item>平板模式，是通過改變遊戲畫幅比例，來獲得更大遊戲視野，具有獨特的遊戲操控體驗。獨有的手柄區域可以擴展更多的按鍵映射功能，虛擬按鍵可以自定義數量、位置，畫面映射區域更是隨心拖動和調節。</item>
+    </string-array>
+    <string-array name="control_function_teaching_title2_describe">
+        <item>點擊手柄區域右下角的“編輯按鈕”即可顯示設置管理的入口</item>
+        <item>再次點擊“編輯按鈕”則隱藏映射位置及設置管理入口</item>
+    </string-array>
+    <string-array name="control_function_teaching_title3_describe">
+        <item>點擊設置管理界面上的“按鍵管理”進入手柄區域-按鍵管理界面</item>
+        <item>在手柄區域内長按并拖動輪盤或按鍵可以進行輪盤和按鍵的位置互換</item>
+        <item>可以通過點擊開關來停止/啓用X鍵、Y鍵、輪盤壓感</item>
+        <item>可以通過滑動調節器來調節輪盤壓感力度</item>
+    </string-array>
+    <string-array name="control_function_teaching_title3_describe_penrose">
+        <item>點擊設置管理界面上的“按鍵管理”進入手柄區域-按鍵管理界面</item>
+        <item>在手柄區域内長按并拖動輪盤或按鍵可以進行輪盤和按鍵的位置互換</item>
+        <item>可以通過點擊開關來停止/啓用X鍵、Y鍵</item>
+    </string-array>
+    <string-array name="control_function_teaching_title4_describe">
+        <item>在手柄區域内長按輪盤或按鍵后出現限制邊框</item>
+        <item>長按并拖動輪盤時可以在指定範圍内移動位置，向下拖動超出指定範圍時則與按鍵位置進行互換調整</item>
+        <item>長按并拖動按鍵時則可以直接與輪盤調換位置</item>
+    </string-array>
+    <string-array name="control_function_teaching_title5_describe">
+        <item>點擊設置管理界面上的“映射管理”進入遊戲-映射管理界面</item>
+        <item>在遊戲界面拖動輪盤或“X”、“Y”、“LS”圖標可以調整映射位置</item>
+    </string-array>
+    <string-array name="control_function_teaching_title5_describe_penrose">
+        <item>點擊設置管理界面上的“映射管理”進入遊戲-映射管理界面</item>
+        <item>在遊戲界面拖動輪盤或“X”、“Y”圖標可以調整映射位置</item>
+    </string-array>
+    <string-array name="control_tutorial_title1_describe">
+        <item>左側為虛擬手柄區域，右側為遊戲畫面區域</item>
+        <item>虛擬手柄區域可以自定義按鍵類型、數量以及位置</item>
+        <item>遊戲畫面有三種比例可以切換</item>
+    </string-array>
+    <string-array name="control_tutorial_title2_describe">
+        <item>通過點擊遊戲卡片右上角的圖標，可以切換遊戲畫面比例，切換后需重新啓動遊戲才可生效</item>
+    </string-array>
+    <string-array name="control_tutorial_title3_describe1">
+        <item>較寬：左側虛擬手柄最多支持兩個虛擬按鍵，右側遊戲畫面較寬，額外增加的縱向視野相對較小</item>
+    </string-array>
+    <string-array name="control_tutorial_title3_describe2">
+        <item>適中：左側虛擬手柄最多支持四個虛擬按鍵，右側遊戲畫面寬度適中，額外增加的縱向視野較大</item>
+    </string-array>
+    <string-array name="control_tutorial_title3_describe3">
+        <item>較窄：左側虛擬手柄最多支持四個虛擬按鍵，右側遊戲畫面寬度較窄，額外增加的縱向視野最大</item>
+    </string-array>
+    <string-array name="control_tutorial_title4_describe">
+        <item>點擊手柄區域右下角的“編輯”按鈕即可進入按鍵管理和映射管理界面</item>
+        <item>按鍵類型為“按鈕”的情況下，單擊對應按鈕即可啓動或停用</item>
+        <item>拖動左側區域按鍵可以自定義按鍵位置</item>
+    </string-array>
+    <string-array name="control_tutorial_title5_describe">
+        <item>映射板是左側虛擬手柄區域的一種操作按鍵，支持整塊區域的點擊</item>
+        <item>進入按鍵管理界面后，選擇按鍵類型為“映射板”即切換成功</item>
+        <item>拖動左側區域映射板可以自定義位置</item>
+    </string-array>
+    <string-array name="game_time_tips">
+        <item>別人都還在睡覺，而你已經肝到天亮</item>
+        <item>早上必須來一把遊戲醒醒腦</item>
+        <item>吃飯還是玩遊戲，這是個問題</item>
+        <item>下午必須來一把遊戲提提神</item>
+        <item>白天辛苦忙碌就是為了晚上能痛快玩遊戲啊！</item>
+        <item>深夜爆肝，娛樂的同時還是要注意身體哦～</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>凌晨4:00-7:00</item>
+        <item>上午7:00-11:00</item>
+        <item>中午11:00-14:00</item>
+        <item>下午14:00-18:00</item>
+        <item>晚上18:00-22:00</item>
+        <item>半夜22:00-4:00</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+</resources>

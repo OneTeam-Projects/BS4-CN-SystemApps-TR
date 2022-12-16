@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">Dijangkakan akan dikenakan bayaran sepenuhnya dalam %s hari</item>
+        <item quantity="one">Dijangkakan akan dikenakan bayaran sepenuhnya dalam %s hari</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">Dijangkakan akan dikenakan bayaran sepenuhnya dalam %s jam</item>
+        <item quantity="one">Dijangkakan akan dikenakan bayaran sepenuhnya dalam %s jam</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">Dijangkakan akan dikenakan bayaran sepenuhnya dalam %s minit</item>
+        <item quantity="one">Dijangkakan akan dikenakan bayaran sepenuhnya dalam %s minit</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Boleh digunakan selama %s jam</item>
+        <item quantity="one">Boleh digunakan selama %s jam</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Boleh digunakan selama %s minit</item>
+        <item quantity="one">Boleh digunakan selama %s minit</item>
+    </plurals>
+</resources>

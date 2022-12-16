@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">Откажете</string>
+    <string name="address_server">Вредноста одредена од серверот</string>
+    <string name="app_name">Безжично ажурирање</string>
+    <string name="auto_update_checked_off">Системот проверува за ажурирање еднаш на 3 дена</string>
+    <string name="auto_update_checked_on">Системот проверува за ажурирање еднаш на 3 дена</string>
+    <string name="checking_is_update">Се врши проверка дали ажурирањето било успешно, ве молиме почекајте...</string>
+    <string name="device_is_rooted">"Опремата беше вкоренета. Не може да употреби ОТА за да се надгради на интернет.
+За обновување на ова, можете да одите до официјалните деловни точки за да се здобиете со новa ROM меморија."</string>
+    <string name="device_is_rooted_title">Неуспешно ажурирање</string>
+    <string name="dialog_power_not_enough_title">Поврзете се на полнач</string>
+    <string name="dlg_btn_confirm">Во ред</string>
+    <string name="dlg_btn_negative_download">Откажете</string>
+    <string name="dlg_hit_already_set_as">Веќе е поставено како:</string>
+    <string name="dlg_title_autoupdate">Автоматска проверка за ажурирање</string>
+    <string name="dlg_title_hint">Сугестија</string>
+    <string name="failed_download_update_file">Пакетот за надградба не беше преземен, променете ја мрежата или пак обидете се подоцна</string>
+    <string name="have_net_problem">Се појавија проблеми при поврзувањето на мрежата, преземањето е неуспешно, префрлете се на друга мрежа за повторно да извршите преземање</string>
+    <string name="hold_on_while_downloading">Преземање...</string>
+    <string name="later_to_reboot">подоцна</string>
+    <string name="md5_checkfailed">Проверката на MD5 пакетот за надградба беше неуспешен, %s обид</string>
+    <string name="message7_note">"Известување：
+1.Ажурирањето на системот нема да влија врз вашите лични податоци.
+2.Преземањето на пакетот за ажурирање на системот може да доведе до трошоци за податочен сообраќај."</string>
+    <string name="message_already_latest_version">Тековната верзија е најновата верзија</string>
+    <string name="message_checking_version">Проверка на информациите за верзијата...</string>
+    <string name="message_cur_version">Тековна верзија</string>
+    <string name="message_current_detail">Детали за ажурирање</string>
+    <string name="message_download_tips">Прашање за преземањето</string>
+    <string name="message_network_disconnect">Неуспешно поврзување на мрежата. Проверете го мрежното поврзување.</string>
+    <string name="message_new_version">нова верзија</string>
+    <string name="message_new_version_find">Пронајдена е нова верзија: %s</string>
+    <string name="message_no_history">Нема записи за ажурирање</string>
+    <string name="net_close">Мрежата е исклучена, преземањето на пакетот за надградба е прекинат</string>
+    <string name="no_confirm_next_time">Не ме потсетувај следниот пат</string>
+    <string name="notify_download_complete_text">Пакетот за надградба на системот е успешно преземен</string>
+    <string name="notify_download_now_btn_title">Преземи сега</string>
+    <string name="notify_download_text">Пронајдена е нова верзија %s, поврзете се на WLAN и преземете наскоро</string>
+    <string name="notify_download_title">Достапни се ажурирања за системот</string>
+    <string name="notify_show_detail_btn_title">Прегледај детали</string>
+    <string name="notify_update_dialog_msg">Закажавте ноќна надградба, откако условите за автоматска надградба ќе се исполнат, системот автоматски ќе ја комплетира надградбата за вас</string>
+    <string name="notify_update_later_btn_title">Ноќна надградба</string>
+    <string name="notify_update_now_btn_title">Рестартирај и надгради</string>
+    <string name="ok_to_reboot">сега</string>
+    <string name="ota_check_update">Проверка за ажурирање</string>
+    <string name="ota_settings">Поставувања на ажурирање на систем</string>
+    <string name="phone_auto_check">Автоматска проверка за ажурирање</string>
+    <string name="phone_next_check_time">Кога да се провери повторно за ажурирање</string>
+    <string name="pkg_note">"Опис на пакет: 
+"</string>
+    <string name="pkg_size">Големина на пакет:</string>
+    <string name="reboot_to_update_system">Известување за рестартирање на системот за да се ажурира</string>
+    <string name="show_dialog_when_reboot_to_update">Скок-прозорец за потврда дека треба да го престартирате телефонот за да се ажурира системот</string>
+    <string name="text_continue">Продолжи</string>
+    <string name="toast_connect_not_available">Нема мрежа, ве молиме обидете се повторно по мрежното поврзување.</string>
+    <string name="toast_download_package">Ве молиме почекајте, преземањето на системското ажурирање ќе започне наскоро.</string>
+    <string name="toast_network__judge_before_download">Моментално употребувате мобилен интернет, преземањето ќе употреби многу сообраќај, ви препорачуваме преку WiFi безжичен интернет.</string>
+    <string name="toast_network__judge_before_download_roaming">Вие сте во состојба на роаминг, ви препорачуваме да преземате на места каде има безжичен интернет.</string>
+    <string name="toast_network_disconnect">Мрежата е исклучена, ќе запре додека мрежата не биде повторно вклучена.</string>
+    <string name="toast_no_available_update">Верзијата на софтвер на вашиот телефон е најновата.</string>
+    <string name="toast_power_not_enough_update">Системот не е надграден, поврзете се на полнач, наполнете повеќе од %1$d%2$s и обидете се повторно</string>
+    <string name="toast_redownload">Надградбата беше прекината минатиот пат, за подобар систем на вашиот телефон, ве молиме престаритрајте го и повторно надградете.</string>
+    <string name="toast_remind_change_to_other_network">Моменталното користење на WAP мрежа може да предизвика неуспешно преземање, препорачуваме да се префрлите на друга мрежа</string>
+    <string name="toast_result_cancel_download">Откажување од страна на корисникот пред преземањето.</string>
+    <string name="toast_result_cancel_downloading">Откажување од страна на корисникот при преземање на пакетот.</string>
+    <string name="toast_result_disk_full">Преземањето е неуспешно поради недоволно меморија на уредот за зачувување на пакетот за ажурирање на системскиот пакет, Рестартирајте го вашиот телефон и обидете се повторно.</string>
+    <string name="toast_result_download_fail">Дојде до грешка при преземање на пакетот, неуспешно ажурирање.</string>
+    <string name="toast_result_update_failure">Инсталацијата не е правилна, ажурирањето е неуспешно.</string>
+    <string name="toast_result_update_success">Успешно ажурирање.</string>
+    <string name="toast_server_not_available">Верзијата на софтвер на вашиот телефон е најновата.</string>
+    <string name="toast_show_dialog_again">Погледнете го статусот на ажурирањето на системот подоцна во лентата за известување</string>
+    <string name="toast_update_file_not_found_on_server">Пакетот за ажурирање не постои на серверот, ве молиме повторно проверете го ажурирањето</string>
+    <string name="update_file_delete_or_not_complete_down">Пакетот за надградба е избришан или преземањето е нецелосно, пакетот за надградба ќе се преземе повторно</string>
+    <string name="update_need_to_reboot">За ажурирање на системот потребно е рестартирање на телефонот</string>
+    <string name="update_package_size_text">Големина на пакет:  %s MB</string>
+    <string name="user_confirm_message">OTA ќе создаде трошоци за податоци при преземање на пакетот за ажурирање на системот, ве молиме консултирајте се со соодветните оператори за посебните тарифи.</string>
+    <string name="userdata_stop_download">Моментално се користи мрежа на мобилни податоци, преземањето на пакетот за надградба е прекинат</string>
+    <string name="version_new">Пронајдена е нова верзија</string>
+    <string name="welcome_use_ota">Добредојдовте во употребата на OTA</string>
+    <string name="wifi_available_auto_download">Преземање на пакет преку безжична мрежа</string>
+    <string name="wifi_available_auto_download_on">Пакетот ќе биде преземен автоматски кога ќе има достапна безжична мрежа</string>
+</resources>

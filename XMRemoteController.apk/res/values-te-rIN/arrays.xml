@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>కూలింగ్</item>
+        <item>హీటింగ్</item>
+        <item>గాలిలో తేమను తొలగిస్తోంది</item>
+        <item>ఫ్యాన్</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>మగ</item>
+        <item>మహిళలు</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Mi టీవీ, Mi బాక్స్ మరియు Wi-Fiని ఉపయోగించే ఇంకొన్ని ఇతర Android పరికరాలతో మాత్రమే మీ పరికరాన్ని జత చేయవచ్చు.</item>
+        <item>జత చేసే ప్రక్రియలో మీరు సరైన ఏసి మోడల్‌ని ఎంచుకున్నట్లు నిర్ధారించుకోండి. జత చేయడం పూర్తయ్యే వరకు మీ పరికరంపై కనిపించే సూచనలను పాటించండి.</item>
+        <item>లేదు. ప్రస్తుతం మీరు Mi 4, Mi 4c మరియు Redmi Note 2లను మాత్రమే IR రిమోట్‌లుగా ఉపయోగించవచ్చు.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>ఆది</item>
+        <item>సోమ</item>
+        <item>మంగళ</item>
+        <item>బుధ</item>
+        <item>గురు</item>
+        <item>శుక్ర</item>
+        <item>శని</item>
+    </string-array>
+    <string-array name="question">
+        <item>నా ఫోన్ ఎందుకు వైర్‌లెస్ పరికరాల కోసం వెతుకుతూనే ఉంటుంది?</item>
+        <item>నేను నా ఏసిని ఆన్ మాత్రమే ఎందుకు చేయగలను, ఎందుకు ఆఫ్ చేయలేను?</item>
+        <item>నేను Mi 3, Mi 2 మరియు Redmi ఫోన్‌లను ఐఆర్ రిమోట్‌గా ఉపయోగించగలనా?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>లివింగ్ రూమ్‌లో హైయర్ ఏసిని ఆన్ చేయి</item>
+        <item>ఉష్ణోగ్రతని 25 డిగ్రీలకు సెట్ చేయి</item>
+        <item>గాలి దిశని \"పైకి\" సెట్ చేయి</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>గ్రీ ఏసిని ఆన్ చేయి</item>
+        <item>స్వింగింగ్ మోడ్‌కి మార్చు</item>
+        <item>ఏసి బలంగా గాలిని పంపేలా చేయి</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>సెట్-టాప్ బాక్స్ ఆన్ చేయి</item>
+        <item>నేను హ్యూనన్ టీవీని చూడాలనుకుంటున్నాను</item>
+        <item>ఛానల్ 15కి తిరిగి వెళ్లండి</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>ఏసి ఆన్ చేయండి</item>
+        <item>నేను షెన్‌జెన్ టీవీ చూడాలనుకుంటున్నాను</item>
+        <item>ఛానల్ 12కి తిరిగి వెళ్లండి</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>బెడ్‌రూమ్‌లో టీవీ ఆన్ చేయి</item>
+        <item>టీవీని ఆఫ్ చేయి</item>
+        <item>టీవీలో శబ్దస్థాయిని పెంచు</item>
+    </string-array>
+</resources>

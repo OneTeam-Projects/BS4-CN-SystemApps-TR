@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>ٹھنڈا کر رہا ہے</item>
+        <item>گرم کر رہا ہے</item>
+        <item>نمی دور کر رہا ہے</item>
+        <item>پنکھا</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>مرد</item>
+        <item>خاتون</item>
+    </string-array>
+    <string-array name="answer">
+        <item>آپ کا ڈیوائس Wi-Fi کا استعمال کرتے ہوئے صرف Mi ٹی وی, Mi باکس, اور کچھ دیگر اینڈرائڈ ڈیوائس کے ساتھ جوڑا بنا سکتا ہے۔</item>
+        <item>یقینی بنائیں کہ جوڑا بنانے کے عمل میں آپ نے ٹھیک A/C ماڈل منتخب کیا ہے۔ جوڑا بنانا مکمل ہونے تک اپنے ڈیوائس کے اشاروں پر عمل کریں۔</item>
+        <item>نہیں۔ فی الحال آپ Mi 4، Mi 4C, اور Redmi Note 2 کو IR ریموٹ کے طور پر استعمال کر سکتے ہیں۔</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>اتوار</item>
+        <item>پیر</item>
+        <item>منگل</item>
+        <item>بدھ</item>
+        <item>جمعرات</item>
+        <item>جمعہ</item>
+        <item>سنیچر</item>
+    </string-array>
+    <string-array name="question">
+        <item>میرا فون وائرلیس ڈیوائس کے لیے کیوں تلاش کرتا رہتا ہے؟</item>
+        <item>میں کیوں صرف اپنا A/C چالو کر سکتا ہوں اور اسے بند نہیں کر سکتا ہوں؟</item>
+        <item>کیا میں Mi 3, Mi 2 اور Redmi کو IR ریموٹ کے طور پر استعمال کر سکتا ہوں؟</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>رہائشی کمرے میں Haier کا اے سی چالو کریں</item>
+        <item>درجہ حرارت 25 ڈگری پر سیٹ کریں</item>
+        <item>ہوا کی سمت \"اوپر\" سیٹ کریں</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree اے سی چالو کریں</item>
+        <item>گھومنے کے موڈ میں سوئچ کریں</item>
+        <item>اے سی کی ہوا تیز کریں</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>سیٹ ٹاپ باکس چالو کریں</item>
+        <item>میں Hunan ٹی وی دیکھنا چاہتا ہوں</item>
+        <item>چینل 15 پر واپس جائیں</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>اے سی چالو کریں</item>
+        <item>میں Shenzhen ٹی وی دیکھنا چاہتا ہوں</item>
+        <item>چینل 12 پر واپس جائیں</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>سونے کے کمرے میں ٹی وی چالو کریں</item>
+        <item>ٹی وی بند کریں</item>
+        <item>ٹی وی پر والیوم بڑھائیں</item>
+    </string-array>
+</resources>

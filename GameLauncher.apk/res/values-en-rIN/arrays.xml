@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_time_tips">
+        <item>You play games all night while everyone else is sleeping</item>
+        <item>You have to play a game in the morning to refresh yourself</item>
+        <item>To eat or to play a game; that is the question</item>
+        <item>You have to play a game in the afternoon to refresh yourself</item>
+        <item>"A hard day's work means you've earned a night of gaming!"</item>
+        <item>"You're still gaming intensively late at night. Take care of your body while entertaining yourself"</item>
+    </string-array>
+    <string-array name="general_game_time">
+        <item>4:00-7:00AM</item>
+        <item>07:00-11:00AM</item>
+        <item>11:00AM-14:00PM</item>
+        <item>14:00-18:00PM</item>
+        <item>18:00-22:00PM</item>
+        <item>22:00PM-4:00AM</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">रिफ्रेश करण्यासाठी खाली ओढा</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">यशस्वीपणे रिफ्रेश केले</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">रिफ्रेश करीत आहे…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">रिफ्रेश करण्यासाठी सोडा</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">आतासाठी इतकेच</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">आतासाठी इतकेच</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">फक्त एक सेकंद…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">आयटम्स लोड करु शकलो नाही</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">挂机模式</string>
+    <string name="dialog_checkbox_hint">不再提示</string>
+    <string name="dialog_message">挂机模式开启后，当游戏退至后台或息屏后进入挂机状态,倒计时结束或点击通知栏中“取消挂机”按钮可以退出挂机模式。长时间挂机建议连接电源。</string>
+    <string name="dialog_status_label_name">挂机应用</string>
+    <string name="dialog_status_title">游戏挂机状态</string>
+    <string name="event_back_to_game">返回游戏</string>
+    <string name="event_end_holdon">挂机关闭</string>
+    <string name="label_holdon_duration">挂机时长</string>
+    <string name="label_holdon_pattern">挂机时长策略</string>
+    <string name="notify_content" formatted="false">%s挂机剩余%s</string>
+    <string name="notify_hour_minute" formatted="false">%d时%d分</string>
+    <string name="notify_less_one_minute">小于一分钟</string>
+    <string name="notify_minute">%d分</string>
+    <string name="text_cancel_holdon">取消挂机</string>
+    <string name="text_duration_describe">选择开启挂机模式后单次挂机的时长,过长的挂机时长可能造成不必要的电量消耗。游戏宏也可触发挂机模式，总挂机时长亦由此决定。</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">时</string>
+    <string name="text_minute">分</string>
+    <string name="text_mute_description">开启此功能后会同时启用[声音助手]功能。若要临时退出静音状态，请按音量键调整媒体音的同时，点击声音助手图标，将游戏的音量调整至正常。管理声音助手请前往[设置-声音与振动-声音助手]。</string>
+    <string name="text_mute_holdon">静音挂机</string>
+    <string name="text_mute_holdon_description">开始挂机后，游戏静音</string>
+    <string name="text_only_in_game_work">该功能仅在游戏内生效</string>
+    <string name="text_pattern_describe">选择在挂机过程中回到游戏是否刷新挂机时长倒计时，前者利于单一重复性任务的查看和挂机，后者利于完整任务的挂机。</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%s已结束挂机</string>
+    <string name="toast_header_fix">游戏助手：</string>
+    <string name="toast_how_to_holdon">游戏退至后台或锁屏后进入挂机状态</string>
+    <string name="toast_in_holdon_model">%s游戏已进入挂机状态</string>
+    <string name="toast_not_support_holdon">电量过低或已开启省电模式，无法继续挂机</string>
+    <string name="toast_temperature_too_high_end_holdon">手机温度过高，挂机模式已临时关闭</string>
+</resources>

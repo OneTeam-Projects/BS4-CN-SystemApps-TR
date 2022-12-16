@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hang up</string>
+    <string name="dialog_cancel">@android:string/cancel</string>
+    <string name="dialog_checkbox_hint">No more prompts</string>
+    <string name="dialog_message">If hang up is enabled, when the game runs in the background or the screen goes to sleep, the game enters the hang up state. You can exit the hang up when the countdown is over or by clicking on the Hang up stop button in the notification bar. In the case of running in hang up for a long time, it is recommended to connect a power supply.</string>
+    <string name="dialog_ok">@android:string/ok</string>
+    <string name="dialog_status_label_name">The holdon application</string>
+    <string name="dialog_status_title">The holdon game status</string>
+    <string name="event_back_to_game">Back to game</string>
+    <string name="event_end_holdon">Hang up disabled</string>
+    <string name="label_holdon_duration">Hang up time</string>
+    <string name="label_holdon_pattern">Hang up time policy</string>
+    <string name="notify_content" formatted="false">%sRemaining hang up time%s</string>
+    <string name="notify_hour_minute" formatted="false">"%d hours  %d minutes"</string>
+    <string name="notify_less_one_minute">Less than one minute</string>
+    <string name="notify_minute">%dminutes</string>
+    <string name="text_cancel_holdon">Hang up stop</string>
+    <string name="text_duration_describe">Select the single hang up time when hang up is enabled. Long hang up time may cause unnecessary power consumption. The game macro can also trigger the hang up and determine the total hang up time.</string>
+    <string name="text_gamedock_plugin_holdon">@string/app_name</string>
+    <string name="text_holdon">@string/app_name</string>
+    <string name="text_hour">Hours</string>
+    <string name="text_minute">Minutes</string>
+    <string name="text_mute_description">Enabling this function will also enable the [Sound Assistant] function. To temporarily exit the silent state, please press the volume button to adjust the media volume while clicking the Sound Assistant icon to normalize the game volume. To manage Sound Assistant, please go to [Settings - Sound &amp; Vibration - Sound Assistant].</string>
+    <string name="text_mute_holdon">Mute Hang up</string>
+    <string name="text_mute_holdon_description">Game muted when hang up</string>
+    <string name="text_only_in_game_work">This feature only works in the game</string>
+    <string name="text_pattern_describe">Choose whether or not to refresh the hang up time countdown when you return to the game during hang up time. The positive answer is good for viewing and running a single repetitive task in hang up, while the negative one helps run a complete task in hang up.</string>
+    <string name="text_setting_title">@string/app_name</string>
+    <string name="toast_end_holdon_model">%sHang up complete</string>
+    <string name="toast_header_fix">Gamer Studio:</string>
+    <string name="toast_how_to_holdon">The game enters the hang up state when the game runs in the background or the screen goes to sleep</string>
+    <string name="toast_in_holdon_model">%sThe game has entered the hang up state</string>
+    <string name="toast_not_support_holdon">"Since the battery power is too low or the power saving mode has been enabled, you can't continue to hang up the game"</string>
+    <string name="toast_temperature_too_high_end_holdon">"The phone's temperature is too high, and the hang up has been temporarily turned off"</string>
+</resources>

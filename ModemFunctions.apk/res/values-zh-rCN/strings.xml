@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="band_lock_title">锁LTE band</string>
+    <string name="button_manual_lock_band_confirm_lable">开始锁band</string>
+    <string name="button_manual_lock_band_get_lable">获取当前band</string>
+    <string name="button_manual_lock_band_recover_lable">恢复默认band</string>
+    <string name="manual_band_lock_title_slot1">手动锁LTE band(卡1)</string>
+    <string name="manual_band_lock_title_slot2">手动锁LTE band(卡2)</string>
+    <string name="manual_lock_band_activity_title">锁%1$s band(卡%2$d)</string>
+    <string name="manual_lock_band_failed">失败</string>
+    <string name="manual_lock_band_friendly_reminder_lable">友情提示：请选择您想要锁定的band，并点击开始锁band</string>
+    <string name="manual_lock_band_friendly_text_prefix">当前%1$s band信息:</string>
+    <string name="manual_lock_band_get_toast">获取当前band%1$s</string>
+    <string name="manual_lock_band_set_alert_cancel">取消</string>
+    <string name="manual_lock_band_set_alert_confirm">确定</string>
+    <string name="manual_lock_band_set_alert_msg">如果当前区域不存在您选择的band，或者您移动至不存在选择的band的区域，将会导致手机脱网，是否确定需要锁定选择的band？</string>
+    <string name="manual_lock_band_set_alert_title">友情提示</string>
+    <string name="manual_lock_band_set_toast">锁band%1$s</string>
+    <string name="manual_lock_band_success">成功</string>
+    <string name="slot1_lable">卡1</string>
+    <string name="slot2_lable">卡2</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

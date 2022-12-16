@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="miui_volume_dialog_gravity_collapsed">0x00000013</integer>
+    <integer name="miui_volume_dialog_gravity_expanded">0x00000003</integer>
+    <integer name="miui_volume_layout_orientation_expanded">0</integer>
+    <integer name="miui_volume_ringer_gravity">0x00000033</integer>
+    <integer name="miui_volume_ringer_layout_orientation">1</integer>
+    <integer name="miui_volume_timer_icon_rotation">90</integer>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">％s日以内に完全に充電される予定です</item>
+        <item quantity="one">％s日以内に完全に充電される予定です</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">％s時間以内に完全に充電される予定です</item>
+        <item quantity="one">％s時間以内に完全に充電される予定です</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">％s分で完全に充電される予定です</item>
+        <item quantity="one">％s分で完全に充電される予定です</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">％s時間使用できます</item>
+        <item quantity="one">％s時間使用できます</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">％s分使用できます</item>
+        <item quantity="one">％s分使用できます</item>
+    </plurals>
+</resources>

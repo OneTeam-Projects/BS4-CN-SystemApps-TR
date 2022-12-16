@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">తరచూ వాడిన పదబంధాలు జోడించండి</string>
+    <string name="delete_frequent_phrases">తరచూ వాడిన పదబంధాలు తొలగించు</string>
+    <string name="delete_frequent_phrases_confirm">ఎంచుకున్న తరచూ వాడిన పదబంధాలను తొలగించాలా?</string>
+    <string name="edit_frequent_phrases">తరచూ వాడిన పదబంధాల సవరణ</string>
+    <string name="frequent_phrases_des">టెక్స్ట్‌ని సవరిస్తున్నప్పుడు అతికొద్ది ట్యాప్‌లతో తరచుగా వాడిన పదబంధాలను నమోదు చేయండి</string>
+    <string name="frequent_phrases_size_exceeded">%1$d వరకు తరచుగా ఉపయోగించే పదబంధాలను జోడించవచ్చు. మరిన్ని జోడించేందుకు అనవసరమైనవాటిని తొలగించండి.</string>
+    <string name="menu_add_frequent_phrases">జోడించు</string>
+    <string name="menu_delete">తొలగించు</string>
+    <string name="menu_edit">సవరించు</string>
+    <string name="sync_phrase_label">తరచూ వాడిన పదబంధాలు</string>
+</resources>

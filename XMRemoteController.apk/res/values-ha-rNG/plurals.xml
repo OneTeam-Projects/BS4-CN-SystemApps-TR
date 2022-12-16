@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">APK %d</item>
+        <item quantity="one">APK %d</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">Saukarwa%1$s</item>
+        <item quantity="one">Saukarwa%1$s</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">Masu amfani %1$s</item>
+        <item quantity="one">Mai amfani %1$s</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">kwanaki %1$d da ya wuce</item>
+        <item quantity="one">kwana %1$d da ya wuce</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">awowi %1$d da suka wuce</item>
+        <item quantity="one">Awan%1$d da ya wuce</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">iri %d ne akwai</item>
+        <item quantity="one">iri 1 ne akwai</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">minutoci %1$d da suka wuce</item>
+        <item quantity="one">minti %1$d da ya wuce</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">Karo %d</item>
+        <item quantity="one">Karo %d</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">Bidiyoyi %d</item>
+        <item quantity="one">Bidiyo %d</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">Buga kashi na %d</item>
+        <item quantity="one">Buga kashi na %d</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">An samu bidiyoyi %d</item>
+        <item quantity="one">An samu bidiyo %d</item>
+    </plurals>
+</resources>

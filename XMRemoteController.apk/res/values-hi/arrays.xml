@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>शीतलक</item>
+        <item>ताप</item>
+        <item>निरार्द्रीकरण</item>
+        <item>पंखा</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>पुरुष</item>
+        <item>महिला</item>
+    </string-array>
+    <string-array name="answer">
+        <item>वाई-फाई का उपयोग करके आपके डिवाइस को केवल Mi टीवी, Mi बॉक्स और कुछ एंड्रायड डिवाइस से ही पेयर किया जा सकता है.</item>
+        <item>सुनिश्चित करें कि आपने पेयर करने की प्रक्रिया के दौरान सही एसी मॉडल चुना है. पेयर करना पूरा होने तक आपके डिवाइस पर दिए जा रहे संकेतों को फ़ॉलो करें.</item>
+        <item>नहीं. वर्तमान में आप Mi 4, Mi 4c, और रेडमी नोट 2 का उपयोग IR रिमोट के रूप में कर सकते हैं.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>रवि</item>
+        <item>सोम</item>
+        <item>मंगल</item>
+        <item>बुध</item>
+        <item>गुरू</item>
+        <item>शुक्र</item>
+        <item>शनि</item>
+    </string-array>
+    <string-array name="question">
+        <item>क्यों मेरा फ़ोन वायरलेस डिवाइस की खोज करता रहता है?</item>
+        <item>क्यों मैं मेरे एसी को केवल चालू कर पा रहा/रही हूं लेकिन उसे बंद नहीं कर पा रहा/रही हूं?</item>
+        <item>क्या मैं Mi 3, Mi 2 और रेडमी को IR रिमोट के रूप में उपयोग कर सकता/सकती हूं?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>लिविंग रूम में Haier एसी चालू करें</item>
+        <item>तापमान 25 डिग्री पर सेट करें</item>
+        <item>हवा की दिशा को \"ऊपर\" सेट करें</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree एसी चालू करें</item>
+        <item>स्विंगिंग मोड में स्विच करें</item>
+        <item>एसी की हवा तेज करें</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>सेट-टॉप बॉक्स जोड़ें</item>
+        <item>मैं Hunan टीवी देखना चाहता/ती हूं</item>
+        <item>चैनल 15 पर वापस जाएं</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>एसी चालू करें</item>
+        <item>मैं Shenzhen टीवी देखना चाहता/ती हूं</item>
+        <item>चैनल 12 पर वापस जाएं</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>बेडरूम में टीवी चालू करें</item>
+        <item>टीवी बंद करें</item>
+        <item>टीवी का वॉल्यूम बढ़ाएं</item>
+    </string-array>
+</resources>

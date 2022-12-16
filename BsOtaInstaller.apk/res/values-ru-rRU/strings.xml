@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement">Принимаю</string>
+    <string name="begin_use">Начало работы</string>
+    <string name="checKed_no_SIM_tips">Нет доступной сети передачи данных для телефона в текущем состоянии</string>
+    <string name="checked_SIM">Проверка SIM-карты</string>
+    <string name="checked_Two_SIM">Настройки двух SIM-карт</string>
+    <string name="checked_no_SIM">SIM-карта не найдена</string>
+    <string name="checked_one_sim">SIM-карта найдена</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_lauguage">Выбор языка</string>
+    <string name="choose_lock_add_fingerprint">Добавить отпечаток пальца</string>
+    <string name="choose_lock_add_fingerprint_tips">Можно использовать считыватель отпечатков пальцев для разблокировки экрана и быстрого и безопасного входа в систему.</string>
+    <string name="choose_lock_title">Разблокировка отпечатком пальца</string>
+    <string name="cloud_le_account">Вход с помощью учетной записи Letv</string>
+    <string name="cloud_login">Войти</string>
+    <string name="cloud_register">Регистрация с помощью номера телефона</string>
+    <string name="cloud_tips">Вход с помощью учетной записи Coolpad для синхронизации персональных данных, в том числе контактов, а также для поиска телефона</string>
+    <string name="cloud_titile">Учетная запись Coolpad</string>
+    <string name="connect_WALN">Подключение к WLAN</string>
+    <string name="count_down">Обратный отсчет времени</string>
+    <string name="experience_location_service">Службы местоположения</string>
+    <string name="experience_location_service_explain">Разрешить приложению получать данные о местоположении</string>
+    <string name="experience_plan">User Experience Plan</string>
+    <string name="experience_plan_explain">Помочь повысить качество и оптимизировать работу системы</string>
+    <string name="experience_setting">Опыт работы и условия</string>
+    <string name="language_shutdown_tip">"Отсутствие активности в течение длительного времени
+устройство будет автоматически отключено
+после истечения указанного времени"</string>
+    <string name="language_shutdown_title">Автоматическое выключение</string>
+    <string name="language_touch_turn_off">Коснитесь, чтобы отменить выключение</string>
+    <string name="last_step">Назад</string>
+    <string name="mobile_move">Передача данных</string>
+    <string name="network_flow">Сетевой трафик</string>
+    <string name="network_flow_tips">Доступ к Интернету через мобильную сеть, если беспроводная сеть недоступна</string>
+    <string name="next_step">Далее</string>
+    <string name="setup_success">Установлено</string>
+    <string name="setupwizard_wifi_cancle_save">Сохранение отменено</string>
+    <string name="setupwizard_wifi_connect">Подключение к WLAN</string>
+    <string name="setupwizard_wifi_connected">Подключено</string>
+    <string name="setupwizard_wifi_connecting">Подключение...</string>
+    <string name="setupwizard_wifi_dialog_cancel">Отмена</string>
+    <string name="setupwizard_wifi_dialog_comfirm">ОК</string>
+    <string name="setupwizard_wifi_dialog_connect">Подключиться</string>
+    <string name="setupwizard_wifi_dialog_disconect">Отключить</string>
+    <string name="setupwizard_wifi_dialog_hint_text">Пароль</string>
+    <string name="setupwizard_wifi_no_tips">Отсутствуют подключения Wi-Fi в зоне действия</string>
+    <string name="setupwizard_wifi_saved">Сохранено</string>
+    <string name="setupwizard_wifi_searching">Поиск</string>
+    <string name="sim_identifying">Идентификация...</string>
+    <string name="skip">Пропустить</string>
+    <string name="usage_agreement">Пользовательское соглашение</string>
+    <string name="usage_policy">Политика конфиденциальности</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Jahutamine</item>
+        <item>Kuumutamine</item>
+        <item>Aurust vabastamine</item>
+        <item>Ventilaator</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Mees</item>
+        <item>Naine</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Teie seadme saab ühildada ainult Mi TV, Mi Boxi ning käputäie muude Wi-Fi’t kasutavate Androidi seadmetega.</item>
+        <item>Veenduge, et te olete ühildamisprotsessi jaoks valinud õige A/C mudeli. Jälgige oma seadme viipasid kuni ühildamine on lõpetatud.</item>
+        <item>Ei. Praegu saate te IR pultidena kasutada mudeleid Mi 4, Mi 4c ja Redmi Note 2.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Päike</item>
+        <item>E</item>
+        <item>T</item>
+        <item>K</item>
+        <item>N</item>
+        <item>R</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="question">
+        <item>Miks mu telefon otsib juhtmevabu seadmeid?</item>
+        <item>Miks ma saan oma A/C ainult sisse lülitada ning mitte välja?</item>
+        <item>Kas ma saan Mi 3, Mi 3 ja Redmi-d kasutada IR puldina?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Lülita elutoas Haier AC sisse</item>
+        <item>Määra temperatuur 25 kraadi</item>
+        <item>Määra tuulesuund “Üles”</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Lülita Gree AC sisse</item>
+        <item>Muuda kiikumisrežiimi</item>
+        <item>Pane AC kõvemini puhuma</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Lülita teleriboks sisse</item>
+        <item>Ma tahan vaadata Hunan TV-d</item>
+        <item>Mine tagasi kanalile 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Lülita AC sisse</item>
+        <item>Ma tahan vaadata Shenzhen TV-d</item>
+        <item>Mine tagasi kanalile 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Lülita magamistoa TV sisse</item>
+        <item>Lülita TV välja</item>
+        <item>Lisa TV heli</item>
+    </string-array>
+</resources>

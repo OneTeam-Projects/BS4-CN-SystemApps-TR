@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dtsMusicStyle">
+        <item>ร็อก</item>
+        <item>แจ๊ส</item>
+        <item>แฟชั่น</item>
+        <item>คลาสสิค</item>
+        <item>บรูซ</item>
+        <item>ดนตรีอิเล็กทรอนิก</item>
+        <item>คันทรี่</item>
+        <item>แด๊นซ์</item>
+        <item>เลือกด้วยตนเอง</item>
+    </string-array>
+    <string-array name="dts_sound_mode">
+        <item>ทั่วไป</item>
+        <item>ดนตรี</item>
+        <item>วิดีโอ</item>
+        <item>เสียง</item>
+        <item>สเตอริโอเซอร์ราวด์</item>
+        <item>ดนตรีเกม</item>
+        <item>ยกระดับมนุษย์</item>
+        <item>เพิ่มเสียงก้าวเท้า</item>
+    </string-array>
+</resources>

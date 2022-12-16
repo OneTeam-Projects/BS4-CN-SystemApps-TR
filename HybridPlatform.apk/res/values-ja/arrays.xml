@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_preview">
+        <item>画像を保存</item>
+        <item>画像を共有</item>
+        <item>キャンセル</item>
+    </string-array>
+</resources>

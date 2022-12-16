@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>चिसो हुंदै</item>
+        <item>तात्दै</item>
+        <item>निरार्द्रीकरण</item>
+        <item>पंखा</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>पुरुष</item>
+        <item>स्त्री</item>
+    </string-array>
+    <string-array name="answer">
+        <item>तपाईंको उपकरणले मात्र Mi TV, Mi बक्स, र Wi-Fi प्रयोग गरेर अन्य एन्ड्रोइड उपकरणहरूको एक मुट्ठीसँग जोड्न सक्छ।</item>
+        <item>सुनिश्चित गर्नुहोस् कि तपाईंले जोडी प्रक्रियामा सही A/C मोडेल चयन गर्नुभयो। जोडीलाई पूर्ण नभएसम्म तपाईंको यन्त्रमा संकेतहरू पछ्याउनुहोस्।</item>
+        <item>हुन्न । वर्तमान मा तपाईं Mi 4, Mi 4c र रेडमी नोट 2 आईआर रीमोट को रूपमा उपयोग गर्न सक्छन् ।</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>अाइत</item>
+        <item>सोम</item>
+        <item>मंगल</item>
+        <item>बुध</item>
+        <item>बिहि</item>
+        <item>शुक्र</item>
+        <item>सनि</item>
+    </string-array>
+    <string-array name="question">
+        <item>मेरो फोन किन वायरलेस उपकरणहरूको खोजी गर्छ?</item>
+        <item>म किन केवल मेरो A/C खोल्न सक्छु र यसलाई बन्द गर्न सक्दिन?</item>
+        <item>के म Mi 3, Mi 2 र Redmiलाई IR रीमोटको रूपमा प्रयोग गर्न सक्छु?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Haier AC बैठक कोठामा अन गर्नुहोस्</item>
+        <item>२५ दिग्रीमा तापमान सेट गर्नुहोस्</item>
+        <item>हावाको दिशा \"माथि\" मा सेट गर्नुहोस्</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree AC अन गर्नुहोस्</item>
+        <item>स्विइग्गिङ मोडमा स्वीच गर्नुहोस्</item>
+        <item>ACको झटका कडा गर्नुहोस्</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>सेट-तप बक्स अन गर्नुहोस्</item>
+        <item>मलाइँ Hunan TV हेर्न मन छ</item>
+        <item>च्यानल १५ मा फर्किनुहोस्</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>AC खोल्नुहोस्</item>
+        <item>मलाइँ Shenzhen TV हेर्न मन छ</item>
+        <item>च्यानल १२मा फर्किनुहोस्</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>सुत्ने कोठामा TV खोल्नुहोस्</item>
+        <item>TV अफ गर्नुहोस्</item>
+        <item>TV को अावाज बधाउनुहोस्</item>
+    </string-array>
+</resources>

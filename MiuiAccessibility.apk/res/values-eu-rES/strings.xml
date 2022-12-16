@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Egin behera freskatzeko</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Arrakastaz freskatuta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Freskatzen…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Askatu freskatzeko</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Hori da guztia oraingoz</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Hori da guztia oraingoz</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Segundo bat bakarrik…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ezin izan dira artxiboak kargatu</string>
+</resources>

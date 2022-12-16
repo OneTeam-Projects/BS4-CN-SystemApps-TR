@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="font" name="gm_sub_typescale_button_font">@font/google_sans_medium</item>
+    <item type="font" name="gm_sub_typescale_display1_font">@font/google_sans_display</item>
+    <item type="font" name="gm_sub_typescale_display2_font">@font/google_sans_display</item>
+    <item type="font" name="gm_sub_typescale_display3_font">@font/google_sans_display</item>
+    <item type="font" name="gm_sub_typescale_headline1_font">@font/google_sans</item>
+    <item type="font" name="gm_sub_typescale_headline2_font">@font/google_sans</item>
+    <item type="font" name="gm_sub_typescale_headline3_font">@font/google_sans</item>
+    <item type="font" name="gm_sub_typescale_headline4_font">@font/google_sans</item>
+    <item type="font" name="gm_sub_typescale_headline5_font">@font/google_sans</item>
+    <item type="font" name="gm_sub_typescale_headline6_font">@font/google_sans</item>
+    <item type="font" name="gm_sub_typescale_subhead1_font">@font/google_sans_medium</item>
+    <item type="font" name="gm_sub_typescale_subhead2_font">@font/google_sans_medium</item>
+</resources>

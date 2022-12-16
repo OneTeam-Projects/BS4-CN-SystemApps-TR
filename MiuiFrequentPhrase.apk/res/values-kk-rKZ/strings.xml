@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Жиі фразаларды қосу</string>
+    <string name="delete_frequent_phrases">Жиі қолданылатын фразаларды жою</string>
+    <string name="delete_frequent_phrases_confirm">Таңдалған фразаларды жою керек пе?</string>
+    <string name="edit_frequent_phrases">Жиі фразаларды өзгерту</string>
+    <string name="frequent_phrases_des">Мәтінді редакциялау кезінде, жиі пайдаланылатын фразаларды енгізіңіз</string>
+    <string name="frequent_phrases_size_exceeded">%1$d дейін жиі фразаларды қосуға болады. Басқаларын қосу үшін қажетсіздерін жойыңыз.</string>
+    <string name="menu_add_frequent_phrases">Қосу</string>
+    <string name="menu_delete">Жою</string>
+    <string name="menu_edit">Өзгерту</string>
+    <string name="sync_phrase_label">Жиі фразалар</string>
+</resources>
